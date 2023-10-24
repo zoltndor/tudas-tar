@@ -1,18 +1,7 @@
 ---
-title: Etymon
-aliases:
-  - etymon
-  - etimon
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-13T06:08
-dg-updated: 2023-10-13T06:15
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-13
+{"dg-publish":true,"permalink":"/E/Etymon/","title":"Etymon","tags":["dg_uploaded"],"created":"2023-10-13T06:08","updated":"2023-10-25T01:17"}
 ---
+
 
 # Etymon
 
@@ -34,7 +23,7 @@ date modified: 2023-10-13
 > A Süt rokonsága nagyon jelentős. A német Süd – Dél szó a magyar Süt egyszerű változata. A Sütő, a Nap neve, abból a korból származik, amikor németek, de bizonyára indoeurópaiak sem léteztek. Mint magyarok élték napjaikat akkor még az indoeurópaiak. Az angol South nevében még Utu isten neve is kirajzolódik. A svéd Syd – Dél is a Sütből alakult ki.  
 > Az etimonok rendje már elhalványult az indoeurópai nyelvekben, sőt!, minden nyelvben, **csakis a magyar nyelvből lehet kihámozni az eredeti etimonokból felépült szavak alakját és jelentését**.  
 
-[[Végvári József\|Végvári József]] munkásságával kapcsolatosan annyit, hogy sajnos az etimon-rendszerig nem jutott el, csak szócsaládokban (béke – béka, stb.) gondolkodik. Azt jól látja, hogy a CzF szótárban is alkalmazott, az indogermán módszert követő [[Gyöknyelvészet\|gyöknyelvészet]]tel sokra nem megy az ember.  
+[[V/Végvári József\|Végvári József]] munkásságával kapcsolatosan annyit, hogy sajnos az etimon-rendszerig nem jutott el, csak szócsaládokban (béke – béka, stb.) gondolkodik. Azt jól látja, hogy a CzF szótárban is alkalmazott, az indogermán módszert követő [[G/Gyöknyelvészet\|gyöknyelvészet]]tel sokra nem megy az ember.  
 PJI jól látta meg, hogy a [[M/Magyar ősnyelv szótagnyelv\|magyar nyelv szótagnyelv]]. Ezen szótagok pedig egy, két vagy három hangból (nála a három hangos már nem etimon, de én ilyen "teoretikus/ideiglenes" etimonokkal tűzdelem tele a könyvet) álló alapszavak, idegen szóval etimonok.  
 
 Götz László Keleten kél a Nap című könyvének 190.oldalán írja:  
@@ -42,13 +31,13 @@ Götz László Keleten kél a Nap című könyvének 190.oldalán írja:
 
 Itt még leírja, hogy a két szótagból, három mássalhangzóból álló egységek neve "triszonancia”.  
 
-Lásd még MA írásait [[Magyar két-, három- és négy hangból álló istenségnevek\|magyar két-, három- és négy hangból álló istenségnevek]] címnél.  
+Lásd még MA írásait [[M/Magyar két-, három- és négy hangból álló istenségnevek\|magyar két-, három- és négy hangból álló istenségnevek]] címnél.  
 
 #### Magyar Adorján...
 
-...elmélete szerint a főisten neve egymássalhangzós, a Napistené már kétmássalhangzós. De a [[Kő\|kő]] alapszóról is volt szó ott. De ide is tegyük be:  
+...elmélete szerint a főisten neve egymássalhangzós, a Napistené már kétmássalhangzós. De a [[K/Kő\|kő]] alapszóról is volt szó ott. De ide is tegyük be:  
 > Az igazi ősszavak ugyanis mindig egytagúak, mivel egyszerű hangadásokból keletkeztek, és természetesen mindig olyan dolgokat neveznek meg, amelyeket már az ősember is ismert, vagyis olyanokat, amelyek a természetben fordulnak elő, mint például kő, főld, víz, fa, fú stb., stb. Mihelyt tehát valamely szó többtagú, akkor az csakis valamely egytagú ős-szó származéka lehet. Eszerint kétségtelen, hogy nemcsak a szláv `kamen`, hanem a finn `kive` = kő szó is a mi kő szavunk származéka.  
 
 Amikor [ezen](https://qr.ae/pG1gGA) Quorás John Comper féle válaszra adott David Mandic féle kommentre válaszoltam, nagyon érdekes dolog ötlött fel. Igazságtartalmát fenntartom:  
 > Archaic words are made up of one vowel, or a vowel+consonant (usually an extra 'a' or 'u' put at the end of a word for balance: Magyar *ana*, *utu*, *uru*, etc.). Magyar is an archaic language.  
-- Tehát egy ősszó lehet egy magánhangzó és egy mgh+msh-pár. Viszont láttuk másutt, [[A/A\|A]] és [[U\|U]] címnél is, hogy különösen a hosszú mássalhangzót bíró szavakban a szókezdő mgh. rövidülésével együtt járóan a szó végére egy u hang került. Azaz megfordítva időben ősibbnek mondott a rövid magánhangzó-kezdéses `utu` és `uru`, vagy egyszerűen tájjellegű. Amit viszont a horvát nyelvész D. Mandic-nak írtam, miszerint egyensúlyba hozatalról is lehet szó, egy egész érdekes, újszerű ötlet.  
+- Tehát egy ősszó lehet egy magánhangzó és egy mgh+msh-pár. Viszont láttuk másutt, [[A/A\|A]] és [[U/U\|U]] címnél is, hogy különösen a hosszú mássalhangzót bíró szavakban a szókezdő mgh. rövidülésével együtt járóan a szó végére egy u hang került. Azaz megfordítva időben ősibbnek mondott a rövid magánhangzó-kezdéses `utu` és `uru`, vagy egyszerűen tájjellegű. Amit viszont a horvát nyelvész D. Mandic-nak írtam, miszerint egyensúlyba hozatalról is lehet szó, egy egész érdekes, újszerű ötlet.  
