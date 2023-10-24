@@ -1,17 +1,7 @@
 ---
-title: Gresham-törvény
-aliases:
-  - null
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-21T10:50
-dg-updated: 2023-10-21T10:50
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-21
+{"dg-publish":true,"permalink":"/G/Gresham-törvény/","title":"Gresham-törvény","tags":["dg_uploaded"],"created":"2023-10-21T10:50","updated":"2023-10-25T01:22"}
 ---
+
 
 # Gresham-törvény
 
@@ -32,15 +22,15 @@ De már minimum 10 évvel korábban hirdette ezt a tételt.
 
 Pap Gábor azóta is mindenhol felemlíti; úgy szól róla, hogy a törvény kimondja, hogy ha zárt rendszerben két egymással szemben helyezkedő ideológia szerepel, akkor a rosszabbik érvényesül. Az [alábbi](https://youtu.be/WsxN4DyIXMw) Ne Legyen Áldozatos videóban PG 22:35-nél bővebben szól Lord Thomas Greshamről és az elvről.  
 
-[Ezen](https://www.youtube.com/watch?v=l8Vs52vhuR4) Ne Legyen Áldozatos A zsinatok emberiségre gyakorolt hatásai 2. rész című műsorban PG 12:06-nál ismétemlíti a Gresham-törvényt ("minden zárt rendszerben"), az Ószövetség Jahve istenének Jézus apjaként meghatározottság, valamint az Ószövetség Újszövetségre való rákapcsolása kapcsán (előbbi a 451-es khalkedóni [[Zsinat\|zsinat]]i döntés volt ugye és utóbbi ennek eredménye). Azaz a kereszténység jézusi irányelvei ezzel jahveié is lesz és a rosszabb a jobbat kiszorítja.  
+[Ezen](https://www.youtube.com/watch?v=l8Vs52vhuR4) Ne Legyen Áldozatos A zsinatok emberiségre gyakorolt hatásai 2. rész című műsorban PG 12:06-nál ismétemlíti a Gresham-törvényt ("minden zárt rendszerben"), az Ószövetség Jahve istenének Jézus apjaként meghatározottság, valamint az Ószövetség Újszövetségre való rákapcsolása kapcsán (előbbi a 451-es khalkedóni [[Z/Zsinat\|zsinat]]i döntés volt ugye és utóbbi ennek eredménye). Azaz a kereszténység jézusi irányelvei ezzel jahveié is lesz és a rosszabb a jobbat kiszorítja.  
 
 [Ezen](https://www.youtube.com/watch?v=ytnDPJd_N-0) Ne Legyen Áldozatos videó már ilyen, Gresham-törvény címmel is került fel. Elkezdi azzal, hogy bankszakember volt és valójában nem is ő fedezte fel a "törvényt." Copernicus volt az, ahogy Dorothea is mondta nekem, hogy ő volt, aki felfedezte a törvényt (sőt, ahogy PG 13:20-nál mondja, **ma már Copernicus-Gresham-törvénynek** nevezik és a Wikipedián is így lehet megtalálni). Copernicus 1526-ban publikálta (PG a címét nem árulta el). Első publikálása óta, nemcsak pénzügyi szakemberek foglalkoztak vele (Gresham-törvénnyel). Szóba hozza itt a hőtant (Clausius féle hőhalál-elmélet) és az entrópia fogalmait.  
 Itt úgy fogalmaz, hogy ha zárt térben kétféle művelődési vonal van (akár egy rossz tanuló is kerül az osztályteremben), ott a rossz modell fog érvényesülni. Itt egy természettörvény dolgozik.  
 Ahol egy parazita jellegű életforma helyet akar szorítani magának a társadalomban, ott mindig bevezeti a multikultúrát, mint eszményt. Amit ő legalacsonyabb szintjén bevisz ebbe a rendszerbe, előbb-utóbb az fog dominánssá azaz uralkodóvá válni.  
-A rendszer zárt, nyitni csak felfelé lehetne, de a fölülről kapott erkölcs nem jut el, mert lezárják egy, a talmudi "erkölcsnek" nevezettt ideológiával. Az erkölcs viszont a lélek tétele, a lélek viszont már addigra kiiktadódott (lásd [[Zsinat\|zsinat]] címnél a témát és korábban [[S/Szentháromság\|Szentháromság]] címnél) az emberképből, az ember önmagáról alkotott képéből.  
-Copernicus kapcsán említi a [[Geocentrikus világkép\|geocentrikus világkép]] címnél taglalt témát, hogy első körben az üdvtörténeti szempontból fontos Föld szerepe az, ami periferizálódik, majd ugyanekkor (fokozatosan) az erkölcs kerül háttérbe, majd megkérdi: mi volt az, ami ugyanebben az 1500-as években szintén perifériára kerül? Magyarország (1526: Mohács, 1541: Buda eleste; én Mátyás halálától számolnám). Itt egy folyamatot, folyamatrendszert kell észrevenni, annak elemeit, és mindegyik a legfontosabb értékeit rombolja az emberiségnek. Tehát ha a magyarságot kivonom központi szerepkörből és perifériára helyezem (azóta is ott vagyunk), akkor nincs aki élő példával mutatná be, hogy kellene az erkölcsnek működni.  
+A rendszer zárt, nyitni csak felfelé lehetne, de a fölülről kapott erkölcs nem jut el, mert lezárják egy, a talmudi "erkölcsnek" nevezettt ideológiával. Az erkölcs viszont a lélek tétele, a lélek viszont már addigra kiiktadódott (lásd [[Z/Zsinat\|zsinat]] címnél a témát és korábban [[S/Szentháromság\|Szentháromság]] címnél) az emberképből, az ember önmagáról alkotott képéből.  
+Copernicus kapcsán említi a [[G/Geocentrikus világkép\|geocentrikus világkép]] címnél taglalt témát, hogy első körben az üdvtörténeti szempontból fontos Föld szerepe az, ami periferizálódik, majd ugyanekkor (fokozatosan) az erkölcs kerül háttérbe, majd megkérdi: mi volt az, ami ugyanebben az 1500-as években szintén perifériára kerül? Magyarország (1526: Mohács, 1541: Buda eleste; én Mátyás halálától számolnám). Itt egy folyamatot, folyamatrendszert kell észrevenni, annak elemeit, és mindegyik a legfontosabb értékeit rombolja az emberiségnek. Tehát ha a magyarságot kivonom központi szerepkörből és perifériára helyezem (azóta is ott vagyunk), akkor nincs aki élő példával mutatná be, hogy kellene az erkölcsnek működni.  
 Ha mindegyik (egyébként össze is tartozó, egymástól el nem különíthető) szálat egy csokorba szedjük, akkor látjuk be, hogy egy támadás történt az emberiség ellen  
-Itt említi a [[Reneszánsz\|reneszánsz]] címnél is említett toposzt, hogy (ő maga ugye művészettörténészként leginkább ezen kérdésben hiteles és jártas) a képzőművészet vonalán próbálják (ezt a sötét kort) szépíteni, aki a reneszánsz művészetével foglalkozik és minden más kor művészeti termésével szemben kiemelten nagyon jónak hirdeti, holott ez egyáltalán nem így van. A fő elv a reneszánszban az, hogy hasonlóvá tegyem a dolgokat (a hasonlóság-látvány alapú ábrázolásról másutt is szólt már, mely már a görög időktől kezdve megmutatkozik), abból a célból, hogy ne legyen titokzatoskodás, a (későbbi korok "elvtársai" által) ellenőrizhető legyen (hogy azonnal lássam, hogy rendszerhű ez a festmény vagy rendszerellenes) (csak a renesszánsz idejében még nem a párttitkár, hanem a bankár illetve annak egy fizetett szóvivője számára kellett elfogadhatóvá tenni).  
+Itt említi a [[R/Reneszánsz\|reneszánsz]] címnél is említett toposzt, hogy (ő maga ugye művészettörténészként leginkább ezen kérdésben hiteles és jártas) a képzőművészet vonalán próbálják (ezt a sötét kort) szépíteni, aki a reneszánsz művészetével foglalkozik és minden más kor művészeti termésével szemben kiemelten nagyon jónak hirdeti, holott ez egyáltalán nem így van. A fő elv a reneszánszban az, hogy hasonlóvá tegyem a dolgokat (a hasonlóság-látvány alapú ábrázolásról másutt is szólt már, mely már a görög időktől kezdve megmutatkozik), abból a célból, hogy ne legyen titokzatoskodás, a (későbbi korok "elvtársai" által) ellenőrizhető legyen (hogy azonnal lássam, hogy rendszerhű ez a festmény vagy rendszerellenes) (csak a renesszánsz idejében még nem a párttitkár, hanem a bankár illetve annak egy fizetett szóvivője számára kellett elfogadhatóvá tenni).  
 Szumma szummárum, a megoldásként PG azt mondja, hogy a zárt rendszert felbontani, de nem oldalirányban, hanem felfelé kell, de ne hagyjuk, hogy bármilyen ürüggyel lefedjenek.  
 
 A netről való:  
