@@ -1,26 +1,13 @@
 ---
-title: Jezsuita
-aliases:
-  - jezsuita
-  - Jesuit
-  - jezsuitá
-  - Jezsuitá
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-09T06:12
-dg-updated: 2023-10-11T10:11
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-11
+{"dg-publish":true,"permalink":"/J/Jezsuita/","title":"Jezsuita","tags":["dg_uploaded"],"created":"2023-10-09T06:12","updated":"2023-10-25T01:37"}
 ---
+
 
 # Jezsuita
 
 Nyilván ez is olyan szervezet, mely jó céllal alapíttatott, majd a nevükben gonoszságokat követtek el. Az [alábbi](https://youtu.be/ILKAy450uf8) A mindenséggel mérd magad 16/3. című Szántai Lajos előadásban 21:30-nál is elmondja, hogy magyar jezsuiták és magyar jezsuita költészet is létezett, ráadásul Atilla királyról is írnak.  
 (Ezen témát az [alábbi](https://youtu.be/sGGK1gkAkzM) saját csatornámra is feltöltött Ne Legyen Áldozatos videó végén is említi PG.)  
-Kubínyi Tamás is elmondja, hogy számos jó ügyben jelen voltak, de van egy másik arca is. Hasonló eset a [[Szabadkőműves\|szabadkőműves]]séghez.  
+Kubínyi Tamás is elmondja, hogy számos jó ügyben jelen voltak, de van egy másik arca is. Hasonló eset a [[S/Szabadkőműves\|szabadkőműves]]séghez.  
 
 Az [alábbi](https://youtu.be/Mi88I4EF67E) ÁKTV műsor második felében esik szó a jezsuitákról és arról, hogy titkos esküjük alapját képezi az illuminátus eskünek, valamint Ferenc pápa jezsuitaságáról/zsidóságáról/gonoszságáról.  
 
@@ -30,7 +17,7 @@ Az [alábbi](https://hu.wikipedia.org/wiki/Jezsuita_összeesküvés-elméletek) 
 > Továbbá ígérem és kinyilvánítom, hogy amint alkalom kínálkozik, könyörtelen háborút indítok és viselek, titokban vagy nyíltan, minden eretnek, protestáns és szabadelvű ellen, a nekem adott utasításnak megfelelően, hogy kiirtsam és kipusztítsam őket az egész Föld felszínéről; és hogy nem kímélek senkit korra, nemre vagy állapotra való tekintet nélkül; és hogy felakasztom, megsemmisítem, megfőzöm, megnyúzom, megfojtom és élve eltemetem ezeket az alávaló eretnekeket, asszonyaik hasát és méhét felvágom, csecsemőik fejét falon töröm szét, hogy utálatos fajuk írmagját is elpusztítsam. Ha pediglen ezeket nem lehet nyíltan megtenni, akkor titokban méreggel töltött poharat, fojtó zsinórt, acéltőrt, vagy ólomgolyót használok a személy vagy személyek köztiszteletére, rangjára, méltóságára vagy hatalmára való tekintet nélkül, bármilyen tisztet töltenek be, akár nyíltan, akár titokban, ahogyan arra a Pápa vagy a Szent Testvériség, a Jézus Társaság megbízottjai utasítást adnak nekem. Mindennek megerősítéseként ezennel életemet, lelkemet és minden testi erőmet felkínálom, és a tőrrel melyet most kapok, saját véremmel írom alá nevemet tanúbizonyságul, ha pediglen hamisnak vagy gyengének találtatok elhivatottságomban, hittársaim és a Pápa milíciájának katonái levághatják kezemet és lábamat, torkomat fültől-fülig átvághatják, hasamat felbonthatják, és bensőmet kénnel égethetik, bármilyen büntetést kiróhatnak rám, ami a Földön létezik, lelkemet démonok kínozhatják az örök pokolban!  
 
 Egy másik [előadásban](https://youtu.be/ff7V_iqpucE) KT Robert Ware fenti 1689-es esküjét nevezi meg és 1:09:00-től el is mondja (a fenti szöveget). Az alábbi szöveget is felolvassa KT II. Rákóczi Ferenctől (maradjon így képileg):  
-![[assets/Jezsuita_image1.png\|assets/Jezsuita_image1.png]]  
+![assets/Jezsuita_image1.png|undefined](/img/user/J/assets/Jezsuita_image1.png)  
 
 Közben a jezsuitákról egy komoly 180 oldalas tényfeltáró anyag **The Jesuits and the One World Order** címmel.  
 
@@ -46,7 +33,7 @@ Az [alábbi](https://youtu.be/SEelyWVTr8s) Facsar Imre videóban 01:55-nél volt
 > I am, my Lords Bishops, yours, &c. W. C. B.  
 - A videóban olyan részeket is közölnek, amelyek e szövegben nem szerepelnek, de fentebb már Robert Ware-nél megvoltak.  
 
-Facsar Imre az [alábbi](https://youtu.be/YIioc05yNEY) műsorban 39:00-nél (miután kimondja, hogy a [[Reformáció\|Reformáció]] feladata az ő olvasata szerint az volt, hogy felszámolják a kereszténységet és visszaállítsák a Mózes törvényeit és a globális kapitalizmust képviselő római birodalmat, ahol a Vatikán a szuperhatalom központja) mondja, hogy a jezsuita rendet is ezen időszakban, 1540-ben hozták létre (micsoda névválasztás: már megint a [[Címke\|címké]]k[^1] mögé bújás tipikus esete). Jézus neve mögé bebújnak, kamatot szednek, gyarmatosítanak, terrorizálnak. A híres emberek jezsuitákról szóló véleményét lásd a videóban, illetve a neten biztos megvannak FI forrásai.  
+Facsar Imre az [alábbi](https://youtu.be/YIioc05yNEY) műsorban 39:00-nél (miután kimondja, hogy a [[R/Reformáció\|Reformáció]] feladata az ő olvasata szerint az volt, hogy felszámolják a kereszténységet és visszaállítsák a Mózes törvényeit és a globális kapitalizmust képviselő római birodalmat, ahol a Vatikán a szuperhatalom központja) mondja, hogy a jezsuita rendet is ezen időszakban, 1540-ben hozták létre (micsoda névválasztás: már megint a [[C/Címke\|címké]]k[^1] mögé bújás tipikus esete). Jézus neve mögé bebújnak, kamatot szednek, gyarmatosítanak, terrorizálnak. A híres emberek jezsuitákról szóló véleményét lásd a videóban, illetve a neten biztos megvannak FI forrásai.  
 
 Egy YouTube videó kommentfelületén az [alábbi](http://www.novalis.hu/index.php?option=com_content&task=view&id=491) oldalról való, tartalmilag ellenőrizendő anyagot találtam.  
 
@@ -54,14 +41,14 @@ Egy YouTube videó kommentfelületén az [alábbi](http://www.novalis.hu/index.p
 
 ## Jezsuita népirtások
 
-[[Magyar nyelv és nyelvcsaládok#Ausztráliai magyar nyelv\|Ausztráliai magyar nyelv]] cím/alcímnél [ezen](https://www.youtube.com/watch?v=0wcK2fcluZ8) Max Igan féle videóban 39:45-nél és másutt (47:10) is kitér arra, hogy a Genezis 17.11-ben \[??\] szereplő "isten összezavarta a nyelveket" valójában helytelen, mert a jezsuiták voltak azok, akik ezt tették, de még 23:20-nál és előtte a jezsuiták mint bennszülött népek több tízmillióit kiirtásáért felelős bűnösök is előjönnek.  
-Max Igan egyébként [[Fomenko, Anatolij\|Fomenko, Anatolij]] nevét is több ízben említi, ami azért mutatja a tájékozottságába férkőző tájékozatlanságát, de ez nem minősíti. Ő a jezsuitákat többször említi bűnösként, tehát lehetséges, hogy van kapcsolat. Fomenkonál is meg kell majd nézni a jezsuiták felé szórt vádakat.  
+[[M/Magyar nyelv és nyelvcsaládok#Ausztráliai magyar nyelv\|Ausztráliai magyar nyelv]] cím/alcímnél [ezen](https://www.youtube.com/watch?v=0wcK2fcluZ8) Max Igan féle videóban 39:45-nél és másutt (47:10) is kitér arra, hogy a Genezis 17.11-ben \[??\] szereplő "isten összezavarta a nyelveket" valójában helytelen, mert a jezsuiták voltak azok, akik ezt tették, de még 23:20-nál és előtte a jezsuiták mint bennszülött népek több tízmillióit kiirtásáért felelős bűnösök is előjönnek.  
+Max Igan egyébként [[F/Fomenko, Anatolij\|Fomenko, Anatolij]] nevét is több ízben említi, ami azért mutatja a tájékozottságába férkőző tájékozatlanságát, de ez nem minősíti. Ő a jezsuitákat többször említi bűnösként, tehát lehetséges, hogy van kapcsolat. Fomenkonál is meg kell majd nézni a jezsuiták felé szórt vádakat.  
 
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
 Ezen YouTube felületre adott kommentemben is írom:  
-Valóban, a [[Címke\|címkézés]], a dolgok mibenlévőségének abszolutizálása, a tudatalattiba való beágyazása kulcsfontosságú az ellenerők oktatási/félrevezetési programjában. Ezért is tartom az etimológiát és filológiát a legfontosabb tudományterületnek. Persze ezzel régen is így voltak (például sevillai Izidor). Úgy gondolták, hogy a szavak eredeti jelentésének kifürkészése közelebb visz Istenhez. Csakhát ők a görög, latin és mondjuk a héber (vagy a másik "isteni" nyelv, a szanszkrit) nyelvek szavaival törődtek, holott leginkább a magyart érdemes vallatni az isteni misztériumok, természeti és asztrális/asztroteologiai vonatkozások ügyében. (Az idegen nyelvek szavai pedig hihetetlen sokat segítenek a magyar szavak értelmének és fogalmak rendezésének feltárásában illetve ügyében.)  
+Valóban, a [[C/Címke\|címkézés]], a dolgok mibenlévőségének abszolutizálása, a tudatalattiba való beágyazása kulcsfontosságú az ellenerők oktatási/félrevezetési programjában. Ezért is tartom az etimológiát és filológiát a legfontosabb tudományterületnek. Persze ezzel régen is így voltak (például sevillai Izidor). Úgy gondolták, hogy a szavak eredeti jelentésének kifürkészése közelebb visz Istenhez. Csakhát ők a görög, latin és mondjuk a héber (vagy a másik "isteni" nyelv, a szanszkrit) nyelvek szavaival törődtek, holott leginkább a magyart érdemes vallatni az isteni misztériumok, természeti és asztrális/asztroteologiai vonatkozások ügyében. (Az idegen nyelvek szavai pedig hihetetlen sokat segítenek a magyar szavak értelmének és fogalmak rendezésének feltárásában illetve ügyében.)  
 A szavak, fogalmak valódi értelmének feltárása pedig éppen ősvallási-őstörteneti kérdések helyes tisztázásához elengedhetetlen. Ezért is fontos, hogy a dolgok fonákjáról közelítsük meg a kérdéseket, kivált, ha az igazságot is takarja.  
 —  
-A megtévesztésről és a címkézésről szólva lehet említeni a rendszerváltás és a [[Democracy\|demokrácia]] fogalmait: nem volt rendszerváltás és nincsen demokrácia.  
+A megtévesztésről és a címkézésről szólva lehet említeni a rendszerváltás és a [[D/Democracy\|demokrácia]] fogalmait: nem volt rendszerváltás és nincsen demokrácia.  
