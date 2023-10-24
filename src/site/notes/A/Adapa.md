@@ -1,21 +1,11 @@
 ---
-title: Adapa
-aliases:
-  - Adapá
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-22T02:38
-dg-updated: 2023-10-22T02:38
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-22
+{"dg-publish":true,"permalink":"/A/Adapa/","title":"Adapa","tags":["dg_uploaded"],"created":"2023-10-22T02:38","updated":"2023-10-25T12:21"}
 ---
+
 
 # Adapa
 
-Ad-Apa felbontásban tökéletesen magyarítható: Ad Apa az az Atya aki Ad. Az Ad mindig a többlet, a pozitívum, a hímségi princípium, mint [[Ádám\|Ádám]] nevében, vagy olyan szavakban mint [[Add\|add]], [[Adolescent\|adolescent]]. Tulajdonképpen az At (Ata, Atya) lágyult formája, ahol A isteni, magasságos minőség.  
+Ad-Apa felbontásban tökéletesen magyarítható: Ad Apa az az Atya aki Ad. Az Ad mindig a többlet, a pozitívum, a hímségi princípium, mint [[A/Ádám\|Ádám]] nevében, vagy olyan szavakban mint [[A/Add\|add]], [[A/Adolescent\|adolescent]]. Tulajdonképpen az At (Ata, Atya) lágyult formája, ahol A isteni, magasságos minőség.  
 
 #### Várkonyi Nándor Az elveszett Paradicsom...
 
@@ -70,7 +60,7 @@ Másutt:
 > maguk a nagy istenek is benne mossák meg arcukat.*  
 >  
 > Nyilván szent vizet, életvizet tartalmazó edények, medencék (chalzikuk) voltak ezekben a templomokban, Mardukéban bizonyosan; a szövegek Marduk "tisztító edényének", a "sorshatározat edényének" nevezik őket. Domborműveken és pecséthengereken is megtaláljuk az életfa és az életvize ábrázolását: a fa középen áll, előtte szárnyas lények tartják az életvize korsóját. Amikor nem pusztán rituális tisztálkodásra való szentelt vízről van szó, hanem valóban az élet vizéről, az istenek és a halhatatlanság italáról – e mozzanat mindig e paradicsomi misztikával kapcsolatos, belőle ered.  
-- A leírások tökéletesen illenek a WFW könyvében elemzett északi-sarki [[Életfa\|életfa]]- és életvíz-leírásokkal.  
+- A leírások tökéletesen illenek a WFW könyvében elemzett északi-sarki [[E/Életfa\|életfa]]- és életvíz-leírásokkal.  
 
 Komoróczy Géza Gilgames – Agyagtáblák üzenete című könyvében a 310. oldalától szól Adapáról.  
 
