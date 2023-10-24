@@ -1,17 +1,7 @@
 ---
-title: Bábeli zűrzavar
-aliases:
-  - bábeli zűrzavar
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-13T12:28
-dg-updated: 2023-10-13T12:28
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-13
+{"dg-publish":true,"permalink":"/B/Bábeli zűrzavar/","title":"Bábeli zűrzavar","tags":["dg_uploaded"],"created":"2023-10-13T12:28","updated":"2023-10-25T01:02"}
 ---
+
 
 # Bábeli zűrzavar
 
