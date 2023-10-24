@@ -1,0 +1,85 @@
+---
+title: Nyúl
+aliases:
+  - nyúl
+tags:
+  - dg_uploaded
+share: true
+dg-publish: true
+dg-created: 2023-10-13T01:41
+dg-updated: 2023-10-13T01:41
+dg_upload_status: Vercel and Netlify done
+date created: 2022-12-14
+date modified: 2023-10-13
+---
+
+# Nyúl
+
+Pintye Mihály Nyelvünkről című az Ősi Gyökér 2008/2. sz. megjelent cikkében azt írja, a nyúl onnan kapta a nevét, hogy feltűnő nyúlványai (fülei) vannak. Igen ám, ahogy [[Zodiac\|zodiac]], [[Dolphin\|dolphin]] és más címnél ([[Kutya\|kutya]] például) láttuk, az állatok nevei csillagászati eredetűek (lehetnek).  
+
+![[assets/Nyúl_image1.png\|assets/Nyúl_image1.png]]  
+
+#### Richard H. Allen Star Names című könyvében írja:
+
+> One from our North American Indians appears in Longfellow's Hiawatha:  
+> *Once a warrior very angry,  
+> Seized his grandmother, and threw her  
+> Up into the sky at midnight;  
+> Right against the moon he threw her;  
+> 'Tis her body that you see there.*  
+> The Incas knew them as a beautiful maiden who fell in love with the moon and joined herself forever to him; the New Zealanders, as a woman pulling gnatuh; the Hervey Islanders, as the lovely Ina, an earthly maiden carried away to be our satellite's wife, and still visible with her pile of taro leaves and tongs of a split cocoanut branch; and the Samoans, as a woman with her child and the mallet with which she is pounding out sheets of the native paper cloth. So that all these people long ago anticipated pretty Selene, of whom Serviss tells us.  
+> In southern Sweden a brewing-kettle is imagined on the moon's face; in northern Germany and Iceland, Hjuki and Bil with their mead burden, the originals of our Jack and Jill with their pail of water, the contents scattered or retained according to the lunar phases. In Frisia the marks were a man who had stolen cabbages, and whom, when discovered, his suffering neighbors wished in the moon, and so it turned out; or a sheep-stealer, with his dog, who enticed the animals to him by cabbages, and, when detected, was transported to the moon, where he is now seen, cabbages and all. But others said that he was caught with a bundle of osier willows that did not belong to him, and there he is on the moon's face with his plunder.  
+> Danish folk-lore makes the moon a cheese formed from the milk that has run together out of the Milky Way; which recalls Rabelais' now familiar remark that some thought the moon made of green cheese.  
+>
+> Brown writes of the often discussed comparative location of Lepus and Orion:  
+> The problem which perplexed the ancients, why the Mighty-hunter and his Dog should pursue the most timid of creatures, is solved when we recognize that Orion was originally a solar type, and that the Hare is almost universally a lunar type;  
+> and mentions the very singular connection between this creature and the moon shown on Euphratean cylinders, Syrian agate seals, Chinese coins, the Moon-cakes of Central Asia, and in the legends of widely separated nations and savage tribes. Astronomical folk-lore has many allusions to this interesting association of animal with satellite, and indirectly with our constellation. The common idea that it is because all are nocturnal does not seem satisfactory; and there are others still less so, some being mentioned by Beaumont and Fletcher in the Faithful Shepherd.  
+> A brief digression to some of these allusions may be allowed here. The Hindus called the moon Çaçin, or Şaşănka, Marked with the Hare, from the story told of Sakya muni (Buddha).  
+> This holy man, in an early stage of his existence, was a hare, and, when in company with an ape and a fox, was applied to by the god Indra, disguised as a beggar, who, wishing to test their hospitality, asked for food. All went in search of it, the hare alone returning unsuccessful; but, that he might not fall short in duty to his guest, had a fire built and cast himself into it for the latter's supper. In return, Indra rewarded him by a place in the moon where we now see him. Other Sanskrit and Cingalese tales mention the palace of the king of the hares on the face of the moon; the Aztecs saw there the rabbit thrown by one of their gods; and the Japanese, the Jeweled Hare pounding omachi, their rice dough, in a mortar.  
+> Even the Khoikhoin, the Hottentots of South Africa, and the Bantus associated the hare and moon in their worship, and connected them in story, asserting that the hare, ill treated by the moon, scratched her face and we still see the scratches. Eskimos think the moon a girl fleeing from her brother, the sun, because he had disfigured her face by ashes thrown at her; but in Greenland the sex of these luminaries is interchanged, and the moon pursues his sister, the sun, who daubs her sooty hands over his face.  
+> The Khasias of the Himalayas say that every month the moon falls in love with his mother-in-law, who very properly repulses his affection by throwing ashes at him.  
+
+CzF másképp elemzi a szót. [[Null\|Null]] szónál felvetődött bennem a Ne-Ul, Ne-Ul = Nyúl (női csillag, leánygyermek) felbontás. A Nyulat, mint csillagképet lehet/szokták nyúl igénkhez és [[Nyolc\|nyolc]]as alakhoz és számhoz viszonyítani. Mivel az [[Orion\|Orion]]/Vadász körzetében van, ahogy két kutyája is, egész biztosan egy összetartozó történetet mesél el a csillagos ég ezen szelete: tán a legfontosabbat.  
+Legutóbb [[H/Halak csillagkép\|Halak csillagkép]] címnél is erről szóltunk, valamint arról (is), hogy a Nyúl a keleti állatövben a Szűznek is megfelelhet.  
+[[Szűz csillagkép#Szűz mint kezdet\|Szűz mint kezdet]] cím/alcímnél írtuk:  
+A Szűz – Nulla kapcsolatát az is mutatja, hogy a keleti zodiákusban a Szűznek a Macska és Nyúl felel meg (a keleti holdházak a Szűzön belül is Nyúl/Macska és Medve). A [[N/Nyúl\|nyúl]] = [[Nulla\|nulla]] összefüggését nem kell magyarázni.  
+Korábban is írtuk már itt:  
+Szólni lehet még a nyúlról, mint a Szűz jegy keleti megfelelőjéről. Pap Gábor említi [[K/Kacor király mese\|Kacor király mese]] elemzése kapcsán, hogy a nyúl legfontosabb tulajdonsága a sokasodás, mely mai világunkra is testi értelemben jellemző: a népesség hihetetlen ütemben nő (ma a [[Szűz-Halak tengely\|Szűz-Halak tengely]]en is vagyunk: testi értelemben sokasodunk, spirituálisan halottak vagyunk).  
+Lásd még Jankovics Marcell Jelkép-kalendárium című könyvének 127. oldalától.  
+
+Lásd még [[Napunk bináris rendszerben\|Napunk bináris rendszerben]].  
+
+Hogy a lányok a szebbik nem, ez ismeretes. A latin `lepus` = nyúl is köthető [[Leveret\|leveret]] szónál írottak alapján lép = szép szóhoz (lásd még [[LIB\|LIB]]). A szépséget pedig a fehérség jelenti, így a fehér hattyú ([[Libéd\|libéd]]), liba is a nők, azaz a fehérnép (angol [[Fair\|fair]]) szimbóluma. A nyúl tehát mindenképpen a szabadsághoz, fényhez, női energiákhoz és a Földanyához köthető, de pontos kozmikus kontextusát nem ismerjük.  
+
+Érdekes viszont a Holddal való kapcsolata, ábrázolása, mellyel kapcsolatban lásd RHA Star Names című könyvéből mellékelt képeket és mellyel kapcsolatban VN könyvében találjuk:  
+> Kétségtelen ázsiai-amerikai megegyezések állnak fenn az égleírás (kozmogrammák) és a naptárrendszerek között. Noha a csillagos Ég mindenütt ugyanaz ("természetes tényező"), sokféleképpen foglalható rendszerbe, és a legváltozatosabb mítoszokat szülheti. Kezdjük a legközelebbi égitesttel, a Holddal. Robert Henseling, egyetemi tanár, a bonni csillagvárta vezetje, érdekesen fejti meg a **holdbéli nyúl** titkát. Grimm ismert népmeséje szerint a nyúl hiába fut szélsebesen, nem tudja megelőzni a sündisznót. Ugyanígy jár a leggyorsabb bolygó, a Hold: bármily gyorsan kering, mindig helyben találja a Napot. Ezért mondja róla a babiloni himnusz:  
+> *Siet, kinek térde sose fárad,  
+> aki testvérei, az istenek útját megnyitja,  
+> az Ég alapjáról a csúcsra hág fényben,  
+> az Ég kapuját megnyitja és fényt teremt az embereknek...*  
+> Vagyis megnyitja a kaput a fényt hozó Nap előtt, előre jelzi keltét. Ezenkívül gyorsan növekszik és fogy, emiatt kell baromfit, növényt növő Hold idején ültetni, viszont ehető gyökerű növényt, gumót, répát stb. fogyó Hold alatt, s ugyanakkor böjtölni is, az "Éggel való megegyezés" törvénye szerint, amelynek megtartására a világ négy sarkára küldött tudósok ügyelnek Kínában. Másfelől töltekor hozza az időváltozást, viharokat, esőt, száraz időben küldi a harmatot, a szaporító nedvességet, miközben maga is növekszik. Mint az előbbi himnusz mondja: "Gyümölcs, mely magától fogantatik."  
+> A nyúl sokban rokona, földi párja: szapora, gyorsan nő, gyorsan fut, nyitott szemmel alszik, valóban Hold-állat, így fölöttébb természetes, hogy a népek a Hold foltjaiban fölfedezték a nyúl alakját, s hogy a toltékok és aztékok a Hold írásjelébe, a kerek vizeskorsóba beleültetik a nyulat, vagy pedig a hátára akasztják a korsót; illetve a korsó és a nyúl együtt a Hold jele náluk. Ámde a kínai császár palástján is van egy kép: a Holdkorong, benne fa, előtte a nyúl, mozsárban magokat tör. A hozzáfűződő "naiv" mese pedig így szól:  
+> A Tang-ház egyik császára egy őszi éjszakán bor mellett üldögélt varázslójával. Kedve támadt felszállni a Holdba. A varázsló bambuszrudat dobott a levegőbe, híddá változtatta, és ők felmentek rajta. A Holdban "a tiszta hidegek" (felhőtlen, harmatos éjjelek) palotájára találtak, vízkristályokból épült, és a Holdistennő lakott benne szolgálóival. A szivárványszínekbe öltözött leányok körtáncot lejtettek a vendégek előtt (a Hold keringését mutatták be: kultikus tánc volt). A palota előtt kasszia-fa állt, oly bőven termő, hogy időnként le kellett botolni. (A Hold növését-fogyását s a növények föld feletti és föld alatti részeire gyakorolt hatását jelzi.) Mellette pedig ott állt a nyúl, és fehér márványmozsárban (a víz jelképében) az életitalt készítette. (Henseling egyébként csupán a kínai-azték megegyezésekre figyelmeztet, a zárójelbe tett megjegyzéseket mi fűzzük a kínai meséhez.)  
+> Ezek után világossá válik a húsvéti nyúl európai meséje is: a tavaszi évkezdet, az életújulás ünnepén a szapora, termékeny nyúl hozza a csírát, a fogantatástjelző s az élet vörös színére festett tojást, minél nagyobb számban.  
+
+A germán, olasz, stb. eredeztetésekre szakosodott Supka Géza Kalandozás a kalendáriumban című könyvében persze azt írja, hogy a piros [[Tojás\|tojás]]okat tojó nyúllal kapcsolatban, hogy kiváló – de Henseling olvasására idejét nem vesztegető – etnológusunk, Solymossy Sándor kimutatása szerint egyszerű nyelvi botlásból született meg (de a kérdés itt is az, mint másutt, melyik volt előbb a tojás vagy sem, azaz nem éppen a németek a fentiek miatt nevezték el a tyúkot nyulasan?):  
+
+A botlást az egyébként annyira pontos németek követték el, amikor a fiatal, kövér madárnak, a Haselhuhnnak a nevét értették félre Haserlnek, nyulacskának, s azóta – minden természettudományos jobb meggyőződésük ellenére – nyúllal tojatják a piros tojást.  
+[[Nyelvészet mint tudomány\|Nyelvészet mint tudomány]], valamint [[Népetimológia\|népetimológia]] címnél (ezen utóbbi címnél meg is tárgyaltuk ezt a témát) is szóltunk az efféle csapdákról: nem úgy kell a nyelvi botlásra gondolni, hogy egyik az átadó, másik az átvevő, hanem közös eredetű alapnyelv és közös turáni-szkíta-hun nézetrendszerek variánsai alakítják illetve vannak befolyással a másikra úgy, hogy akár az adott hagyományt jobban fenntartó kárára történik a változtatás, mely káros elemek éppen azon indoeurópai és sémi területekről is érkeznek, melyeket Supka szinte állandó jelleggel mutat fel kultúraátadónak, a hivatalos nézeteket követve.  
+
+#### Jankovics Marcell írja Jelkép-kalendáriumában:
+
+> A Hold apasztó-dagasztó erejét, ami legszembetűnőbben az árapály-jelenségben nyilvánul meg, a régiek kivetítették az élőlényekre is. Ezért lett égi kísérőnk az anyaméh, a női ciklus, a terhesség, a szülés és a férfi potenciájának planetáris ura. Mindennek nagyon is illő jelképe a [[N/Nyúl\|nyúl]]. Eleinket igazolja, hogy az emlősök vemhességének időtartama a holdhónapok egész számú többszöröse. Ez alól épp a mezei nyúl a "kivétel", az övé a mitikus időszámításban oly jelentős másfél holdhónapig tart ([[Negyvenkettő\|negyvenkettő]] napig).  
+
+John G. Jackson Christianity before Christ című könyvében is hasonló Holdat nyúllal összekapcsoló történettel találkozunk:  
+> The Namaquas of South Africa associate the phases of the moon with the idea of immortality. Once upon a time they say the moon wished to make mankind immortal, and the hare was entrusted with the message and was instructed to say: "As I die and rise to life again, so shall you die and rise to life again." The hare, either through forgetfulness or just plain carelessness, reversed the moons message, saying: "As I die and do not rise to life again, so shall you also die and not rise to life again." On learning of the hare's perversion of her message the moon hurled a stick at the animal which hitting him split his lip. This explains the cloven lip of the hare. A Namaqua elder stated that: "We are still enraged with the hare because he brought such a bad message, and we will not eat him." So, even to this day, when youths become of age among the Namaquas they are forbidden to partake of the flesh of a hare. A violation of this tabu may involve banishment from the community.  
+- Jackson ezután egy másik Frazer-től vett nyulas hottentotta és egy dél-afrikai történettel folytatja.  
+
+A Hold(sarló) [[Íj\|íj]]jal való kapcsolata egyértelmű, ahogy a [[Nyíl\|nyíl]] nyúllal való azonossága is. A közös elem a nemzés (lásd [[Íj és a nyíl\|íj és a nyíl]]) és a nyúl kapcsán annak szaporasága (úgy mozgásában, mint utódok számának növelésében).  
+Az [alábbi](http://acta.bibl.u-szeged.hu/54608/1/nyiri_antal_90_139-142.pdf) oldalon olvasottak alapján a nyúl a [[Nyíl\|nyíl]] szó párja lenne (ami nyíl itt, az nyúl ott, azaz az itt kilőtt nyíl az ott levő nyúlba mint célba talál), de nemcsak főnévként, hiszen igeként nyílik és nyúlik összefüggenek.  
+Közben lásd kezdet kapcsán [[Nil\|nil]] és [[Nihil\|nihil]], mely szó [[Nyíl\|nyíl]] szavunkból kell eredjen. A nyíl [[Nílus\|Nílus]] címnél írottak alapján is a Tejút, de úgy tűnik, hogy a (mostani időkben Tejútra helyezhető) [[Szűz-Halak tengely\|Szűz-Halak tengely]] maga a Nyíl.  
+
+Dr. Lónay Gyula a long, nyél, nől, nyúl és [[Nyolc\|nyolc]] szavakról írja ([forrását lásd itt](http://osnyelv.hu/osny0/zzz/nyelvkod.web.html)):  
+> Ez adja a megoldást a magyar láng, a német `lang`, angol `long` (mindkettő hosszú), a szanszkrit lingva (fénynyaláb, de magyarban inkább fényfa) szavakra, ugyanis közös bennük a holdsugár, ami a fény és a hosszúság, a vonal megtestesítője. Ezért hívják a szerszám hosszú részét nyélnek, lándzsának a hosszú fegyvert, ezért helyes úgy ejtenünk, hogy nől, és nem nő. A nyál is onnan, hogy nyúlik, mint a nyúl, s az ember is, ha nyúl, növekszik. Az átlag ember nem tudta, hogy a hold mért nem jár olyan pontosan, mint a nap, ezért a pontatlan embert linknek mondta. Az oroszlán is a hold-háló szerű sörényéről kapta a nevét, az erős szóval kiegészítve. Külföldi nyelveken leon, nálunk lán. A nyelv és a lingua szavak etimonja is ugyanaz, csak fordítva. A nyolc is azért nyolc, mert megnyúlik a számsor, mert egy időben az hétnél véget ért. A kilenc még kinyulcabb.  
+
+Szinte biztosra vehető, azért is mert [[Nyúl csillagkép\|Nyúl csillagkép]] is szerepel az égen és mert a Hold is a Tejútanya aspektusa (társ/rész-istennője), hogy a nyúl is a [[Tejútanya állatalakjai\|Tejútanya állatalakjai]] közé sorolható. Annál is inkább, mert a Szűz = Tejútanya ősállapota. Szűzzel való kapcsolatát lásd még [[Nyúl csillagkép\|Nyúl csillagkép]].  
