@@ -1,33 +1,22 @@
 ---
-title: Arpakshad
-aliases:
-  - Arpaksád
-  - Arphaxad
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-04T02:46
-dg-updated: 2023-10-04T02:46
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-04
+{"dg-publish":true,"permalink":"/A/Arpakshad/","title":"Arpakshad","tags":["dg_uploaded"],"created":"2023-10-04T02:46","updated":"2023-10-25T12:33"}
 ---
+
 
 # Arpakshad
 
 #### Bíró Lajos...
 
-...Álmos > Álmod > Amlodhi kapcsolatra mutató adata [[A/Álmos\|Álmos]] és [[Hamlet\|Hamlet]] címnél is szerepelt:  
+...Álmos > Álmod > Amlodhi kapcsolatra mutató adata [[A/Álmos\|Álmos]] és [[H/Hamlet\|Hamlet]] címnél is szerepelt:  
 > A szabir águnk őshazája jól behatárolható: az ókori Szíria és Észak-Mezopotámia területén volt, ahol az egykori Árpád és Emesa városok is jelzik a nyomát. A szintén a Teremtés Könyvében szereplő Arpaksád és Álmodád neveket sem lehet elválasztani az Árpád és Álmos nevektől, már csak azért sem, mert mindketten Sém, azaz Szem ős-szülő leszármazottai! (Móz.I. 10,24 és 26.)
 
-#### [[Hargita Csaba Ferenc\|Hargita Csaba Ferenc]]...
+#### [[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]]...
 
 ...honlapjának [ezen](http://www.imninalu.net/Habiru.htm) oldalán szereplő nemzetségtáblán valóban szerepel az Arpaksád név. Lásd képet [[H/Habiru\|Habiru]].  
 
 A Hargita Csaba Ferenc közreműködésével készült A magyarok őstörténete – a magyar-héber kapcsolat című dolgozat 20. oldalától taglalja még Arpaksádot:  
 > Arpakhsád Sém fia volt, Assúr testvére és a héberek őse a Biblia szerint: ʺSzülettek gyermekei Sémnek is, aki Héber összes fiainak ősatyja... Sém fiai: Élám, Assúr, Arpakhsád, Lúd és Arám... Sém százéves volt, amikor Arpaksad apja lett, két évvel az özönvíz utánʺ (Teremtés 10:21,22; 11:10). Ábrahám e rejtélyes őse nevének a megfejtésére számos magyarázat született: ősatya lévén tőle, ahogy a többi testvérétől is nép kell, hogy származzon.  
-- A folytatást kihagyom, mert a szerző szerint is [[Josephus Flavius\|Josephus Flavius]] etimológiai levezetése és más gondolatai is helytelenek.  
+- A folytatást kihagyom, mert a szerző szerint is [[J/Josephus Flavius\|Josephus Flavius]] etimológiai levezetése és más gondolatai is helytelenek.  
 
 Az [alábbi](https://en.m.wikipedia.org/wiki/Chaldea) oldalon érdekes a Josephus Flavius-tól való adat:  
 > Jewish historian Flavius Josephus links Arphaxad and Chaldaea, in his Antiquities of the Jews, stating, "Arphaxad named the Arphaxadites, who are now called Chaldeans."  
@@ -37,7 +26,7 @@ Ezen Arphaxad előjön ...
 #### Zajti Ferenc Zsidó volt-e Jézus...
 
 ...című könyvének (a PDF) 179. oldalán és másutt is. Például:  
-> \[A zsidó szülők gyermekeként született\] [[Epiphanius\|Epiphanius]] egyházatyának a "Contra Haereses' című művében a Kr. u. 4. század végén, a hunoknak Európában való szereplése idején élt egyházatya a következőket mondja:  
+> \[A zsidó szülők gyermekeként született\] [[E/Epiphanius\|Epiphanius]] egyházatyának a "Contra Haereses' című művében a Kr. u. 4. század végén, a hunoknak Európában való szereplése idején élt egyházatya a következőket mondja:  
 > Tehát Sem nemzette Arphaxadot, Arphaxad Cenat, Cena Halat, Hala a jámbor és vallásos Hebert, Heber Phaleget.  
 
 Majd másutt:  
