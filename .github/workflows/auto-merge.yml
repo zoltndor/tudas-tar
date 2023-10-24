@@ -21,7 +21,7 @@ jobs:
 
       - name: Setup Git
         run: |
-          git config --global user.name 'zoltdor'
+          git config --global user.name 'zoltndor'
           git config --global user.email 'zoltndor@yahoo.co.uk'
 
       - name: Merge and push
