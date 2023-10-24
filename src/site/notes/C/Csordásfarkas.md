@@ -1,21 +1,11 @@
 ---
-title: Csordásfarkas
-aliases:
-  - null
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-21T04:35
-dg-updated: 2023-10-21T04:35
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-21
+{"dg-publish":true,"permalink":"/C/Csordásfarkas/","title":"Csordásfarkas","tags":["dg_uploaded"],"created":"2023-10-21T04:35","updated":"2023-10-25T01:13"}
 ---
+
 
 # Csordásfarkas
 
-[[Morkoláb\|Morkoláb]] vezetett ide.  
+[[M/Morkoláb\|Morkoláb]] vezetett ide.  
 
 Általános hit volt a magyar nyelvterület egészén hogy nap- és holdfogyatkozás idején ezeket az égitesteket valamilyen állat vagy természetfeletti lény eszi. Néhol napfogyatkozáskor a szabadban fehér tálba vagy tányérba tiszta kútvizet öntöttek, s látni vélték, hogy kutya vagy farkas kapkod a nap után. A Balaton vidékén azt tartották, hogy a napot kakas eszi; más vidéken azt, hogy kereszteletlenül elhalt gyermekek nyelik el a holdat holdfogyatkozáskor. A máramarosi magyarok szerint a holdat a virkolák (→ csordásfarkas) falja fel. A palócok úgy tudják, hogy az égitestek fogyatkozását a markoláb, markalab okozza. E szó elterjedési képéből megállapítható, hogy mely alföldi községekbe települt palóc lakosság. - Irod. Szily Kálmán: **Morkoláb** (Nyelvőr, 1890); Róheim Géza: Magyar néphit és népszokások (Bp., 1925); Diószegi Vilmos: A palóc etnokulturális csoport határa és kirajzásai. (Az égitest evő mitikus lény, a markoláb elterjedtségének tanulságai) (Népi Kultúra – Népi Társadalom, 1968).  
 
@@ -26,9 +16,9 @@ A magyar → népi hitvilág csordásfarkasa (e néven Göcsejben és a nyelvter
 #### Jankovics Marcell Jelkép-kalendárium...
 
 ...című könyvének Szent Ferencről szóló részéből való az alábbi magyarázat:  
-> A [[Farkas\|farkas]] – a Skorpió cikkelyében van egy [[Farkas csillagkép\|Farkas csillagkép]] – a néphit szerint a nap- és holdfogyatkozás okozója (a Nap a Mérleg, a Hold a Skorpió jegyében "veszíti el erejét"), a mitológiában Mars állatjelképe volt. A \[Szent Ferenc történetében\] megszelídített bestia magát a legyőzött Marsot jelképezi. A csillaghit szerint ugyanis Vénusz a Mérleg havában "száműzetésbe kényszeríti" Marsot.  
+> A [[F/Farkas\|farkas]] – a Skorpió cikkelyében van egy [[F/Farkas csillagkép\|Farkas csillagkép]] – a néphit szerint a nap- és holdfogyatkozás okozója (a Nap a Mérleg, a Hold a Skorpió jegyében "veszíti el erejét"), a mitológiában Mars állatjelképe volt. A \[Szent Ferenc történetében\] megszelídített bestia magát a legyőzött Marsot jelképezi. A csillaghit szerint ugyanis Vénusz a Mérleg havában "száműzetésbe kényszeríti" Marsot.  
 
 JM írja másutt:  
-> A [[Farkas csillagkép\|Farkas csillagkép]] egykori őszi eltűnése, Napba-öltözése a farkasok idejének közeledtét jelezte, amikor a fagyos pusztaságban felharsant a Holdra vonító négylábúak kórusa (a csillaghit szerint a Skorpió a Holdra romlást hoz; **elterjedt hiedelem szerint a Hold azért fogy, mert egy mitikus farkasszörny élősködik rajta; és fordítva; a telihold változtatja farkassá a "farkasembereket"**).  
+> A [[F/Farkas csillagkép\|Farkas csillagkép]] egykori őszi eltűnése, Napba-öltözése a farkasok idejének közeledtét jelezte, amikor a fagyos pusztaságban felharsant a Holdra vonító négylábúak kórusa (a csillaghit szerint a Skorpió a Holdra romlást hoz; **elterjedt hiedelem szerint a Hold azért fogy, mert egy mitikus farkasszörny élősködik rajta; és fordítva; a telihold változtatja farkassá a "farkasembereket"**).  
 
-JM egyéb idevonatkozó írásait lásd [[Piroska és a farkas\|Piroska és a farkas]].  
+JM egyéb idevonatkozó írásait lásd [[P/Piroska és a farkas\|Piroska és a farkas]].  
