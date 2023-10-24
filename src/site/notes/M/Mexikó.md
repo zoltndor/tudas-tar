@@ -1,22 +1,12 @@
 ---
-title: Mexikó
-aliases:
-  - Mexico
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-03T11:29
-dg-updated: 2023-10-03T11:29
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-03
+{"dg-publish":true,"permalink":"/M/Mexikó/","title":"Mexikó","tags":["dg_uploaded"],"created":"2023-10-03T11:29","updated":"2023-10-25T01:49"}
 ---
+
 
 # Mexikó
 
 Nevét nem véletlenül ejtik Mehikónak, mondhatnánk, azték nevén viszont **Mesika** a neve.  
-Messzi Kő (Távoli Föld), netán talán Mészkő, [[MISZ\|MISZ]]-Kő (Tiszta/Fehér/Szabad Föld) felbontású, értelmű lehet, de...
+Messzi Kő (Távoli Föld), netán talán Mészkő, [[M/MISZ\|MISZ]]-Kő (Tiszta/Fehér/Szabad Föld) felbontású, értelmű lehet, de...
 
 #### Péterfai Jánosnak is igaza lehet:
 
@@ -24,4 +14,4 @@ Messzi Kő (Távoli Föld), netán talán Mészkő, [[MISZ\|MISZ]]-Kő (Tiszta/F
 
 Másutt írja:  
 > A Méh Fény. A Méh kiejtése Mé, de sok régi névben a "h" megjelenik. Mehi fáraó nevében is tapasztalhatjuk. Mexikó spanyol kiejtése Mehikó, amely névben a Kó a Kő, Ország neve. Mehikó városa régebbi, mint az országra zúduló aztékok kora. Mikerinosz fáraó neve görög jellegű. Mingge kínai neve Mike magyar nagykirálynak. A székely Mikó név is ebbe a csoportba tartozik. Mike-Él a héber Mika-El párja. A Mehi – Méhi, a Mikes, Méhes nevek mind a Mé, vagyis Fény fogalmába tartoznak. A Mihók, Miska és német Miksa, a Mihály, Michael, a Miske mind a Mé Fény jelentéséhez kapcsolódnak.  
-- Lásd még [[ME\|ME]].  
+- Lásd még [[M/ME\|ME]].  

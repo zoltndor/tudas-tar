@@ -1,21 +1,11 @@
 ---
-title: Emberevő
-aliases:
-  - emberevő
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-21T03:45
-dg-updated: 2023-10-21T03:45
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-21
+{"dg-publish":true,"permalink":"/E/Emberevő/","title":"Emberevő","tags":["dg_uploaded"],"created":"2023-10-21T03:45","updated":"2023-10-25T01:16"}
 ---
+
 
 # Emberevő
 
-Lásd [[E/Emberevés\|emberevés]]. [[Isszédonok\|Isszédonok]] címnél is volt már szó róla.  
+Lásd [[E/Emberevés\|emberevés]]. [[I/Isszédonok\|Isszédonok]] címnél is volt már szó róla.  
 
 #### Remete Farkas László Magyarok eredete...
 
@@ -24,5 +14,5 @@ Lásd [[E/Emberevés\|emberevés]]. [[Isszédonok\|Isszédonok]] címnél is vol
 
 ## Hérodotosz közlései alapján készült térkép
 
-A [[Hérodotosz\|Hérodotosz]] közlései alapján készült hyperboreaiakra is kitérő térképen többek közt ők is szerepelnek:  
-![[assets/Emberevo_image1.png\|assets/Emberevo_image1.png]]  
+A [[H/Hérodotosz\|Hérodotosz]] közlései alapján készült hyperboreaiakra is kitérő térképen többek közt ők is szerepelnek:  
+![assets/Emberevo_image1.png|undefined](/img/user/E/assets/Emberevo_image1.png)  

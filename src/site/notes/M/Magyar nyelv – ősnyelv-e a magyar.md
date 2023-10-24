@@ -1,17 +1,7 @@
 ---
-title: Magyar nyelv – ősnyelv-e a magyar
-aliases:
-  - magyar nyelv – ősnyelv-e a magyar
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-09T06:38
-dg-updated: 2023-10-13T12:26
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-13
+{"dg-publish":true,"permalink":"/M/Magyar nyelv – ősnyelv-e a magyar/","title":"Magyar nyelv – ősnyelv-e a magyar","tags":["dg_uploaded"],"created":"2023-10-09T06:38","updated":"2023-10-25T01:43"}
 ---
+
 
 # Magyar nyelv – ősnyelv-e a magyar
 
@@ -66,7 +56,7 @@ Jókai Mór elegáns és maró gúnnyal tiltakozva ezt írta:
 > (1881 vagy 1882)
 >
 > V  
-> Ahogy indult a nyelvészet [[Árja\|árja]]: Árpád nyelve csak ferdített árja.  
+> Ahogy indult a nyelvészet [[A/Árja\|árja]]: Árpád nyelve csak ferdített árja.  
 >
 > VI  
 > Ezután már hát hiába Küldtök vissza Ázsiába, Illünk az orosz igába, A nagy Szláviába.  
@@ -184,7 +174,7 @@ Jókai Mór elegáns és maró gúnnyal tiltakozva ezt írta:
 > Vélek száraz halból készűlt málét ehetsz,  
 > Mert lám ítéletet Nyelvünkről nem tehetsz.*  
 
-Arról [[Turanizmus\|turanizmus]] címnél volt szó, Max Müller megállapításában, hogy az ősnyelv ragozó turáni nyelv volt. A finnugrász Hegedűs József Rendhagyó magyar nyelvhasonlítás-történet című, a Magyar Nyelv 1998. december számában megjelenő tanulmányában arra is kitér – nem kis gúnnyal (ahogy [[Hunor és Magor\|Hunor és Magor]] címnél és [[Pártus\|pártus]] címnél álló passzusában is tette) – hogy voltak, nem csak magyarok, akik szerint ez az ősnyelv a magyar lenne:  
+Arról [[T/Turanizmus\|turanizmus]] címnél volt szó, Max Müller megállapításában, hogy az ősnyelv ragozó turáni nyelv volt. A finnugrász Hegedűs József Rendhagyó magyar nyelvhasonlítás-történet című, a Magyar Nyelv 1998. december számában megjelenő tanulmányában arra is kitér – nem kis gúnnyal (ahogy [[H/Hunor és Magor\|Hunor és Magor]] címnél és [[P/Pártus\|pártus]] címnél álló passzusában is tette) – hogy voltak, nem csak magyarok, akik szerint ez az ősnyelv a magyar lenne:  
 > Úgy a XVIII. század közepe óta kezdenek felbukkanni azok a vélekedések, hogy a magyar nyelv tulajdonképpen "ősnyelv", egyik nyelvnek sem a leszármazottja. Végső soron ezt példázza HORVÁT ISTVÁN "Rajzolatok a Magyar Nemzet legrégibb történeteiből" (Pesten, 1825.) című, gyakran emlegetett, szertelenségekben tobzódó munkája is. A nyelvi társtalanság hitét nagymértékben felerősítette a híres, sok nyelvet (így a magyart is) tudó angol JOHN BOWRING, aki azt fejtegeti, hogy a magyar nyelv saját egyedi formában alakult ki, s születését bizonyossággal olyan korszakra lehet tenni, amikor a legtöbb európai nyelv vagy még nem is létezett, vagy nem gyakorolt befolyást a magyar régióra (Poetry of the Magyars. London, 1830. VI.). Többen is értekeztek nálunk a magyarról mint ősnyelvről, még a XX. század elején is (például DÉSY FERENC, A magyar ősírás. Bp., 1902.).  
 
 —  
@@ -199,7 +189,7 @@ Arról [[Turanizmus\|turanizmus]] címnél volt szó, Max Müller megállapítá
 > Lehetetlen azt állítani, hogy az ókori nyelvek magyar nyelvek. Csak azt lehet állítani, hogy sok ókori nyelv, így a hatti-hettita is nagyon közeli rokona a mai magyar nyelvnek. Egy régebbi, magyar nyelvnek tekinthető nyelvből származott, amelyik nyelvet Kis-Ázsiában beszéltek, de sok ezer évvel a hatti, hurri, szumir nyelvek előtt.  
 
 PJI Atlantiszról szóló írásában úgy fogalmaz, hogy a magyar nyelv több ősi nyelvjárásból ered. Szerintem már az Aranykorban kialakult a nyelv, és azóta csak vallási-mondai rárakódások útján változott (Napvallás és kereszténység ráhatása).  
-[[Nosztratikus nyelvcsalád\|Nosztratikus nyelvcsalád]] címnél is szereplő folytatása:  
+[[N/Nosztratikus nyelvcsalád\|Nosztratikus nyelvcsalád]] címnél is szereplő folytatása:  
 > A Nosztratikus Nyelvcsalád nyelvész kutatói helyes úton járnak, csak azt nem látták meg, hogy az általuk kutatott nyelvek egy még ma is létező nyelvből ágaztak ki. Ebből a nyelvből könnyű levezetni a mai nyelvek sok tízezer, sok százezer szavát, ami igazolja a magyar nyelv ősiségét, a konkrét rovás feliratokon és genetikai bizonyítékokon kívül.  
 > Mivel az ősnyelv a magyar nyelv volt, amit sok kiváló tudós is felismert, a nosztratikus kutatók az ősi egységes nyelvet Kr.e. 15.000 körül gondolják részeire szakadni, ezt az elméletet nagyjából el kell fogadnunk. A magyarnak nevezett ősnyelvből származó más nyelvek keletkezése azonban ma sincs tisztázva. De rengeteg szavuk bizonyíthatóan magyar eredetű, ezért aztán nem lehet vita e nyelvek magyar eredetéről.  
 
@@ -210,7 +200,7 @@ PJI Atlantiszról szóló írásában úgy fogalmaz, hogy a magyar nyelv több �
 ...misszionárius pap (sajnos letöltésre eleddig sehol sem talált) Let There Be Light című írásából idézem:  
 > This appointment brought new spiritual vistas into my life. I studied Hebrew and Greek, and at the same time I studied the Bantu language, the language of Cameroon, in order to translate the Holy Scriptures. This was in addition to the many languages that I had learned from childhood, and the ones I learned during the years of work with different nationalities. I came across the missionary and professor Wange's great dictionary of the Bantu language, entitled "Sumerian, the Sanskrit of N'tu." (N'tu is the plural of the Bantu name.)  
 - Találó cím, de ezt a könyvet sem sikerült letölteni.  
-Az itt sorolt bantu szavak [[Folyó\|folyó]], [[Gólya\|gólya]] és [[Kill\|kill]] címhez téve.  
+Az itt sorolt bantu szavak [[F/Folyó\|folyó]], [[G/Gólya\|gólya]] és [[K/Kill\|kill]] címhez téve.  
 
 > My amazement grew as I continued to compare the Bantu and Magyar words, where both form and content were so identical that it made the common origin of the two languages evident. But this was only the beginning. The more dictionaries and languages I consulted, the result was the same. I took the blinders off – which were designed to keep horses in line – and by now I started to look around in a 360 degree arc in all the languages around the world to find the words identical to MAGYAR words.  
 > **The Magyar identity in the languages, the immense volume, is shocking. It is an enormous amount of material! Their cataloging, organization, explanation requires a whole lifetime of dedication. The end-result of such studies can be only one thing: The Magyar language is mankind's first language, the language of creation, the ancestral language**.  

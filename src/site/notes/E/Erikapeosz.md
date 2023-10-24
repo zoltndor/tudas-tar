@@ -1,17 +1,7 @@
 ---
-title: Erikapeosz
-aliases:
-  - Erikepaios
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-14T07:05
-dg-updated: 2023-10-14T07:05
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-14
+{"dg-publish":true,"permalink":"/E/Erikapeosz/","title":"Erikapeosz","tags":["dg_uploaded"],"created":"2023-10-14T07:05","updated":"2023-10-25T01:16"}
 ---
+
 
 # Erikapeosz
 
@@ -23,8 +13,8 @@ Erikepaios Wiki oldalán áll:
 
 #### Magyar Adorján írja:  
 
-> De a görögöknek Uránuszon kívül még egy ősistenségük volt, ha a kettő egymássali azonosságával már nem is voltak tisztában. E más ősistenséget Erikapeosz néven nevezték. Fáy Elek pedig Brugsch Heinrich nyomán már 1910-ben megírta volt (lásd Fáy Elek A magyarok őshona című könyvének 235. oldalán), hogy e név értelme Időapa, holott Brugsch sem tudott magyarul. Mégis a névmagyarázatban téves csak annyi, hogy az időt a vele eszmeileg összefüggő örökkévalósággal téveszti össze, mivel hiszen világos, hogy az Erik névrész a magyar [[Örök\|örök]] szó, valamint szintén eszmetársuló és azonos alakú öreg szó származéka. Ami hogy valóban így van, ezt viszont Lenormant francia tudós, aki szintén nem tudott magyarul, mutatja ki (Histoire ancienne de l'Orient Paris, 1885. II. kötet, 260. oldal) azzal, hogy a szumer alapítású babilóniai Uruk, másként Erek, város nevét Örök városnak értelmezi. Fáy Elek tehát igen helyesen jegyezte meg, hogy az Erikapeosz név tulajdonképpeni értelme: Örök-Apa \[illetve Öreg-Apa\].  
+> De a görögöknek Uránuszon kívül még egy ősistenségük volt, ha a kettő egymássali azonosságával már nem is voltak tisztában. E más ősistenséget Erikapeosz néven nevezték. Fáy Elek pedig Brugsch Heinrich nyomán már 1910-ben megírta volt (lásd Fáy Elek A magyarok őshona című könyvének 235. oldalán), hogy e név értelme Időapa, holott Brugsch sem tudott magyarul. Mégis a névmagyarázatban téves csak annyi, hogy az időt a vele eszmeileg összefüggő örökkévalósággal téveszti össze, mivel hiszen világos, hogy az Erik névrész a magyar [[O/Örök\|örök]] szó, valamint szintén eszmetársuló és azonos alakú öreg szó származéka. Ami hogy valóban így van, ezt viszont Lenormant francia tudós, aki szintén nem tudott magyarul, mutatja ki (Histoire ancienne de l'Orient Paris, 1885. II. kötet, 260. oldal) azzal, hogy a szumer alapítású babilóniai Uruk, másként Erek, város nevét Örök városnak értelmezi. Fáy Elek tehát igen helyesen jegyezte meg, hogy az Erikapeosz név tulajdonképpeni értelme: Örök-Apa \[illetve Öreg-Apa\].  
 
 Ezek alapján a JM könyveiben előjövő [[E/Erikafa\|erikafa]] jelentése is tulajdonképpen hosszútűrő kell legyen (az ilyen jelentésű FE által megadott héber Erekapaim nyomán).  
-[[Apa\|Apa]] szavunkat több névben felfedezi Fáy Elek A magyarok őshona című könyvének 250-251. oldalán, de például az erikafával bakot lőni látszik.  
-Lásd még [[Isten\|Isten]] és [[Isten másképpen\|Isten másképpen]].  
+[[A/Apa\|Apa]] szavunkat több névben felfedezi Fáy Elek A magyarok őshona című könyvének 250-251. oldalán, de például az erikafával bakot lőni látszik.  
+Lásd még [[I/Isten\|Isten]] és [[I/Isten másképpen\|Isten másképpen]].  

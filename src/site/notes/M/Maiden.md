@@ -1,17 +1,7 @@
 ---
-title: Maiden
-aliases:
-  - maiden
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-21T04:04
-dg-updated: 2023-10-21T04:04
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-21
+{"dg-publish":true,"permalink":"/M/Maiden/","title":"Maiden","tags":["dg_uploaded"],"created":"2023-10-21T04:04","updated":"2023-10-25T01:44"}
 ---
+
 
 # Maiden
 

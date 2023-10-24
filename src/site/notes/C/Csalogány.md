@@ -1,19 +1,9 @@
 ---
-title: Csalogány
-aliases:
-  - csalogány
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-18T08:45
-dg-updated: 2023-10-19T03:28
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-19
+{"dg-publish":true,"permalink":"/C/Csalogány/","title":"Csalogány","tags":["dg_uploaded"],"created":"2023-10-18T08:45","updated":"2023-10-25T01:12"}
 ---
+
 
 # Csalogány
 
 A nevet nem elemzi PJI.   
-A Gány/Gán (Gam/Kum) itt embert, állatot, azaz teremtményt jelent, vagy Csal-Og-Án a helyes felbontás? Inkább. A [[CSAL\|CSAL]] ugye a Napra, fényére utal, [[OG\|OG]] az Ég, és [[AN, ÁN\|Án]] is Ég.  
+A Gány/Gán (Gam/Kum) itt embert, állatot, azaz teremtményt jelent, vagy Csal-Og-Án a helyes felbontás? Inkább. A [[C/CSAL\|CSAL]] ugye a Napra, fényére utal, [[O/OG\|OG]] az Ég, és [[A/AN, ÁN\|Án]] is Ég.  
