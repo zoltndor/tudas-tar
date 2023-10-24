@@ -1,27 +1,13 @@
 ---
-title: Hangutánzó szavak
-aliases:
-  - hangutánzó szavak
-  - Hangutánzó szó
-  - hangutánzó szó
-tags:
-  - nyelvészet
-  - Götz
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-05T03:29
-dg-updated: 2023-10-05T03:29
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-05
+{"dg-publish":true,"permalink":"/H/Hangutánzó szavak/","title":"Hangutánzó szavak","tags":["nyelvészet","Götz","dg_uploaded"],"created":"2023-10-05T03:29","updated":"2023-10-25T01:34"}
 ---
+
 
 # Hangutánzó szavak
 
 #### Péterfai János írja:
 
-> [[Varga Géza\|Varga Géza]], különben kitűnő írásában, azt mondja, a Ten kezdetben a mennydörgés hangját utánzó szó. Felsorolja a Döng, Dördül, Dong, Zeng, Peng, Pendül szavakat, gondolata alátámasztására. A hangutánzó szavak csak a nyelvek fejlődésének kései szakaszában jelennek meg. A magyar nyelvben kezdetben nem voltak hangutánzó szavak.  
+> [[V/Varga Géza\|Varga Géza]], különben kitűnő írásában, azt mondja, a Ten kezdetben a mennydörgés hangját utánzó szó. Felsorolja a Döng, Dördül, Dong, Zeng, Peng, Pendül szavakat, gondolata alátámasztására. A hangutánzó szavak csak a nyelvek fejlődésének kései szakaszában jelennek meg. A magyar nyelvben kezdetben nem voltak hangutánzó szavak.  
 > Minden nyelvkutatónak tudnia kell, eredetileg nincsenek hangutánzó szavak. Ha alaposan megvizsgáljuk az etimonok rendszerét, egy pillanat alatt ráébredünk erre az alaptényre. Viszont később egyes szavakhoz hangutánzó és hangfestő tartalmakat gondoltak a modern és legmodernebb korokban. Így alakult ki a hangutánzó szavak fogalma.  
 > Huhog szavunk az éjszaka szava. A bagolyhoz kötjük ezt a szót, holott a Hu az éjszaka csillaga. A bagoly is éji madár, a csillagokhoz közeli, amikor száll a magasban. A Huhog ezért két magyar szó, a Huh és az Og összetétele. *Nem hangutánzó* ez a szavunk sem.  
 
@@ -29,7 +15,7 @@ date modified: 2023-10-05
 
 #### Götz László Keleten kél a Nap...
 
-...című könyvében is írja az [[Indogermán nyelvészet\|indogermán nyelvészet]] képviselőiről (a holló/varjú jelenséget meg az első szavak torokhangos jellegéről szóló elképzelést JM valamelyik könyvében is hozta):  
+...című könyvében is írja az [[I/Indogermán nyelvészet\|indogermán nyelvészet]] képviselőiről (a holló/varjú jelenséget meg az első szavak torokhangos jellegéről szóló elképzelést JM valamelyik könyvében is hozta):  
 > Még azt sem határozták meg kielégítően, miről ismerhető fel egy hangutánzó, hangfestő szó. Ezt a kutatók egyéni belátására bízták. Megalapozott módszert tehát – mint az eddigiekben már sorozatosan megállapíthattuk – itt sem alkalmaztak.  
 > Egy pillanatig sem akarjuk vitatni, hogy hangutánzó, hangfestő szavak valóban szép számmal előfordulnak minden nyelvben. Csupán az ilyen fajta szavakkal való visszaéléseket vetjük el. Olyasmiket, mint például a német `Rabe` (holló) és `Krähe` (vetési varjú) esete a germanisztikában. Mivel ugyanis a latin `corvus` (holló) az ófelnémetben előírásszerűen `hraban` (holló) alakban található, e szavak természetesen rokonok. De mivel a latin `cornix` (vetési varjú) németül még ma is "Krähe", ezek hangutánzó szavak lettek, amelyekre nem vonatkoztathatók a hangtörvények. Pedig a "corvus" éppúgy "károg", mint a "cornix." Itt tehát a hangutánzó szó csodálatosképpen mégis hasonlítható a hangtörvények alapján, holott a tézis szerint nem szabadna hangváltozásokat felmutatnia.  
 > E példa kitűnően rávilágít a hangutánzó szavak posztulátumának valóságos céljára és rugóira: segítségével nem egy kellemetlen kivételt eliminálni lehetett és ezáltal a \[[[Nyelvészet mint tudomány\|nyelvészet mint tudomány]] címnél bőven taglalt\] hangtörvények általános érvényessége is szilárdabb alapokra került.  
@@ -43,13 +29,13 @@ Másutt, bővebben:
 > Éppen ezért például a Brockhaus Enzyklopädie legújabb kiadása (1970) is közös címszó alatt, mindenféle megküilönböztetés nélkül tárgyalja a hangutánzó és a hangfestő szavakat (l. Lautmalerei, Lautnachahmung" címszó alatt).  
 > A Benkő főszerkesztése alatt készült TeSz hemzseg az olyasféle "hangutánzó eredetű” szavaktól, amelyekről kötve hisszük, hogy a szótár cikkíróin kívül valaki is meg tudná mondani, vajon milyen állati vagy más természeti hangokat "utánoznak" (pl. kap, kapaszkodik, kapatos, kapcsol stb.). A hangfestő szavaknál ugyanez a helyzet: a TeSz sorozatosan "hangfestő eredetű"-nek nyilvánít olyan szavakat, amelyeket semmilyen kapcsolatba sem lehet hozni valamiféle hangokkal (pl. göb, gömb, gömbölyű, gomb, gombolyag, gubó stb.). Milyen hangot "fest le" mondjuk a gubó vagy a göb? Talán a hangtörvényes nyelvészet egyoldalú begubózásánál fellépő zörejeket? Nem tudhatjuk.  
 
-[[Réce\|Réce]] szó kapcsán Jankovics Marcell Mély a múltnak kútja című könyvében is írja:  
-> Noha réce szavunkat A magyar nyelv történeti-etimológiai szótára **hangutánzó** eredetű elnevezésként határozza meg, azzal együtt, hogy a madár neve más nyelvekben is hasonlóan hangzik (német `Rätsch`, albán `róse`, román `ráta`, szlovén `ráca`), én ezt is – mint azt korábban kifejtettem (l. a Kááár! című fejezetben) – a mitopoétikus gondolkodás nyelvfejlődésben játszott szerepe mellett szóló bizonyítéknak tekintem. A jelenséget, miszerint a szavak hangalakja és jelentése között, különösen a hangutánzó szavak esetében mitologikus, szimbolikus kapcsolat mutatható ki, **hangszimbolizmus**nak neveztem el. Réce (ruca) és [[Rózsa\|rózsa]] szavunk, meg a többi felsorolt szó viszonyát illetően ez azt jelenti, hogyha a gyökerük nem is közös, a mesemondók, népdalénekesek összeültették őket. (Vö. orosz `ruszálka` = "vízitündér", román `ruszáli` = "pünkösd", magyar ruta, [[Ruta\|ruta]]fa = "világfa", "Tejút".)  
+[[R/Réce\|Réce]] szó kapcsán Jankovics Marcell Mély a múltnak kútja című könyvében is írja:  
+> Noha réce szavunkat A magyar nyelv történeti-etimológiai szótára **hangutánzó** eredetű elnevezésként határozza meg, azzal együtt, hogy a madár neve más nyelvekben is hasonlóan hangzik (német `Rätsch`, albán `róse`, román `ráta`, szlovén `ráca`), én ezt is – mint azt korábban kifejtettem (l. a Kááár! című fejezetben) – a mitopoétikus gondolkodás nyelvfejlődésben játszott szerepe mellett szóló bizonyítéknak tekintem. A jelenséget, miszerint a szavak hangalakja és jelentése között, különösen a hangutánzó szavak esetében mitologikus, szimbolikus kapcsolat mutatható ki, **hangszimbolizmus**nak neveztem el. Réce (ruca) és [[R/Rózsa\|rózsa]] szavunk, meg a többi felsorolt szó viszonyát illetően ez azt jelenti, hogyha a gyökerük nem is közös, a mesemondók, népdalénekesek összeültették őket. (Vö. orosz `ruszálka` = "vízitündér", román `ruszáli` = "pünkösd", magyar ruta, [[R/Ruta\|ruta]]fa = "világfa", "Tejút".)  
 
-A nyelvészek "hangutánzó/hangfestő" aduásza mellett olyat is látunk, hogy pl. [[Liba\|liba]] szavunk "állathívogató" hangokból eredne!  
+A nyelvészek "hangutánzó/hangfestő" aduásza mellett olyat is látunk, hogy pl. [[L/Liba\|liba]] szavunk "állathívogató" hangokból eredne!  
 
 ### Kutya és dog
 
-[[DOG#^5a718c\|Az angol dog szó]] hangutánzónak való jelölése kapcsán is elmondtuk, hogy a mi [[Kutya\|kutya]] szavunk sem az.  
+[[D/DOG#^5a718c\|Az angol dog szó]] hangutánzónak való jelölése kapcsán is elmondtuk, hogy a mi [[K/Kutya\|kutya]] szavunk sem az.  
 
 Lásd még [[M/Mozzanatos igék\|mozzanatos igék]].  
