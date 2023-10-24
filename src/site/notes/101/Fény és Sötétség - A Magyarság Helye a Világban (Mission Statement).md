@@ -1,16 +1,7 @@
 ---
-title: Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)
-tags:
-  - dg_uploaded
-share: true
-dg-home: true
-dg-publish: true
-dg-created: 2023-10-04T08:31
-dg-updated: 2023-10-23T04:31
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-23
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["dg_uploaded","gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-10-23T04:31"}
 ---
+
 
 # Fény és sötétség - a magyarság helye a világban
 
