@@ -1,24 +1,14 @@
 ---
-title: Jogar
-aliases:
-  - jogar
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-23T05:40
-dg-updated: 2023-10-23T05:40
-dg_upload_status: Vercel done and Netlify down
-date created: 2022-12-14
-date modified: 2023-10-23
+{"dg-publish":true,"permalink":"/J/Jogar/","title":"Jogar","tags":["dg_uploaded"],"created":"2023-10-23T05:40","updated":"2023-10-25T01:37"}
 ---
+
 
 # Jogar
 
-Jogar Jog-Úr-ként az Úr Jogát érvényesítő (nap)isteni/király személy, kinek [[Pálca\|pálcá]]ja, [[BOT\|bot]]ja, kardja nyilvánvalóan Orioné és a(z égi) (eredetű) jogar azon [[Orion övcsillagai\|Orion övcsillagai]]ból adódik, mely az iga [[Yoke\|yoke]] szavát is adta és melyből a (közben jogar szóval is hasonlított) [[Jugula\|Jugula]] név is adódik. Innentől az alábbiak is értelmesek:  
-> "Csillag tűnik fel [[Jákob\|Jákob]] (törzséből), jogar sarjad Izraelből." (Szám 24,17)  
+Jogar Jog-Úr-ként az Úr Jogát érvényesítő (nap)isteni/király személy, kinek [[P/Pálca\|pálcá]]ja, [[B/BOT\|bot]]ja, kardja nyilvánvalóan Orioné és a(z égi) (eredetű) jogar azon [[O/Orion övcsillagai\|Orion övcsillagai]]ból adódik, mely az iga [[Y/Yoke\|yoke]] szavát is adta és melyből a (közben jogar szóval is hasonlított) [[J/Jugula\|Jugula]] név is adódik. Innentől az alábbiak is értelmesek:  
+> "Csillag tűnik fel [[J/Jákob\|Jákob]] (törzséből), jogar sarjad Izraelből." (Szám 24,17)  
 
-A jogar az [[U/Ugor\|Ugor]], [[Agár\|agár]], [[Hágár\|Hágár]], valamint [[Sacchar-\|sacchar-]] címnél taglalt nevek mellé járul a sorba (ott fallikus értelmek is szóba jöttek).  
+A jogar az [[U/Ugor\|Ugor]], [[A/Agár\|agár]], [[H/Hágár\|Hágár]], valamint [[S/Sacchar-\|sacchar-]] címnél taglalt nevek mellé járul a sorba (ott fallikus értelmek is szóba jöttek).  
 
 #### Grandpierre Atilla A királyi mágusok...
 
