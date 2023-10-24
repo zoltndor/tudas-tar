@@ -1,18 +1,7 @@
 ---
-title: Audio
-aliases:
-  - audio
-tags:
-  - dg_uploaded
-  - containstransclusions
-share: true
-dg-publish: true
-dg-created: 2023-10-21T03:02
-dg-updated: 2023-10-21T03:02
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-21
+{"dg-publish":true,"permalink":"/A/Audio/","title":"Audio","tags":["dg_uploaded","containstransclusions"],"created":"2023-10-21T03:02","updated":"2023-10-25T12:36"}
 ---
+
 
 # Audio
 
@@ -22,11 +11,11 @@ Hang(kiadás) értelmű görög eredetű szó. Talán PJI passzusa ér itt valam
 
 
 
-> A görög énekes neve `Aoidos`, ami az AOI hangok éneklésére utal. Az Aojdosz olvasat azt igazolja, hogy a görög szó valóban a szájával Ajtós, kiabáló, harsogó ember neve. A magyar [[AJ\|AJ]] alapvetően Száj és Nyílás. Az Ajak változata az Ajok, többes szám, vagyis Két Ajak. Az Aj-Tu egyiptomi országrész, Ázsia és Afrika közötti Ajtó neve, pontosabban **Hirus Ajtu**, a Híres Ajtó, ahol Ázsia és Afrika között száraz lábon lehetett közlekedni ([[Baráth Tibor\|Baráth Tibor]]). Mivel a nyelvészet azt merészeli állítani, hogy az Aj indoeurópai szó, ezért kellett ide hozni az egyiptomi magyar `Ajtu` nevét. De a japánban, és az arabban is ismert az Aj szó, ami megdönti az indoeurópai eredetet. Nekünk fontos, hogy [[A/Ajax\|Ajax]] nevét megérthessük, és Ajász formában magyar eredetűnek minősíthessük. Még sok bizonyítékot lehet hozni az Aj szó jelentését elemezve, köztük a király fogalmát, mert a király joga volt a megszólalás. Az Aoidosz tehát Szájas, Aojdosz.  
+> A görög énekes neve `Aoidos`, ami az AOI hangok éneklésére utal. Az Aojdosz olvasat azt igazolja, hogy a görög szó valóban a szájával Ajtós, kiabáló, harsogó ember neve. A magyar [[A/AJ\|AJ]] alapvetően Száj és Nyílás. Az Ajak változata az Ajok, többes szám, vagyis Két Ajak. Az Aj-Tu egyiptomi országrész, Ázsia és Afrika közötti Ajtó neve, pontosabban **Hirus Ajtu**, a Híres Ajtó, ahol Ázsia és Afrika között száraz lábon lehetett közlekedni ([[B/Baráth Tibor\|Baráth Tibor]]). Mivel a nyelvészet azt merészeli állítani, hogy az Aj indoeurópai szó, ezért kellett ide hozni az egyiptomi magyar `Ajtu` nevét. De a japánban, és az arabban is ismert az Aj szó, ami megdönti az indoeurópai eredetet. Nekünk fontos, hogy [[A/Ajax\|Ajax]] nevét megérthessük, és Ajász formában magyar eredetűnek minősíthessük. Még sok bizonyítékot lehet hozni az Aj szó jelentését elemezve, köztük a király fogalmát, mert a király joga volt a megszólalás. Az Aoidosz tehát Szájas, Aojdosz.  
 
 
 </div></div>
 
 
-Lásd még alternatív elemzést [[Audacity\|audacity]].  
-Közben [[Gajd\|gajd]] címnél is született egy elmélet.  
+Lásd még alternatív elemzést [[A/Audacity\|audacity]].  
+Közben [[G/Gajd\|gajd]] címnél is született egy elmélet.  
