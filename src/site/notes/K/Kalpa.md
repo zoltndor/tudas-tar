@@ -1,26 +1,15 @@
 ---
-title: Kalpa
-aliases:
-  - kalpa
-  - kalpá
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-19T02:45
-dg-updated: 2023-10-19T02:45
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-19
+{"dg-publish":true,"permalink":"/K/Kalpa/","title":"Kalpa","tags":["dg_uploaded"],"created":"2023-10-19T02:45","updated":"2023-10-25T01:39"}
 ---
+
 
 # Kalpa
 
 A hindu/buddhista hagyományban Brahma napja vagy nagy világéve; egy hatalmas időtartamot felölelő idő, melyet 4320 millió évvel, azaz 4.32 milliárd évvel feleltetnek meg. Tudniillik a hagyomány szerint ennyi idő alatt telik le egy kozmikus ciklus-év:  
 > The general understanding in ancient Hindu astronomy was that at the beginning of the present order of things, **all the planets commenced their movement together at 0° of Aries**[^1]; and all the planets return to the same position in the heavens, at certain fixed intervals, resulting in a universal conjunction. The Surya Siddhanta states that this conjunction takes place at the end of the Golden Age. However, there is also a prevailing belief in Hindu astronomy that this conjunction takes place at the beginning of a Day and Night of Brahma, comprising of a 1000 Yuga Cycles.  
 
-A [[Yuga cycles\|Yuga cycles]] címnél levezetjük, hogyan áll össze, továbbá lásd David Pingree, Richard L. Thompson és mások vonatkozó írásait.  
-Felbontható Kal-Pa tagokra, ahogy [[Scalp\|scalp]] szónál is megtettük. A pali nyelvben vendéghang nélkül `kappa`.  
+A [[Y/Yuga cycles\|Yuga cycles]] címnél levezetjük, hogyan áll össze, továbbá lásd David Pingree, Richard L. Thompson és mások vonatkozó írásait.  
+Felbontható Kal-Pa tagokra, ahogy [[S/Scalp\|scalp]] szónál is megtettük. A pali nyelvben vendéghang nélkül `kappa`.  
 
 #### Jankovics Marcell Mély a múltnak kútja...
 
@@ -36,5 +25,5 @@ Joscelyn Godwin Arktos The Polar Myth című könyvének 150. és 156. oldalán 
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-David Pingree Surya Siddhantából vett adatát és a Stellariumból mellétett képet, mely i.e. 3114-ből való, lásd [[Yuga cycles\|Yuga cycles]] címnél: nincs ott minden bolygó persze, de a Koshoz közel vagyunk.  
+David Pingree Surya Siddhantából vett adatát és a Stellariumból mellétett képet, mely i.e. 3114-ből való, lásd [[Y/Yuga cycles\|Yuga cycles]] címnél: nincs ott minden bolygó persze, de a Koshoz közel vagyunk.  
 Persze a Surya Siddhanta nem ősi irat, mert a Tilak Orionjában elemezett védák és himnuszok régebbiek.  
