@@ -1,17 +1,7 @@
 ---
-title: Agy
-aliases:
-  - agy
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-13T12:35
-dg-updated: 2023-10-13T12:35
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-13
+{"dg-publish":true,"permalink":"/A/Agy/","title":"Agy","tags":["dg_uploaded"],"created":"2023-10-13T12:35","updated":"2023-10-25T12:21"}
 ---
+
 
 # Agy
 
@@ -22,18 +12,18 @@ TeSz: bizonytalan eredetű; talán ősi örökség a finnugor korból; vö. mord
 
 #### Péterfai János írja:
 
-> Az [[AG\|Ag]] névnek Magas értelme van. Ez az Ag a koponya tekintetében az Agy neve, ami a fej felső része. Az Ag kimondottan Fejtető, az Agy neve, és az Ág neve a fákon. Ha az Ag már magasba került, Isten közelébe, akkor a neve Agg. Az Ag, Agg, Ág sok nevet fejlesztett ki később.  
+> Az [[A/AG\|Ag]] névnek Magas értelme van. Ez az Ag a koponya tekintetében az Agy neve, ami a fej felső része. Az Ag kimondottan Fejtető, az Agy neve, és az Ág neve a fákon. Ha az Ag már magasba került, Isten közelébe, akkor a neve Agg. Az Ag, Agg, Ág sok nevet fejlesztett ki később.  
 
 #### Magyar Adorján írja:  
 
-> A rövid a-val ejtődő agy szavunk a tulajdonképpeni magyar szócsoport [[MAG\|mag]] alapszavának változata (egymássalhangzós) s értelme pedig: gömb, golyó, s amely szó e réven kapott koponya értelmet is. Rokona az angol [[Egg\|egg]] = tojás szó, mivel a legtöbb tojásféle többé-kevésbé gömb, avagy gömbölyded alakú.  
+> A rövid a-val ejtődő agy szavunk a tulajdonképpeni magyar szócsoport [[M/MAG\|mag]] alapszavának változata (egymássalhangzós) s értelme pedig: gömb, golyó, s amely szó e réven kapott koponya értelmet is. Rokona az angol [[E/Egg\|egg]] = tojás szó, mivel a legtöbb tojásféle többé-kevésbé gömb, avagy gömbölyded alakú.  
 
-[[Isten\|Isten]] címszó bevezetője alapján az [[Egy\|egy]] (minden egy) alaki változata (is), de figyeljük meg, az angol [[Mind\|mind]] = elme is a mind(en) szavunkkal hozható kapcsolatba.  
+[[I/Isten\|Isten]] címszó bevezetője alapján az [[E/Egy\|egy]] (minden egy) alaki változata (is), de figyeljük meg, az angol [[M/Mind\|mind]] = elme is a mind(en) szavunkkal hozható kapcsolatba.  
 
-[Ezen](http://altaica.ru/LIBRARY/CLAUSON/Sumerian-Ural-Altaic-Affinities.pdf) cikkben mikor Zakar Andrásra hivatkozva a szerző megemlítette a mongol `eki(n)` = koponya, fej szót, rögtön az [[Ég\|ég]], égi, valamint az egy és agy szó ötlött fel. Szinte biztosan agy az [[Egy\|egy]] változata.  
-Lásd még mindenképp legutóbb [[Hagyma\|hagyma]] címnél írottakat is (ugyebár [[Onion\|onion]] = [[Union\|union]] = egy(ség)).  
-Lásd még [[AG\|AG]].  
+[Ezen](http://altaica.ru/LIBRARY/CLAUSON/Sumerian-Ural-Altaic-Affinities.pdf) cikkben mikor Zakar Andrásra hivatkozva a szerző megemlítette a mongol `eki(n)` = koponya, fej szót, rögtön az [[E/Ég\|ég]], égi, valamint az egy és agy szó ötlött fel. Szinte biztosan agy az [[E/Egy\|egy]] változata.  
+Lásd még mindenképp legutóbb [[H/Hagyma\|hagyma]] címnél írottakat is (ugyebár [[O/Onion\|onion]] = [[U/Union\|union]] = egy(ség)).  
+Lásd még [[A/AG\|AG]].  
 
-A perzsa nyelvben [[Maghz\|maghz]] = agy, azaz a [[MAG\|MAG]] szavunk kétségtelen számításba vehető (így vagy úgy: a mag(y) és agy között csak egy szóeleji ajakhang a különbség).  
+A perzsa nyelvben [[M/Maghz\|maghz]] = agy, azaz a [[M/MAG\|MAG]] szavunk kétségtelen számításba vehető (így vagy úgy: a mag(y) és agy között csak egy szóeleji ajakhang a különbség).  
 
-Kerékagyról lásd [[A/Abroncs\|abroncs]] és [[Navel\|navel]].  
+Kerékagyról lásd [[A/Abroncs\|abroncs]] és [[N/Navel\|navel]].  
