@@ -1,17 +1,7 @@
 ---
-title: Abad
-aliases:
-  - null
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-22T12:48
-dg-updated: 2023-10-22T12:48
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-22
+{"dg-publish":true,"permalink":"/A/Abad/","title":"Abad","tags":["dg_uploaded"],"created":"2023-10-22T12:48","updated":"2023-10-25T12:19"}
 ---
+
 
 # Abad
 
