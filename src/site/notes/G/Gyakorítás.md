@@ -1,26 +1,14 @@
 ---
-title: Gyakorítás
-aliases:
-  - gyakorítás
-tags:
-  - nyelvészet
-  - Götz
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-05T02:55
-dg-updated: 2023-10-05T02:55
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-05
+{"dg-publish":true,"permalink":"/G/Gyakorítás/","title":"Gyakorítás","tags":["nyelvészet","Götz","dg_uploaded"],"created":"2023-10-05T02:55","updated":"2023-10-25T01:23"}
 ---
+
 
 # Gyakorítás
 
-[[Get\|Get]] címnél már kitértünk rá, illetve az angol [[Ing#Ing 2)\|ing]] végződés kapcsán a kering és más szavaink kapcsán szó volt gyakorító/folyamatos értelemről.  
+[[G/Get\|Get]] címnél már kitértünk rá, illetve az angol [[I/Ing#Ing 2)\|ing]] végződés kapcsán a kering és más szavaink kapcsán szó volt gyakorító/folyamatos értelemről.  
 
-Namost, először is tisztázzuk, hogy a -Gat/Get valójában micsoda. A Forgat szóban is jól látható, hogy valójában nem más, mint a [[Forog\|forog]] szó tárgyas változata. De akkor az [[OG#Og 2)\|og]] micsoda?  
-Mivel a gyakorítás felfogható az igei névszó többesszámának, mondhatjuk, hogy az -og az, ami a [[K#A magyar többes szám k jele\|többesszám k ragjaként]] használt.  
+Namost, először is tisztázzuk, hogy a -Gat/Get valójában micsoda. A Forgat szóban is jól látható, hogy valójában nem más, mint a [[F/Forog\|forog]] szó tárgyas változata. De akkor az [[O/OG#Og 2)\|og]] micsoda?  
+Mivel a gyakorítás felfogható az igei névszó többesszámának, mondhatjuk, hogy az -og az, ami a [[K/K#A magyar többes szám k jele\|többesszám k ragjaként]] használt.  
 
 #### Götz László Keleten kél a Nap...
 
@@ -55,6 +43,6 @@ Mivel a gyakorítás felfogható az igei névszó többesszámának, mondhatjuk,
 > (V.ö. a magyarban is fellépő magán- és mássalhangzóvariációkat a fent mondottakkal.)  
 >
 > Deimelnek tehát annyiban igaza van, hogy ezek a bővítmények az eredeti ige általános alapjelentését tényleg nem változtatják meg, hanem csak a cselekvés mikéntjét variálják, módosítják; a finom megkülönböztetéseket jelölik, **indogermán nyelvérzékével azonban ezeket az árnyalati jelentéskülönbségeket természetesen nem tudta regisztrálni, mert ilyesmire az anyanyelvében nincs párhuzam**. Ilyen jellegű jelentéskülönbségeket a német nyelv vagy körülírással, külön segédigékkel, vagy pedig a tőmagánhangzó megváltoztatásával, "Ablaut"-tal fejez ki: "trinken" (inni), "tränken" (itatni); "dringen" (sürögni, sietni), "drängen" (sürgetni, (kölcsönözni), "bürgen" (a kölcsönért jótállni).  
-- [[Flexió\|Flexió]] címhez is részint betéve.  
+- [[F/Flexió\|Flexió]] címhez is részint betéve.  
 
 Lásd még [[M/Mozzanatos igék\|mozzanatos igék]].  
