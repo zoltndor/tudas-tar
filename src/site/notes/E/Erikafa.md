@@ -1,27 +1,16 @@
 ---
-title: Erikafa
-aliases:
-  - erikafa
-  - erikafá
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-14T07:04
-dg-updated: 2023-10-14T07:04
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-14
+{"dg-publish":true,"permalink":"/E/Erikafa/","title":"Erikafa","tags":["dg_uploaded"],"created":"2023-10-14T07:04","updated":"2023-10-25T01:16"}
 ---
+
 
 # Erikafa
 
 Az [[E/Erikapeosz\|Erikapeosz]] címnél írottak szerint Örök-Fa értelmű és a Tejút fája ez is. Ahogy ez JM írásai alapján ki is derül:  
 > Mítosza szerint a halott Oziriszt (Oriont) is a Níluson (a Tejúton) viszi a koporsója Bübloszba, ahol erikafa (ez is a Tejút jelképe) növi körül koporsós tetemét[^1].  
 
-A kelta [[Ogham\|Ogham]] ábécében/fanaptárban az U (kelta `ura`) jelzi az erikafa napját, a nyári napforduló napját.  
+A kelta [[O/Ogham\|Ogham]] ábécében/fanaptárban az U (kelta `ura`) jelzi az erikafa napját, a nyári napforduló napját.  
 
-Az [[E/Erikapeosz\|Erikapeosz]] Örök-Apa/Öreg-Apa értelmezése azért visszás, mert a Tejútfa napfiú-szülőként inkább nőiségi, de JM [[Fa és nő\|fa és nő]] címnél álló adata szerint (a törzs [[Lingam\|lingam]]-ként való értelmezése \[vö. fa – fasz\] nyomán) hímségi is lehet.  
+Az [[E/Erikapeosz\|Erikapeosz]] Örök-Apa/Öreg-Apa értelmezése azért visszás, mert a Tejútfa napfiú-szülőként inkább nőiségi, de JM [[F/Fa és nő\|fa és nő]] címnél álló adata szerint (a törzs [[L/Lingam\|lingam]]-ként való értelmezése \[vö. fa – fasz\] nyomán) hímségi is lehet.  
 
 ## Lábjegyzetek
 
