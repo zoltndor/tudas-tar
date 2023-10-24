@@ -1,0 +1,34 @@
+---
+title: Szampó
+aliases:
+  - Sampo
+tags:
+  - dg_uploaded
+share: true
+dg-publish: true
+dg-created: 2023-10-10T03:42
+dg-updated: 2023-10-10T03:42
+dg_upload_status: Vercel and Netlify done
+date created: 2023-04-07
+date modified: 2023-10-10
+---
+
+# Szampó
+
+Több helyen ([[K/Kampó\|kampó]], [[Komp\|komp]], [[Comb\|comb]], [[Jump\|jump]], [[Hamlet malma\|Hamlet malma]], [[Precesszió\|precesszió]] és legutóbb [[Daru\|daru]] címnél) volt róla szó.  
+A mellékelt képhez hasonlóak MA jóvoltából előjöttek [[Mestergerenda\|mestergerenda]] és [[Motolla\|motolla]] címnél.  
+![[assets/Szampó_image1.png\|assets/Szampó_image1.png]]  
+[[Comb\|Comb]] címnél írottak szerint egészen biztos, hogy ebből a szavunkból ered (ahol comb = lábszár = kacsaláb), de nem lehet a csámpa/csámpás szavakat sem kizárni.  
+Hivatalosan a szanszkrit `skambha` = oszlop, pózna szóból eredeztetik.  
+
+A [[Jump\|jump]] címnél taglalt, [[K/Kampó\|kampó]], [[Komp\|komp]] és [[Precesszió\|precesszió]] címnél is előjövő Szampó nevéhez egészen hasonló az Ipolyi Arnold Magyar mythologia című könyvében előjövő tibeti **Zampu** világfa neve. Lásd képi anyaggal is ott.  
+Ezen tibeti névvel azonos a Varga Zsigmond Az ősmagyar mitológia című könyvének 287-288. oldalán adatolt jakut/kalmük **Zambu** világfa neve. Nyilván későbbi átvétel lehet a buddhizmus révén, de a lényeg, hogy mindkettő egyezik a finnel.  
+
+Kandra Kabos Magyar Mythologia című könyvének 33. oldalán előjön a mordvai égisten Csám-Páz[^1] neve, mely szintén hasonló ezekhez.  
+
+Hogy a japán `szanpo` = sétál, jár szó tartható-e a fentiekhez, nem tudni. Az tény, hogy a [[Jár\|jár]] több nyelven idő, év, azaz kozmikus-Hamlet malma vonatkozású.  
+
+## Lábjegyzetek
+
+[^1]: Lábjegyzet:  
+Ki sokatmondóan kőszálon himbálódzott(!). Vigyázat viszont, mert Páz külön Isten jelentéssel adatolt. Igaz, akkor az meg honnan ered? Besenyő szócsoportbeli, ahogy MA mondaná? Ebből a névből alakult lehet a VZs által adatolt vogul `pasis` = fényes, derült szó is. (Vesd össze a szanszkrit fényes, nappal jelentésű gyököt az Isten Div nevével.)  
