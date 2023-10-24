@@ -1,18 +1,7 @@
 ---
-title: Dialektika
-aliases:
-  - dialektika
-  - dialektiká
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-06T12:00
-dg-updated: 2023-10-06T12:00
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-06
+{"dg-publish":true,"permalink":"/D/Dialektika/","title":"Dialektika","tags":["dg_uploaded"],"created":"2023-10-06T12:00","updated":"2023-10-25T01:14"}
 ---
+
 
 # Dialektika
 
