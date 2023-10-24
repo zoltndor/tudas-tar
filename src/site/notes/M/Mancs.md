@@ -1,17 +1,7 @@
 ---
-title: Mancs
-aliases:
-  - mancs
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-20T07:09
-dg-updated: 2023-10-20T07:09
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-20
+{"dg-publish":true,"permalink":"/M/Mancs/","title":"Mancs","tags":["dg_uploaded"],"created":"2023-10-20T07:09","updated":"2023-10-25T01:45"}
 ---
+
 
 # Mancs
 
@@ -23,12 +13,12 @@ Nüsszai Szent Gergely egyházatya (IV. sz.) fejtegetése zseniálisnak nevezhet
 
 #### Várkonyi Nándor írja:
 
-> Nem kisebb fejlődéstani fontosságot tulajdonítottak a kéznek a borboriánus gnosztikusok (III-IV. sz.); tanításuk szerint az embereknek kezdetben [[M/Mancs\|mancs]]uk volt, mint a [[Kutya\|kutyá]]knak, s mindaddig míg ezt megtartották, békében, boldog tudatlanságban, egyetértésben éltek; azonban egy szellem pártfogásába vette őket, és kezeket adott nekik. Ettől fogva apáink fegyvereket csináltak, leigázták a többi állatot, és oly meglepő eszközöket készítettek kezükkel, hogy gőgjük még nagyobbra nőtt, mint hatalmuk. - Egy arab mítosz ennél is lángelméjűbb felismerést revelál: kétélű fegyvert, áldatlan ajándékot lát a kézben. Mert igaz, hogy kiszabadultunk általa az állati sorból, de cserébe megkaptuk az emberi sors minden átkát, s a rege, mintegy előre kiábrándulva a boldogító fejlődéstanból, megátkozza a kezet.  
+> Nem kisebb fejlődéstani fontosságot tulajdonítottak a kéznek a borboriánus gnosztikusok (III-IV. sz.); tanításuk szerint az embereknek kezdetben [[M/Mancs\|mancs]]uk volt, mint a [[K/Kutya\|kutyá]]knak, s mindaddig míg ezt megtartották, békében, boldog tudatlanságban, egyetértésben éltek; azonban egy szellem pártfogásába vette őket, és kezeket adott nekik. Ettől fogva apáink fegyvereket csináltak, leigázták a többi állatot, és oly meglepő eszközöket készítettek kezükkel, hogy gőgjük még nagyobbra nőtt, mint hatalmuk. - Egy arab mítosz ennél is lángelméjűbb felismerést revelál: kétélű fegyvert, áldatlan ajándékot lát a kézben. Mert igaz, hogy kiszabadultunk általa az állati sorból, de cserébe megkaptuk az emberi sors minden átkát, s a rege, mintegy előre kiábrándulva a boldogító fejlődéstanból, megátkozza a kezet.  
 
-Lásd még [[Mán\|mán]], [[Manual\|manual]] és [[Manufacture\|manufacture]].  
+Lásd még [[M/Mán\|mán]], [[M/Manual\|manual]] és [[M/Manufacture\|manufacture]].  
 
-Hogy az ősmagyar nyelvben [[Mán\|mán]], mány kezet is jelentett, testálja mancson kívül a mankó, mangó, mangol szavak. Lásd még angolban is [[Mangle\|mangle]] és érdekességképpen [[Mangrove\|mangrove]].  
+Hogy az ősmagyar nyelvben [[M/Mán\|mán]], mány kezet is jelentett, testálja mancson kívül a mankó, mangó, mangol szavak. Lásd még angolban is [[M/Mangle\|mangle]] és érdekességképpen [[M/Mangrove\|mangrove]].  
 
-Mancs lehet még macs orrhangos kiejtése is. Macs (melynek mak ejtése is lehetett, mint a kelta-ír `màg` = mancs mutatja) pedig egyértelmű hímségi [[MAG\|mag]]-származék, ahogy fentebb, például [[Mace\|mace]] és [[Macho\|macho]] szónál is kiderült. Macs megvan [[Macska\|macska]] szavunkban is. A macskának is mancsa van, nemcsak a kutyának.   
+Mancs lehet még macs orrhangos kiejtése is. Macs (melynek mak ejtése is lehetett, mint a kelta-ír `màg` = mancs mutatja) pedig egyértelmű hímségi [[M/MAG\|mag]]-származék, ahogy fentebb, például [[M/Mace\|mace]] és [[M/Macho\|macho]] szónál is kiderült. Macs megvan [[M/Macska\|macska]] szavunkban is. A macskának is mancsa van, nemcsak a kutyának.   
 
 A macskánál, szóalakjánál maradva, a lengyel `macka` = csáp, mely szintén karszerű, de itt jegyezzük meg, hogy érinteni jelentésű igére viszik vissza, mely a [[M/Meet\|meet]] és [[M/Match\|match]] címnél írottakat idézi fel.  
