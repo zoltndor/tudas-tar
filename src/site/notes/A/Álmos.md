@@ -1,17 +1,7 @@
 ---
-title: Álmos
-aliases:
-  - 
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-11T04:38
-dg-updated: 2023-10-21T03:37
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-21
+{"dg-publish":true,"permalink":"/A/Álmos/","title":"Álmos","tags":["dg_uploaded"],"created":"2023-10-11T04:38","updated":"2023-10-25T12:30"}
 ---
+
 
 # Álmos
 
@@ -27,8 +17,8 @@ date modified: 2023-10-21
 
 Az [alábbi](https://youtu.be/GNA9-pOTuyA) A mindenséggel mérd magad 16/4. című Szántai Lajos előadásban 52:55-nél szól arról, hogy felolvasott forrása alapján Álmos neve onnan ered, hogy születését álom jelezte előre. Viszont itt megemlíti a könyvet olvasva, hogy latinul `almus` = szent jelentésű...  
 Az [alábbi](https://youtu.be/FJ-ohuCS9Rw) ÁKTV műsorban KT 1:51:46-nál az Anonymous-nál előforduló Almus név kapcsán olvassa fel a képileg mellékelt szöveget.  
-![[assets/Álmos_image1.jpeg\|assets/Álmos_image1.jpeg]]  
-Igen ám, de valójában nem ez az eredeti értelme, hiszen a latin `almus` = tápláló, táplálékadó, és innen másodjelentésében jótékony, áldott, áldásárasztó, kegyes jelentésekkel álló. Tápláló és táplálékadó jelentései pedig női-anyai-istenanyai szerepkörre mutatnak rá, ahogy [[Alma\|alma]] és [[A/Alma Mater\|Alma Mater]] címnél erről volt is szó.  
+![assets/Álmos_image1.jpeg|undefined](/img/user/A/assets/%C3%81lmos_image1.jpeg)  
+Igen ám, de valójában nem ez az eredeti értelme, hiszen a latin `almus` = tápláló, táplálékadó, és innen másodjelentésében jótékony, áldott, áldásárasztó, kegyes jelentésekkel álló. Tápláló és táplálékadó jelentései pedig női-anyai-istenanyai szerepkörre mutatnak rá, ahogy [[A/Alma\|alma]] és [[A/Alma Mater\|Alma Mater]] címnél erről volt is szó.  
 Még egy zárójeles dolgot ide. Mi lenne, ha itt az álom, almus kapcsán az `anima` = lélek szó eredetét kellene keresni? Ugyanis az újlatin nyelvekben a lélek `alma` alakú. Almus > animus teljesen elképzelhető változás. Igen ám, de a görög `anemosz`[^1] = szél megléte miatt ez mégsem jó ötlet.  
 
 [[A/Alma Mater\|Alma Mater]] címnél is szerepelt ...
@@ -36,18 +26,18 @@ Még egy zárójeles dolgot ide. Mi lenne, ha itt az álom, almus kapcsán az `a
 #### Mellár Mihály Magyar Nagyasszony a magyarok istene...
 
 ...című cikke:  
-> Ide kívánkoznak még az angol [[Bird\|bird]] 'madár' és [[Birth\|birth]] 'szülés' \[születés; mely fogalom már az [[Alom\|alom]] felé vinne\] szavak, mivel ezzel magyarkodás nélkül, angolkodással(!) vezethetem be a következő idézetet a Képes Krónikából:  
+> Ide kívánkoznak még az angol [[B/Bird\|bird]] 'madár' és [[B/Birth\|birth]] 'szülés' \[születés; mely fogalom már az [[A/Alom\|alom]] felé vinne\] szavak, mivel ezzel magyarkodás nélkül, angolkodással(!) vezethetem be a következő idézetet a Képes Krónikából:  
 > *"Az Úr megtestesülésének 677. esztendejében, Attilának, a magyarok királyának a halálát követő 104. évben, III. Konstantin császár és Zakariás pápa idején, amint az meg van írva a rómaiak krónikájában, a magyarok másodszor is kijöttek Szkítiából az alábbi módon. Eleud, Ugek fia Szkítiában Eunodbilia leánytól egy fiút nemzett, kit Álmosnak neveztek el arról az eseményről, hogy anyjának álomban úgy tűnt, egy madár, héja formájában jőve, őt teherbe ejtette, és hogy méhéből egy sebes patak indult meg, de nem a saját földjén sokasodott meg. Ezért történt, hogy ágyékából dicső királyok származnak. Mivel pedig a sompniumot nyelvünkön alm-nak mondják, és hogy maga a születés álom által volt előre bejelentve, ezért hívták őt magát Álmosnak, ki volt Eleud, ki volt Ugek, ki volt Ed, ki volt Csaba, ki volt Etele \[...\] fia*[^2]."  
-> Az eredeti latin szöveg összeköti a [[Magyar\|magyar]], a nádra/mádra (itt méhnek fordítva; nyilván [[Matrix\|matrix]] illetve [[Metro\|metro]]), a medence/[[Meder\|meder]] (itt ágyéknak fordítva) és a [[Madár\|madár]] szavakat. Sőt, a szöveg tovább megy és burkoltan ugyan, de utal Alma Materra, a nagylelkű, jótékony Istenanyára, aki a kereszténység felvétele után Boldogságos Szűz [[Mária\|Mária]] lesz, eredeti nevét, a Magyart átengedve a Kárpát-medencében újra államot alapító nemzetének.  
+> Az eredeti latin szöveg összeköti a [[M/Magyar\|magyar]], a nádra/mádra (itt méhnek fordítva; nyilván [[M/Matrix\|matrix]] illetve [[M/Metro\|metro]]), a medence/[[M/Meder\|meder]] (itt ágyéknak fordítva) és a [[M/Madár\|madár]] szavakat. Sőt, a szöveg tovább megy és burkoltan ugyan, de utal Alma Materra, a nagylelkű, jótékony Istenanyára, aki a kereszténység felvétele után Boldogságos Szűz [[M/Mária\|Mária]] lesz, eredeti nevét, a Magyart átengedve a Kárpát-medencében újra államot alapító nemzetének.  
 > A születés álom általi megjövendölése azt jelenti, hogy Alma Mater kegyelméből, a magyarok Istenasszonyának ajándékaként lesz Álmos, az új-régi államalapító Turul nemzetség szakrális, szent turultól származó ősapja[^3]. Az állam almája nem véletlenül, vagy csupán elvontan, szimbólikusan jelképezi a magyar államot, teszi ezt nevével is, mely rímel az állam szóval. (A magyarban a jelképek beszélnek magyarul!)  
-- Az [[Országalma\|országalmá]]t is idevehette volna még MM.  
-Ami MM állam szóval való játékát illeti, nos, az állam szót nyelvújításkori szónak tartják. Az [[Ország\|ország]] és nemzet szavak helyettese.  
+- Az [[O/Országalma\|országalmá]]t is idevehette volna még MM.  
+Ami MM állam szóval való játékát illeti, nos, az állam szót nyelvújításkori szónak tartják. Az [[O/Ország\|ország]] és nemzet szavak helyettese.  
 
-[[Hamlet\|Hamlet]] címnél írtuk, hogy az alábbi BL-féle adat alapján lehetne Álmos > Álmod > Amlodhi sorozatot is elképzelni:  
+[[H/Hamlet\|Hamlet]] címnél írtuk, hogy az alábbi BL-féle adat alapján lehetne Álmos > Álmod > Amlodhi sorozatot is elképzelni:  
 > A szabir águnk őshazája jól behatárolható: az ókori Szíria és Észak-Mezopotámia területén volt, ahol az egykori Árpád és Emesa városok is jelzik a nyomát. A szintén a Teremtés Könyvében szereplő Arpaksád és Álmodád neveket sem lehet elválasztani az Árpád és Álmos nevektől, már csak azért sem, mert mindketten Sém, azaz Szem ős-szülő leszármazottai! (Móz.I. 10,24 és 26.)  
 
-[[Emese\|Emese]] címnél még több Álmossal kapcsolatos mitikus téma került taglalásra. A tulajdonképpeni, [[Történelemhamisítás\|történelemhamisítás]] és [[Árpád#Árpád-ház\|Árpád-ház]] címnél is megfogalmazott lényeg, hogy a [[Turul\|Turul]] címnél is taglalt Atilla féle Turul-házhoz való tartozás (Atilla Turulos pajzzsal ábrázolt volt) is Álmos születésének legendájával is ezt a leszármazást mutatja, de krónikáink is folytonosságot mutatnak Atilla és a későbbi magyar királyok közt.  
-Álmost Kubínyi Tamás királynak bizonyítja, mint aki [[Cirill és Metód\|Cirill és Metód]]dal (vagy utóbbival) is találkozott volna (igen ám, de ez csak egy alternatív idősíkon lett volna lehetséges). Isteni születése is legendás, így nyilván lehet király (hiszen ez a cím asztrális-szakrális, nem állami), de létezett-e valaha Szent István ükapja, Álmos? Nyilván, hinni kell. Ha könyvemben Álmos és Jézus létezését megkérdőjelezném, magyargyűlölőként bélyegeznének. Ugyanakkor az Álmos név, mely akár Almos (lásd [[Alom\|alom]]) is lehet, kétségtelenül mesés (a régi mese nem mese) név.  
+[[E/Emese\|Emese]] címnél még több Álmossal kapcsolatos mitikus téma került taglalásra. A tulajdonképpeni, [[T/Történelemhamisítás\|történelemhamisítás]] és [[A/Árpád#Árpád-ház\|Árpád-ház]] címnél is megfogalmazott lényeg, hogy a [[T/Turul\|Turul]] címnél is taglalt Atilla féle Turul-házhoz való tartozás (Atilla Turulos pajzzsal ábrázolt volt) is Álmos születésének legendájával is ezt a leszármazást mutatja, de krónikáink is folytonosságot mutatnak Atilla és a későbbi magyar királyok közt.  
+Álmost Kubínyi Tamás királynak bizonyítja, mint aki [[C/Cirill és Metód\|Cirill és Metód]]dal (vagy utóbbival) is találkozott volna (igen ám, de ez csak egy alternatív idősíkon lett volna lehetséges). Isteni születése is legendás, így nyilván lehet király (hiszen ez a cím asztrális-szakrális, nem állami), de létezett-e valaha Szent István ükapja, Álmos? Nyilván, hinni kell. Ha könyvemben Álmos és Jézus létezését megkérdőjelezném, magyargyűlölőként bélyegeznének. Ugyanakkor az Álmos név, mely akár Almos (lásd [[A/Alom\|alom]]) is lehet, kétségtelenül mesés (a régi mese nem mese) név.  
 
 Híre ment annak, hogy Álmost valamilyen szakrális áldozatnak vetették volna alá. KT elveti ezt és ...
 
@@ -55,7 +45,7 @@ Híre ment annak, hogy Álmost valamilyen szakrális áldozatnak vetették volna
 
 ...című Ősi Gyökér 2004/3. sz. megjelent cikkében szintén:  
 > Szó sincs arról, hogy "szakrálisan feláldozták" (ez durva szemita szokás!); öregen halt meg természetes halállal, vagy egy másik verzió szerint testvérharcban esett el (a lázadó Ond vezér csalta tőrbe) a Bodrogközben.  
-- Az [[Önfeláldozás\|önfeláldozás]]sal kapcsolatos nézeteket is el kell vetni akkor.  
+- Az [[O/Önfeláldozás\|önfeláldozás]]sal kapcsolatos nézeteket is el kell vetni akkor.  
 
 Az Almus név mellett előjön egy másik hasonló név. TGY írja:  
 > Ibn Fadhlan egyik munkájában a volgai bolgárok uralkodóját Almis-t a saqlabok királyának nevezi! Ugyanezt teszi Yaqut "Az országok lexikona" című földrajzi szótárában, ahol így ír:  
@@ -87,10 +77,10 @@ Kubínyi Tamás is szólt arról, hogy Metod püspök feljegyezte 882-ben, amiko
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-MA adata szerint az `anima` = lélek szó is a görög `anemosz` = szél szóból származik, ugyanúgy, mint a szláv `dusa`, `duh` = lélek szó a szláv `duh`, `dah` = szellet, fújás, lélekzet szóból. Lásd erről [[DOH\|DOH]].  
+MA adata szerint az `anima` = lélek szó is a görög `anemosz` = szél szóból származik, ugyanúgy, mint a szláv `dusa`, `duh` = lélek szó a szláv `duh`, `dah` = szellet, fújás, lélekzet szóból. Lásd erről [[D/DOH\|DOH]].  
 
 [^2]: Lábjegyzet:  
-[[Atilla hun király\|Atilla]] királyunk felmenőit, pontosabban Álmostól kezdve a Képes Krónikában megörökített nemzetségtáblázatában így közli: "Miután a somnium a mi nyelvünkön álom, s ama fiú származását álom jövendölte meg, ezért nevezték Álmosnak, aki Előd, ez Ögyek, ez Ed, ez Csaba, ez Etele, ez Bendegúz, ez Torda, ez Szemény, ez Etej, ez Apos, ez Kodocsa, ez Berend, ez Zsolt, ez Bulcsú, ez Balog, ez Zombor, ez Zámor, ez Lél, ez Levente, ez Kölcse, ez Ompód, ez Miske, ez Mike, ez Beszter, ez Budli, ez Csanád, ez Bökény, ez Bondorfán, ez Farkas, ez Otmár, ez Kádár, ez Belér, ez Keár, ez Keve, ez Keled, ez Dama, ez Bor, ez Hunor, ez Nimród, ez Thána, ez Jáfet, ez Noé fia volt."
+[[A/Atilla hun király\|Atilla]] királyunk felmenőit, pontosabban Álmostól kezdve a Képes Krónikában megörökített nemzetségtáblázatában így közli: "Miután a somnium a mi nyelvünkön álom, s ama fiú származását álom jövendölte meg, ezért nevezték Álmosnak, aki Előd, ez Ögyek, ez Ed, ez Csaba, ez Etele, ez Bendegúz, ez Torda, ez Szemény, ez Etej, ez Apos, ez Kodocsa, ez Berend, ez Zsolt, ez Bulcsú, ez Balog, ez Zombor, ez Zámor, ez Lél, ez Levente, ez Kölcse, ez Ompód, ez Miske, ez Mike, ez Beszter, ez Budli, ez Csanád, ez Bökény, ez Bondorfán, ez Farkas, ez Otmár, ez Kádár, ez Belér, ez Keár, ez Keve, ez Keled, ez Dama, ez Bor, ez Hunor, ez Nimród, ez Thána, ez Jáfet, ez Noé fia volt."
 
 [^3]: Lábjegyzet:  
-Álmossal kapcsolatosan felmerült másutt, [[Szeplőtelen fogantatás\|szeplőtelen fogantatás]] kapcsán, hogy hogyan lehet prototípus más népek mondáiban, ha később élt: Bíró Lajos is elmondja előadásában, hogy az Álmos és [[Árpád\|Árpád]] nevek inkább olyanféle mitikus őstől örökül vett rangnevek, mint ahogy Egyiptomban Ozirisz nevét felvették, hogy vele azonosuljanak.  
+Álmossal kapcsolatosan felmerült másutt, [[S/Szeplőtelen fogantatás\|szeplőtelen fogantatás]] kapcsán, hogy hogyan lehet prototípus más népek mondáiban, ha később élt: Bíró Lajos is elmondja előadásában, hogy az Álmos és [[A/Árpád\|Árpád]] nevek inkább olyanféle mitikus őstől örökül vett rangnevek, mint ahogy Egyiptomban Ozirisz nevét felvették, hogy vele azonosuljanak.  
