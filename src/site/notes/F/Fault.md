@@ -1,17 +1,7 @@
 ---
-title: Fault
-aliases:
-  - fault
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-10T10:48
-dg-updated: 2023-10-10T10:48
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-10
+{"dg-publish":true,"permalink":"/F/Fault/","title":"Fault","tags":["dg_uploaded"],"created":"2023-10-10T10:48","updated":"2023-10-25T01:17"}
 ---
+
 
 # Fault
 
