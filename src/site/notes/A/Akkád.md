@@ -1,29 +1,19 @@
 ---
-title: Akkád
-aliases:
-  - akkád
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-20T06:53
-dg-updated: 2023-10-20T06:53
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-20
+{"dg-publish":true,"permalink":"/A/Akkád/","title":"Akkád","tags":["dg_uploaded"],"created":"2023-10-20T06:53","updated":"2023-10-25T12:22"}
 ---
+
 
 # Akkád
 
-Fáy Elek A magyarok őshona című könyvének 6. oldala tetején az áll, hogy a sumér és asszír-babiloni írásos emlékek Akkád néven emlegetik a sumérok országának északra fekvő hegyes részét, mely irányban az [[O/Örmény\|arméniai]] őshazát (aminek megfelelő őshaza Varga Zsigmondnál a sumérban is többértelmű [[KUR\|KUR]] volt) is kell keresni.  
+Fáy Elek A magyarok őshona című könyvének 6. oldala tetején az áll, hogy a sumér és asszír-babiloni írásos emlékek Akkád néven emlegetik a sumérok országának északra fekvő hegyes részét, mely irányban az [[O/Örmény\|arméniai]] őshazát (aminek megfelelő őshaza Varga Zsigmondnál a sumérban is többértelmű [[K/KUR\|KUR]] volt) is kell keresni.  
 
 Nálam Ak-Kád, vagy A-Kád, Háza az Égnek/Istennek értelmű lenne, de (talán/nyilván Fáy adatát is követve, aki szóba hozza **Agade** város nevét)...
 
 #### Péterfai János ezt írja:  
 
-> A [[Gad\|Gad]] értelme Város, azt a szót láthatjuk viszont, amelyik A-Gad-E, vagyis Akkád eredeti nevében szerepel.  
+> A [[G/GAD\|Gad]] értelme Város, azt a szót láthatjuk viszont, amelyik A-Gad-E, vagyis Akkád eredeti nevében szerepel.  
 
-[[Práczki István\|Práczki István]]nál a [[Kád\|Kád]] elem a Dák, Daha nép, a szokásos megfordításásos módszer alapján, míg GYÁ-nál "A Káld" nyomán jönne Akkád...  
+[[P/Práczki István\|Práczki István]]nál a [[K/KÁD\|Kád]] elem a Dák, Daha nép, a szokásos megfordításásos módszer alapján, míg GYÁ-nál "A Káld" nyomán jönne Akkád...  
 
 #### Pálfi Károly A magyar nemzet őstörténete és a zsidóság...
 
@@ -34,8 +24,8 @@ Nálam Ak-Kád, vagy A-Kád, Háza az Égnek/Istennek értelmű lenne, de (talá
 - Pálfi Károly idézett könyvében továbbá istentelen jelentéssel adja meg nevüket; egy helyen, a 32. oldalon a sémi Jupitert Gád-nak nevezi és ha ez lett volna isten számban tartva, akkor [[A/A-\|a-]] fosztóképzővel eredne akkád istentelen értelme? Mert ezt nem látom nála kifejtve, de azt igen, hogy sokszor két-három nyelv jellegzetességeivel kombinál. <br/>
 De egyébként sem ez a megoldás.  
 
-Az Agade-t mutató kis térkép [[Gutium\|Gutium]] címnél is szerepelt.  
-![[assets/Akkád_image1.png\|assets/Akkád_image1.png]]  
+Az Agade-t mutató kis térkép [[G/Gutium\|Gutium]] címnél is szerepelt.  
+![assets/Akkád_image1.png|undefined](/img/user/A/assets/Akk%C3%A1d_image1.png)  
 
 #### Péterfai János írja:
 
@@ -69,6 +59,6 @@ Folytatás a 784. oldaltól:
 
 > Sargon fiainak "birtokvásárlásai” tehát nyilvánvalóan ismét a szumér őslakosság százezreit juttatták koldusbotra, vagy kényszerítették elvándorlásra. Majd Maništušu halála után, amikor újra birodalomszerte fellángolt a felkelések tüze, s Naramsin első éveit ezek elfojtása töltötte ki, szintén jelentős újabb elvándorlási hullámmal kell számolnunk.  
 > Az akkád birodalom megdöntésénél amint már említettük a szumér városállamok minden jel szerint a gutikkal szövetkezve támadtak az akkádokra. Ez a következményekben is megmutatkozik: egykorú forrásokkal bizonyítható, hogy a guti hegemónia időszakában a déli szumér területeken sokkal kevésbé volt érezhető a gutik nyomása, mint az északabbi, jobbára akkád vidékeken, s a szumér városok gyakorlatilag függetlenek maradtak (vö. Moortgat 1950; Schmökel 1962). Így pl. Lagaš városállama Urningirsu és Gudea uralkodása alatt már kb. 40 évvel a gutik kiverése előtt teljes függetlenséget élvezett, holott az összes szumér városállam között a legészakkeletebbre feküdt, vagyis legközelebb esett a gutik törzsterületeihez. Egykorú feljegyzésekből tudjuk, hogy Lagaš ebben az időszakban virágzó állam volt, kb. 1.600 km²-nyi területtel és 216.000 lakossal; 17 nagyobb és 8 kisebb város tartozott hozzá, számos faluval, amelyek közül 40-et név szerint is ismerünk (vö. Müller-Karpe 1974, 45. old.).  
-> Ezekből az egykorú adatokból következtethetünk a szumér területek akkori (kb. Kr. e. 2290-2250 körüli) össznépességének nyilván több millióra rúgó számára is, hiszen Lagaš csak olyan jelentéktelen városállamnak számított, hogy uralkodóit a szumér királyjegyzékek nem tartották érdemesnek megemlíteni; sem [[Gudea\|Gudea]] idejében – aki pedig önálló hadjáratot vezetett Elámba –, sem az akkád kor előtt, amikor egyes lagaši királyok bizonyíthatóan Mezopotámia jelentős területeit uralták, pl. Eannatum és Entemena.  
+> Ezekből az egykorú adatokból következtethetünk a szumér területek akkori (kb. Kr. e. 2290-2250 körüli) össznépességének nyilván több millióra rúgó számára is, hiszen Lagaš csak olyan jelentéktelen városállamnak számított, hogy uralkodóit a szumér királyjegyzékek nem tartották érdemesnek megemlíteni; sem [[G/Gudea\|Gudea]] idejében – aki pedig önálló hadjáratot vezetett Elámba –, sem az akkád kor előtt, amikor egyes lagaši királyok bizonyíthatóan Mezopotámia jelentős területeit uralták, pl. Eannatum és Entemena.  
 > A guti uralom után következő III. uri dinasztia ismét helyreállította Mezopotámia politikai egységét, újra szumér vezetés alatt, sőt ez az ún. újszumér birodalom nagyságban vetekedett Sargon egykori birodalmával. Tudjuk, hogy az uri királyok Asszíriát, Elámot és a nyugatabbi guti törzsterületeket is meghódították (vö. pl. Hrouda 1971, 142. old.), sőt adatolható, hogy az utóbbi évtizedekben feltárt nyugatszíriai Ebla (v. Ibla), valamint a levantei tengerparton fekvő Byblos is a III. uri dinasztia hűbéresei közé tartozott (vö. pl. Amiet 1977, 139, és 486. old.; Kempinsky. Aví Yonah 1978, 42. old.).  
-- [[Szemita#Szemita hódítás\|Szemita hódítás]] cím/alcímnél a fentiek rövidebb kivonata szerepel Götztől.  
+- [[S/Szemita#Szemita hódítás\|Szemita hódítás]] cím/alcímnél a fentiek rövidebb kivonata szerepel Götztől.  
