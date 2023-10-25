@@ -1,21 +1,8 @@
 ---
-title: Samba
-aliases:
-  - samba
-  - sambá
-  - szamba
-  - szambá
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-23T06:43
-dg-updated: 2023-10-23T06:43
-dg_upload_status: Vercel done and Netlify down
-date created: 2023-04-07
-date modified: 2023-10-23
+{"dg-publish":true,"permalink":"/S/Samba/","title":"Samba","tags":["dg_uploaded"],"created":"2023-10-23T06:43","updated":"2023-10-25T02:09"}
 ---
+
 
 # Samba
 
-A szamba nevű brazil táncról [[Jump\|jump]] szónál írtunk.  
+A szamba nevű brazil táncról [[J/Jump\|jump]] szónál írtunk.  

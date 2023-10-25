@@ -1,28 +1,16 @@
 ---
-title: Zsuzsanna
-aliases:
-  - Zsuzsanná
-  - Susanna
-  - Susan
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-18T07:55
-dg-updated: 2023-10-19T03:33
-dg_upload_status: Vercel and Netlify done
-date created: 2023-04-07
-date modified: 2023-10-19
+{"dg-publish":true,"permalink":"/Z/Zsuzsanna/","title":"Zsuzsanna","tags":["dg_uploaded"],"created":"2023-10-18T07:55","updated":"2023-10-25T02:23"}
 ---
+
 
 # Zsuzsanna
 
 #### Péterfai János írja:
 
-> Az [[Anna\|Anna]] név nem más, mint An Égisten házából született Nő. Az An-Na gyakran férfiak neve is volt, hiszen An isten Házából férfi uralkodók is születhettek.  
-> [[Szűz\|Szűz]] szavunk a Boldogságos Szűz, vagy Szűz Mária neveként is ismert. A Szud, Teljesség, Dél szóból alakult ki, a Dél a Nap Teljessége, amikor a legjobban süt. A Szud szabályos változata a Szuz, ami a Szuzy nyugati névben is felismerhető. Így a Szud – Szuz – Szűz a tökéletességet tartalmazza. Ebből a közegből ered a Szyzanna, vagy Zsuzsanna név is.  
+> Az [[A/Anna\|Anna]] név nem más, mint An Égisten házából született Nő. Az An-Na gyakran férfiak neve is volt, hiszen An isten Házából férfi uralkodók is születhettek.  
+> [[S/Szűz\|Szűz]] szavunk a Boldogságos Szűz, vagy Szűz Mária neveként is ismert. A Szud, Teljesség, Dél szóból alakult ki, a Dél a Nap Teljessége, amikor a legjobban süt. A Szud szabályos változata a Szuz, ami a Szuzy nyugati névben is felismerhető. Így a Szud – Szuz – Szűz a tökéletességet tartalmazza. Ebből a közegből ered a Szyzanna, vagy Zsuzsanna név is.  
 - A Zsuzsanna névben pedig a Szűz Anya van meg, ha így PJI ki nem is mondja.  
-Hasonló eredetű lehet [[Hosanna\|hosanna]].  
+Hasonló eredetű lehet [[H/Hosanna\|hosanna]].  
 
 Zsuzsanna történetét lásd [itt](https://24.hu/kultura/2016/02/19/venek-akartak-megeroszakolni-zsuzsannat/).  
 A héber `shushan` = liliom szó a PJI által másutt említett liliomtiprás ideájából származik. [Ezen](https://qr.ae/pGQ5KT) Quora válaszban meg is írtam:  

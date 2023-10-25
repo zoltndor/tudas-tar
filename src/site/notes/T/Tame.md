@@ -1,23 +1,12 @@
 ---
-title: Tame
-aliases:
-  - tame
-tags:
-  - dg_uploaded
-  - containstransclusions
-share: true
-dg-publish: true
-dg-created: 2023-10-17T08:15
-dg-updated: 2023-10-17T08:15
-dg_upload_status: Vercel and Netlify done
-date created: 2023-06-26
-date modified: 2023-10-17
+{"dg-publish":true,"permalink":"/T/Tame/","title":"Tame","tags":["dg_uploaded","containstransclusions"],"created":"2023-10-17T08:15","updated":"2023-10-25T02:15"}
 ---
+
 
 # Tame
 
 Megszelídít, háziasít (német párja `zäumen`); házi, megszelídített. Idomít szavunkból eredhetne(?), szóeleji lekopással.  
-VK üt (PJI-nél [[UTU\|UTU]]) szavunk származékának tartja mindkét szót. Lásd inkább gyám-olít vonalon [[TAM\|TAM]].  
+VK üt (PJI-nél [[U/UTU\|UTU]]) szavunk származékának tartja mindkét szót. Lásd inkább gyám-olít vonalon [[T/TAM\|TAM]].  
 Vélhetően a keresett fogalom a fékezés, lekötés, igába hajtás.  
 
 #### Magyar Adorján Ősműveltségében...
@@ -28,7 +17,7 @@ Vélhetően a keresett fogalom a fékezés, lekötés, igába hajtás.
 
 
 
-> Érdemes még a következőt is fölemlítenünk: A magyar vég (nem kún) szónak nemcsak valaminek vége értelme van, hanem hosszúság, hossz is, mert mondjuk egy bizonyos hosszúságú vászonra vagy szövetre is, hogy "egy vég vászon", avagy "egy vég szövet". Ennek párhuzamát (de szintén nem kún szócsoportbeli szóval) képezi az olasz `cima`, velencei tájszólásban `zima`, amely szónak egyaránt van kötél, mint valaminek vége értelme is. Érdekes tehát, hogy viszont a németben meg, különösen a hajósoknál a tisztán kún alakú End vagy `Ende` szónak ugyanúgy, van kötél és valaminek vége értelme, amely német szó úgy alakjában, mint értelmében is [[Inda\|inda]] szavunkkal egyezik.  
+> Érdemes még a következőt is fölemlítenünk: A magyar vég (nem kún) szónak nemcsak valaminek vége értelme van, hanem hosszúság, hossz is, mert mondjuk egy bizonyos hosszúságú vászonra vagy szövetre is, hogy "egy vég vászon", avagy "egy vég szövet". Ennek párhuzamát (de szintén nem kún szócsoportbeli szóval) képezi az olasz `cima`, velencei tájszólásban `zima`, amely szónak egyaránt van kötél, mint valaminek vége értelme is. Érdekes tehát, hogy viszont a németben meg, különösen a hajósoknál a tisztán kún alakú End vagy `Ende` szónak ugyanúgy, van kötél és valaminek vége értelme, amely német szó úgy alakjában, mint értelmében is [[I/Inda\|inda]] szavunkkal egyezik.  
 
 
 </div></div>
@@ -37,7 +26,7 @@ Vélhetően a keresett fogalom a fékezés, lekötés, igába hajtás.
 A szóforma más nyelvekben is megvan. Lásd Falk Nóra írásából:  
 > A rén igavonóvá szelídítését, betanítását jelentő lapp `dápmat` (> fi. `taamoa` 'ua.') szó ősi skandináv átvétel (vö. norv. `tämja` 'ua.', SSA 3: 248.), amiből mégsem következik, hogy a rén szelídítése skandináv mintára történt volna.  
 
-Arról [[Finnugor nyelvek\|finnugor nyelvek]] címnél volt szó, hogy sok szó kerülhetett a germánba tőlük.  
+Arról [[F/Finnugor nyelvek\|finnugor nyelvek]] címnél volt szó, hogy sok szó kerülhetett a germánba tőlük.  
 
-Vesd még össze [[Timid\|timid]].  
+Vesd még össze [[T/Timid\|timid]].  
 

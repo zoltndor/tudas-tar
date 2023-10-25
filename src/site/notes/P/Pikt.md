@@ -1,17 +1,7 @@
 ---
-title: Pikt
-aliases:
-  - pikt
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-21T05:06
-dg-updated: 2023-10-21T05:06
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-21
+{"dg-publish":true,"permalink":"/P/Pikt/","title":"Pikt","tags":["dg_uploaded"],"created":"2023-10-21T05:06","updated":"2023-10-25T02:06"}
 ---
+
 
 # Pikt
 

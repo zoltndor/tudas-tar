@@ -1,17 +1,7 @@
 ---
-title: Shoe
-aliases:
-  - shoe
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-16T03:56
-dg-updated: 2023-10-16T03:56
-dg_upload_status: Vercel and Netlify done
-date created: 2023-04-07
-date modified: 2023-10-16
+{"dg-publish":true,"permalink":"/S/Shoe/","title":"Shoe","tags":["dg_uploaded"],"created":"2023-10-16T03:56","updated":"2023-10-25T02:10"}
 ---
+
 
 # Shoe
 
@@ -19,7 +9,7 @@ Cipő.
 CzF adata vezethet eredményre:  
 > CZÓKÓ(czók-ó) fn. tt. czókó-t. Fa papucs, milyet nálunk csak itt-ott a bevándorlott svábok és némely szerzetesek viselnek. Eredetét illetőleg lásd: CZÓK.  
 
-A [[Saru\|saru]] szó r hangjának nem megfelelő, pergetés nélküli kiejtése eredményezheti kialakulását.  
+A [[S/Saru\|saru]] szó r hangjának nem megfelelő, pergetés nélküli kiejtése eredményezheti kialakulását.  
 
 #### Kolumbán Sándor írja suszter szónál:  
 
@@ -27,11 +17,11 @@ A [[Saru\|saru]] szó r hangjának nem megfelelő, pergetés nélküli kiejtése
 > A tipegő, cipellő oly régi kifejezés, hogy erről kapta nevét a még az ősmag(yar)-nyelvű Cippóra is, a bibliai Mózes felesége. Ő tipegő, cipellős széplány volt és a csipogó madárhoz is hasonlították. A cipellő nevet a szerb-horvát `cipela` is őrzi.  
 
 A horseshoe = lópatkó felveti, hogy patkóról is lehet eredetileg szó.  
-Legutóbb [[Hoof\|hoof]] címnél látott indo-iráni szavak alapján is erre gondoltam.  
+Legutóbb [[H/Hoof\|hoof]] címnél látott indo-iráni szavak alapján is erre gondoltam.  
 
 Érdekességképpen a német `fausthandschuh` (szó szerint ököl-kéz-cipő: ökölkesztyű) jelentése kétujjas (konyhai) kesztyű: azaz a lábbelit kézre bujtatva hívja azt kesztyűnek.  
-Lásd még (utóbbi adat nyomán) [[SU\|SU]] = kéz jelentésű etimont.  
+Lásd még (utóbbi adat nyomán) [[S/SU\|SU]] = kéz jelentésű etimont.  
 
-Amennyiben szőtt cipellőkről van szó, [[Sző\|sző]] szavunk egyeztethető lenne vele.  
+Amennyiben szőtt cipellőkről van szó, [[S/Sző\|sző]] szavunk egyeztethető lenne vele.  
 
 Könnyen lehet, hogy [[S/Sock\|sock]] szóval közös eredetű.  

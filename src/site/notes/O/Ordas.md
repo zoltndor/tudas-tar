@@ -1,17 +1,7 @@
 ---
-title: Ordas
-aliases:
-  - ordas
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-21T03:45
-dg-updated: 2023-10-21T03:45
-dg_upload_status: Vercel and Netlify done
-date created: 2023-10-21
-date modified: 2023-10-21
+{"dg-publish":true,"permalink":"/O/Ordas/","title":"Ordas","tags":["dg_uploaded"],"created":"2023-10-21T03:45","updated":"2023-10-25T02:04"}
 ---
+
 
 # Ordas
 

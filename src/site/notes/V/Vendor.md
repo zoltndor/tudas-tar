@@ -1,21 +1,11 @@
 ---
-title: Vendor
-aliases:
-  - vendor
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-20T10:13
-dg-updated: 2023-10-20T10:13
-dg_upload_status: Vercel and Netlify done
-date created: 2023-04-07
-date modified: 2023-10-20
+{"dg-publish":true,"permalink":"/V/Vendor/","title":"Vendor","tags":["dg_uploaded"],"created":"2023-10-20T10:13","updated":"2023-10-25T02:22"}
 ---
+
 
 # Vendor
 
 Eladó, árus.  
-A kereskedő tulajdonképpen az [[Áruló\|áruló]] címnél is említett [[Űz\|üzér]] = vadász és a [[Punter\|punter]] szóalak is innen kerül ki. Hasonló a [[Profit\|profit]] és [[Prophet\|prophet]] szavak kapcsán taglalt téma.  
+A kereskedő tulajdonképpen az [[A/Áruló\|áruló]] címnél is említett [[U/Űz\|üzér]] = vadász és a [[P/Punter\|punter]] szóalak is innen kerül ki. Hasonló a [[P/Profit\|profit]] és [[P/Prophet\|prophet]] szavak kapcsán taglalt téma.  
 
 Lásd [[V/Vend\|vend]] majd még [[V/Vándor\|vándor]].  

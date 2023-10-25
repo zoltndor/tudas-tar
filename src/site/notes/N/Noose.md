@@ -1,26 +1,15 @@
 ---
-title: Noose
-aliases:
-  - noose
-tags:
-  - dg_uploaded
-  - containstransclusions
-share: true
-dg-publish: true
-dg-created: 2023-10-15T09:23
-dg-updated: 2023-10-16T07:04
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-16
+{"dg-publish":true,"permalink":"/N/Noose/","title":"Noose","tags":["dg_uploaded","containstransclusions"],"created":"2023-10-15T09:23","updated":"2023-10-25T02:00"}
 ---
+
 
 # Noose
 
-[[Hurok\|Hurok]]. A hurok szorít és fojtogat, elsősorban nyakat, például akasztott emberét. Nyúz szavunk közel áll úgy értelemben, mint jelentésben. Ahogy a görög `hamma` = kötél, hurok [[Hám\|hám]] szavunkból ered, úgy köthető szintén lovakhoz a noose is, mely nyűg szavunkból (k hang vagy ez esetben g rokona sokszor változik sz-szé, ezt másutt is láttuk) is eredhet. [[Nyűg\|Nyűg]] azon kötél, melyen a ló lábát kötik le, hogy messze ne kóboroljon.  
-De ha már szóba kerültek a lovak, jöjjenek a kutyák ([[Kutyafejű\|kutyafejű]]ek) is, melyek orra az azonos [[Nose\|nose]].  Elképzelhető, hogy a [[Nyolc\|nyolc]] szavunk adja ki e szót.  
+[[H/Hurok\|Hurok]]. A hurok szorít és fojtogat, elsősorban nyakat, például akasztott emberét. Nyúz szavunk közel áll úgy értelemben, mint jelentésben. Ahogy a görög `hamma` = kötél, hurok [[H/Hám\|hám]] szavunkból ered, úgy köthető szintén lovakhoz a noose is, mely nyűg szavunkból (k hang vagy ez esetben g rokona sokszor változik sz-szé, ezt másutt is láttuk) is eredhet. [[N/Nyűg\|Nyűg]] azon kötél, melyen a ló lábát kötik le, hogy messze ne kóboroljon.  
+De ha már szóba kerültek a lovak, jöjjenek a kutyák ([[K/Kutyafejű\|kutyafejű]]ek) is, melyek orra az azonos [[N/Nose\|nose]].  Elképzelhető, hogy a [[N/Nyolc\|nyolc]] szavunk adja ki e szót.  
 
-A nyelvészet a [[Node\|node]] szónál tárgyalt latin `nodus`-hoz köti, ófrancia közvetítésre gondolva.  
-Hasonló szó az inkább [[Net\|net]]-nél tárgyalandó latin `nassa` = gallyakból készült halászháló szó.  
+A nyelvészet a [[N/Node\|node]] szónál tárgyalt latin `nodus`-hoz köti, ófrancia közvetítésre gondolva.  
+Hasonló szó az inkább [[N/Net\|net]]-nél tárgyalandó latin `nassa` = gallyakból készült halászháló szó.  
 
 [[L/Lasso\|Lasso]] címnél is szerepelt James Frazer The Golden Bough c. könyvének passzusa:  
 
@@ -36,4 +25,4 @@ Hasonló szó az inkább [[Net\|net]]-nél tárgyalandó latin `nassa` = gallyak
 </div></div>
 
 
-Lásd még [[Knot\|knot]].  
+Lásd még [[K/Knot\|knot]].  

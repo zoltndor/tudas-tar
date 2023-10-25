@@ -1,18 +1,7 @@
 ---
-title: Termite
-aliases:
-  - termite
-  - termesz
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-21T04:17
-dg-updated: 2023-10-21T04:18
-dg_upload_status: Vercel and Netlify done
-date created: 2023-04-07
-date modified: 2023-10-21
+{"dg-publish":true,"permalink":"/T/Termite/","title":"Termite","tags":["dg_uploaded"],"created":"2023-10-21T04:17","updated":"2023-10-25T02:16"}
 ---
+
 
 # Termite
 
@@ -33,25 +22,25 @@ Ami a szófejtést illeti (CzF adata):
 
 > A Termeszek nagy várakat építenek, amikben nagy Termek vannak, innen a `Termes` nevük. A latinnak nincs S hangja, ezért nem is tudta kimondani a magyar szót. A Terem szó alapja a Ter – Csillag, mivel az emberi termekben csillogó világítás volt, amit fáklyákkal értek el.  
 
-A termes levezetés helyességét cáfolni látszik, hogy a szóban szereplő [[M/Mite\|mite]] (métő, [[Métely\|métely]]) szintén féreg, kukac alapjelentésű szó. De persze ez csak véletlen lehet.  
-Ugyanakkor Götz László Keleten kél a Nap című könyvének 153. oldalán szereplő adatai alapján mégis más állatkákkal való konflációt találunk; lásd [[Worm\|worm]].  
+A termes levezetés helyességét cáfolni látszik, hogy a szóban szereplő [[M/Mite\|mite]] (métő, [[M/Métely\|métely]]) szintén féreg, kukac alapjelentésű szó. De persze ez csak véletlen lehet.  
+Ugyanakkor Götz László Keleten kél a Nap című könyvének 153. oldalán szereplő adatai alapján mégis más állatkákkal való konflációt találunk; lásd [[W/Worm\|worm]].  
 
 A latin `termes` nemcsak szút, hanem faágat is jelent. Mely inkább a `termés` szavunkat árulná el. A kukacok a termést rágják meg. (De valójában nem tudjuk meg a valódi asszociációs logikát, vagy hogy a konflációk hogy mennek végbe.)  
-Ha már fa, a [[TER\|TER]] ([[Tree\|tree]]) = fa is megtalálható benne. A lapp [[T/Tiermesz\|Tiermesz]] viharisten (kiről lásd [[MISZ\|MISZ]]) neve is hasonló.  
+Ha már fa, a [[T/TER\|TER]] ([[T/Tree\|tree]]) = fa is megtalálható benne. A lapp [[T/Tiermesz\|Tiermesz]] viharisten (kiről lásd [[M/MISZ\|MISZ]]) neve is hasonló.  
 Lewis Freemantle The Thirteenth Stone című könyvében írja a bennszülött ausztrálokról:  
 > One form in which we find the cosmic tree among the Aborigine is the Tnatantja, a pole reaching from earth to heaven. It was covered in down, which was dispersed by the wind; that which fell to the right changed into men and that which fell to the left changed into women. Later, men slept at its foot. When, later still – the dawn of Pisces – they went to war, they left it in the care of Termite Woman – a Lilith type who sleeps in a termite mound as opposed to a stone. These creatures exist by destroying trees, and all this happened when the people went to war. Under her protection the Tnatantja snapped at its base. Eventually it erected itself again, but it was now prone to falling over. On one occasion it purposely threw itself down at an unnamed ancestor (an Old One). It missed him by the breadth of a 'hair'. He picked it up, shook it violently till it broke in two and dragged it away (as in the epic of Gilgamesh). One part of it grew to become the sacred bloodwood tree. In the Teacher's role as Gilgamesh, at his (spiritual) birth he is rescued by an eagle, a concept likewise found in Australian tradition.  
 
 Talán a legidősebb rovar, lehet, hogy százmillió évvel előzött meg bennünket, s a civilizáció, amit megteremtett, a legrégibb és a legtökéletesebb a Földön. \[VN\] Némi infot lásd még róluk [[R/Rovarok\|rovarok]].  
 
-Számtalan más esetben láttuk, mint [[Giliszta\|giliszta]], [[Kukac\|kukac]], [[Nyű\|nyű]], [[Mouse\|mouse]], [[Rat\|rat]], [[Métely\|métely]], [[M/Mite\|mite]], [[M/Maggot\|maggot]], [[Locust\|locust]], [[Worm\|worm]] és főleg [[Kígyó\|kígyó]] és [[Sárkány\|sárkány]] szavak esetében, hogy e kártevők[^1] vagy – mai szemmel – csúnyaságok neveiben egyáltalán nem érezni negatív hangvételt a magyar nyelv részéről. Ezek a szavak az Aranykor termékei ugyanis. Mintha csak arra várna a magyar, hogy a [[SZAR\|SZAR]] = testi állapotából a [[Szár\|szár]] = fényes állapotába juthasson mihamarabb.  
+Számtalan más esetben láttuk, mint [[G/Giliszta\|giliszta]], [[K/Kukac\|kukac]], [[N/Nyű\|nyű]], [[M/Mouse\|mouse]], [[R/Rat\|rat]], [[M/Métely\|métely]], [[M/Mite\|mite]], [[M/Maggot\|maggot]], [[L/Locust\|locust]], [[W/Worm\|worm]] és főleg [[K/Kígyó\|kígyó]] és [[S/Sárkány\|sárkány]] szavak esetében, hogy e kártevők[^1] vagy – mai szemmel – csúnyaságok neveiben egyáltalán nem érezni negatív hangvételt a magyar nyelv részéről. Ezek a szavak az Aranykor termékei ugyanis. Mintha csak arra várna a magyar, hogy a [[S/SZAR\|SZAR]] = testi állapotából a [[S/Szár\|szár]] = fényes állapotába juthasson mihamarabb.  
 Ezen fenti szavak továbbá mind a fehér, szent fogalmát fejezik ki, valamint a Tejút forgására is utalhatnak. A kártevők illetve élő anyagot ((dög)húst, fát, stb) elpusztító állatok, mint farkas, holló, keselyű, kukac, stb. jó szolgálatot tesznek őseink szemében, akik számára az anyag a bezártság érzését váltotta ki. Ezen gondolatmenet nyomán válik érthetővé, hogy egyes törzsi társadalmakban még talán ma is megeszik meghalt ősüket a fiak.  
 
 #### Péterfai János írja:
 
 > Feltűnő, hogy őseink milyen magasrendű összefüggésekben gondolkodnak a kígyókról, gyíkokról. Egyáltalán nem a félelem vezérli gondolataikat, hanem egy hatalmas világkép megrajzolása. Elképesztő titkok jönnek a felszínre, amint vizsgáljuk őseink történetét, köztük ősatyáink és ősanyáink szabad és leigázhatatlan lelkének jellegzetességeit, amint a tudományossággal eljegyezték magukat.  
 
-[[Halcyon\|Halcyon]] szónál sem a szomorúság, inkább az öröm került kifejezésre.  
-[[SAD#Sad 2)\|Sad]] szóban viszont kimondottan a [[Kali Yuga\|Kali Yuga]] anyagba lehúzó hatása érzékelhető.  
+[[H/Halcyon\|Halcyon]] szónál sem a szomorúság, inkább az öröm került kifejezésre.  
+[[S/SAD#Sad 2)\|Sad]] szóban viszont kimondottan a [[K/Kali Yuga\|Kali Yuga]] anyagba lehúzó hatása érzékelhető.  
 
 ## Lábjegyzetek
 
