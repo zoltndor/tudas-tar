@@ -1,17 +1,7 @@
 ---
-title: Obi-ugor
-aliases:
-  - obi-ugor
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-20T05:16
-dg-updated: 2023-10-20T05:16
-dg_upload_status: Vercel and Netlify done
-date created: 2023-06-14
-date modified: 2023-10-20
+{"dg-publish":true,"permalink":"/O/Obi-ugor/","title":"Obi-ugor","tags":["dg_uploaded"],"created":"2023-10-20T05:16","updated":"2023-10-25T02:04"}
 ---
+
 
 # Obi-ugor
 
