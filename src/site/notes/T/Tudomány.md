@@ -1,24 +1,14 @@
 ---
-title: Tudomány
-aliases:
-  - tudomány
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-05T06:45
-dg-updated: 2023-10-23T03:56
-dg_upload_status: Vercel and Netlify done
-date created: 2023-06-24
-date modified: 2023-10-23
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["dg_uploaded"],"created":"2023-10-05T06:45","updated":"2023-10-25T02:17"}
 ---
+
 
 # Tudomány
 
 A mai tudomány dogmák rabságában tartja az emberiséget. Minden, különösen a történelem- és nyelvtudomány politikai koncepciók szerint, propaganda és ellenpropaganda jelleggel illetve pusztán a tudomány és nem az igazság feltárása kedvéért létezik. Ahogy lentebb is szó esik róla, nem az életet és így a magyarságot/emberiséget sem szolgálja.  
   
 
-Azzal kezdeném, hogy [[Magyar népművészet\|magyar népművészet]] címnél már szerepeltek olyan passzusok, melyek akár ide is tehetők lehettek volna.  
+Azzal kezdeném, hogy [[M/Magyar népművészet\|magyar népművészet]] címnél már szerepeltek olyan passzusok, melyek akár ide is tehetők lehettek volna.  
 
 A 2006. augusztus 7-11-ig tartott XI. Magyar Őskutatási Fórumról az Ősi Gyökér 2006/3. számában számolnak be. Ezen cikkben szerepel kezdésként ...
 
@@ -30,7 +20,7 @@ A 2006. augusztus 7-11-ig tartott XI. Magyar Őskutatási Fórumról az Ősi Gy�
 > A módszer leginkább sérti a történelmünket, hiszen közel másfél évszázada **nincs magyar történelem, hanem csak magyaroknak írt történelem** létezik. Ez a szervetlen, behelyettesíthető koncepció visszavetette az emberi szellemet, s a kemény empiriával kialakított szemléletmód kristályszintre húzta le a szárnyalni is tudó emberi szellemet. A két agyféltekénk működésével világította meg az ember különleges képességét, mely szerint nemcsak a realitások regisztrálására vagyunk képesek (bal agyfélteke), hanem az érzékelhető világon túli rezgések, jelek, képek, üzenetek és ismeretek felfogására is (jobb agyfélteke). Ha csak az egyik oldalt, a kézenfekvőt, az evilágit szolgáljuk, elveszítjük a lelki, szellemi szabadságunkat, a független gondolkodásmódunkat, s a tudományosság nagyképűségével leplezett szolgai állapotba süllyedünk. Ez az út vezette az akadémiát a magyartalanítás vonalára. Ez a magyartalanító módszer nem szemtől szembenállva működik, hanem lóugrásszerűen. A hazugság ellentéte ugyanis nem az igazság, hanem egy ellentétes tartalmú hazugság. Ezek alapján elmondható, hogy van magyar tudomány, amely nem a felszínen működik, hanem, mint a búvópatak, Horváth Istvántól (1820 körül) kezdve sokszor a föld alatt folytatja útját. Pap Gábor Bolyai Üdvtörténetét mutatta be példa gyanánt. Ez a mű a nemzet egyik reprezentatív könyvtárának kézirattárában féltve őrzött anyag, amelyet magyar tudós csak nagy utánjárással kaphat meg helybenolvasásra, mégis hiányzik egy pár fejezete, mert külföldi tudósnak természetesen odaadták, s ez a tudós Einstein volt. A tudomány működési modellje: építő – semmítő – javított. Így működik Einstein. Miránk, magyarokra azonban ez nem vonatkozik, ha a szerves műveltség módszerével dolgozunk és gondolkodunk. Mi, a középső, a 'semmítő' fogalmat kihagyhatjuk, mert nem vagyunk idegen tollakra hagyatkozva. A magyar szellemű tudomány figyelembe veszi a hivatalos tudomány által kikerült (tudományalatti) kérdéseket is, mert a régiek álláspontja alapján tudjuk, hogy a bölcsesség, mely a "tudomány szülőanyja" (régi görög mondás) nem emberi, hanem istenemberi jelenség. Ezért kell mindig a felemelkedést választani.  
 > Minden rosszhiszeműség zárt rendszerben működik, s csak egyfelé nyílik, s az az egy út, amerre kitör, mindig a könnyebb megoldás útja. Az emberek a könnyebb megoldás felé hajlanak, ezt a magatartást rögzítette a [[G/Gresham-törvény\|Gresham-törvény]], mely szerint, ha egy országban kétféle pénz működik egy időben, mindig a silányabb pénznem fog győzni. Az emberek tömege a silány felé nyit.  
 
-A tudományt ma a tekintélytisztelet jellemzi, jegyezte meg [[Kiszely István\|Kiszely István]]. Ezzel nyilván arra utalt, hogy a fehér ember és azok közt is az indo-germán és angolszász felsőbbrendűség és az általuk fémjelzett katonai hatalom határozza meg, ki mennyit ér.  
+A tudományt ma a tekintélytisztelet jellemzi, jegyezte meg [[K/Kiszely István\|Kiszely István]]. Ezzel nyilván arra utalt, hogy a fehér ember és azok közt is az indo-germán és angolszász felsőbbrendűség és az általuk fémjelzett katonai hatalom határozza meg, ki mennyit ér.  
 
 #### Götz László Keleten kél a Nap című könyvében írja:
 
@@ -38,7 +28,7 @@ A tudományt ma a tekintélytisztelet jellemzi, jegyezte meg [[Kiszely István\|
 
 Valóban, ma annyi téves hipotézis van és annyi különböző dobozba zárt elmélet amelyek a keretrendszert jelentik és ezekből a keretekből nehéz kiszabadulni. A legtöbb ember saját elméjének fogja. [[T/Tudomány#A tudomány célja: engedelmes rabszolgák nevelése\|A tudomány célja: engedelmes rabszolgák nevelése]], akik inkább ne akarjanak tág elmével rendelkezni.  
 
-[[Grandpierre Atilla\|Grandpierre Atilla]][^1] írja:  
+[[G/Grandpierre Atilla\|Grandpierre Atilla]][^1] írja:  
 > Mottó: "Az egyes tudományágak csak részleges ablakot nyitnak az őstörténelemre, és e szakterületek specialistái a többi szakterület szakértőinek eredményeit rendszerint figyelmen kívül hagyják. Ezért adódnak a látványos előrejutás számára különösen fényes távlatok, ha a különálló történetek összeszövésével egységes kép születik meg. Ennek egyik kulcseleme, hogy a régészeti és nyelvészeti adat-együttesek csakis a megfelelő körzetben, időszakban és a megfelelő ok, indok alapján kapcsolhatók össze, de akkor viszont rendkívül hatékonyak a begyökerezett mítoszok leküzdésében" (Paul Heggarty, David Beresford-Jones, 2009).  
 
 A tudományágak összeillesztésének nehézségeiről:  
@@ -50,13 +40,13 @@ Másutt:
 > A természettudományok nyugati felosztása hibás. A fizika, biológia, pszichológia hármassága hallgatólagosan feltételezi, hogy az élet lélektelen, és a lélek egy más, külön világhoz tartozik. A valóságban az élet hatóerőit, okozati erejét az érzések és gondolatok jelentik, tehát a lélek és az értelem tudománya az, ami az anyag tudománya mellett a természettudomány másik két alapvető tudománya; ezeket nevezzük átfogó biológiának és pszichológiának.
 - Hasonló sorai több más címnél szerepeltek.  
 
-Előadásának bevezetőjében pedig ([[Vallás\|vallás]] címnél, külön alcímnél is szerepelt):  
+Előadásának bevezetőjében pedig ([[V/Vallás\|vallás]] címnél, külön alcímnél is szerepelt):  
 > "...A mai időket sújtó minden katasztrófának éa nyomornak végső oka a világegyetemről alkotott \[megfelelő – G. A.\] elmélet hiánya," írja Albert Schweitzer (1923. XV).  
 > "Legbensőbb meggyőződéseink az életről és a világról alkotott felfogásunkból adódnak. Annyira válunk képessé arra az egyetemes szellemi és anyagi haladásért munkálkodásra amit civilizációnak nevezünk, amennyire megerősítjük hogy a világ és az élet valamiféle jelentéssel, értelemmel bír," írta Albert Schweitzer.  
-- A megoldást is megadja; lásd [[Materializmus\|materializmus]].  
+- A megoldást is megadja; lásd [[M/Materializmus\|materializmus]].  
 
-A tudomány átka, hogy kénytelenek vagyunk bizonyos terminusokhoz ragaszkodni, úgy is, hogy tudjuk vagy tudni való, hogy egyes címkék mögött nincs is történelmi valóság. Például magát [[Szkíta\|szkíta]] néven illető nép nem létezett, azok hunok/magyarok voltak (de átalakultak és ezért egyszerűbb számunkra is egy új azonosítás használata), proto-indoeurópai nyelvet beszélő népek szintén nem léteztek.  
-Amit a [[Selyemút\|Selyemút]] kapcsán GA (ott bevezetőben) ír, úgy értelmezendő, hogy a Selyemút egy újabb kori civilizációs vívmány, de a hatalmas Pusztán korábban is volt élet és közlekedés, de még egyelőre feltáratlan.  
+A tudomány átka, hogy kénytelenek vagyunk bizonyos terminusokhoz ragaszkodni, úgy is, hogy tudjuk vagy tudni való, hogy egyes címkék mögött nincs is történelmi valóság. Például magát [[S/Szkíta\|szkíta]] néven illető nép nem létezett, azok hunok/magyarok voltak (de átalakultak és ezért egyszerűbb számunkra is egy új azonosítás használata), proto-indoeurópai nyelvet beszélő népek szintén nem léteztek.  
+Amit a [[S/Selyemút\|Selyemút]] kapcsán GA (ott bevezetőben) ír, úgy értelmezendő, hogy a Selyemút egy újabb kori civilizációs vívmány, de a hatalmas Pusztán korábban is volt élet és közlekedés, de még egyelőre feltáratlan.  
 A tudományra egyébként is jellemző, hogy nehezen enged el dolgokat és mindig kis lépésekben lehet előre haladni/elfogadtatni az újat/régebbit/turáni igazságot.  
 
 [Ezen](https://youtu.be/8u70Qq1VIv8) Szemléletváltás – Tudományos tévút 1. rész című Ne Legyen Áldozatos videóban is szó van a témáról (lábjegyzetben[^2] lásd a videó tanulságos deskripcióját ill. fülszövegét).  
@@ -64,7 +54,7 @@ Már a kezdés is fontos/érdekes, mert kérdéseket olvas fel (ki dönti el, mi
 5:50: Ki tudja meghatározni, mi a tudomány? Hát a tudomány. Tudomány az, amit a tudomány tudománynak minősít. Ezt úgy nevezzük a logikában, hogy *idem per idem* azaz "azzal bizonyítok, amit kellene bizonyítanom[^3]."  
 8:55: A tudományos eredmények cenzúrájáról beszél. Mi az ami bevethető és mi az ami nem. A tudomány mindig ott tart, a "hadművészet" szolgálatában, ahol a legutolsó eredményét produkálta \[valójában vissza van tartva ahhoz képest\].  
 A következő, negyedik kérdés (videó közepén): A tudomány berkeiben létezik-e tabu, amiről nem szabad vagy nem illik beszélni? A magasabb szerveződési vonalban a korlátozás ágensében a háttérhatalmat nevezi meg (ahogy mondja, egyelőre talán büntetlenül). (Itt a finnugrizmussal hosszasabban foglakozik.)  
-Utána a [[Glatz Ferenc\|Glatz Ferenc]]es élményéről szólva szól a Magyartanító Akadémiáról.  
+Utána a [[G/Glatz Ferenc\|Glatz Ferenc]]es élményéről szólva szól a Magyartanító Akadémiáról.  
 Majd ezután a tudomány politika általi befolyásoltsága a téma.  
 Ha a felülről meghatározott érdekekkel nem egyezik a tudomány, akkor akár örökre elhallgattatnak Nobel díjast is (Covid téma kapcsán talán a francia öregre gondol, vagy a PCR tesztes figurára). "Véletlen öngyilkosságok" is történtek orvosok között (talán például Gargyajevre gondol Tímár László), mert más volt a véleményük.  
 Azzal zárja, hogy az igazság kikerül a tárgyalásmenetből. Ilyen például a jogrendszer. A háttérhatalomnak bármikor az igazság ellen bizonyhatóság révén döntésbefolyásoló képessége van.  
@@ -75,8 +65,8 @@ Azzal zárja, hogy az igazság kikerül a tárgyalásmenetből. Ilyen például 
 
 Ki autentikus? (Who's fact-checking the fact-checkers?)  
 
-[[Judeo-kereszténység#Judeo-keresztény univerzalitás\|Judeo-keresztény univerzalitás]] cím/alcímnél is volt róla szó.  
-A mai nézet szerint a [[Pogány\|pogány]] annyi, mint hitetlen vagy nem-keresztény (és ezért hitetlen). A **hit ügyeit kezébe vevő katolikus egyház szempontjá**ból nézve nem találjuk az igazságot.  
+[[J/Judeo-kereszténység#Judeo-keresztény univerzalitás\|Judeo-keresztény univerzalitás]] cím/alcímnél is volt róla szó.  
+A mai nézet szerint a [[P/Pogány\|pogány]] annyi, mint hitetlen vagy nem-keresztény (és ezért hitetlen). A **hit ügyeit kezébe vevő katolikus egyház szempontjá**ból nézve nem találjuk az igazságot.  
 Ahogy ...
 
 #### John G. Jackson Christianity before Christ...
@@ -84,26 +74,26 @@ Ahogy ...
 ...című könyvében is jól megfogalmazza:  
 > Many Christians denounce Paganism as false religion. If this is correct, then Christianity is also false, for it is of pagan origin, and if one is not true, then neither is the other.  
 
-[[Geocentrikus világkép\|Geocentrikus világkép]] címnél volt szó arról, hogy "ha a görög nem tudta, mi kering mi körül, akkor senki sem tudta." **Görög-centrista felfogás**.  
+[[G/Geocentrikus világkép\|Geocentrikus világkép]] címnél volt szó arról, hogy "ha a görög nem tudta, mi kering mi körül, akkor senki sem tudta." **Görög-centrista felfogás**.  
 
-Ha [[Columbus\|Columbus]] nem tudta (dehogynem) vagy Nyugat-Európa nem tudta, hogy Amerika létezik, akkor senki sem tudta; felfedezték ([[Janus Pannonius\|Janus Pannonius]] tudta). **Euro-centrista felfogás** (egyes amerikai földrészről valók ki is kérik maguknak).
+Ha [[C/Columbus\|Columbus]] nem tudta (dehogynem) vagy Nyugat-Európa nem tudta, hogy Amerika létezik, akkor senki sem tudta; felfedezték ([[J/Janus Pannonius\|Janus Pannonius]] tudta). **Euro-centrista felfogás** (egyes amerikai földrészről valók ki is kérik maguknak).
 
-**Hanyatlott buta felfogás** a férfi nemző szerepét nem ismerni, ahogy [[Anyakultusz – apakultusz\|anyakultusz – apakultusz]] illetve [[Nő és férfi\|nő és férfi]] címnél szóltunk róla. (A [[Szeplőtelen fogantatás\|szeplőtelen fogantatás]] csodának vétele is hasonló eset.)  
+**Hanyatlott buta felfogás** a férfi nemző szerepét nem ismerni, ahogy [[A/Anyakultusz – apakultusz\|anyakultusz – apakultusz]] illetve [[N/Nő és férfi\|nő és férfi]] címnél szóltunk róla. (A [[S/Szeplőtelen fogantatás\|szeplőtelen fogantatás]] csodának vétele is hasonló eset.)  
 
-**Finnugrista kommunista buta felfogás** a sehonnan származtatható [[Magyar nyelv ismeretlen eredetű szavai\|magyar szavakat ismeretlen eredetűnek]] besorolni. Számára ismeretlen, mert nem ér fel arra a szintre, hogy pl. egy [[Tölgy\|tölgy]] szót értelmezni tudjon.  
+**Finnugrista kommunista buta felfogás** a sehonnan származtatható [[M/Magyar nyelv ismeretlen eredetű szavai\|magyar szavakat ismeretlen eredetűnek]] besorolni. Számára ismeretlen, mert nem ér fel arra a szintre, hogy pl. egy [[T/Tölgy\|tölgy]] szót értelmezni tudjon.  
 
-**Zsidó-centrista felfogás**, hogy [[Nimrud\|Nimrud]]/Nimród "Isten" ellen harcolt; nem Isten volt az, hanem [[Jahve\|Jahve]], a zsidó isten, keresztény/szkíta-keresztény szempontból a [[Sátán\|Sátán]].  
-Egy másik idevehető zsidó téma, hogy pont a zsidó isten hozza a(z egyébként is egyiptomi eredetre visszavezetett) [[Tízparancsolat\|Tízparancsolat]]ot (ráadásul a legmocskosabb korban, helyen és negációkban). (Azaz amíg a "Szentírás"-ban nem jelenik meg a "Ne ölj" és más, ún. [[Tízparancsolat\|Tízparancsolat]]ban is leközölt "isteni" utasítás, parancs, addig ezek szerint mindenki mindenhol olyan barbár módra élt volna, mint az isteni teremtést követő ember által végzett munkát megunva, a sátáni lebontó erőt követendő példának tartva, rablásra és uzsorára berendezkedett ószövetségi népek (közüli szemiták).  
+**Zsidó-centrista felfogás**, hogy [[N/Nimrud\|Nimrud]]/Nimród "Isten" ellen harcolt; nem Isten volt az, hanem [[J/Jahve\|Jahve]], a zsidó isten, keresztény/szkíta-keresztény szempontból a [[S/Sátán\|Sátán]].  
+Egy másik idevehető zsidó téma, hogy pont a zsidó isten hozza a(z egyébként is egyiptomi eredetre visszavezetett) [[T/Tízparancsolat\|Tízparancsolat]]ot (ráadásul a legmocskosabb korban, helyen és negációkban). (Azaz amíg a "Szentírás"-ban nem jelenik meg a "Ne ölj" és más, ún. [[T/Tízparancsolat\|Tízparancsolat]]ban is leközölt "isteni" utasítás, parancs, addig ezek szerint mindenki mindenhol olyan barbár módra élt volna, mint az isteni teremtést követő ember által végzett munkát megunva, a sátáni lebontó erőt követendő példának tartva, rablásra és uzsorára berendezkedett ószövetségi népek (közüli szemiták).  
 
-**Az afro-centrista felfogás**, azaz a Darwin-féle vagy az ő kutatási eredményeivel visszaélők felfogása szerint Afrikából származunk (kapóra jön, hogy ott sok a majom), sőt, egyes elméletek szerint az [[Etióp\|etióp]]oknak kellene minden kultúrát megköszönni, akikre egyesek-mások azt mondják, hogy ők voltak az igazi zsidók. Értjük mi.  
+**Az afro-centrista felfogás**, azaz a Darwin-féle vagy az ő kutatási eredményeivel visszaélők felfogása szerint Afrikából származunk (kapóra jön, hogy ott sok a majom), sőt, egyes elméletek szerint az [[E/Etióp\|etióp]]oknak kellene minden kultúrát megköszönni, akikre egyesek-mások azt mondják, hogy ők voltak az igazi zsidók. Értjük mi.  
 
-Elválasztják az [[Evolúció\|evolúció]]t az [[Kreacionizmus\|isteni teremtés]]től, holott itt sem vagy-vagyban, hanem is-isben kell gondolkodni.  
+Elválasztják az [[E/Evolúció\|evolúció]]t az [[K/Kreacionizmus\|isteni teremtés]]től, holott itt sem vagy-vagyban, hanem is-isben kell gondolkodni.  
 
 Még az előzőekre visszatérve, az evolúció elmélet és minden más elmélet a **progresszivista felfogás**, mely szerint minden fejlődik, az ember is a majomból milyen messzire jutott, most már a transzhumanizmus a következő szint.  
-Felfelé ível a görbénk, ami egyenes, mert lineáris a gondolkodás, dacára annak, hogy a természet rendje szerint az élet körszerű; nem lehet lineáris. Így a [[Kali Yuga\|Kali Yuga]] borzalmaira, amit át kell élnünk, nincsen felkészítve az emberiség (de legalábbis az a Nyugat, amihez mi is tartozunk, nincs, nem is hallott róla).  
+Felfelé ível a görbénk, ami egyenes, mert lineáris a gondolkodás, dacára annak, hogy a természet rendje szerint az élet körszerű; nem lehet lineáris. Így a [[K/Kali Yuga\|Kali Yuga]] borzalmaira, amit át kell élnünk, nincsen felkészítve az emberiség (de legalábbis az a Nyugat, amihez mi is tartozunk, nincs, nem is hallott róla).  
 
-[[Nyelvészet mint tudomány\|Nyelvészet mint tudomány]] címnél pedig arról szóltunk, hogy a szavak írott megjelenése számít (a tudomány szerint).  
-Azóta [[Népetimológia\|népetimológia]] címnél, külön alcímnél továbbmentünk.  
+[[N/Nyelvészet mint tudomány\|Nyelvészet mint tudomány]] címnél pedig arról szóltunk, hogy a szavak írott megjelenése számít (a tudomány szerint).  
+Azóta [[N/Népetimológia\|népetimológia]] címnél, külön alcímnél továbbmentünk.  
 
 ## Tudományok valláspolitikai befolyásoltsága
 
@@ -111,7 +101,7 @@ Már PJI és mások is írtak róla.
 
 #### Robert Graves The White Goddess...
 
-...című könyvében írja (240-242. oldal) ([[Hazug\|hazug]] címnél is szerepelt):  
+...című könyvében írja (240-242. oldal) ([[H/Hazug\|hazug]] címnél is szerepelt):  
 > St. Paul quoted a Greek proverb: 'All Cretans are liars'. They were called liars for the same reason that poets are: because they had a different way of looking at things. Particularly because they remained unmoved by Olympian propaganda, which for the previous thousand years or so had insisted on an Eternal, Almighty, Just Father Zeus-Zeus who had swept away with his thunderbolt all the wicked old gods and established his shining throne for ever on Mount Olympus. The True Cretans said: 'Zeus is dead. His tomb is to be seen on one of our mountains.' This was not spoken with bitterness. All that they meant was that ages before Zeus became an Eternal Almighty God in Greece, he had been a simple old-fashioned Sun-king, annually sacrificed, a servant of the Great Goddess, and that his remains were customarily buried in a tomb on Mount Juktas.  
 > They were not liars. There was no Father God in Minoan Crete and their account squares with the archaeological finds recendy made on that very mountain. The Pelasgians of Leros had much the same reputation as the Cretans, but seem to have been even more obdurate in their attachment to ancient tradition, to judge from the Greek epigram: 'The Lerians are all bad, not merely some Lerians, but every one of them-all except Procles, and of course he is a Lerian too.'  
 > The early Welsh and Irish historians are also generally regarded as liars because their ancient records are dated to uncomfortably early times and do not square either with conventional Biblical dates or with the obstinate theory that until Roman times the inhabitants of all the British Isles were howling savages who had no native art or literature at all and painted themselves blue. \[...\]  
@@ -123,8 +113,8 @@ Már PJI és mások is írtak róla.
 
 ## Tudományosság szintje és a hátráltató erők
 
-[[Indogermán nyelvészet#Homogén ős-indogermán alapnyelv kikövetkeztetett szavainak képtelensége\|Ezen]] helyen is ezen sorokkal vezettük elő:  
-A homogén szóra annyiban térjünk ki, hogy a tudomány mindig prekoncepciók alapján feltételez valamit és azt kívánja bizonyítani. Olyat nem tud bizonyítani, amit korábban meg nem fogalmazott volna irányelvként. A homogén ősi indoeurópai nyelv körülbelül hasonló "kívánság" a részükről, mint amilyen (szabályos) körnek vagy körszerűnek képzelik más tudósaink a precessziós [[Nagy Év\|Nagy Év]] körét (holott az elnyújtott elliptoid lehet).  
+[[I/Indogermán nyelvészet#Homogén ős-indogermán alapnyelv kikövetkeztetett szavainak képtelensége\|Ezen]] helyen is ezen sorokkal vezettük elő:  
+A homogén szóra annyiban térjünk ki, hogy a tudomány mindig prekoncepciók alapján feltételez valamit és azt kívánja bizonyítani. Olyat nem tud bizonyítani, amit korábban meg nem fogalmazott volna irányelvként. A homogén ősi indoeurópai nyelv körülbelül hasonló "kívánság" a részükről, mint amilyen (szabályos) körnek vagy körszerűnek képzelik más tudósaink a precessziós [[N/Nagy Év\|Nagy Év]] körét (holott az elnyújtott elliptoid lehet).  
 Azaz **az ember a jelenlegi csillagászati kor gyarló szülöttjeként – lásd regresszióra való utalást lejjebb – csak bizonyos szintig képes felfogni és feltárni a dolgokat**, és mivel ezen **korlátaival nincs tisztában**, így homogenizál, általánosít, extrapolál, tudálékos és egyéb módon vezeti félre magát és mindenkit, és tekintve hogy nem egyszer politikai/nagyhatalmi igényeket is kielégít ezzel, szándékai is megkérdőjelezhetők.  
 
 Azaz az is kérdés, hogy a hozzá nem értés vagy a szándékos hátráltatás, a gyarmattartó paraziták boldoggá tétele határozza meg-e a tudomány és tudományosság jelenlegi szintjét.  
@@ -134,7 +124,7 @@ Azaz az is kérdés, hogy a hozzá nem értés vagy a szándékos hátráltatás
 ...nem fogalmaz olyan élesen, mint én tenném, de van igazsága:  
 > Kréta egy olyan ország, ahol a magyarok írása sok ezer felirattal rendelkezik, mégis a sok jól felkészült kutató nem volt képes felismerni a feliratok magyar nyelvűségét. Mi ennek az oka? Talán a magyar írás nem ismerete? Vagy a magyar írás ellen való összefogás, ami alapján a tényeket meghamisítják a régészek? Azt kell gondolni, hogy a háttérben mindig a tudatlanság, a nemtörődömség húzódik meg. Nem a rosszindulat, nem a hamisítási kényszer, hanem egyszerűen a mérhetetlen tunyaság, a hatalmas önigazolási kényszer, ami szerint egy görög önmaga eredete, holott pár ezer éve nem létezett, és ezt a fogalmat ki kell vetíteni a Föld teljes felszínére.  
 
-[Ezen](https://youtu.be/nm0RbK1NX_o) Pap Gábor által tartott Bakócz Tamásról, Mediciekről, Fuggerekről, Dózsa Györgyről szóló előadásásban 36:50-nél mondja, hogy a Medici féle pápák trónolásával kezdődik meg a diadalútjuk: a [[Bank\|bank]] betört a szellemi világba és annak is abszolút irányítójá vált.  
+[Ezen](https://youtu.be/nm0RbK1NX_o) Pap Gábor által tartott Bakócz Tamásról, Mediciekről, Fuggerekről, Dózsa Györgyről szóló előadásásban 36:50-nél mondja, hogy a Medici féle pápák trónolásával kezdődik meg a diadalútjuk: a [[B/Bank\|bank]] betört a szellemi világba és annak is abszolút irányítójá vált.  
 
 ## A tudomány célja: engedelmes rabszolgák nevelése
 
@@ -165,25 +155,25 @@ Azaz az is kérdés, hogy a hozzá nem értés vagy a szándékos hátráltatás
 > And if I were to tell you that the root of the word 'science' is (officially) shown to be a cognate with words meaning 'shit,' 'secret' and 'dissecting' (with no idea what the *holy whole* looked like), would you be more game?  
 > Scientists of today (from the Greco-Roman days onwards) go about their analytical ways: they dissect and don't care about Holy/"Wholly" Science (Plato's tutors knew much more, those magical Scythians). These people today, sucking the tits and other protruding parts off so-called cultural greats that are supposed to be the three pillars of European-Neo-American civilization, have no intention to connect you to the Whole, to your roots. To where you came from. They are being progressive about it. **Everything must be shown to be progressive. In reality, we are regressing. It is partly to do with how the solar system works**. We're part of that system, with Earth and all. Reclaim your part in that cosmic wholeness. That is the only way out. Regress back to greatness so we can come full circle again. In the meantime, keep dodging the obstacles in an effort to outlast all the wrong-doers, them and their unassuming minions (you with your egos) – in the Age of Swindlers.  
 > As I wrote in a recent answer, a war is being waged for controlling the consciousness of humanity.  
-- Azt persze hozzá kell tenni (és akár jó lett volna az angol szöveget is átírni, de a sok nyelvészeti okoskodás eredménye az lenne, hogy szómágiával vádolják az embert), hogy a [[Science\|science]] szónak csak hivatalosan vagy indo-európai gondolkodással lehetne a többi szót összekötni (ugyanakkor a magyarban is a szarás széklet).
+- Azt persze hozzá kell tenni (és akár jó lett volna az angol szöveget is átírni, de a sok nyelvészeti okoskodás eredménye az lenne, hogy szómágiával vádolják az embert), hogy a [[S/Science\|science]] szónak csak hivatalosan vagy indo-európai gondolkodással lehetne a többi szót összekötni (ugyanakkor a magyarban is a szarás széklet).
 
 A science szó eredetének meghatározott `scire` latin igéjét ugye szétszed jelentésű alapszóra viszik vissza hivatalosan is.  
-Persze az is lehet, hogy nem a latin igét kellene visszafejteni, hanem egy főnevet, ami épp a `scientia` = tudomány is lehet, mely [[Szent\|szent]] szavunkra hívja fel a figyelmet. A tudomány ugyanis fentről kezdve értendő. Eredetileg a tudomány szent és egységbe kapcsoló volt, majd profanizálásával, az isteni szemlélet helyett sátáni szemlélettel való hozzáállással látjuk mi lett belőle.  
+Persze az is lehet, hogy nem a latin igét kellene visszafejteni, hanem egy főnevet, ami épp a `scientia` = tudomány is lehet, mely [[S/Szent\|szent]] szavunkra hívja fel a figyelmet. A tudomány ugyanis fentről kezdve értendő. Eredetileg a tudomány szent és egységbe kapcsoló volt, majd profanizálásával, az isteni szemlélet helyett sátáni szemlélettel való hozzáállással látjuk mi lett belőle.  
 
 Arról is szólni kellett volna, hogy az emberek nem tanulják meg a dolgok logikáját, nem értik mi miért van, így hasonlóságokat sem vehetnek észre. Felszínes és hibás a tudásuk. De nem is az a cél, hogy értsék az összefüggéseket, hanem inkább az, hogy például a történelemben kinevezzenek főgonoszokat és bármennyire is kevés igazságot is tudunk róluk, csak azokat a dolgokat ismétlik, melyekkel tudatalattinkra ható módon beprogramoznak.  
 Tulajdonképpen vak hitre kényszerítenek. Max Igan is egy előadásában elmondja, hogy a hit szubjektív. Teljesen értelmetlen és kontraproduktív ráerőltetni hitrendszerét valakinek a másikra. Ha pedig nincs valós tudás (abszolút igazság), akkor addig a szubjektívumokat ütköztetik az emberek (KT is hasonlóan szólt arról, hogy a vélemények ütköztetése zajlik ma, és nem az igazság megtalálása a cél).  
-Igan arra buzdít, hogy ne akarjunk bizonyossággal kimondani dolgokat (mert ez hitrendszerünk a másikra való ráerőltetésével járna), hanem inkább vessük fel, így is lehet/lehetett, ugyanakkor nyugati emberek valóban nem is tudnak sok dologról, ami a magyar számára evidencia (kellene legyen) (ez a sor [[Véleménynyilvánítás\|véleményalkotás]] címhez is betéve).  
+Igan arra buzdít, hogy ne akarjunk bizonyossággal kimondani dolgokat (mert ez hitrendszerünk a másikra való ráerőltetésével járna), hanem inkább vessük fel, így is lehet/lehetett, ugyanakkor nyugati emberek valóban nem is tudnak sok dologról, ami a magyar számára evidencia (kellene legyen) (ez a sor [[V/Véleménynyilvánítás\|véleményalkotás]] címhez is betéve).  
 
 ## Tudománytalanság
 
-Az [alábbi](https://youtu.be/_9sc6rN-Rpk) Anunnakik az ősforrásokban 3. rész című ÁKA előadásban KT 1:49:37-nél sorolja fel azokat a neveket, akik az ősforrásokat nem használják és egy kifordított, tudományos/tudománytalan-fantasztikus, földönkívüli eredettel átitatott, zsidós képet adnak a múltról és akik követése veszélyes és magyar számára tilos: a kipécézett Michael Tellinger mellett felsorolja [[Sitchin, Zecharia\|Sitchin, Zecharia]], Graham Hancock, Erich von Dänicken, Jim Marrs, Robert Temple, David Wilcock, Dr. Seven Greer, Stanton Friedman, Andrew Collins, Klaus Dona, Valerij Uvarov, Semir Osmanagic, Credo Mutwa, Johan Heine, Dan Burisch, Jordan Maxwell, Drunvalo Melchizedek, Bob Dean, Kerry Cassidy neveit.  
+Az [alábbi](https://youtu.be/_9sc6rN-Rpk) Anunnakik az ősforrásokban 3. rész című ÁKA előadásban KT 1:49:37-nél sorolja fel azokat a neveket, akik az ősforrásokat nem használják és egy kifordított, tudományos/tudománytalan-fantasztikus, földönkívüli eredettel átitatott, zsidós képet adnak a múltról és akik követése veszélyes és magyar számára tilos: a kipécézett Michael Tellinger mellett felsorolja [[S/Sitchin, Zecharia\|Sitchin, Zecharia]], Graham Hancock, Erich von Dänicken, Jim Marrs, Robert Temple, David Wilcock, Dr. Seven Greer, Stanton Friedman, Andrew Collins, Klaus Dona, Valerij Uvarov, Semir Osmanagic, Credo Mutwa, Johan Heine, Dan Burisch, Jordan Maxwell, Drunvalo Melchizedek, Bob Dean, Kerry Cassidy neveit.  
 Ezután felhívja a figyelmet a tudománytalan fogalomkészletben újra és újra felbukkanó kifejezésekre: csillagkapu, szintetikus lények, okkult tudás, rezgés növekedés, vibrációs frekvencia spektrum, kőgyűrűk hangja, földönkívüli aranybányászata, börtönbolygó, Isten rabszolgafajai, ősi géntechnológia, klónozott faj, hüllő-ember, Anunnaki > homo sapiens transzmutáció, Anunnakik ősi romjai, ley-vonalak, csatornázott info, energia-csatornázás, teleportáló kövek, lélek teleportáció, test-jármű, időutazó, monoatomikus arany.  
 
 Mint látjuk, KT sok olyan dolgot elutasít, melyeket nem ismer vagy csak egyszerűen óvatosságra int a magyarkutatásban gondot okozó veszélyességükkel kapcsolatban.  
 
 ## A tudomány(t állítólag képviselők) és a benne/bennük vakon megbízók bélyegeiről
 
-Nehéz megbotránkoztatóbb állítással előállni tudományos körökben, mint hogy az [[Egyiptomi nyelv\|egyiptomi nyelv]] magyarul olvasható.  
+Nehéz megbotránkoztatóbb állítással előállni tudományos körökben, mint hogy az [[E/Egyiptomi nyelv\|egyiptomi nyelv]] magyarul olvasható.  
 
 #### Borbola János Ősmagyarul...
 
@@ -191,7 +181,7 @@ Nehéz megbotránkoztatóbb állítással előállni tudományos körökben, min
 > A partvonalról azonnal megszólalt az ellentábor, és gyakran útszéli stílusban, lehengerlő bekiabálásaikkal ízekre szedték az esetleg hely szűkében ismertetett értékes gondolatokat. *Tudatlansáááág*, *dilettantizmuuuus*, *félrevezetéééés*, *délibábos népbutítáááás*, a nemzeti tudat kóros elferdítése..., na meg a szerzők ideggyógyászati kezelésre utalása, sőt az MTA megrovó véleménye mellett, az akkor érvényes büntetőjogi törvénycikkek felsorakoztatása volt a válasz.  
 > Ugyanakkor az elődök tapasztalata alapján kiderült, hogy ezen az úton nem lehet az ellenfelek akadályait, az elhallgatást, a megbélyegzést, a terjesztés nehézségeit, a tilalomfákat áthidalni.  
 
-Lásd még [[M/Megtévesztés\|megtévesztés]]. Lásd még [[Történelemhamisítás\|történelemhamisítás]].  
+Lásd még [[M/Megtévesztés\|megtévesztés]]. Lásd még [[T/Történelemhamisítás\|történelemhamisítás]].  
 
 ## Lábjegyzetek
 
