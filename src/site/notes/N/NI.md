@@ -1,21 +1,7 @@
 ---
-title: NI
-aliases:
-  - Ni
-  - ni
-tags:
-  - titleandheadingonedontmatch
-  - multipleentries
-  - stitched
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-09T04:33
-dg-updated: 2023-10-16T04:00
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-16
+{"dg-publish":true,"permalink":"/N/NI/","title":"NI","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded"],"created":"2023-10-09T04:33","updated":"2023-10-25T02:00"}
 ---
+
 
 # NI 1)
 
@@ -28,7 +14,7 @@ De a szanszrkit nyelvben is a -ni végződés mutat a női nemre; például a ko
 
 Az ainu `ni` = fa (faanyag is) nyilván nő, né, ni alakjával az Életfa nevére utaló név lehet.  
 
-Ni viszont lehet azért földre utaló, mert az anyagot és nem a fényt testesíti meg: lásd erről [[Nix\|nix]]. Persze az érmének két oldala van: lásd még [[NISZ\|NISZ]].  
+Ni viszont lehet azért földre utaló, mert az anyagot és nem a fényt testesíti meg: lásd erről [[N/Nix\|nix]]. Persze az érmének két oldala van: lásd még [[N/NISZ\|NISZ]].  
 
 # Ni 2)
 
