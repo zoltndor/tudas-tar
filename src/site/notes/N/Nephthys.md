@@ -3,8 +3,6 @@
 ---
 
 
-
-
 # Nephthys
 
 #### Péterfai János írja:
