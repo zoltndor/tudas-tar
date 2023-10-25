@@ -1,23 +1,13 @@
 ---
-title: Ob
-aliases:
-  - 
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-20T05:14
-dg-updated: 2023-10-20T05:14
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-20
+{"dg-publish":true,"permalink":"/O/Ob/","title":"Ob","tags":["dg_uploaded"],"created":"2023-10-20T05:14","updated":"2023-10-25T02:03"}
 ---
+
 
 # Ob
 
-Jankovics Marcell Jelkép-kalendárium című könyvének Szent Orsolyáról szóló fejezetében is jól láttatja, hogy az [[O/Obi-ugor\|obi-ugor]] Ob is Tejútfolyam. Lásd passzusát [[Folyó\|folyó]].  
+Jankovics Marcell Jelkép-kalendárium című könyvének Szent Orsolyáról szóló fejezetében is jól láttatja, hogy az [[O/Obi-ugor\|obi-ugor]] Ob is Tejútfolyam. Lásd passzusát [[F/Folyó\|folyó]].  
 
-Mellesleg jegyezzük meg, hogy az Ob mellett meg ott az [[EB\|Eb]].
+Mellesleg jegyezzük meg, hogy az Ob mellett meg ott az [[E/EB\|Eb]].
 
 Lásd Ob eredetét [[A/AB#^4ea729\|AB]], illetve...
 
@@ -30,4 +20,4 @@ Lásd Ob eredetét [[A/AB#^4ea729\|AB]], illetve...
 
 > Castren szerint még ma is a siberiai ostjákok az Obi folyóvizet leginkább tisztelik, azt mi anyánknak nevezik, az a mi istenünk ki táplál minket (Bülletin des sciences ect. Petersb. t. III. Nro. 67. 68). ([Lásd 94. old.](zotero://open-pdf/library/items/DFI47XPY?page=94&annotation=V595L34N))  
 
-Az Ob név meg is felel víznek (AB, ap), de ugyanakkor az [[Apa\|apa]] névnek is.  
+Az Ob név meg is felel víznek (AB, ap), de ugyanakkor az [[A/Apa\|apa]] névnek is.  
