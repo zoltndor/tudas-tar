@@ -1,19 +1,9 @@
 ---
-title: Piros
-aliases:
-  - piros
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-04T12:50
-dg-updated: 2023-10-04T12:55
-dg_upload_status: Vercel and Netlify done
-date created: 2022-12-14
-date modified: 2023-10-04
+{"dg-publish":true,"permalink":"/P/Piros/","title":"Piros","tags":["dg_uploaded"],"created":"2023-10-04T12:50","updated":"2023-10-25T02:06"}
 ---
+
 
 # Piros
 
 Tkp. [[P/Pír\|pír]]os rövid ejtéssel: piros.  
-Lásd még [[PUR\|PUR]].  
+Lásd még [[P/PUR\|PUR]].  
