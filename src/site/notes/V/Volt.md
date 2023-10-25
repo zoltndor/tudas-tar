@@ -1,25 +1,15 @@
 ---
-title: Volt
-aliases:
-  - volt
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-08T01:51
-dg-updated: 2023-10-08T01:51
-dg_upload_status: Vercel and Netlify done
-date created: 2023-04-07
-date modified: 2023-10-08
+{"dg-publish":true,"permalink":"/V/Volt/","title":"Volt","tags":["dg_uploaded"],"created":"2023-10-08T01:51","updated":"2023-10-25T02:23"}
 ---
+
 
 # Volt
 
-Többféleképpen értelmezhető volt szavunk. Egyrészt M>V váltással kijön [[Múlt\|múlt]] szavunkból, másrészt megfelel a forgásra utaló [[V/Vált\|vált]] szavunknak is, ahogy [ezen](https://qr.ae/pKIRyJ) Quora válaszban[^1] is szerepelt.  
+Többféleképpen értelmezhető volt szavunk. Egyrészt M>V váltással kijön [[M/Múlt\|múlt]] szavunkból, másrészt megfelel a forgásra utaló [[V/Vált\|vált]] szavunknak is, ahogy [ezen](https://qr.ae/pKIRyJ) Quora válaszban[^1] is szerepelt.  
 [[B/Bolt\|Bolt]] pedig az égbolt, ami (illetve rajta a csillagok) szintén forog(nak).  
 
-Ugyanakkor a [[T\|T]] a múlt idő jele is. Ezek szerint vol- kereshető lenne jelen idős jelentéssel? [[Bál\|Bál]] és [[BUL\|bul]] nevek vannak a hasonlóak közül.  
-Ugyebár az idő folyása ([[Folyó\|foly-]] szintén ilyen alakú szó!) vagy sziderikusan vagy tropikusan (szolárisan) követhető. Az pedig alapvető a magyar nyelv szavai logikáját tekintve, hogy a Nap-Föld relációra épít.  
+Ugyanakkor a [[T/T\|T]] a múlt idő jele is. Ezek szerint vol- kereshető lenne jelen idős jelentéssel? [[B/Bál\|Bál]] és [[B/BUL\|bul]] nevek vannak a hasonlóak közül.  
+Ugyebár az idő folyása ([[F/Folyó\|foly-]] szintén ilyen alakú szó!) vagy sziderikusan vagy tropikusan (szolárisan) követhető. Az pedig alapvető a magyar nyelv szavai logikáját tekintve, hogy a Nap-Föld relációra épít.  
 
 ## Lábjegyzetek
 
