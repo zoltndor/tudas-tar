@@ -1,22 +1,12 @@
 ---
-title: Vámbéry Ármin
-aliases:
-  - 
-tags:
-  - dg_uploaded
-share: true
-dg-publish: true
-dg-created: 2023-10-13T05:10
-dg-updated: 2023-10-13T05:10
-dg_upload_status: Vercel and Netlify done
-date created: 2023-06-16
-date modified: 2023-10-13
+{"dg-publish":true,"permalink":"/V/Vámbéry Ármin/","title":"Vámbéry Ármin","tags":["dg_uploaded"],"created":"2023-10-13T05:10","updated":"2023-10-25T02:21"}
 ---
+
 
 # Vámbéry Ármin
 
-Eredeti nevén Wamberger Hermann, kiről szép kis történetet írt Magyar Adorján; lásd [[Történelemhamisítás\|történelemhamisítás]].  
-Viszont Kubínyi Tamás több ízben pozitív alakként került lefestésre. Például betegen valamilyen könyvet ([[Tarihi Üngürüsz\|Tarihi Üngürüsz]]t talán) hazahozott.  
+Eredeti nevén Wamberger Hermann, kiről szép kis történetet írt Magyar Adorján; lásd [[T/Történelemhamisítás\|történelemhamisítás]].  
+Viszont Kubínyi Tamás több ízben pozitív alakként került lefestésre. Például betegen valamilyen könyvet ([[T/Tarihi Üngürüsz\|Tarihi Üngürüsz]]t talán) hazahozott.  
 
 Götz László Keleten kél a Nap című könyvének 487. oldalától tallózik olyan [[B/Budenz József\|Budenz József]] által finnugornak meghatározott szóból, melyeket Vámbéry elemzett, majd a TeSz féle származatásokat is megadja.  
 Az egyes szavakat lásd a helyükön.  
