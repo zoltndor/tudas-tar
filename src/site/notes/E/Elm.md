@@ -3,8 +3,6 @@
 ---
 
 
-
-
 # Elm
 
 Szilfa. A germán `elmo`, `alma` piros/vörös, továbbá perzsa `âl` = élénkpiros, rózsaszín (aveszta `auruša` = bíbor) szavakhoz lehetne köthető. Már első látásra [[A/Alma\|alma]] szavunk tűnt gyanúsnak, almaszínű értelemben. A perzsa szóban él-ő, él-énk szavaink ismerhetők fel.  
