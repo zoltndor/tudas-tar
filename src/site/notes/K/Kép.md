@@ -3,8 +3,6 @@
 ---
 
 
-
-
 # Kép
 
 Kép úgy tűnik a kőből készült bálványkép, mely az istenség képe/arca (feje) is lehet, illetve ezek konflációjáról is lehet szó.  
