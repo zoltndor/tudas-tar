@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["dg_uploaded"],"created":"2023-10-30T07:03","updated":"2023-10-31T06:04"}
+{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2023-11-10T07:14"}
 ---
 
 
@@ -126,6 +126,8 @@ Nem lennék meglepve, ha az alábbi ...
 
 ...című könyvéből származó bibliai rész hasonlókra utalna (maga RG is egy waleszi költemény kutyájával való voantkozást keres) (egyébként a [[J/Jordán\|Jordán]] folyó nevében is szerepel a Dán (Dana/Tana/Ton/Don) mely a Tejútfolyamnak alkalmas neve (a kutya itt ugye [[C/Caleb\|Caleb]]):  
 > According to the Pentateuch, Moses died on Pisgah on the other side of Jordan and 'no man knoweth his sepulchre to this day'; and of all the Children of Israel who had come with him into the wilderness out of the house of bondage, only two, Caleb and Joshua, crossed into the Promised Land. As spies they had already been bold enough to cross and recross the river.  
+> —  
+> A Pentateuch szerint Mózes a Jordán túlsó partján, a Pisgahon halt meg, és "senki sem ismeri sírját mind a mai napig"; és Izrael összes gyermeke közül, akik vele együtt mentek a pusztába a rabszolgaság házából, csak ketten, Káleb és Józsué jutottak át az Ígéret Földjére. Kémként már elég bátrak voltak ahhoz, hogy átkeljenek és újra átkeljenek a folyón.  
 
 ---
 
@@ -196,7 +198,18 @@ Nem tartom elképzelhetetlennek, hogy ilyesfajta meridián-áthaladás lehet [[N
 
 ### Szíriusz nadir helyzete
 
-[[G/Galactic centre\|Galactic centre]] címnél keress "Peruval kapcsolatban" részre.  
+[[G/Galactic centre\|Galactic centre]] címnél volt szó róla:  
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/g/galactic-centre/#kq3rso" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+![assets/Galcen_image19.png](/img/user/G/assets/Galcen_image19.png)   
+Leenőriztem JMJ adatát az előbbi képen csatolt infora nézve. Szíriusz nagyon nem moccan ebből a "nadir(?)" pontból az égi egyenlítő alatt. Csak balra, jobbra mozog az évezredek során. Precesszió ugye bele van táplálva.  
+
+
+</div></div>
+
 
 ## Szíriusz ketyegő, oszcilláló mozgása
 
