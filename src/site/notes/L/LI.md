@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/LI/","title":"LI","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-09T04:34","updated":"2024-01-14T01:42"}
+{"dg-publish":true,"permalink":"/L/LI/","title":"LI","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-09T04:34","updated":"2024-01-14T01:47"}
 ---
 
 
@@ -13,6 +13,7 @@
 > Budli király nevében a Li Király a szkythában. A Bud Fejecske, valójában Buda nevét tartalmazza. Buddha, aki szakamagyar volt, anyanyelve a huna, Buda nevű volt valójában. A Bud-Li tehát Buda-Király értelmű magyar név.  
 >
 > Li hatti (vagy szkíta?) nyelven (Istentől) szeretett, Királyi. Li-Po Királyi Ház, vagyis (Istentől) szeretett ház. A hettita uru Lipa, és uru Zazlippa városnevekben is valószínűleg ez az értelem van jelen. A magyar Lippa tehát Királyi Ház értelmű. Tehát a Li-Ga Királyi-Házak, a He-Li-osz Nap-Király-férfi, Li-Par a Király-Háza, Li-Gur Királyi-Nép, vagy Királytól származók, stb.  
+- A kiemelt adattal kapcsolatban tisztázzuk, mert félreérthető: nem a szuméroknak volt egy alternatív Lib-Nan neve, hanem: [[L/Libanon\|Libanon]] nevét a szumerok Lib.Nan formában írták, ami Líb Hercegség értelmű.  
 
 A király értelem tehát itt is hasonló lehet [[K/KA\|KA]]-nál tapasztalthoz: király az lehet aki Isten által szeretett, akiben megvan a tiszta fény és lelkiismeret, csak az lehet legitim király. (Hasonló KA-val [[B/BI\|BI]], mint lelket, fényt jelentő szó; ezekhez pedig a besenyő szócsoportbeli [[V/VASZ\|VASZ]].)  
 
