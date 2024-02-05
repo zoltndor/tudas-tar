@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Augusztus 15/","title":"Augusztus 15","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-06T01:03","updated":"2024-02-01T11:15"}
+{"dg-publish":true,"permalink":"/A/Augusztus 15/","title":"Augusztus 15","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-06T01:03","updated":"2024-02-05T02:41"}
 ---
 
 
@@ -127,7 +127,7 @@ KT Turul és szarvas [című](https://youtu.be/VlJJdkm4AWE) YouTube-os előadás
 > Úgy tűnik tehát, hogy a Lugal Geme nagy Urasszonny, akié a Mada vagyis a haza, az ország, a magyarság égi Úrnője volt, de áldó szeretete kiterjedt a Világmindenségre. Szent István ennek a réges-régen minden magyari nép által tisztelt Boldogasszonynak ajánlotta fel az országát, mert az már ősidők óta az övé volt.  
 
 [Ezen](https://chicagoist.com/2006/08/14/the_story_of_the_velika_gospa.php) cikkből kiderül, hogy a horvátok szintén ezen a napon tartják Nagyasszonyuk ünnepét, de a szlávisták politikája miatt nem magyar, hanem itáliai és zsidó-keresztény[^8] eredetűnek tartják az ünnepet.  
-A horvát [[G/Gospa\|gospa]] = hölgy, (Máriával azonosított) (Boldog)Asszony nevet említettük [[G/Göd\|Göd]] címnél is.  
+  
 
 ## Lábjegyzetek
 
