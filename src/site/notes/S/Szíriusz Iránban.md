@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz Iránban/","title":"Szíriusz Iránban","tags":["Englishtexttranslated"],"created":"2023-10-29T06:02","updated":"2024-02-02T03:57"}
+{"dg-publish":true,"permalink":"/S/Szíriusz Iránban/","title":"Szíriusz Iránban","tags":["Englishtexttranslated"],"created":"2023-10-29T06:02","updated":"2024-02-10T04:23"}
 ---
 
 
@@ -27,7 +27,7 @@ Richard H. Allen Star Names című művében említi, hogy bizonyos Edkins nevű
 Véleményem szerint minden igen fényes csillagnak is neve lehetett, hiszen jelentése erről tanúskodik. Jelző ez, nem tulajdonnév.  
 [[S/Satavaesa\|Satavaesa]] címnél szerepel William F. Warren véleménye is.  
 
-[[S/Szent László és a leányszöktető kun\|Szent László és a leányszöktető kun]] címnél (több is) szerepelt JM adatai (közül):  
+[[S/Szent László és a leányszöktető kun\|Szent László és a leányszöktető kun]] címnél (több is) szerepelt Jankovics Marcell adatai (közül):  
 > A szóban forgó csillagmítoszt az egyiptomiak szinte szó szerint így mesélték. Oriont Ozirisz, a [[N/Nap – halott Nap\|halott Nap]] istene személyesíti meg, a rátámadó Bikát gyilkos fivére, [[S/Széth\|Széth]], míg a Nagy Kutya és a Hajótat együttese Ozirisz Szeth-hez pártolt feleségében, Íziszben testesül meg, akit a keresztény mitológia kutatói Szűz Mária előképének tekintenek. (Ez lehet az oka annak, hogy Íziszt még a művelt köztudat is csak a jó oldaláról ismeri.) Az istennőt ebben az összefüggésben fölajzott íjjal ábrázolják, olykor tehénfejjel (több okból, de azért is, mert itt és most a Bika-Szethtel alkot párt).  
 ![assets/SziriuszIranban_image3.png](/img/user/S/assets/SziriuszIranban_image3.png)  
 > A mítosz egy későbbi epizódja is említést érdemel. Miután Ízisz megszüli posztumusz gyermekét, Hóruszt, az értesül anyja árulásáról és bosszút áll, Ízisz fejét veszi. Ebben a történetben a fényes Íziszt már a "fejetlen" Szűz csillagkép testesíti meg az égen (az a csillagzat, mely mint a "vizek adományozója" is illik a "Tenger Csillagához" – az alatta látható Keverőedény csillagképből ömlik ki az égre az óriás Vízikígyó csillagkép –, és amely később szintén a Szent Szűz égi jele lett). Hórusz leszámol Szeth-tel is, megöli és darabokra tépi úgy, ahogy nagybátyja korábban apjával bánt el. Maradékát, a Szeth-bika északra "hajított" combját az egyiptomiak a Göncöllel azonosították "Marhacomb" néven. (A Bika csillagképnek hiányzik a hátsó fertálya!)  
