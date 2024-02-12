@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hykszosz/","title":"Hykszosz","tags":["Englishtexttranslated"],"created":"2023-10-31T08:16","updated":"2024-02-02T02:32"}
+{"dg-publish":true,"permalink":"/H/Hykszosz/","title":"Hykszosz","tags":["Englishtexttranslated"],"created":"2023-10-31T08:16","updated":"2024-02-12T18:13"}
 ---
 
 
@@ -10,7 +10,7 @@ Az egyiptomi szkíták ill. avar-hunok[^1] neve. [[B/Barkó\|Barkó]] címnél..
 #### Magyar Adorján írja:
 
 > Ámde nem csupán az újabb történelemből ismert [[A/Avar\|avar]], másként várkun, nevet viselt nemzet származott azon őstörzsből amelyet ma barkónak nevezünk, hanem például az egy ideig Egyiptom fölött uralkodott hixoszok is, ami kevesek előtt ismeretes, helyesebben szólva: kevesen tudják miszerint a hixoszok is egy avar törzs voltak.  
-- Lentebb lesz még hasonló MA passzus.
+- Lentebb lesz még hasonló Magyar Adorján passzus.
 
 #### Pálfi Károly A magyar nemzet őstörténete és a zsidóság...
 
@@ -99,7 +99,7 @@ A fentebbi bevezető soroknak megfelelően írja Péterfai János is:
 Péterfai János másutt avarok abar név-variánsát veti össze az [[A/Arab\|arab]] népnévvel.  
 
 A vitatható levezetésekkel előhozakodó [[D/Dudás Rudolf\|Dudás Rudolf]] is elemzi a nevet, de nem tartom érdemesnek ideírni. Maradjon egyelőre a heka/hékás kiinduló, de tartsuk előtérben az [[E/Egy\|egy]] és [[E/Ég\|ég]] szavakat is.  
-Hasonló előtagú a [[H/Hickory\|hickory]].  
+  
 
 ## Lábjegyzetek
 
