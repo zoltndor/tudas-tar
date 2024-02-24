@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Urgula/","title":"Urgula","tags":["Englishtexttranslated"],"created":"2023-11-12T01:48","updated":"2024-02-02T04:08"}
+{"dg-publish":true,"permalink":"/U/Urgula/","title":"Urgula","tags":["Englishtexttranslated"],"created":"2023-11-12T01:48","updated":"2024-02-24T15:10"}
 ---
 
 
@@ -21,7 +21,7 @@ Az [[U/UR\|UR]], ahogy a vendéghajat vagy inkább a Bobula Ida szerint is kutya
 
 > Ur-gu-la az egyik neve az oroszlánnak. A \[sumér\] Ur szót Vadnak értelmezik egyesek, de a vadállat itt **Úr, az oroszlán úrként való megszólítása**. A Gu Szarvasmarha, a La a Hely egyik neve. Ma is mondjuk: Kutya úr, Macska úr, Ló úr, vagy Vi-Tor-La, Kaj-La, Szám-La, Szik-La, stb.  
 
-Azt is írja GW, hogy az Oroszlán neve Ur-Mah[^1] volt korábban. Ez bizony Úr-Mag, azaz Úr-Magas, Magas Úr, Magur, Magor. Az Oroszlán, mint Napjelkép és a Nap két összefüggő elem, azonosul egymással.  
+Azt is írja Gawin White, hogy az Oroszlán neve Ur-Mah[^1] volt korábban. Ez bizony Úr-Mag, azaz Úr-Magas, Magas Úr, Magur, Magor. Az Oroszlán, mint Napjelkép és a Nap két összefüggő elem, azonosul egymással.  
 Ugyanakkor ha szó szerint értelmezzük Kutya-Nagy, azaz Nagy Kutya lenne, és a táblázatos adat is ezt mondaná, így mondhatjuk, hogy azonos értelmezésű, de ahogy mondtam, kifogásolható, különösen [[G/Gula\|Gula]] és [[G/Gula#Gula 2)\|Gula]] szerepkörei miatt is.  
 Lásd még [[U/UR#Oroszlán vagy kutya\|oroszlán vagy kutya]] témát.  
 
