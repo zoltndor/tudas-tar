@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/U/Urgula/","title":"Urgula","tags":["Englishtexttranslated"],"created":"2023-11-12T01:48","updated":"2024-02-24T15:10"}
+{"dg-publish":true,"permalink":"/U/Urgula/","title":"Urgula","tags":["Englishtexttranslated"],"created":"2023-11-12T01:48","updated":"2024-02-29T00:46"}
 ---
 
 
 # Urgula
 
 A [[S/Sumér zodiákus\|sumér zodiákus]] Oroszlánnak megfelelő csillagjegye, helyesen Ur-Gu-La. Mielőtt rátérnénk a név etimológiájára, meg kell jegyezni, ahogy [[V/Vízöntő paradoxon\|Vízöntő paradoxon]] címnél is megtettük, hogy a sumér zodiákusban az Oroszlán és Vízöntő jegyek nevei szinte azonosak. Az Oroszlán neve **UR.GU.LA**, míg a Vízöntőé **GU.LA** (lásd [[G/Gula#Gula 2)\|Gula]]).  
-![assets/Urgula_image1.png](/img/user/U/assets/Urgula_image1.png)  
+![assets/Urgula_image1.png|invert_dark](/img/user/U/assets/Urgula_image1.png)  
 
 > In earlier texts the Lion is usually called 'Mul Ur-mah' – the 'Exalted Lion', but from the middle of the 2nd millennium its name is usually written 'Mul Ur-Gu-la'  
 > The Sumerian word was borrowed into Akkadian as `urgulû`. The Ur-sign depicts a lion's head; it is best translated as 'large carnivore' as the sign can also refer to dogs and wolves. The combination Gu-la appears to be an alternative way of writing the Sumerian word Gal, which simply means 'great or big'.  
@@ -86,7 +86,7 @@ Az alábbiakban...
 
 > THE SUMMER SOLSTICE PERIOD  
 > 
-> ![assets/Urgula_image2.png](/img/user/U/assets/Urgula_image2.png)  
+> ![assets/Urgula_image2.png|invert_dark](/img/user/U/assets/Urgula_image2.png)  
 > 
 > The next distinct group of symbols is made up from the constellations that rise during the summer. These stars mark the hot dry season, which, unlike the milder climes of Europe, is regarded as the time of death in Mesopotamia. At this time the lands are ravished by drought and plague, and even nature herself becomes barren – the life-giving rains have ceased and river levels decline, the harvest is finished and all vegetation dies back under the scorching summer sun.  
 > As the sun approached the peak of his powers, [[T/Tammuz\|Dumuzi]] had foreboding dreams of his own death. His premonitions came true at the summer solstice and his funeral rites were performed amidst wailings and lamentations in month 4, immediately after the solstice. As Dumuzi walked the path of the dead, he took the sorrows of the worlds with him to the land of the shades.  
