@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated"],"created":"2023-10-05T06:45","updated":"2023-12-15T01:51"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated"],"created":"2023-10-05T06:45","updated":"2024-03-04T18:09"}
 ---
 
 
@@ -135,7 +135,7 @@ Azaz az is kérdés, hogy a hozzá nem értés vagy a szándékos hátráltatás
 ...nem fogalmaz olyan élesen, mint én tenném, de van igazsága:  
 > Kréta egy olyan ország, ahol a magyarok írása sok ezer felirattal rendelkezik, mégis a sok jól felkészült kutató nem volt képes felismerni a feliratok magyar nyelvűségét. Mi ennek az oka? Talán a magyar írás nem ismerete? Vagy a magyar írás ellen való összefogás, ami alapján a tényeket meghamisítják a régészek? Azt kell gondolni, hogy a háttérben mindig a tudatlanság, a nemtörődömség húzódik meg. Nem a rosszindulat, nem a hamisítási kényszer, hanem egyszerűen a mérhetetlen tunyaság, a hatalmas önigazolási kényszer, ami szerint egy görög önmaga eredete, holott pár ezer éve nem létezett, és ezt a fogalmat ki kell vetíteni a Föld teljes felszínére.  
 
-[Ezen](https://youtu.be/nm0RbK1NX_o) Pap Gábor által tartott Bakócz Tamásról, Mediciekről, Fuggerekről, Dózsa Györgyről szóló előadásásban 36:50-nél mondja, hogy a Medici féle pápák trónolásával kezdődik meg a diadalútjuk: a [[B/Bank\|bank]] betört a szellemi világba és annak is abszolút irányítójá vált.  
+[Ezen](https://youtu.be/nm0RbK1NX_o) Pap Gábor által tartott Bakócz Tamásról, Mediciekről, Fuggerekről, Dózsa Györgyről szóló előadásában 36:50-nél mondja, hogy a Medici féle pápák trónolásával kezdődik meg a diadalútjuk: a [[B/Bank\|bank]] betört a szellemi világba és annak is abszolút irányítójává vált.  
 
 ## A tudomány célja: engedelmes rabszolgák nevelése
 
@@ -197,7 +197,7 @@ Igan arra buzdít, hogy ne akarjunk bizonyossággal kimondani dolgokat (mert ez 
 
 ## Tudománytalanság
 
-Az [alábbi](https://youtu.be/_9sc6rN-Rpk) Anunnakik az ősforrásokban 3. rész című ÁKA előadásban KT 1:49:37-nél sorolja fel azokat a neveket, akik az ősforrásokat nem használják és egy kifordított, tudományos/tudománytalan-fantasztikus, földönkívüli eredettel átitatott, zsidós képet adnak a múltról és akik követése veszélyes és magyar számára tilos: a kipécézett Michael Tellinger mellett felsorolja [[S/Sitchin, Zecharia\|Sitchin, Zecharia]], Graham Hancock, Erich von Dänicken, Jim Marrs, Robert Temple, David Wilcock, Dr. Seven Greer, Stanton Friedman, Andrew Collins, Klaus Dona, Valerij Uvarov, Semir Osmanagic, Credo Mutwa, Johan Heine, Dan Burisch, Jordan Maxwell, Drunvalo Melchizedek, Bob Dean, Kerry Cassidy neveit.  
+Az [alábbi](https://youtu.be/_9sc6rN-Rpk) Anunnakik az ősforrásokban 3. rész című ÁKA előadásban Kubínyi Tamás 1:49:37-nél sorolja fel azokat a neveket, akik az ősforrásokat nem használják és egy kifordított, tudományos/tudománytalan-fantasztikus, földönkívüli eredettel átitatott, zsidós képet adnak a múltról és akik követése veszélyes és magyar számára tilos: a kipécézett Michael Tellinger mellett felsorolja [[S/Sitchin, Zecharia\|Sitchin, Zecharia]], Graham Hancock, Erich von Dänicken, Jim Marrs, Robert Temple, David Wilcock, Dr. Seven Greer, Stanton Friedman, Andrew Collins, Klaus Dona, Valerij Uvarov, Semir Osmanagic, Credo Mutwa, Johan Heine, Dan Burisch, Jordan Maxwell, Drunvalo Melchizedek, Bob Dean, Kerry Cassidy neveit.  
 Ezután felhívja a figyelmet a tudománytalan fogalomkészletben újra és újra felbukkanó kifejezésekre: csillagkapu, szintetikus lények, okkult tudás, rezgés növekedés, vibrációs frekvencia spektrum, kőgyűrűk hangja, földönkívüli aranybányászata, börtönbolygó, Isten rabszolgafajai, ősi géntechnológia, klónozott faj, hüllő-ember, Anunnaki > homo sapiens transzmutáció, Anunnakik ősi romjai, ley-vonalak, csatornázott info, energia-csatornázás, teleportáló kövek, lélek teleportáció, test-jármű, időutazó, monoatomikus arany.  
 
 Mint látjuk, KT sok olyan dolgot elutasít, melyeket nem ismer vagy csak egyszerűen óvatosságra int a magyarkutatásban gondot okozó veszélyességükkel kapcsolatban.  
