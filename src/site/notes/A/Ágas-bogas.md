@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ágas-bogas/","title":"Ágas-bogas","created":"2023-10-22T02:40","updated":"2024-03-04T18:03"}
+{"dg-publish":true,"permalink":"/A/Ágas-bogas/","title":"Ágas-bogas","created":"2023-10-22T02:40","updated":"2024-04-05T19:02"}
 ---
 
 
@@ -24,12 +24,12 @@
 > A ma, csontmaradványokból, legismertebb ős-szarvasfajnak azonban lapátos szarvai voltak, mint a mai jávorszarvasnak és részben a dámszarvasnak is; itt azonban megjegyezem, bár e dolog kimutatása nem tartozik ide s ennek kifejtésére is igen sok mindent kellene megírnom, hogy a lapátos-szarvú szarvasfélék főkép jász őstörzseink szent állatai voltak, bár szerepeltek a palócoknál is, de hogy a magyar törzsek szarvasa egy valóban ágas és bogas agancsú szarvas kellett hogy legyen. Hogy az őskorban egymástól menyire eltérő alakú szarvakkal bíró szarvasfajok léteztek, erre nézve összehasonlításul álljon itt e rajz.  
 - Ezen utóbbi rajzok kapcsán írhatta volna Magyar Adorján, hogy tűz-, illetve [[L/Láng\|láng]]nyalábokra hasonlítanak.  
 ![assets/Ágas-bogas_image2.png|invert_dark](/img/user/A/assets/%C3%81gas-bogas_image2.png)  
-A [[S/Szarvas\|szarvas]]ság[^1] (bundája pettyein kívül: lásd új MA-féle adatokkal [[S/Sika\|sika]]) egyik lényege ugyanis az agancs-[[K/Korona\|koroná]]ja. A Napfogyatkozásoknál vizsgált Napkitörések illetve a Napkorona igen hasonlók az alábbi rajzokhoz (már ami a kicsapódásokat illeti).  
-Őseinek gondolkodásában mindig ilyen analógiákat kell keresni. Ezt MA is jól tudta.  
+A [[S/Szarvas\|szarvas]]ság[^1] (bundája pettyein kívül: lásd új Magyar Adorján féle adatokkal [[S/Sika\|sika]]) egyik lényege ugyanis az agancs-[[K/Korona\|koroná]]ja. A Napfogyatkozásoknál vizsgált Napkitörések illetve a Napkorona igen hasonlók az alábbi rajzokhoz (már ami a kicsapódásokat illeti).  
+Őseinek gondolkodásában mindig ilyen analógiákat kell keresni. Ezt Magyar Adorján is jól tudta.  
 
 Érdekes analógiát sikerült felfedezni a lengyel nyelvben. A mai lengyelben ugyan a `wół` = ökör többese `woły`, de [ezen](https://commons.wikimedia.org/wiki/File:Bronze_oxen,_Bytyn.jpg) oldalon a lengyel Wołki z Bytynia szókapcsolatban az előrész egy k-t is tartalmaz, mely szó egyezik a lengyel `wołki` = zsizsi szóval is, mely rovaroknak szintén van szarva, ahogy a szarvasmarhának is.  
 A lengyel `wilk` = farkas is hasonló alakú szó, mely persze inkább [[F/Falka\|falka]] és [[F/Farkas\|farkas]] szavunkkal azonosul.  
-![assets/Ágas-bogas_image3.png](/img/user/A/assets/%C3%81gas-bogas_image3.png)  
+![assets/Ágas-bogas_image3.png|invert_dark](/img/user/A/assets/%C3%81gas-bogas_image3.png)  
 A lengyel `wielka` = nagy melléknév is nyilván [[B/Bél\|Bél]] nevéből ered.  
 
 A (néggyel és csavarással is kapcsolatba hozott, [[S/Star\|star]]-ral is szinte azonos [[C/CSÁR\|CSÁR]] címnél is taglalt görög `sztaurósz` = áldozati karó, kereszt szóval azonosított) [[O/Ösztörű\|ösztörű]] szónál szerepelt biz. Szabó D. adata, miszerint eredeti értelme szerint (többek közt) **ágas-bogas fa**. [[E/Eszter\|Eszter]] címnél Tejúttal kapcsolatos fejtegetés is szerepelt.  
@@ -37,5 +37,5 @@ A (néggyel és csavarással is kapcsolatba hozott, [[S/Star\|star]]-ral is szin
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Wikipedia gímszarvas szócikkjéből valóak:  
+Wikipedia gímszarvas szócikkéből valóak:  
 Néhány nappal azután, hogy a bika levetette agancsát, a rózsatőn máris növekedésnek indul új koronája: a fejlődő agancsot vérerekben gazdag bőr, úgynevezett háncs borítja, növekedése körülbelül 100 napig tart. A legjobb éveiben és ereje teljében lévő bika sokágú, erős agancsot fejleszt. Az agancs naponta 2,5 centimétert nő. Az első évben csak egy-egy szár fejlődik (nyársak), a következő évben azonban már a közbeeső fokozatokat (villásak) átugorva, akár hatos agancs is fejlődhet. Az öreg bikák fejdísze akár huszonnégyes, kivételesen még ennél is többágú lehet. A legfelső ágak alkotják az úgynevezett koronát.  
