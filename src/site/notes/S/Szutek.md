@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szutek/","title":"Szutek","tags":["Englishtexttranslated"],"created":"2023-10-31T08:25","updated":"2024-02-29T00:40"}
+{"dg-publish":true,"permalink":"/S/Szutek/","title":"Szutek","tags":["Englishtexttranslated"],"created":"2023-10-31T08:25","updated":"2024-04-05T19:45"}
 ---
 
 
@@ -28,7 +28,7 @@ Szutek lehetséges, hogy Napisten (Nap az Orionban?) (ezzel [[S/Széth\|Széth]]
 
 Korábban is írtam már itt arról, hogy Práczki István gondolata, hogy [[G/Gárdonyi Géza\|Gárdonyi Géza]] Láthatatlan emberének főszereplője "Zéta, a Szittya" volt, aki a hunok istene volt. Szutek és Széth valóban ismert istenek voltak. Lehetséges, hogy Szutek valójában [[S/Szutyok\|szutyok]] értelmű? A [[S/Süt\|süt]] ellenpárja? Akárhogy is nézzük, a [[S/Sötét oldal\|sötét félév]]re utaló név.
 
-Csodaszarvasában MA is Napistent ír és természetesen süt szavunkat veszi alapul:  
+Csodaszarvasában Magyar Adorján is Napistent ír és természetesen süt szavunkat veszi alapul:  
 > [[S/Süt\|Süt]] szavunk a [[T/Tűz\|tűz]] szavunknak csak megfordított kiejtése lévén (az egytagú szavak megfordítása ősnyelvünkben pontosan meghatározható törvények szerint igazodott, de ami ismertetése nem tartozik ide) és az **egyiptomi Szutek Napisten** nevével valamint a mai árja nyelvek szüd, szud = dél (világtájra vonatkozólag) szavával így egyezvén, ez velünk azt sejteti, hogy csoda vagy [[C/Csuda\|csuda]] szavunknak eredetileg fényesség, ragyogás értelme kellett hogy legyen.  
 
 [[S/Széth\|Széth]] címnél szerepelt:  
