@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/A/Akkád/","title":"Akkád","created":"2023-10-20T06:53","updated":"2024-02-28T17:24"}
+{"dg-publish":true,"permalink":"/A/Akkád/","title":"Akkád","created":"2023-10-20T06:53","updated":"2024-04-05T19:00"}
 ---
 
 
 # Akkád
 
-Fáy Elek A magyarok őshona című könyvének 6. oldala tetején az áll, hogy a sumér és asszír-babiloni írásos emlékek Akkád néven emlegetik a sumérok országának északra fekvő hegyes részét, mely irányban az [[O/Örmény\|arméniai]] őshazát (aminek megfelelő őshaza Varga Zsigmondnál a sumérban is többértelmű [[K/KUR\|KUR]] volt) is kell keresni.  
+Fáy Elek A magyarok őshona című könyvének 6. oldala tetején az áll, hogy a sumér és asszír-babiloni írásos emlékek Akkád néven emlegetik a sumérok országának északra fekvő hegyes részét, mely irányban az [[O/Örmény\|arméniai]] őshazát (aminek megfelelő őshaza Varga Zsigmondnál a sumérben is többértelmű [[K/KUR\|KUR]] volt) is kell keresni.  
 
 Nálam Ak-Kád, vagy A-Kád, Háza az Égnek/Istennek értelmű lenne. Talán/nyilván Fáy adatát is követve (aki szóba hozza **Agade** város nevét)...
 
