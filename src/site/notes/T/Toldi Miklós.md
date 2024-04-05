@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Toldi Miklós/","title":"Toldi Miklós","tags":["dg_uploaded","containstransclusions"],"created":"2023-11-02T11:01","updated":"2023-11-15T04:11"}
+{"dg-publish":true,"permalink":"/T/Toldi Miklós/","title":"Toldi Miklós","tags":["containstransclusions"],"created":"2023-11-02T11:01","updated":"2024-04-05T19:56"}
 ---
 
 
@@ -34,7 +34,7 @@ Volt már róla szó [[T/Toll#Toll 2)\|toll]] és [[T/Tölgy\|tölgy]] címnél.
 Bakos Attila A Duna Evangéliuma című könyvének 103. oldalán is írja, hogy Toldi Miklós népmítoszi inspirálója Magyar Miklós napisteni regealak.  
 Bakos könyvének 248. oldalán olyat tud, hogy Arany János ezt a Magdát idegen névnek tartva lecserélte Piroskára.  
 
-MA fenti sorainak ellentmondóan [ezen](https://qr.ae/pGSZkI) Quora válaszban az áll, hogy mint élő személy (KT is így szólt róla) kb. 1320-1390 között élt és várnagyként és főispánként is ténykedett volna.  
+MA fenti sorainak ellentmondóan [ezen](https://qr.ae/pGSZkI) Quora válaszban az áll, hogy mint élő személy (Kubínyi Tamás is így szólt róla) kb. 1320-1390 között élt és várnagyként és főispánként is ténykedett volna.  
 
 ## Lábjegyzetek
 

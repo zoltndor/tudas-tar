@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/W/Wind/","title":"Wind","created":"2023-11-09T11:46","updated":"2024-02-28T21:48"}
+{"dg-publish":true,"permalink":"/W/Wind/","title":"Wind","created":"2023-11-09T11:46","updated":"2024-04-05T20:01"}
 ---
 
 
@@ -30,7 +30,7 @@ A Hamlet Malmában olvashatjuk:
 > \[Az ónorvég mitológiai alak\] Heimdal egy másik jelzője a Vindler, melyről Rydberg kijelenti: "A név a `vindill` egyik változata és a `vinda` szóból ered: csavarni vagy forgatni, tekerni, bármit gyorsan körbeforgatni. Minthogy 'a forgató' jelzőt kapja az isten, aki az embert (fúrással vagy dörzsöléssel történő) tűzcsiholásra tanította, s aki maga e tűznek a megszemélyesítője, akkor bizonyára ez 'a fúró' szinonimája."  
 - Amihez azért jegyezzük meg, hogy a változás, csavarodás a Föld tengelyforgására is utalhat (Hamlet malmára).  
 
-A fentebbi gondolatmenetet folytatva, Jankovics Marcelltől tudjuk, a [[S/Szél\|Szél]] a Vénusz népies neve. Márpedig a germán wind szóban is megvan a [[V/Vénusz\|Vénusz]] neve. A latin ventus és Venus nevek hasonlósága ("gyökük" azonossága) talán nem véletlen.  
+A fentebbi gondolatmenetet folytatva, Jankovics Marcelltől tudjuk, a [[S/Szél\|Szél]] a Vénusz népies neve. Márpedig a germán wind szóban is megvan a [[V/Vénusz\|Vénusz]] neve. A latin `ventus` és Venus nevek hasonlósága ("gyökük" azonossága) talán nem véletlen.  
 A hasonló alakú [[W/Wing\|wing]] = szárny szónál is a szél jött elő.  
 
 Miután a wind eredetét [[W/Winter\|winter]] címnél abból eredőnek vettem, jegyezzük meg, hogy a WordSense oldalán látott alakok alapján a wind orrhang nélküli változatai is megtalálhatók, például a [[V/Vata\|Vata]] címnél említett óind Vāta szélisten névalakja is (a szanszkrit ezt használja szél jelentéssel).  

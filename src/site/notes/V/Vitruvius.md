@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vitruvius/","title":"Vitruvius","tags":["Englishtexttranslated"],"created":"2023-10-26T03:11","updated":"2024-02-28T21:48"}
+{"dg-publish":true,"permalink":"/V/Vitruvius/","title":"Vitruvius","tags":["Englishtexttranslated"],"created":"2023-10-26T03:11","updated":"2024-04-05T20:00"}
 ---
 
 
@@ -12,7 +12,7 @@ A világon mindenki által ismert jelkép a négy (öt) elemet és a [[K/Kereszt
 
 ![assets/Vitruvius_image1.png|invert_dark](/img/user/V/assets/Vitruvius_image1.png)  
 ![assets/Vitruvius_image2.png](/img/user/V/assets/Vitruvius_image2.png)  
-A forgás tengelyét egy szilárd pont, az ötödik égtáj alkotja, ami az ősi Kínában [[T/Taj-Ji\|Taiyi]], a Hatalmas Egy. Érdekes, hogy a Taiyi szó képe kiterjeszett karú, Da Vinci-féle pózban álló emberalakot ábrázol.  
+A forgás tengelyét egy szilárd pont, az ötödik égtáj alkotja, ami az ősi Kínában [[T/Taj-Ji\|Taiyi]], a Hatalmas Egy. Érdekes, hogy a Taiyi szó képe kiterjesztett karú, Da Vinci-féle pózban álló emberalakot ábrázol.  
 
 Ahogy [[F/Fő\|fő]] címnél (és [[N/Négy#Négy és az ötödik irány\|négy és az ötödik irány]] cím/alcímnél) is írtuk, hogy az ötágú csillagra emlékeztető ábrázolásban az ötödiknek, a fentinek számolandó a fej. A [[F/Fő\|fő]] pedig nemcsak a [[P/PA\|PA]], hanem a [[F/FU\|FU]] etimonnal is megfeleltethető.  
 

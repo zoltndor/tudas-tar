@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Ük/","title":"Ük","created":"2023-10-13T12:46","updated":"2024-02-23T15:42"}
+{"dg-publish":true,"permalink":"/U/Ük/","title":"Ük","created":"2023-10-13T12:46","updated":"2024-04-05T19:59"}
 ---
 
 
@@ -24,6 +24,6 @@ A Narajama balladája című 1983-as japán filmben hallott \*ukka = anyó (ango
   
 - Az [[U/Uxorial\|uxorial]] címnél taglalt latin `uxor` is [[E/Ég\|ég]] szavunkból indul ki.
 
-Mivel az igen hasonló, de a szó eleji hangsúllyal kimondott `okuszan` = asszony, feleség (megszólításban: asszonyom) értelmű, maga [[A/Asszony\|asszony]] szavunk (mely a sumérban `gasan` lenne) is lehetne legalább ezen utóbbi szóra kiinduló, hiszen az aligha hihető, hogy a kínai és japán tiszteletet kifejező [[S/SZAN\|SZAN]] ilyen utat járt volna be.  
+Mivel az igen hasonló, de a szó eleji hangsúllyal kimondott `okuszan` = asszony, feleség (megszólításban: asszonyom) értelmű, maga [[A/Asszony\|asszony]] szavunk (mely a sumérben `gasan` lenne) is lehetne legalább ezen utóbbi szóra kiinduló, hiszen az aligha hihető, hogy a kínai és japán tiszteletet kifejező [[S/SZAN\|SZAN]] ilyen utat járt volna be.  
 Erre az okuszan szóra Fáy Elek A magyarok őshona című könyvének 176-177. oldalán maga is azt írja, hogy [[A/Asszony\|asszony]] szavunkkal azonosnak látszik: ő úgy írja, hogy a [[H/Halotti beszéd\|Halotti beszéd]] `ahszin` formájával kimondottan egyező az oszét `okszin` és japán (általa így írott) `okszan` = előkelőbb nő, asszonyság.  
 A két japán névalak azonos és jelentésükben is szinte azonosak, illetve rokonok. Mondhatnánk, hogy egyik lehetne a másik prototípusa, ha nem tudnánk, hogy az asszony, feleség jelentés megvan más nyelvekben is, mert így az okasan lenne az utóbb létrejött forma, és mondhatnánk, hogy a tiszteletet kifejező szan végződés megléte is véletlen, illetve az okasan o- megtisztelő jelző megléte kapcsán azt, hogy ez a szó volt minden más o- megtisztelő jelző szó prototípusa. Ezt így lehet kilogikázni.  

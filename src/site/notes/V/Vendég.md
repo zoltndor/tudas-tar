@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vendég/","title":"Vendég","created":"2023-11-09T11:55","updated":"2024-02-29T00:48"}
+{"dg-publish":true,"permalink":"/V/Vendég/","title":"Vendég","created":"2023-11-09T11:55","updated":"2024-04-05T20:00"}
 ---
 
 
@@ -30,7 +30,7 @@ Az alábbiakban a vendég 'jövevény' értelmezéséről lesz szó.
 > A fent idézett 1980. évi kötet a hospesekről a következőképpen vélekedett: "azok a jövevények, akik vendégként először kerültek hozzánk, Velencéből érkezett zarándokfélék lehettek”. A zarándoklatok útvonala, amely a német−római birodalmat a bizánci császársággal kötötte össze, "az akkori Bulgária területén is átvezetett, amelynek földjén románok is laktak”. Valószínű tehát − fűzi hozzá a szerző −, hogy "e szomszéd nép is már akkoriban megismerkedett Velencével” (BALÁZS 1980: 279, 282).  
 > Nos, a korábbi (1946/1956) és a későbbi (1980) megközelítésből egyaránt kitűnik, hogy a velen- cei kereskedőkhöz és/vagy zarándokokhoz másképpen viszonyultak "az akkori Bulgária területén” élő románok, és másképpen viszonyult a magyar királyság lakossága. Erről tanúskodik meggyőzően a román `venetic` szó ’idegen, jövevény, jöttment’ jelentése, valamint a magyar vendég szó megbecsülést érzékeltető, amelioratív hangulata.  
 > A TESz.-től eltérően az EWUng. 1995-ben kiadott második kötetének, valamint a 2006-ban megjelent "Etimológiai szótár”-nak a vonatkozó adatai (1619, illetve 906−7) már egybecsengnek a vendég szó 1946/1956-ból idézett "velencei” eredeztetésével, s a fél évszázaddal korábbról idézett jelentésalakulással (’hospes Veneticus’ > ’hospes’) is egybecseng az utóbb említett szótár magyarázata a vendég szó jelentésváltozásáról: "A magyar szó először a velencei telepesekre vonatkozott, majd jelentésbővüléssel vált általában az idegenek \[értelemszerűen: az idegenből érkezettek − M. H.\] megnevezésévé” (907).  
-> Megjegyzendő, hogy az ESz. a magyar vendég szót olasz jövevényszónak tekinti, és a ’velencei’ jelentésű régi olasz `venedigo` szóval hozza összefüggésbe, míg a román venetic szó a szótári adatokból következően valószínűleg a ’venét’ jelentésű venetico népnévre vezethető vissza. A szótár szerint mindkét olasz szó a többes számban álló latin Veneti népnévből ered.  
+> Megjegyzendő, hogy az ESz. a magyar vendég szót olasz jövevényszónak tekinti, és a ’velencei’ jelentésű régi olasz `venedigo` szóval hozza összefüggésbe, míg a román `venetic` szó a szótári adatokból következően valószínűleg a ’venét’ jelentésű venetico népnévre vezethető vissza. A szótár szerint mindkét olasz szó a többes számban álló latin `Veneti` népnévből ered.  
 
 Hiba lenne viszont a kínai szóról megfeledkezni; annál is inkább, mert a magyar a vendéggel mindig mint barátjával bánt és a [[B/Barát\|barát]] címnél is említett ónorvég `vinr`, izlandi `vinur` = barát szavak is tartalmazzák ezt a szóelemet.  
 

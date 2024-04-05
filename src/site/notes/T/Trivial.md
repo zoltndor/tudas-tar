@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Trivial/","title":"Trivial","tags":["Englishtexttranslated"],"created":"2023-10-30T01:48","updated":"2024-03-11T21:19"}
+{"dg-publish":true,"permalink":"/T/Trivial/","title":"Trivial","tags":["Englishtexttranslated"],"created":"2023-10-30T01:48","updated":"2024-04-05T19:57"}
 ---
 
 
@@ -8,7 +8,7 @@
 Jelentéktelen, hétköznapias, elcsépelt. A [[T/Trivium\|trivium]] értelme vajon hogyan vált ilyen jelentésűvé? Nyilvánvalóan valamiféle [[J/Judeo-kereszténység\|judeo-keresztény]] tiltás, démonizálás áll hátterében.  
 
 [[H/Hekate\|Hekate]] ([[S/SZAT\|SZAT]], [[S/Száz\|száz]], [[H/Hundred\|hundred]]) és [[T/Toll#Toll 2)\|toll]] címszavaknál is szerepeltek az alábbi képecskék.  
-![assets/Trivial_image1.png](/img/user/T/assets/Trivial_image1.png)  
+![assets/Trivial_image1.png|invert_dark](/img/user/T/assets/Trivial_image1.png)  
 Különösen a három ágas jelkép utal az alant bemutatott Tejút elágazásra(?) (bár az alsó szárát is beleszámolva az már négy ágassá válik; [[T/Travail\|travail]] címnél is ilyen négy ágas forma szerepel, de valójában a középső elem csak tartóelem).  
 Ami a [[S/Száz\|száz]] rovásírás-jelet illeti, látjuk, hogy három ág találkozása formázza. Azt tudjuk, hogy az elágazásoknál, keresztutakon állítottak [[H/Hekate\|Hekaté]]nek oszlopokat és a kutyák is az elágazásokhoz, átjárókhoz köthetők (lásd például [[C/Cerberus\|Cerberus]]).  
 Minden ami az Életfára, pogány vallásra utal, tiltva lett, de az elnevetségesítés, vagy jobb szóval, profanizálás volt a másik eszközük.  
@@ -46,7 +46,7 @@ Igen érdekes, amit...
 Arról, hogy a háromágú, [[T/Trident\|trident]]-szerű villák hogyan váltak az ördög eszközévé, lásd ott. Lásd tehát még szintén [[T/Travail\|travail]].  
 
 A [[H/Hecatomb\|hecatomb]] szónál is előjövő görög `hekatón` = száz számnév értelemről Péterfai János csak ennyit mond:  
-> [[H/Heka\|Heka]] isten nevét Varázslatnak értelmezik. Mivel a magyarok voltak a legnagyobb tudósok, ilyen értelemben a név csak a tulajdonságot írja le, de nem a valódi jelentést. He-Ka a név helyes felbontása, a He Nap, a Ka Ház. A magyarok a Hékások népe, akik a Nap Házából valók. Kétségtelen, hogy régi nevünk a Heka. A görög Hekaton – Száz, de a nagy számok, amint sikerült azonosítani, általában a csillagos égbolt neveiből keletkeztek, mégpedig magyar névadással. A [[H/Hykszosz\|Hykszosz]] név is a Heka névből származik.  
+> [[H/Heka\|Heka]] isten nevét Varázslatnak értelmezik. Mivel a magyarok voltak a legnagyobb tudósok, ilyen értelemben a név csak a tulajdonságot írja le, de nem a valódi jelentést. He-Ka a név helyes felbontása, a He Nap, a Ka Ház. A magyarok a Hékások népe, akik a Nap Házából valók. Kétségtelen, hogy régi nevünk a Heka. A görög `Hekaton` – Száz, de a nagy számok, amint sikerült azonosítani, általában a csillagos égbolt neveiből keletkeztek, mégpedig magyar névadással. A [[H/Hykszosz\|Hykszosz]] név is a Heka névből származik.  
 
 Holott biztosan ugyanúgy csillagászati eredete van, mint [[S/Száz\|száz]] ([[S/SZAT\|SZAT]]) szavunknak. Ahogy [[C/Csata\|csata]] szónál írtunk erről, arra kell következtetni, hogy égi pályák találkoznak.  
 A fentebb mellékelt jel a 100-as szám rovásjele! A három vonalat a tér x, y, z koordinátáinak tudják be, de a hármas találkozás (a latin [[T/Trivium\|trivium]] is három út találkozása) lehet égitestek pályáinak találkozása. És mit ad isten, a többször emlegetett [[I/Iker\|ikre]]sített [[O/Ötven\|ötven]] épp százat ad ki. Igen ám, de itt hármas út van. Épp olyan, amelyről Jankovics Marcell könyveiben szól (lásd [[O/Orion\|Orion]] és [[T/Tejút\|Tejút]] címnél a barnával kiemelt részek közt).  
