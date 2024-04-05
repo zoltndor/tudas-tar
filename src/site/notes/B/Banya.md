@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Banya/","title":"Banya","tags":["dg_uploaded"],"created":"2023-11-09T07:18","updated":"2023-12-04T01:11"}
+{"dg-publish":true,"permalink":"/B/Banya/","title":"Banya","created":"2023-11-09T07:18","updated":"2024-04-05T19:03"}
 ---
 
 
@@ -14,7 +14,7 @@ Tulajdonképpen a vén banya a Boldogasszony rontó, bajkeverő, azaz a Szűz ne
 De egyúttal a vén banya kifejezés pleonasztikus is, hiszen a banya B-Ny hangzói a [[V/Vén\|vén]] szó V-N hangzóival egyeznek (egyrészt, másrészt a [[P/Pina\|pina]] szó hangzóival, mely szó a nőnemre és szajha fogalomra is utal, más nyelvek szavait elnézve; lásd [[B/Bint\|bint]] és párjait – alant is).  
 
 Talán Bíró Lajostól származik az alábbi (a Földistennő valójában Tejút/téridő-istennő):  
-> A [[F/Feldarabolás\|feldarabolás]] és az újbóli összeragasztás "sebészi beavatkozásának" lényege a fiatalítás (fiatalító varázslat). Vonatkozhat nemcsak a Napra, azt megszemélyesítőkre (lásd JM vegetációs istenekről szóló passzusait is), hanem a Földre is: a Banya, vagyis öregasszony volt a földistennő téli alakja, aki tavasszal újította meg önmagát, nyerte vissza ifjúságát és szüzességét.  
+> A [[F/Feldarabolás\|feldarabolás]] és az újbóli összeragasztás "sebészi beavatkozásának" lényege a fiatalítás (fiatalító varázslat). Vonatkozhat nemcsak a Napra, azt megszemélyesítőkre (lásd Jankovics Marcell vegetációs istenekről szóló passzusait is), hanem a Földre is: a Banya, vagyis öregasszony volt a földistennő téli alakja, aki tavasszal újította meg önmagát, nyerte vissza ifjúságát és szüzességét.  
 
 [[B/Bint\|Bint]] címnél is előjött az ókelta \*bena = nő és cseh `běhna` = kurva szó, melyek lehetnek [[P/Pina\|pina]] eredetre visszavezethetők is. (Vegyük észre, a [[S/Suta\|suta]] is a [[C/Csuda\|csuda]] ([[C/Csudaszarvas\|Csudaszarvas]]) alaki változata. Nincs benne rosszallás, csak nőiséget jelent.)  
 Arról másutt, [[G/Göd\|Göd]] és [[C/Coot\|coot]] kapcsán is volt szó, hogy a [[T/Tejútanya\|Tejútanya]] és vulvájának neve azonos lehet.  
@@ -29,6 +29,6 @@ A banya név a ványad és fonnyad fogalmakkal is társítható: a fényből a s
 #### Gyárfás Ágnes Árpádházi Szent Erzsébet a szíriuszi sorsú magyar királylány...
 
 ...című az Ősi Gyökér 2007/4. sz. megjelent cikkének megfogalmazásában:  
-> A Sziriusz naptárcsillag január elsején kel fel és tündököl a téli égbolt közepén férje, Orion társaságában. Ez a fénykora. Menyasszony és boldog fiatal királyné június 21. és július 1. között hajnalban a keleti horizonton megszüli a nyári Napot, majd alászáll, és egy fél évig nem látszik. Ilyenkor a banya uralkodik az égi palotában, mert férje Orion ugyancsak elhagyja a családi fészket, eltűnik, a népmesék tanúsága szerint csatába megy, mint az Aranyhajú királyfiakban vagy elindul világot látni, mint a Zöld király mesékben. Csak december 21. és 24-e között tér haza, és kezd újra uralkodni.  
+> A Szíriusz naptárcsillag január elsején kel fel és tündököl a téli égbolt közepén férje, Orion társaságában. Ez a fénykora. Menyasszony és boldog fiatal királyné június 21. és július 1. között hajnalban a keleti horizonton megszüli a nyári Napot, majd alászáll, és egy fél évig nem látszik. Ilyenkor a banya uralkodik az égi palotában, mert férje Orion ugyancsak elhagyja a családi fészket, eltűnik, a népmesék tanúsága szerint csatába megy, mint az Aranyhajú királyfiakban vagy elindul világot látni, mint a Zöld király mesékben. Csak december 21. és 24-e között tér haza, és kezd újra uralkodni.  
 
 Lásd még [[M/Mostoha#Gonosz mostoha\|gonosz mostoha]] cím/alcímet.  
