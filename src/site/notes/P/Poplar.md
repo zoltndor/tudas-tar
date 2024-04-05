@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Poplar/","title":"Poplar","created":"2023-12-03T05:13","updated":"2023-12-23T08:14"}
+{"dg-publish":true,"permalink":"/P/Poplar/","title":"Poplar","created":"2023-12-03T05:13","updated":"2024-04-05T19:35"}
 ---
 
 
@@ -9,7 +9,7 @@ Nyárfa. Ófrancia `poplier` és latin `populus` szavakat hoz rá Oxford. Ez ut�
 
 #### Péterfai János adata:
 
-> A latin Populus jelentése Nép. A monda szerint a rómaiak a rezgő nyárt így nevezték el, mivel a levelei, mint az embertömeg, folytonosan mozog, izgalomban él.  
+> A latin `Populus` jelentése Nép. A monda szerint a rómaiak a rezgő nyárt így nevezték el, mivel a levelei, mint az embertömeg, folytonosan mozog, izgalomban él.  
 
 #### Magyar Adorján Csodaszarvas...  
 
