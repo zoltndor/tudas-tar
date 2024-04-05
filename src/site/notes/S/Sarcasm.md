@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sarcasm/","title":"Sarcasm","tags":["dg_uploaded"],"created":"2023-11-17T05:21","updated":"2023-11-17T05:21"}
+{"dg-publish":true,"permalink":"/S/Sarcasm/","title":"Sarcasm","created":"2023-11-17T05:21","updated":"2024-04-05T19:37"}
 ---
 
 
 # Sarcasm
 
 Szarkazmus. A görög `sarkazein` húsba tépni jelentésű, miből `sarkasmos` ennek főnévesítése, melyből a latin és végül az angol alakok származtak. A központi eleme a görög `sarx`, azaz szarkosz, mely szóból könnyen kivehető [[S/SZAR\|szar]] szavunk. Lásd ott.  
-- Varga Csaba írt könyvet arról, miként alakult ki a görög nyelv a csángó magyarból, de MA is számtalan példát hoz fel főképpen palóc/pelazg fejezetében.  
+- Varga Csaba írt könyvet arról, miként alakult ki a görög nyelv a csángó magyarból, de Magyar Adorján is számtalan példát hoz fel főképpen palóc/pelazg fejezetében.  
 
 Mivel a `sarx` = hús a [[S/Sár\|sár]], [[S/SZAR\|szar]] nőiségi, anyagot jelentő szavainkból szavainkból ered, lehet sárdobálásról vagy szarozásról is szó, de inkább tűnik belső fejlődésű görög szónak, mert a szarkazmus valóban költőibb. A szúrkálódás irányába is lehet terelni a szót. Szar és szur ugyanis (szur-ok is fekete) sötét, fekete humorra vallanak.  
 
