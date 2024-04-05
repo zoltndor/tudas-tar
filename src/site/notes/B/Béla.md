@@ -1,18 +1,7 @@
 ---
-title: Béla
-aliases:
-  - Bélá
-status: dg_uploaded
-tags: 
-share: true
-dg-publish: true
-dg-created: 2023-12-03T05:04
-dg-updated: 2023-12-23T08:31
-dg_upload_status: VNC done
-date created: 2022-12-14
-date modified: 2023-12-23
-danglinglink_commentedout: true
+{"dg-publish":true,"permalink":"/B/Béla/","title":"Béla","tags":["containstransclusions"],"created":"2023-12-03T05:04","updated":"2024-04-05T19:07"}
 ---
+
 
 # Béla
 
@@ -30,16 +19,16 @@ Lehet beszélni a latin-olasz `bella` = szép jelentéséről is (vesd össze [[
 
 #### Magyar Adorján írja:
 
-> A [[B/Belga\|Belgium]] illetve [[B/Belga\|belga]] névnek tökéletesen megfelel a szláv `beli` = fehér szó, valamint a már említve volt északi hófehér színű cethal [[B/Beluga\|beluga]] neve (de amely állatot északi rokonnépeink, amint már szintén említettem, `biburga` néven is neveznek, minthogy a [[B/Bíbor\|bibor]] szó régibb nyelvünkben valamint népünkében ma is hófehér értelmű; irodalmi nyelvünk pedig teljesen tévesen használja "igen piros" értelemmel, "bársun" helyett). Ez fejti meg másrészt Béla személynevünket is, amelynek egykori értelme tehát: igen szőke sőt talán albino is volt, valamint ez magyarázata a régi magyar `béla-gyöngy` szónak is. De innen származik a szőkeségnek francia-német `blond` neve is, de amely szó ezenkívül a `bleu-blau` (blö-blaú) = szóval is összefügg, azért mert a szőkék szeme kék; viszont a `blanc`, `blanche` (blank, blans) = fehér szó sem más mint a béla, beluga szavak magánhangzókihagyásos mása.  
-^1wx6ob
+> A [[B/Belga\|Belgium]] illetve [[B/Belga\|belga]] névnek tökéletesen megfelel a szláv `beli` = fehér szó, valamint a már említve volt északi hófehér színű cethal [[B/Beluga\|beluga]] neve (de amely állatot északi rokonnépeink, amint már szintén említettem, `biburga` néven is neveznek, minthogy a [[B/Bíbor\|bibor]] szó régibb nyelvünkben valamint népünkében ma is hófehér értelmű; irodalmi nyelvünk pedig teljesen tévesen használja "igen piros" értelemmel, "bársun" helyett). Ez fejti meg másrészt Béla személynevünket is, amelynek egykori értelme tehát: igen szőke sőt talán albino is volt, valamint ez magyarázata a régi magyar `béla-gyöngy` szónak is. De innen származik a szőkeségnek francia-német `blond` neve is, de amely szó ezenkívül a `bleu-blau` (blö-blaú) = szóval is összefügg, azért mert a szőkék szeme kék; viszont a `blanc`, `blanche` (blank, blans) = fehér szó sem más mint a béla, beluga szavak magánhangzókihagyásos mása.  { #1wx6ob}
+
 
 #### A Czuczor-Fogarasi szótár adata:
 
 > BÉLA  
 >  (1), férfi kn. tt. Bélát. Adalbertus. Ezen latin, vagyis inkább köz hiedelem szerint német (Adelbert = nemes születésü) név nem felel meg a föntebbi régi magyar névnek, mert Adalbert inkább Bera, mint a palóczok nevezik. Bélára nézve pedig figyelmet érdemlőnek tartjuk, hogy noha azt némelyek a szláv `bél`, `bjél` (= fehér) szótól származtatják, azonban föltalálható ugyanazon gyök a latin `bellus`, s ettől kölcsönzött franczia `bel`, olasz `bello` szókban is, sőt mindezek rokonok a magyar vil elvont gyökkel, melyből világ (lux), régiesen és mai tájejtéssel is velág, továbbá villog, villan, stb. származott. Ezek szerint Béla annyit jelentene, mint szép, vagy fehér, villogó (régies részesülővel: villó, viló, vila, és Czech János tanusága szerént egy 1228-diki oklevélben csak ugyan fordul elő **Wela** = Béla. Jerney Magyar Nyelvkincsek).  
-- Az arab **Wael** férfinév is ehhez hasonló.  
+- Az arab **Wael** férfinév is ehhez hasonló.
 
-A latin `albus`/`alba` =fehér (lásd [[A/Alba\|alba]] és [[A/Album\|album]]) szó a béla, szláv belo, bjelo szavak hangátvetett változata.  
+A latin `albus`/`alba` =fehér (lásd [[A/Alba\|alba]] és [[A/Album\|album]]) szó a béla, szláv `belo`, `bjelo` szavak hangátvetett változata.  
 Béla szó a palóc [[B/Bél\|Bél]]/[[B/Bál\|Bál]] Napisten nevéből képeztetett. (Legutóbb [[A/A\|A]] címnél volt arról szó, hogy a szóvégi – feleslegesnek tűnő – 'a' lehet névelő is.)  
 Fehérséget kifejező még a [[V/VASZ\|VASZ]] melyből lett a német `weiß` és angol [[W/White\|white]]. [[F/Fairy\|Fairy]] = tündér szó köthető [[F/Fehér\|fehér]]/fejér szavunkhoz. Az óperzsában [[K/Kutya\|kutya]] jelentéssel álló [[S/Saka\|saka]] a szanszkritban fehér jelentésű.  
 Többször felmerült, a görög `lykos` = fény és farkas és `leukos` = fehér szavak kapcsán is, hogy a [[K/Kutya\|kutya]] és a [[F/Farkas\|farkas]] nem kimondott állatnevek.  
