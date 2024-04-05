@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated"],"created":"2023-10-13T01:11","updated":"2024-02-12T18:06"}
+{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated"],"created":"2023-10-13T01:11","updated":"2024-04-05T18:57"}
 ---
 
 
@@ -19,10 +19,12 @@ Mivel az ABC is e hanggal kezdődik, nyilván nem véletlenül kerültek ezek a 
 > A: anyai és atyai ősgyök, a nyelvben később a vízzel azonosult (L 578). Az α és az Ω, a kezdet és a vég két betűszimbóluma eredeti ősképünk. A magyar nyelvben ez az őskép névelő formában él és mozgósítja nyelvünk szakrális elemeit.  
 - [[A/Az\|Az]] címnél is szerepelt.  
 
-Megvan [[T/Tisza\|Tisza]] és [[D/Duna\|Duna]] neveinkben is. Az azték Atl is vizet kell jelentsen, mert a Halak csillagkép neve volt: a szóvégi tl Péterfai János adata szerint főnévképző; leválasztásával A = Víz marad.  
+Megvan [[T/Tisza\|Tisza]] és [[D/Duna\|Duna]] neveinkben is. Az azték `Atl` is vizet kell jelentsen, mert a Halak csillagkép neve volt: a szóvégi tl Péterfai János adata szerint főnévképző; leválasztásával A = Víz marad.  
 A víz értelmét tekintve jejes párjai [[A/AJ\|AJ]] és [[J/JA\|JA]] (jó).  
 [[A/AB\|AB]] is lehet felső és víz értelmű is. Az ABC hangjai jelentéseivel egészen biztosan kibogozható, miért is a teremtő, az univerzum nyelve a magyar.  
-Az egyes szavak és nevek értelmezésekor több esetben egy szóvégi feleslegesnek tűnő vagy éppen túlmisztifikált (isteni?) A szerepel, mint például [[A/ANA\|ANA]], [[A/Apa\|apa]], tájjellegű magyar/perzsa [[Z/Ziba\|ziba]] (szép), valamint az [[A/Atilla hun király\|Atilla]], [[G/Géza\|Géza]], [[G/Gyula\|Gyula]], [[B/Béla\|Béla]] és akár [[D/Dózsa\|dózsa]] ([[B/Buda\|Buda]] nyilván nem ide tartozik bár a Bud-A felbontást sem zárnám ki, [[B/Búza\|búza]] alapján) (rang)nevekben vagy akár [[T/Teuta\|Teuta]], [[H/Hesztia\|Hesztia]], [[L/Luca\|Luca]], [[E/Éva\|Éva]] és [[A/Ankisza\|Ankisza]] nevében. A magyar-bibliai [[S/Sára\|Sára]] névvel is ez a helyzet.  
+Az egyes szavak és nevek értelmezésekor több esetben egy szóvégi feleslegesnek tűnő vagy éppen túlmisztifikált (isteni?) vagy – ahogy máshol írtuk – egy kiegyenlítő 'a' szerepel, mint például [[A/ANA\|ana]]/[[A/Anya\|anya]], [[A/ATA\|ata]]/[[A/Atya\|atya]] és [[A/Apa\|apa]], tájjellegű magyar/perzsa [[Z/Ziba\|ziba]] (= szép), valamint az [[A/Atilla hun király\|Atilla]], [[G/Géza\|Géza]], [[G/Gyula\|Gyula]], [[B/Béla\|Béla]] és akár [[D/Dózsa\|dózsa]] ([[B/Buda\|Buda]] nyilván nem ide tartozik bár a Bud-A felbontást sem zárnám ki, [[B/Búza\|búza]] alapján) (rang)nevekben vagy akár [[T/Teuta\|Teuta]], [[H/Hesztia\|Hesztia]], [[L/Luca\|Luca]], [[E/Éva\|Éva]] és [[A/Ankisza\|Ankisza]] nevében. A magyar-bibliai [[S/Sára\|Sára]] névvel is ez a helyzet.  
+A [[B/Basa\|pasa]], [[B/Basa\|basa]] szavakat is hasonlóan értelmezném.  
+
 A bengáli `boga` = hímtag szóban is a nap [[B/BOG\|BOG]] neve szerepel és az -a nem kell, ahogy [[B/Boka\|boka]], [[B/Bika\|bika]], [[P/Pálya\|pálya]], [[P/Pára\|pára]] és [[P/Pogácsa\|pogácsa]] szavunkban sem (másutt, például [[B/Bogyó\|bogyó]] szóban nem -a szerepel). [[I/Isa\|Isa]], különösen [[L/Lélek#Isa, por és hamu\|isa, por és hamu]] cím/alcímnél írottak alapján, sem más mint [[I/Íz\|íz]]. Acsa és [[A/Ács\|ács]] között is feltártuk közben a kapcsolatot. (Keress rá a témára másutt is balanszírozás kulcsszavakkal[^1].)  
 A [[D/Duna\|Duna]] és [[T/Tisza\|Tisza]] Tejútfolyamok nevében szintén kvázi felesleges a szóvégi -a, bár Du-Na értelmes. Kalocsa és nyilván más településnevekben szintén szerepelhet a szóvégi -a. Legutóbb [[B/Béna\|béna]] és [[S/Sánta\|sánta]] szavak kapcsán ötlött fel az itteni téma.  
 Hasonló eset lehet `bölcső`, `tüsző`, és hasonló szavakban (amennyiben főnevekről van szó).  
@@ -66,11 +68,13 @@ Az előhang nélküli és előhangos állatnevek kapcsán legutóbb [[U/UR#UR sz
 ![assets/A_image1.png](/img/user/A/assets/A_image1.png)  
 
 
+
+
 #### Borbola János A magyarok istene...
 
 ...című 2005/1. sz. megjelent tanulmányában ugyan nem teljesen úgy gondolkodik, ahogy én, de a végeredményt tekintve jól írja:  
 > [[U/UR\|ÚR]] és [[E/ÉL\|ÉL]] is AN változatai; az n → r → l mássalhangzóváltások figyelembe vételével azonosíthatók: AN → ÚR → ÉL. (Gyakorlatilag az n → r → l hangokat szájunk azonos helyén, nyelvünk azonos állása mellett képezzük, szavainkban gyakran felcseréljük őket. Mindhárom zöngés foghang. Az egyiptológia egymásba folyó hangalakoknak tartja.)  
-- A magánhangzók az egyedüli hangok, melyek önállóan értelmesek \[ahogy MA és a fentebb említett Tomory Zsuzsa adatai több helyen erről szóltak\] és az isteni szellem megszólaltatói. Csak magyar nyelven értelmezhetők Robert Graves The White Goddess c. könyvének 285-286. oldalán és az őt forrásaként megnevező Jankovics Marcell írásai [[J/Jehova\|Jehova]] címnél is, ahol a [[D/Dó, Ré, Mi, Fá, Szó, Lá, Ti hangsor\|Dó, Ré, Mi, Fá, Szó, Lá, Ti hangsor]]ról is volt szó, mint kiinduló ideáról.
+- A magánhangzók az egyedüli hangok, melyek önállóan értelmesek \[ahogy Magyar Adorján és a fentebb említett Tomory Zsuzsa adatai több helyen erről szóltak\] és az isteni szellem megszólaltatói. Csak magyar nyelven értelmezhetők Robert Graves The White Goddess c. könyvének 285-286. oldalán és az őt forrásaként megnevező Jankovics Marcell írásai [[J/Jehova\|Jehova]] címnél is, ahol a [[D/Dó, Ré, Mi, Fá, Szó, Lá, Ti hangsor\|Dó, Ré, Mi, Fá, Szó, Lá, Ti hangsor]]ról is volt szó, mint kiinduló ideáról.
 
 Ami tehát azt a szabályt illeti, hogy a magyar nyelvében a mássalhangzók "viszik" a szó jelentését, igaz, viszont a mássalhangzó magában nem lehet szó. Ki sem tudod ejteni őket magánhangzó nélkül (Pap Gábor az [[S/SZ\|SZ]] hangzót félmagánhangzónak titulálja). Ezért hívjuk őket mássalhangzónak. A mássalhangzók csak a vázat adják meg, a testet. A lelket/szellemet a magánhangzók hordozzák a szavakban, mely szavak a magyar nyelvben egy betűből is állhatnak, de sosem mássalhangzóként.  
 
@@ -104,6 +108,12 @@ A szláv nevet szintén taglaló [[A/Aszklépiosz\|Aszklépiosz]] címnél tagla
 ## Magyar "a" hang
 
 [[B/Bárczi Géza\|Bárczi Géza]] magyar hangfejlődést bizonygató érveit arra vonatkozóan, hogy a jellegzetes mély, ajakkerekítéses magyar "a" hang csak a 11-12. században alakult volna ki nyelvünkben, s a honfoglalás korában csupán a nyílt indogermán á-t ismertük, lásd Götz László anyagát [[M/Magyar nyelv hangfejlődése korai nyelvemlékeink tükrében\|magyar nyelv hangfejlődése korai nyelvemlékeink tükrében]] címnél.  
+
+## Angol határozatlan névelő
+
+Adná magát, hogy ami a magyarban határozott névelő, az az angolban is lehet névelő, még ha határozatlan is.  
+Viszont annál bonyolultabb a helyzet, hogy a magyar szót az angol közvetlen elődjeként tartsuk számon. Ugyanis az angolban (magánhangzóval kezdődő szavak előtt, szintén határozatlan névelőként használt) `an` = egy a [[O/One\|one]] = egy számnévvel azonos.  
+Innen nézve valószínűbb, hogy az -n kopott le, hogy sima a hangként használják mássalhangzók előtt.  
 
 ## Lábjegyzetek
 
