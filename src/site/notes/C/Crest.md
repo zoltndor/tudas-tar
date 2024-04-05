@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Crest/","title":"Crest","tags":["Englishtexttranslated"],"created":"2023-11-03T06:36","updated":"2024-02-28T17:33"}
+{"dg-publish":true,"permalink":"/C/Crest/","title":"Crest","tags":["Englishtexttranslated"],"created":"2023-11-03T06:36","updated":"2024-04-05T19:08"}
 ---
 
 
@@ -13,7 +13,7 @@ Még a crest-re visszatérve, a *family crest* kifejezésben családi címert je
 #### Zentai Ákos Történelemírásunk Akhilleusz-sarka...
 
 ...című cikkében is írja:  
-> A taréj szó idegen formái, angol, norvég, svéd: crest, olasz, spanyol cresta, portugál crista, francia créte, \[valamilyen térítő nyelvből vagy angolból átvett\] japán kuresuto, éppen a [[K/Keresztény\|keresztény]] vallásra hangzanak, ami a mi nyelvünkön a [[K/Kereszt\|kereszt]] alapszóra épülő toldalékkal képzett vallási formát jelent. A taréj a fejen fut végig, alulról fölfelé, ez a szellemiség útját képviseli. Ugyanilyen szellemi attribútum a [[S/Szarv\|szarv]] is, ami szintén uralmat jelképez, és felfelé sugárzódik.  
+> A taréj szó idegen formái, angol, norvég, svéd: `crest`, olasz, spanyol `cresta`, portugál `crista`, francia `créte`, \[valamilyen térítő nyelvből vagy angolból átvett\] japán `kuresuto`, éppen a [[K/Keresztény\|keresztény]] vallásra hangzanak, ami a mi nyelvünkön a [[K/Kereszt\|kereszt]] alapszóra épülő toldalékkal képzett vallási formát jelent. A taréj a fejen fut végig, alulról fölfelé, ez a szellemiség útját képviseli. Ugyanilyen szellemi attribútum a [[S/Szarv\|szarv]] is, ami szintén uralmat jelképez, és felfelé sugárzódik.  
 > Ez az irány kereszteződik a föld síkjával, ahol az anyagi lét megvalósul. Ez lehet a lényege az egész kereszténységnek, ahol az anyagban van próbára téve a szellemiség. Ennek a működéséhez elengedhetetlen a megfelelő lelkiség megléte. A lelki minőség pedig csak az összetartozás tudatban tud olyan fokra emelkedni, ami az önös érdekeket alá tudja vetni. Ebből látszik, hogy az emberiség felaprózása, idegen szóval individualizálódása a magasabb szintű egységtudat ellen dolgozik. Amíg az emberiségben nem tudatosul a közös származás, nem nyílik meg az út Istenhez.  
 
 Ha már szarv, Iain Forbes a LastoftheDruids című oldalról való [[S/Suhurmasku\|Suhurmasku]] címnél (teljesebben) szereplő anyagában a crest és a [[H/Horn\|horn]] szavakat egymás mellett így hozza a mellékelt képen levő szimbolikus állat fejrészét elemezve:  
