@@ -12,7 +12,7 @@
 
 #### Péterfai János...
 
-...BA könyve megjelenése után írhatja:  
+...Bakos Attila könyve megjelenése után írhatja:  
 > A Naga [[K/Kígyó\|kígyó]] neve a mai Nagy szavunk változata, továbbá a Nagák az egyik fontos ősi magyar nép. Na-Ga értelemben Nagy-Ház magyarul, ami az égboltra vonatkozik. A nagák szkythafélék, vagyis magyarok a csudaországból. A Nagák, mint tipikus magyar nép, nyugatról indultak útnak, és keleten messze Japánig jutottak. Japán egyik magyar törzse, akik betelepítették a nagy szigeteket.  
 
 #### Varsa Mátyás A legrégibb magyar mítosz...
