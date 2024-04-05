@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2024-03-03T22:31"}
+{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2024-04-05T19:01"}
 ---
 
 
 # Asb
 
-Perzsa nyelven `asb` = ló. `Aspa` ló Aveszta nyelvben, `asp` a pahlaviban, az óindben `asva`.  
+Perzsa nyelven `asb` = ló. `Aspa` ló aveszta nyelvben, `asp` a pahlaviban, az óindben `asva`.  
 
 #### Péterfai János írja:
 
@@ -65,7 +65,7 @@ Az óind `asva` szóval egyező az arab `aswa`[^2] = fallosz, mely már [[N/Nimr
 
 Még vegyük ide ami [[J/Jahve\|Jahve]] címnél szerepelt:  
 A tokhár `yakwe` = ló kapcsán már megállapítottuk, hogy mindenképpen van kapcsolat.  
-Ami a fentebb sorolt keleti lovat jelentő szavakat illeti, mindkettő, vagy mindhárom előrésze azon Asz/Ász/Ős, mely a MA nyomdokaiban haladó Tomory Zsuzsa Istenes magyar emlékeink 1. rész című Ősi Gyökér 2005/1. sz. megjelent cikkében is a jászok istenneve:  
+Ami a fentebb sorolt keleti lovat jelentő szavakat illeti, mindkettő, vagy mindhárom előrésze azon Asz/Ász/Ős, mely a Magyar Adorján nyomdokaiban haladó Tomory Zsuzsa Istenes magyar emlékeink 1. rész című Ősi Gyökér 2005/1. sz. megjelent cikkében is a jászok istenneve:  
 > Az előbbiekhez hasonló gondolatmenetű a jászok Nagyistenének Ős, Asz-isten neve, ki a teremtés Jó-istene. Egyszülötte a fény, kit Jizzu, Jós Jász néven ismert embere, s kinek nevét távolra szakadt népek már csak "Y"-al tudtak jelölni, mivel a név, s az ahhoz kötődő gondolatkör náluk már feledésbe merült, illetve mint átvevők, talán soha nem is ismerték.  
 
 Figyeljük meg, hogy a jászok [[F/Fehérlófia\|Fehérlófia]]-mondája és előkeresztény hitvilága jelenik meg perzsa-ind nyelvterületen, de ennek az asva = ló névnek az \*ahva/akva illetőleg jejes változata kerül át a filiszteus kánaánita népektől a hódító szemitákhoz is.  
