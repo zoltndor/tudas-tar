@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-03-11T21:16"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-04-05T18:56"}
 ---
 
 
@@ -14,7 +14,7 @@ Azaz tervezem a valamikori angol fordítást is (egyes helyeken fordítani sem k
 
 
 
-A weboldalon nem szerepel sem reklám, sem pedig kávé ellátmányom pótlására buzdító felhívás. Igyekszem ingyenkegyelemből azt adni, amit minden magyar és nem magyar embernek mindig is kapnia kellett volna.  
+A weboldalon nem szerepel sem reklám, sem pedig kávé ellátmányom pótlására buzdító felhívás. Igyekszem ingyen kegyelemből azt adni, amit minden magyar és nem magyar embernek mindig is kapnia kellett volna.  
 
 ## Köszönetnyilvánítás
 
@@ -443,7 +443,7 @@ A témáról lásd [[S/Szómegfordítás\|szómegfordítás]], [[S/Szótagmegfor
 Már volt arról szó, hogy fontos a pontos etimologizálás. A legtöbb kutató, nyelvész úgy dolgozik, hogy a kiinduló (tulajdonképpen megváltoztathatatlan végeredményt produkáló) alapelméletét próbálja alátámasztani nyelvi bizonyítékokkal. Önkényes hajlításokkal sikerül is nekik, szinte minden esetben.  
 A cél mindig az objektív igazság, nem az, hogy a saját igazamat hogyan tudom bizonyítani.   
 Ehhez megfelelő mennyiségű adat, tudásanyag és persze elfogulatlanság és alázat szükséges. A Tilak Orionjának függelékében található szanszkrit Ârgayana > [[O/Orion\|Orion]] levezetés például leginkább nemtörődömség eredménye, míg a Rawlinson féle Aryan = Orion azonosítás is hasonlóan félresikerült, még ha logikusnak is tűnik, indo-európai kutatói szempontból.  
-Másutt is volt arról szó, hogy ha két szóelem azonos, az még nem jelenti azt, hogy közük is van egymáshoz. Ez a magyarságkutatást szintén nehezíti. Csak egy példa: [[K/Koca\|koca]] szavunk (maradjunk annyiban, hogy) kétértelmű, de az azonos török `koca` = férj szó (ahogy az albán `koc` = hímtag mutat rá) ne ezen magyar szóval rokon, hanem leginkább [[K/Kutya\|kutya]] szavunk rontása. (A férj az úr, nagy tekintéjű, ezért a Nap magas, Ku-Ta állása nyomán ered a név.)  
+Másutt is volt arról szó, hogy ha két szóelem azonos, az még nem jelenti azt, hogy közük is van egymáshoz. Ez a magyarságkutatást szintén nehezíti. Csak egy példa: [[K/Koca\|koca]] szavunk (maradjunk annyiban, hogy) kétértelmű, de az azonos török `koca` = férj szó (ahogy az albán `koc` = hímtag mutat rá) ne ezen magyar szóval rokon, hanem leginkább [[K/Kutya\|kutya]] szavunk rontása. (A férj az úr, nagy tekintélyű, ezért a Nap magas, Ku-Ta állása nyomán ered a név.)  
 A Fáy Elek A magyarok őshona című könyvének 55. oldalán említett egyiptomi Month (Ammon istennel azonosítja FE), csak azért, mert az angol [[M/Month\|month]] szóval egy az egyben azonos, nem jelenti azt, hogy a Hold neve ebből az egyiptomi istennévből ered. Ahogy az sem állja meg a helyét, hogy a germán [[H/Heart\|heart]] mondjuk [[H/Harc\|harc]] szavunkkal azonosulva eredetére talál. Vagy ott a szláv `jelen` = szarvas: nyilván nem mai magyar [[J/Jelen\|jelen]] szavunkkal kell megfeleltetni és mindenféle időrendre csavarintani.  
 A témát lásd még [[N/Népetimológia\|népetimológia]].  
 
