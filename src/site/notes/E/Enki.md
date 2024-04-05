@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Enki/","title":"Enki","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-26T05:26","updated":"2024-02-02T02:59"}
+{"dg-publish":true,"permalink":"/E/Enki/","title":"Enki","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-26T05:26","updated":"2024-04-05T19:12"}
 ---
 
 
@@ -61,7 +61,7 @@ Majd Enki és valamiféle megkötés kapcsán lábjegyzetben írja:
 Varga Zsigmondnál En-Ki egyszerűen csak az Alsó Ura, másutt Földisten. ([[K/KI\|KI]] = Föld jelentésű ugye, ami az éghez képest alul van.)  
 
 Varga Zsigmond könyvének 251. oldalán írja még:  
-> A föld istene, En-ki a későbbi szumir teológiában hímnemű istenné alakul át. De csalhatatlan jelek igazolják, hogy a föld démona, illetve istene kezdetben nőnemű principium és az ég felesége volt. Döntő jelentőségű e tekintetben az, hogy En-lil az An és Ki közös nemzése, egy kétnyelvű szövegben pedig azt olvassuk, hogy Ki az An felesége, s mint ilyen Antu-nak hangzik. Az ural-altáji mitológiában mindenütt nőnemű a föld, aki az éggel él házastársi viszonyban. Innen "földanya" neve így lesz a finnben Maan emő, a vogul-osztjákban pedig Ha-ankw – Földanya.  
+> A föld istene, En-ki a későbbi szumir teológiában hímnemű istenné alakul át. De csalhatatlan jelek igazolják, hogy a föld démona, illetve istene kezdetben nőnemű principium és az ég felesége volt. Döntő jelentőségű e tekintetben az, hogy En-lil az An és Ki közös nemzése, egy kétnyelvű szövegben pedig azt olvassuk, hogy Ki az An felesége, s mint ilyen Antu-nak hangzik. Az ural-altáji mitológiában mindenütt nőnemű a föld, aki az éggel él házastársi viszonyban. Innen "földanya" neve így lesz a finnben `Maan` emő, a vogul-osztjákban pedig Ha-ankw – Földanya.  
 - Nem Ma az a Ha? Egyébként [[M/Ménkű\|ménkű]] címnél is előjött ilyen név már. Mintha a menny földre tükrözésével lenne itt is dolgunk.  
 
 A Hihetetlen Magazinnál a lapszám-eladás van előtérben és [[S/Sitchin, Zecharia\|Sitchin, Zecharia]] viszi a prímet:  
