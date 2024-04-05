@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hangutánzó szavak/","title":"Hangutánzó szavak","tags":["nyelvészet","Götz"],"created":"2023-10-05T03:29","updated":"2024-02-02T03:08"}
+{"dg-publish":true,"permalink":"/H/Hangutánzó szavak/","title":"Hangutánzó szavak","tags":["nyelvészet","Götz"],"created":"2023-10-05T03:29","updated":"2024-04-05T19:16"}
 ---
 
 
 # Hangutánzó szavak
+
+Idegen szóval: onomatopoetikus.  
 
 #### Péterfai János írja:
 
@@ -15,7 +17,7 @@
 
 #### Götz László Keleten kél a Nap...
 
-...című könyvében is írja az [[I/Indogermán nyelvészet\|indogermán nyelvészet]] képviselőiről (a holló/varjú jelenséget meg az első szavak torokhangos jellegéről szóló elképzelést JM valamelyik könyvében is hozta):  
+...című könyvében is írja az [[I/Indogermán nyelvészet\|indogermán nyelvészet]] képviselőiről (a holló/varjú jelenséget meg az első szavak torokhangos jellegéről szóló elképzelést Jankovics Marcell valamelyik könyvében is hozta):  
 > Még azt sem határozták meg kielégítően, miről ismerhető fel egy hangutánzó, hangfestő szó. Ezt a kutatók egyéni belátására bízták. Megalapozott módszert tehát – mint az eddigiekben már sorozatosan megállapíthattuk – itt sem alkalmaztak.  
 > Egy pillanatig sem akarjuk vitatni, hogy hangutánzó, hangfestő szavak valóban szép számmal előfordulnak minden nyelvben. Csupán az ilyen fajta szavakkal való visszaéléseket vetjük el. Olyasmiket, mint például a német `Rabe` (holló) és `Krähe` (vetési varjú) esete a germanisztikában. Mivel ugyanis a latin `corvus` (holló) az ófelnémetben előírásszerűen `hraban` (holló) alakban található, e szavak természetesen rokonok. De mivel a latin `cornix` (vetési varjú) németül még ma is "Krähe", ezek hangutánzó szavak lettek, amelyekre nem vonatkoztathatók a hangtörvények. Pedig a "corvus" éppúgy "károg", mint a "cornix." Itt tehát a hangutánzó szó csodálatosképpen mégis hasonlítható a hangtörvények alapján, holott a tézis szerint nem szabadna hangváltozásokat felmutatnia.  
 > E példa kitűnően rávilágít a hangutánzó szavak posztulátumának valóságos céljára és rugóira: segítségével nem egy kellemetlen kivételt eliminálni lehetett és ezáltal a \[[[Nyelvészet mint tudomány\|nyelvészet mint tudomány]] címnél bőven taglalt\] hangtörvények általános érvényessége is szilárdabb alapokra került.  
