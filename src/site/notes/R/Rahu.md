@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/R/Rahu/","title":"Rahu","tags":["Englishtexttranslated"],"created":"2023-11-02T01:34","updated":"2024-02-07T01:40"}
+{"dg-publish":true,"permalink":"/R/Rahu/","title":"Rahu","tags":["Englishtexttranslated"],"created":"2023-11-02T01:34","updated":"2024-04-05T19:37"}
 ---
 
 
@@ -31,7 +31,7 @@ A csomópontok régi görög neveire is kitér:
 > —  
 > Ötven évvel Ptolemaiosz után, Kr. u. 230 körül Tertullianus említette az `anabibazon` és a `katabibazon` szavakat, amelyek görögül a felszálló és a leszálló csomópontokat jelentik.
 
-Elképzelhető lenne, hogy a [[K/Kata\|kata]], [[C/Csata\|csata]] szavaink jelentése a Nyilasban erőben lévő leszálló holdcsomópontokra, és így napfogyatkozásokra, továbbmenve a Nap által vívott farkas/sárkánnyal elleni küzdelmekre értendő? (Itt azt lenne jó tudni, hogy a görög katabibazon az első olyan szó volt, mely a kata-/[[C/Cata- prefixum\|cata- prefixum]]ot ilyen, csata értelemben használta. Nyilván nem. Egyébként is van egy másik fontos szó, melyben szerepel: [[A/Apocatastasis\|apocatastasis]].)  
+Elképzelhető lenne, hogy a [[K/Kata\|kata]], [[C/Csata\|csata]] szavaink jelentése a Nyilasban erőben lévő leszálló holdcsomópontokra, és így napfogyatkozásokra, továbbmenve a Nap által vívott farkas/sárkánnyal elleni küzdelmekre értendő? (Itt azt lenne jó tudni, hogy a görög `katabibazon` az első olyan szó volt, mely a kata-/[[C/Cata- prefixum\|cata- prefixum]]ot ilyen, csata értelemben használta. Nyilván nem. Egyébként is van egy másik fontos szó, melyben szerepel: [[A/Apocatastasis\|apocatastasis]].)  
 
 A lényeget tekintve persze mindegy: csata együttállásokra értendő, ezt korábban is kimondtuk.  
 
