@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/P/Play/","title":"Play","created":"2023-10-25T02:36","updated":"2024-01-30T10:17"}
+{"dg-publish":true,"permalink":"/P/Play/","title":"Play","created":"2023-10-25T02:36","updated":"2024-04-05T20:06"}
 ---
 
 
 # Play
 
-Játék, játszik; színdarab, előadás. A törökben `ojun` (olyan) a játék, mely igen hasonló alakú a [[T/Toy\|toy]] szóhoz. Franciában `jeu` (jó) a játék. Óangolban `plegian` = testmozgást végez, gyakorlatozik, a `plega` = gyors mozdulat. Mindkettőnek ellentmond ballag szavunk, így kizárjuk. \*Pilleg, billeg szavunk nagyon megtetszhetett északi rokonainknak. Bolondozik szavunk gyökével lehet inkább megfeleltetni, ami az örömében ugra-bugrál jelentésű, play etimológiájánál taglalt közép-holland `pleien` szóval is mutat rokonságot. Oroszban az akár ugrál szavunkkal azonosítható `igrá` jelentése játék.  
+Játék, játszik; színdarab, előadás. Az óangolban `plegian` = testmozgást végez, gyakorlatozik, a `plega` = gyors mozdulat. Mindkettőnek ellentmond ballag szavunk, így kizárjuk. \*Pilleg, billeg szavunk nagyon megtetszhetett északi rokonainknak. Bolondozik szavunk gyökével lehet inkább megfeleltetni, ami az örömében ugra-bugrál jelentésű, play etimológiájánál taglalt közép-holland `pleien` szóval is mutat rokonságot. Oroszban az akár ugrál szavunkkal azonosítható `igrá` jelentése játék.  
 A törökök másik szava játékra `topal`, mely dobál szavunkra hajaz.  
 
 Az angol [[E/Eye\|eye]]-ban azt látjuk, hogy a g/gy hanggal nem tudott mit kezdeni és nem a g, hanem a y hangot tartotta meg. Azt már más esetekben (például itt play szónál) is láttuk, hogy az angol [[W/W\|w]] és y (leírt) hangjai gyakran g, gy (és j) hangunkat takarják.  
@@ -22,5 +22,3 @@ Erre akkor jöttem rá, amikor legutóbb [[P/Prove\|prove]] címnél írtam:
 Kipróbálni annyi, mint játszani (lásd [[J/Játék\|játék]]), ami vadászat. [[T/Try\|Try]] is hitre való vadászat (a cél Isten; lásd még [[T/Tárgy\|tárgy]]). [[P/Pogány\|Pogány]] és [[P/Pagony\|pagony]] is vadászattal kapcsolatos. Még a play is lehet akár prov- változata.  
 
 További szavakat nyom, üt jelentésekkel lásd [[P/Plow\|plow]] címnél szereplő táblázatban. Ergo a közös idea nyomás (mint amilyen a baszás) és űzés-üzekedés.  
-
-Lásd még [[T/Toy\|toy]].  
