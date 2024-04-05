@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kérész/","title":"Kérész","created":"2024-02-11T14:22","updated":"2024-02-12T18:13"}
+{"dg-publish":true,"permalink":"/K/Kérész/","title":"Kérész","created":"2024-02-11T14:22","updated":"2024-04-05T19:24"}
 ---
 
 
@@ -14,7 +14,10 @@ A CzF szótár írói nem veszik észre, hogy az alábbi szavak, herész és hé
 > HERÉSZ (her-e-ész) fn. tt. herész-t, tb. ~ěk, harm. szr. ~e. Így nevezik a **\[ráadásul\] tiszai** vidékeken a násznép azon ifjabb tagjait, kik lakodalom után a volt vendégeket zeneszóval és tánczolva bejárják, s magukat megvendégeltetik, valamint magát ezen mulatságot is, mint még a lakodalom folytatását. Innen mondják: herészbe járni; Mátyusföldén: tyúkverőt járni, mivel tyúkot vagy kakast visznek magukkal, melyet karó végére kötnek, s a vőféllel, kinek szemeit bekötik, lenyakaztatják. A herész nevezet átv. ért. vagy a hereméhtől kölcsönöztetett, mivel a herészek, mint a hereméh kasról kasra, úgy ők házról házra járnak vendégeskedni; vagy ami hihetőbb, egyszerüen a here v. herő szótól származott, s ekkor férjesűlést vagy házasodást; innen továbbá lakodalmat és lakodalmas népet jelent. Szabó Dávid \[is\] hérésznek írja. Szathmárban Mándy Péter szerént: hőrész. V. ö. HÉRICZ.  
 > HÉRICZ Lőrincz Károly a Kapnikbányán (Kővár vidékében) divatos nyelvjárás észlelője és ide vonatkozó adatok gyűjtője szerént, am. bőjt utáni lakoma, mely különböző vidékeken más-más alakban: hircz, hőre, hőrész, herész; tehát ez utóbbival mint közönségesebb és szokottabb szóval egy eredetű.  
 
-Ezzel viszont nincs vége, mert CzF adata szerint a fentiek alaki változatának tekinthető `herécz` Baranyában am. patkány, és nevét talán buja természetétől kapta. Fentebb éppen a nászról, házasulásról volt szó.  
+Ezzel viszont nincs vége, mert CzF adata szerint a fentiek alaki változatának tekinthető `herécz` Baranyában am. patkány, és nevét talán buja természetétől kapta. Fentebb éppen a nászról, házadosásáról volt szó.  
 
 Mindezek alapján egyértelmű, hogy a kérész a régi magyar név, a tiszavirág pedig egy költői kifejezés. Hasonló szavak hasonló jelentésekkel más nyelvekben is előjöhetnek. Nyilván az első gondolatunk a [[H/Hart\|hart]], [[H/Heart\|heart]] és [[H/Hearth\|hearth]] szavak felé keresgélve indul. [[C/Ceres\|Ceres]] is hasonló alakú név.  
+
+Azonos alakú vele a [[S/Sarcophagus\|sarcophagus]] címnél taglalt egyiptomi nyelvű `kereszu`, mely a szarkofág legelterjedtebb neve volt.  
+
 Hasonló a magyar [[K/Keres\|keres]] szó.  
