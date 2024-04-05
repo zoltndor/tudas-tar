@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Geszt/","title":"Geszt","created":"2023-10-23T03:04","updated":"2024-02-02T03:05"}
+{"dg-publish":true,"permalink":"/G/Geszt/","title":"Geszt","created":"2023-10-23T03:04","updated":"2024-04-05T19:15"}
 ---
 
 
@@ -9,7 +9,7 @@
 
 > Hogy viszont a [[G/Gesztenye\|gesztenye]] szó nyelvünknek valóban ősi szava, bizonyítja már az is hogy geszt szavunkkal azonos. Ezen geszt szavunk ugyanis valaminek keményebb közepét nevezi, aminthogy a gesztenye is a gesztenyesün kemény közepe, vagyis magja, magva (amiből az is következik, hogy jász szócsoport szerint geszt illetve jeszt avagy jezd magot jelentett).  
 > Mondjuk is hogy gesztes az olyasmire aminek belsejében, közepében valamely keményebb egy avagy több rész van. A gesztenyesün közepében is egy, kettő vagy három gesztenye van. Hogy a j vagy akár a h hang is, mily könnyen változik g hanggá, a g pedig k-vá, minden nyelvész előtt ismeretes. Eszerint bizonyos tehát hogy gesztenye szavunk is megvolt \*jesztenye kiejtéssel is, majd g-vel is ejtődött, amely g hang itt az árja nyelvekben k-vá alakult.  
-- Angolban ez [[C/Chestnut\|chestnut]].
+- Az angolban ez `chestnut`.
 
 Geszt szavunkhoz hasonló az angol [[G/Ghost\|ghost]] szó is (hiszen a lényegi rész a lélek, nem a test).  
 
@@ -20,4 +20,4 @@ Geszt szavunkhoz hasonló az angol [[G/Ghost\|ghost]] szó is (hiszen a lényegi
 Geszt-tel azonos a [[K/Kezd\|kezd]] szavunk is. Ezek a szavak, kiegészülve sok más, például [[G/Gáz\|gáz]], [[G/Gőz\|gőz]], [[G/Góc\|góc]], stb. nevekkel, egy hatalmas szócsoportba tartoznak, ahol a kiinduló [[A/AT\|AT]]>[[H/HAT\|HAT]] és [[K/KU\|KU]]>[[K/Kut\|kut]] lehet.  
 Egyelőre az látszik biztosnak, hogy mivel Magyar Adorján adata szerint a jász szócsoportban geszt illetve jeszt avagy jezd [[M/MAG\|mag]]ot jelentett, a (kozmikus ős)mag hasadásával indult el minden (gondoljunk a [[B/Big Bang\|Big Bang]]-re). De a maghasadást is magyar találta fel.  
 
-Mivel a Fáy Elek A magyarok őshona című könyvének 216. oldalán említett (geszthez hasonlítható) lényeg jelentését adja meg a szintén eredetileg Nap/Istennév [[B/Bél\|Bél]]nek (a mai bél egyik jelentése ugye növény belső lágyrésze; például dióbél), láthatjuk, hogy a többféle Napnév állhat az élettel bíró növény- és állatnevekben (egy felsorolást lásd Fáy könyvének 210. oldalán B-R, P-L, stb. szóvázú szavakról) és maga az ember (ahol a [[B/BAR\|BAR]] = Nap; tűz) nevében.  
+Mivel a Fáy Elek A magyarok őshona című könyvének 216. oldalán említett (geszthez hasonlítható) lényeg jelentését adja meg a szintén eredetileg Nap/Istennév [[B/Bél\|Bél]]nek (a mai `bél` egyik jelentése ugye növény belső lágyrésze; például dióbél), láthatjuk, hogy a többféle Napnév állhat az élettel bíró növény- és állatnevekben (egy felsorolást lásd Fáy könyvének 210. oldalán B-R, P-L, stb. szóvázú szavakról) és maga az ember (ahol a [[B/BAR\|BAR]] = Nap; tűz) nevében.  
