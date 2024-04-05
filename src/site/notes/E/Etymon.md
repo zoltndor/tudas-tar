@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Etymon/","title":"Etymon","tags":["Englishtexttranslated"],"created":"2023-10-13T06:08","updated":"2024-02-10T03:47"}
+{"dg-publish":true,"permalink":"/E/Etymon/","title":"Etymon","tags":["Englishtexttranslated"],"created":"2023-10-13T06:08","updated":"2024-04-05T19:13"}
 ---
 
 
@@ -20,7 +20,7 @@
 >
 > Ha azonban három alapszó, mint a Pa, a Lo, és a Ta fonódik össze, akkor tisztán láthatjuk mind a három elemet a mai szóban: a Palota három magyar alapszóból épül fel. Aki pedig a Palace (angol), Palatinum (latin), Palatyin (orosz) szavakkal jön elő, hajtson térdet a szent magyar nyelv előtt. Mert bizony az indoeurópainak nevezett nyelvek mind a magyar nyelvből származnak. Ahogy a Palotából a rengeteg származék, úgy a többi százezernyi magyar szóból sok százezernyi származék is a magyar – indoeurópai leszármazást igazolja.  
 >
-> A Süt rokonsága nagyon jelentős. A német Süd – Dél szó a magyar Süt egyszerű változata. A Sütő, a Nap neve, abból a korból származik, amikor németek, de bizonyára indoeurópaiak sem léteztek. Mint magyarok élték napjaikat akkor még az indoeurópaiak. Az angol South nevében még Utu isten neve is kirajzolódik. A svéd Syd – Dél is a Sütből alakult ki.  
+> A Süt rokonsága nagyon jelentős. A német `Süd` – Dél szó a magyar Süt egyszerű változata. A Sütő, a Nap neve, abból a korból származik, amikor németek, de bizonyára indoeurópaiak sem léteztek. Mint magyarok élték napjaikat akkor még az indoeurópaiak. Az angol South nevében még Utu isten neve is kirajzolódik. A svéd `Syd` – Dél is a Sütből alakult ki.  
 > Az etimonok rendje már elhalványult az indoeurópai nyelvekben, sőt!, minden nyelvben, **csakis a magyar nyelvből lehet kihámozni az eredeti etimonokból felépült szavak alakját és jelentését**.  
 
 [[V/Végvári József\|Végvári József]] munkásságával kapcsolatosan annyit, hogy sajnos az etimon-rendszerig nem jutott el, csak szócsaládokban (béke – béka, stb.) gondolkodik. Azt jól látja, hogy a CzF szótárban is alkalmazott, az indogermán módszert követő [[G/Gyöknyelvészet\|gyöknyelvészet]]tel sokra nem megy az ember.  
