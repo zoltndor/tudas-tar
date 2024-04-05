@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Maid/","title":"Maid","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-21T03:53","updated":"2024-02-10T04:09"}
+{"dg-publish":true,"permalink":"/M/Maid/","title":"Maid","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-21T03:53","updated":"2024-04-05T19:26"}
 ---
 
 
@@ -14,7 +14,7 @@ Lány, lánycseléd.
 - Magyar Adorján írhatta volna még az ír `maighdean` szót is, maid és [[M/Maiden\|maiden]] jelentéssel, bár lehet, hogy ez az angolból került oda.  
 Továbbá a völgyelet, azaz meder szón kívül sok más szóalak létezik alakváltozatként. Lásd [[M/Magyar\|magyar]] és más címnél.  
 
-[[M/Mátka\|Mátka]] szavunk, amit ugyan mind férfiról, mind nőről szokták érteni, gyöke is illene, bár [[M/Mate\|mate]] szóban jobban ül. Hogy a nőiség a vízzel volt kapcsolatos, erről MA szintén ejtett szót, de [[M/MATA\|MATA]], [[M/Mad\|mad]] (továbbá [[N/Navel\|navel]], [[N/Navy\|navy]], stb.) szócikkeknél is lesz szó ittasságról ill. magzatvízről.  
+[[M/Mátka\|Mátka]] szavunk, amit ugyan mind férfiról, mind nőről szokták érteni, gyöke is illene, bár [[M/Mate\|mate]] szóban jobban ül. Hogy a nőiség a vízzel volt kapcsolatos, erről Magyar Adorján szintén ejtett szót, de [[M/MATA\|MATA]], [[M/Mad\|mad]] (továbbá [[N/Navel\|navel]], [[N/Navy\|navy]], stb.) szócikkeknél is lesz szó ittasságról ill. magzatvízről.  
 Azóta pedig tömkelegével találtunk példákat arra, hogy a mocsár, láp, víz, bujaság, alsó helyen lét mind a nőiséget, az anyagot jeleníti meg.  
 Lásd bővebben [[F/Fény és anyag\|fény és anyag]].  
 
