@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Köszön/","title":"Köszön","created":"2023-10-17T08:48","updated":"2024-02-23T15:41"}
+{"dg-publish":true,"permalink":"/K/Köszön/","title":"Köszön","created":"2023-10-17T08:48","updated":"2024-04-05T19:24"}
 ---
 
 
@@ -14,8 +14,6 @@ Ugyan Péterfai János elemezése költőien szép, elképezhető, hogy a Kü-Sz
 A cserébe semmit sem visszakérő Napnak úgy is megköszönjük, hogy szinte minden szavunkba beépítettük.  
 
 
-
-A Nap és a Föld a Kis Évben ilyenkor a Szíriusszal is együtt áll. Vélhetően az [[A/Árgyilus\|Árgyilus]] királyfi történetében a Csókolás is Csukást, zárást jelent (akár éppúgy, mint a sarokba szorított király esetében, aki sakkot (lásd [[C/Check\|check]]) kapott: be van csukva).
 
 A csuk a csukló ([[A/Angle\|angle]] és [[A/Angel\|angel]] valamint [[K/Kapu\|kapu]] címnél érintett csuklópántok) szavunk eleme is.  
 
