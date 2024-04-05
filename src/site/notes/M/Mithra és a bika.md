@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mithra és a bika/","title":"Mithra és a bika","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T02:41","updated":"2024-02-28T21:26"}
+{"dg-publish":true,"permalink":"/M/Mithra és a bika/","title":"Mithra és a bika","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T02:41","updated":"2024-04-05T19:29"}
 ---
 
 
@@ -22,7 +22,7 @@ Mithra először is a Napot igázta le, s ennek el kellett tűrnie, hogy a hős 
 A Bika tehát a természet titáni, fékezetten erőit jelenti, az isten-hős legyűri őket, aztán a vadság elvét megölve, belőlük teremti a rendezett világot.  
 A mítosz árja eredetű, Indiában is vannak nyomai, s ezért különös, hogy a bika, illetve a szarvasmarha testéből kihajtó növények motívumát régi babiloni cserépfestményeken is megtaláljuk, sőt néhány ómexikói edény rajzain; azonban semmiféle magyarázatukra nem akadtunk.  
 
-![assets/Mithraesabika_image1.png](/img/user/M/assets/Mithraesabika_image1.png)  
+![assets/Mithraesabika_image1.png|invert_dark](/img/user/M/assets/Mithraesabika_image1.png)  
 A képhez tartozó leírás Jankovics Marcelltől:  
 > Mithras legismertebb ábrázolásán, a Milhras-oltárokon mint bikaölő isten világmegváltói, a földnek termékenységet adó szerepkörben jelenik meg. A Nap, a Hold, [[C/Cautes és Cautopates\|Cautes és Cautopates]] meg a nyári félév csillagképei veszik körül a Bikától a Skorpióig: a Kis Kutya, Nagy Kutya, Vízikígyó, Serleg, Holló, Oroszlán és a Szűz Kalász ([[S/Spica\|Spica]]) nevű csillaga. A jelenetet az ég bolthajtása, a Zodiákus köríve keretezi úgy, ahogyan égen az Orion fölé borul. Mithras perzsa öltözetben, jellegzetes tartásban gyűri maga alá az állatot; jobbjában rövid kard, amit a bika szívébe döf, tekintetét a Napra emeli. (A mítosz szerint Héliosz, illetve Apollón mint az Ikrek ura ad parancsot közös madarukon, a hollón keresztül a bika megölésére.) A többi csillagállat segít neki a leterítésében (149. rajz).  
 
@@ -71,7 +71,7 @@ Az alábbiak [[K/Kereszt – fix kereszt\|kereszt – fix kereszt]] címnél is 
 > —  
 > Ötezer évvel ezelőtt az ókori Babilóniában a Nap a tavaszi napéjegyenlőség idején lépett be a Bika (Bika) állatövi jegyébe, és az őszi napéjegyenlőség idején lépett át a Skorpióba (Skorpió). Mintegy háromezer évvel később a klasszikus Rómában a napéjegyenlőségek precessziójáról szóló beszámolóban a Nap a tavasz kezdetén az Aires (Kos), az ősz kezdetén pedig a Mérleg (Mérleg) jegyében állt.  
 
-![assets/Mithraesabika_image3.png](/img/user/M/assets/Mithraesabika_image3.png)  
+![assets/Mithraesabika_image3.png|invert_dark](/img/user/M/assets/Mithraesabika_image3.png)  
 John Major Jenkins Galactic Alignment című könyvének 8. fejezetében szól a témáról. Nála sem született meg a Nappal (illetve Nap az Orionban) való azonosítás, sőt, Perseus mellett Ophiuchus is szóba jött, míg John M. Jenkins szerint ő a napéjegyenlőségi tengely megszemélyesítője.  
 (Minden mesehős naphérosz: mi olyan nehéz ebben?! Az persze nem volt nehéz, hogy mesehősből vallást csináljanak, lásd zsidók [[J/Jézus\|Jézus]] esetében is. [[M/Mikulás\|Mikulás]] sztori felnőtteknek.)  
 Lásd a képet csatolva, magyarázatát viszont a könyvben.  
@@ -150,7 +150,7 @@ Egyébként hasonló (kozmogónia versus kozmológia) esetről szól John M. Jen
 > —  
 > \[Amíg\] Zep Tepi az egyiptomi teremtési szövegekben a világegyetem hajnalára és teremtésére utal, ebben az összefüggésben egy újabb "újjászületési" eseményként használják.  
 
-Azaz az első születés és a soron következő születések (együttállások) lényegében ugyanazon helyzetetet vázolják fel. Hasonlót mond el az [[A/Apocatastasis\|apocatastasis]] is.  
+Azaz az első születés és a soron következő születések (együttállások) lényegében ugyanazon helyzetet vázolják fel. Hasonlót mond el az [[A/Apocatastasis\|apocatastasis]] is.  
 (Lásd még hasonló eseteket [[K/Kozmogónia és kozmológia\|kozmogónia és kozmológia]] címnél.)  
 
 Igaza lehet egyébként JMJ-nek (vagy ezt így ki sem mondta?), hogy az Orion-Bika-Pleiadok hármas arra hívja fel a figyelmet, hogy mi történik valójában a "háttérben": a háttér a galaktikus központ helyzete, az Orion-Bika-Pleiadok hármas pedig a vele szemben álló Tejút-antiközpont ([[G/Galactic anticentre\|Galactic anticentre]]). Egyiptomban és mayaföldön (és még ki tudja hány helyen) is az [[O/Orion övcsillagai\|Orion övcsillagai]]t építették meg, nem a Tejútközpontot.  
