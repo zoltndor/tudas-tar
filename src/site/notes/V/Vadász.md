@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","created":"2023-10-13T05:41","updated":"2024-02-29T00:47"}
+{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","created":"2023-10-13T05:41","updated":"2024-04-05T20:00"}
 ---
 
 
@@ -49,7 +49,7 @@ A Pető Imre féle vonal is érdekes, de az is, hogy az [[A/Asera\|asera]] és [
 Ami még a Hágár név változatait illeti, Hacer török női név. Hacser Józsa nevét mondhatnánk még.  
 A többi nyelven is fussunk végig. A szláv `lovec`, `лове́ц`, stb. alakok egyértelműen `lövész` szavunkat árulják el. A germán szavaknál is a nyíllövő az íjász, aki ugye a vadász is. De ha már lövész, nem-e a [[L/Love\|love]] szó is [[A/Ámor\|Ámor]] és [[C/Cupid\|Cupid]] címnél írottak alapján lövés szavunk törzse? Azaz a szanszkrit [[L/Lubdhaka\|Lubdhaka]] dakák lövője lenne? A szláv szavak gyöke erre enged következtetni. A [[L/Lubdhaka\|Lubdhaka]] névvel [[S/Szíriusz\|Szíriusz]] címnél találkoztunk már; [[L/Love\|love]] címnél is említettük közben, hogy a lövés és lövész törzse lehet.  
 A lengyel `myśliwy` a [[M/MISZ\|MISZ]] előtag miatt érdekes; emlékeztet a [[L/Luna\|Luna]] címnél elővett lengyel `miesiąc` = holdsarló, hold szóra, mely felveti, hogy a közös fogalom bennük az ív/ij(asság) (hasonlóan az arab `kamr` = Hold, de a héber `hamor` = íjász).  
-A görög `κυνηγός` = vadász a `κύων` = kutya előtagot viszi, de az utótagot nem magyarázza meg a Wiktionary. Beekes etymologia szótárában elő sem jön a szó, de egy hasonlót megad kutyavezető néven. Én éppen erre az etimológiára gondoltam: csak az égre kell nézni.  
+A görög `κυνηγός` = vadász a `κύων` = kutya előtagot viszi, de az utótagot nem magyarázza meg a Wiktionary. Beekes etimológia szótárában elő sem jön a szó, de egy hasonlót megad kutyavezető néven. Én éppen erre az etimológiára gondoltam: csak az égre kell nézni.  
 A török `avci` és azeri `ovçu` = vadász talán [[A/Ács\|ács]] vagy [[J/Jász\|jász]] illetve (a Péterfai János szerint akár a magyar [[H/Heta\|heta]] nevünkhöz köthető) kínai [[J/Jüecsi\|jüecsi]] átvétele (a [[H/Hét\|hét]] pedig észak ugye) (a shor nyelvű `añçı` hasonló még (sőt, ismét N = V?)).  
 [[J/Jüecsi\|Jüecsi]] címnél arról szóltunk legutóbb, hogy a [[J/Jász\|jász]] nevünk kell legyen, és valóban, a jász = íjász = vadász.  
 Mint kiderül, [[H/Hágár\|Hágár]] fia, [[I/Izmael\|Izmael]] is vadász, de atyja [[A/Ábrahám\|Ábrahám]] is Orion alak.  
