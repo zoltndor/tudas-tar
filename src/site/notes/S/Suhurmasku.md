@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Suhurmasku/","title":"Suhurmasku","tags":["Englishtexttranslated"],"created":"2023-11-04T10:20","updated":"2024-03-03T18:12"}
+{"dg-publish":true,"permalink":"/S/Suhurmasku/","title":"Suhurmasku","tags":["Englishtexttranslated"],"created":"2023-11-04T10:20","updated":"2024-04-05T19:41"}
 ---
 
 
@@ -48,7 +48,7 @@ Hogy írta [[A/Artemisz\|Artemisz]] címnél Huszka József? "Ornamentikánk sza
 > Amikor a Nap feltűnik a mennyei szarvas szarvai között – [[T/Téli napforduló\|téli napforduló]] – a tél elmúlik, a Nap visszanyeri korábbi erejét, a nappalok egyre hosszabbak, egy új ciklus, új év kezdődik. A korongnak vagy a madárnak a szarvak közt a Nagy Szarvast kellett jelképeznie aki visszahozza a Napot a szarvai között.  
 > A téli sötétség megsemmisítése és a Nap visszaszerzése kellett, hogy jelentse a lehető legnagyobb szolgálatot egy többé-kevésbé primitív emberi társadalomnak. Nem csoda, hogy a jótevő kultusza fennmaradt ilyen sokáig.  
 
-[[S/Sugar\|Sugar]] és [[S/Sacchar-\|sacchar-]] címnél hasonló neveket láttunk még (az ott írottak alapján gondolható igazán, hogy a suhur- előtag szúr/szár/szar kell legyen). De hasonló a [[D/Door\|door]] címnél előjövő csuvas `śăvar` = száj szó is, márpedig a fent is említett [[M/Makara\|Makara]] címnél volt szó szanszkrit száj jelentésű szóról, hisz az a száj nem más, mint nyílás = Nyilas (igaz, [[S/Száj\|száj]] címnél írottak szerint a száj lehet a nyári napforduló helyére utaló is). És hogy ezen szavak lehetnek köthetők még akár a ([[D/Door\|door]] címnél taglalt) analógiával az indo-iráni nyelvek \*`csahar` = négy (lásd [[C/CSÁR\|CSÁR]]) jelentésű szavaihoz (mert valójában négy fordulópont illetve kapu van és Enki-Ea jele is négyzet volt), nem tudni, de egyszer minden kiderül.  
+[[S/Sugar\|Sugar]] és [[S/Sacchar-\|sacchar-]] címnél hasonló neveket láttunk még (az ott írottak alapján gondolható igazán, hogy a suhur- előtag szúr/szár/szar kell legyen). De hasonló a [[D/Door\|door]] címnél előjövő csuvas `śăvar` = száj szó is, márpedig a fent is említett [[M/Makara\|Makara]] címnél volt szó szanszkrit száj jelentésű szóról, hisz az a száj nem más, mint nyílás = Nyilas (igaz, [[S/Száj\|száj]] címnél írottak szerint a száj lehet a nyári napforduló helyére utaló is). És hogy ezen szavak lehetnek köthetők még akár a ([[D/Door\|door]] címnél taglalt) analógiával az indo-iráni nyelvek \*csahar = négy (lásd [[C/CSÁR\|CSÁR]]) jelentésű szavaihoz (mert valójában négy fordulópont illetve kapu van és Enki-Ea jele is négyzet volt), nem tudni, de egyszer minden kiderül.  
 A bakhal-képzet a [[S/Skorpió csillagkép\|Skorpió csillagkép]]et Szarvassal kitűnő módon azonosítani képes...
 
 #### Iain Forbes...
