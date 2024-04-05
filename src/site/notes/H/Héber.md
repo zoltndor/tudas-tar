@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2024-03-04T18:05"}
+{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2024-04-05T19:18"}
 ---
 
 
@@ -44,7 +44,7 @@ Egyes kutatók, ahogy Magyar Adorján is, a héberek nevét a [[K/Kabar\|kabar]]
 Nem feltétlenül ez a helyes eredet. Ahogy [[G/Gabriel\|Gábriel]] névértelmezése kapcsán előjött, a héber `gever` = ember (másutt `gebher`; vö. [[Y/Yazd\|Yazd]]-i `gueber` tűzimádót Kállay Ferenc A pogány magyarok vallása c. könyvének 253. oldaláról), mely a héber névnek is megfelel. Ez a név pedig már az [[A/Algebra\|algebra]] címnél írottak alapján értelmezendő, azaz az ember itt a csillagkép-ember/óriás Orion – körülbelül úgy, ahogy nálunk ember az [[I/Ikrek csillagkép\|Ikrek]].  
 Lentebb találkozunk a héber `geber` = helytartó szóval, mely a [[V/Vezető\|vezető]], és itt megint egyszerre Orion és az [[I/Ikrek csillagkép\|Ikrek]] cikkelyébe tartozó Kutya kerülhet elő ilyen szerepkörben.  
 
-Egy friss műsorában KT is mondja, hogy a [[H/Háború\|háború]], hőbörög és hasonlók a hébereket jelölő szavak és itt nem valamiféle belemagyarázást kell látni, hanem ez mind népi tapasztalat. A [[S/Szemita\|szemita]] – [[S/Szemét\|szemét]] összefüggés is ilyen. A [[H/Háború\|háború]] viszont istennőre is vonatkozhat.  
+Egy friss műsorában Kubínyi Tamás is mondja, hogy a [[H/Háború\|háború]], hőbörög és hasonlók a hébereket jelölő szavak és itt nem valamiféle belemagyarázást kell látni, hanem ez mind népi tapasztalat. A [[S/Szemita\|szemita]] – [[S/Szemét\|szemét]] összefüggés is ilyen. A [[H/Háború\|háború]] viszont istennőre is vonatkozhat.  
 Alapvetően a [[L/Light\|light]] címnél írottak érvényesek itt is.  
 
 CzF azt írja ugye, hogy a régi iratokban **éber** formában is közölték a héber nevet. [[H/Habiru\|Habiru]] címnél pedig **Ever** nemzetség héberes v-s változata került elő.  
