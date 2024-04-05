@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Athéné/","title":"Athéné","tags":["containstransclusions"],"created":"2023-10-13T01:08","updated":"2024-02-10T03:36"}
+{"dg-publish":true,"permalink":"/A/Athéné/","title":"Athéné","tags":["containstransclusions"],"created":"2023-10-13T01:08","updated":"2024-04-05T19:01"}
 ---
 
 
@@ -33,8 +33,8 @@ Athén nevét Péterfai János Atlantiszról szóló írásában így elemzi:
 </div></div>
 
 
-Amit konkrétan MA nem mondott ki, hogy Athene lényegében annyit tesz, mint A Tehén (Bakos Attila A Duna Evangéliuma című könyvének 240. oldalán is A-Tehenu olvasatot ad neki MA nyomán), és a [[C/Csudaszarvas\|Csudaszarvas]]ünőre utal.  
-MA előtt (a hasonló passzussal [[N/Neith\|Neith]] és [[B/Bika\|bika]] címnél jelentkező) Fáy Elek A magyarok őshona című könyvének 89. oldalán közli, hogy (a magyarul nyilván nem tudó) Brugsch adata szerint is a tehenu nevű nép az esőt adó Athénéről, az égi tehénről vette \[itt még az esőcsinálás/vízfakasztás nem az Égisten Orionhoz kötött, ezek szerint\].  
+Amit konkrétan Magyar Adorján nem mondott ki, hogy Athene lényegében annyit tesz, mint A Tehén (Bakos Attila A Duna Evangéliuma című könyvének 240. oldalán is A-Tehenu olvasatot ad neki Magyar Adorján nyomán), és a [[C/Csudaszarvas\|Csudaszarvas]]ünőre utal.  
+Magyar Adorján előtt (a hasonló passzussal [[N/Neith\|Neith]] és [[B/Bika\|bika]] címnél jelentkező) Fáy Elek A magyarok őshona című könyvének 89. oldalán közli, hogy (a magyarul nyilván nem tudó) Brugsch adata szerint is a tehenu nevű nép az esőt adó Athénéről, az égi tehénről vette \[itt még az esőcsinálás/vízfakasztás nem az Égisten Orionhoz kötött, ezek szerint\].  
 Fáy könyvének 257. oldalán (úgy tűnik, rossz úton jár, amikor) Athéné nevét az egyiptomi [[A/Aton\|Aten]] névből akarja megfejteni, de legalább itt ismét megemlíti a tehén kapcsolatot.  
 [[D/Dame\|Dame]] címnél több olyan szó szerepel, amik a tehén szavunkkal kapcsolatba hozattak.  
 Mivel az [[A/Aegis\|aegis]] (égisz = ég[[P/Palást\|palást]]), Athéné köpenye az [[A/Amalthea\|Amalthea]] kecskének a bőréből készült, ahogy Jankovics Marcell írja, ez is jól mutatja, hogy Athéné Tejútistennő és Amalthea (kecske-állatalakja) egy és ugyanaz.  
