@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kacsa/","title":"Kacsa","created":"2023-11-14T05:43","updated":"2024-02-02T03:14"}
+{"dg-publish":true,"permalink":"/K/Kacsa/","title":"Kacsa","created":"2023-11-14T05:43","updated":"2024-04-05T19:19"}
 ---
 
 
@@ -13,16 +13,16 @@ Ka-Csa felbontású, ahogy...
 
 Azért is igen érdekes a szó, mert mássalhangzó-vázával lényegében nem tér el azon nevektől ([[K/Koca\|koca]], [[K/Kútya\|kútya]]), melyek a [[N/Nap háza\|Nap házá]]ra utalnak; azaz [[K/KA\|KA]] értelmét itt jobbnak látom simán "ház"-ban megállapítani. Nyilván a kacsa is a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]]. Azaz nem határolódok el a Kacs-A felbontástól sem. A Péterfai János által említett [[C/CSA\|CSA]] = víz lehet az ég tengerén a Tejút vize is.  
 Annál is inkább gondolom helyesnek elképzelésem, mert a latin `anas` = kacsa szóban is megvan [[A/ANA\|ANA]].  
-Hasonló a CzF által [[G/Goose\|goose]] címnél adatolt `góca`.  
+Hasonló a CzF által [[G/Goose\|goose]] = liba címnél adatolt `góca` és a többi K-S vázú szó.  
 A madár = ház témáról lásd külön alcímnél [[M/Madár\|madár]].  
 
 ## Kacsalábon forgó palota
 
 #### Grandpierre Atilla Karácsonyról szóló írása...  
 
-...szerint a kacsalábon forgó palota a Kis Göncöl. Régi neve ugyanis: Tündérasszony palotája. A Sarkcsillagé: Boldogasszony matullája (motollája). Matulla = a fonásnál használt madárlábhoz hasonló, háromlábú tengely). Csak ez a csillag kering egy adott sarokpontja körül.  
+...szerint a kacsalábon forgó palota a Kis Göncöl. Régi neve ugyanis: Tündérasszony palotája. A Sarkcsillagé: Boldogasszony matullája (motollája). `Matulla` = a fonásnál használt madárlábhoz hasonló, háromlábú tengely). Csak ez a csillag kering egy adott sarokpontja körül.  
 
-Egy másik fontos madár, mely egylábon állásával és a hozzá köthető forgást jelentő szavak kapcsán érdekes, a [[D/Daru\|daru]], ahol ([[M/Motolla\|motolla]] címnél szintén) kakaslábon forgó várról írt MA.  
+Egy másik fontos madár, mely egy lábon állásával és a hozzá köthető forgást jelentő szavak kapcsán érdekes, a [[D/Daru\|daru]], ahol ([[M/Motolla\|motolla]] címnél szintén) kakaslábon forgó várról írt Magyar Adorján.  
 
 ## Kis kacsa fürdik
 

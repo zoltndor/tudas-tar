@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Skull/","title":"Skull","tags":["Englishtexttranslated"],"created":"2023-11-05T03:03","updated":"2024-02-12T18:18"}
+{"dg-publish":true,"permalink":"/S/Skull/","title":"Skull","tags":["Englishtexttranslated"],"created":"2023-11-05T03:03","updated":"2024-04-05T19:39"}
 ---
 
 
@@ -13,7 +13,7 @@ Tény az is, hogy a helyes eredeztetés kulcsa maga a megfelelő kulcs megtalál
 Lehet itt még a [[G/Gyula\|Gyula]] méltóságnevet is szóba hozni rokonításként, sőt, gólya felé is keresni, de végeredményben elképzelhető ([[K/Kobak\|kobak]] címnél írottak alapján is), hogy a kutya koponyájáról van szó, vagy pedig a Kutyacsillag, Szíriusz helyzetéről.  
 Ne feledjük, ahogy [[G/Galactic anticentre\|Galactic anticentre]] és [[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]] címnél szóltunk erről, a Tejútistennő feje a [[S/Szíriusz\|Szíriusz]].  
 
-Előjött említve skull [[G/Golgotha\|Golgotha]], valamint [[S/Sköll\|Sköll]] és [[S/Szkülla és Karübdisz\|Szkülla]] címnél is, minthogy az arámi `gulgul` (vagy csak egyes számban gul?) szintén koponyát jelentett. Vagy a gyúl (a koponya a kopasz/csupasz mentén viszgálva szakrális-fényes lehet) vagy a hull = halál mentén vizsgálható azon szó is, de tény, hogy ezek a szavak mind egy eredetűek lehetnek. Hogy a kutyát és a kutyakoponyát (főleg a görög [[S/Szkílosz\|szkíla]] = szukát) lehet-e ide kapcsolni, nos lehet, hiszen a kutya alvilági állat, de egyszerűbb lenne mégis a [[G/Ghoul\|ghoul]] címnél is előjövő hull igénket megjelölni.  
+Előjött említve skull [[G/Golgotha\|Golgotha]], valamint [[S/Sköll\|Sköll]] és [[S/Szkülla és Karübdisz\|Szkülla]] címnél is, minthogy az arámi `gulgul` (vagy csak egyes számban gul?) szintén koponyát jelentett. Vagy a gyúl (a koponya a kopasz/csupasz mentén vizsgálva szakrális-fényes lehet) vagy a hull = halál mentén vizsgálható azon szó is, de tény, hogy ezek a szavak mind egy eredetűek lehetnek. Hogy a kutyát és a kutyakoponyát (főleg a görög [[S/Szkílosz\|szkíla]] = szukát) lehet-e ide kapcsolni, nos lehet, hiszen a kutya alvilági állat, de egyszerűbb lenne mégis a [[G/Ghoul\|ghoul]] címnél is előjövő hull igénket megjelölni.  
 
 Érdekes még:  
 > Egyes barlangokban, mint a *Mugaret* es **Skhul** és a Qafzeh barlangokban, temetkezés történt. Egy kisgyerek mellére kecskebak koponyáját helyezték, a két szarvval együtt. Más barlangban kos koponya került a halottra, ismét más helyen szarvas koponya aganccsal együtt. A Skhul barlangban egy öreg karjai közé hatalmas vadkan állkapcsát helyezték.  
@@ -24,7 +24,7 @@ Igen könnyen lehet, hogy az sz-előhanggal engedjük magunkat félrevezetni. Ug
 - Falk Nóra kiegészíti:  
 > A 'homlok' jelentésű, speciális használatban a 'rén fejbőrét' jelölő északi lapp `gállu` a finn `kallo` 'koponya' főnév átvétele. Ennek a skandináv eredetű szónak a lappban kialakult specifikus jelentését az északi finn nyelvjárások később kölcsönözték, átvették: a finn réntartási terminológiában a `kallo` a rén fejbőrét és koponyáját egyaránt jelöli (vö. fi. `kallokas`, `kallokka` 'rén fejbőréből készült lábbeli').  
 
-Arról már [[H/Homlok\|homlok]] és a szanszkrit kuta kapcsán [[K/Kutya\|kutya]] címnél is volt szó, hogy a homlok a szarvak helye.  
+Arról már [[H/Homlok\|homlok]] és a szanszkrit `kuta` kapcsán [[K/Kutya\|kutya]] címnél is volt szó, hogy a homlok a szarvak helye.  
 
 [[L/Lélek\|Lélek]] címnél írottak alapján értjük meg, miért volt fontos a [[K/Koponya\|koponya]]. Lásd ott.  
 Ugyanakkor a [[S/School\|school]] szó kapcsán a [[S/Szellem\|szellem]]iség, magas [[T/Tud\|tud]]ás, a Tejútról származó tudás jut eszünkbe és a Tejút és a Kutya összetartoznak. A koponya az ész helye.  

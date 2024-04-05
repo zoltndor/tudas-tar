@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Agy/","title":"Agy","tags":["dg_uploaded"],"created":"2023-10-13T12:35","updated":"2023-10-25T12:21"}
+{"dg-publish":true,"permalink":"/A/Agy/","title":"Agy","created":"2023-10-13T12:35","updated":"2024-04-05T18:59"}
 ---
 
 
@@ -24,6 +24,6 @@ TeSz: bizonytalan eredetű; talán ősi örökség a finnugor korból; vö. mord
 Lásd még mindenképp legutóbb [[H/Hagyma\|hagyma]] címnél írottakat is (ugyebár [[O/Onion\|onion]] = [[U/Union\|union]] = egy(ség)).  
 Lásd még [[A/AG\|AG]].  
 
-A perzsa nyelvben [[M/Maghz\|maghz]] = agy, azaz a [[M/MAG\|MAG]] szavunk kétségtelen számításba vehető (így vagy úgy: a mag(y) és agy között csak egy szóeleji ajakhang a különbség).  
+A perzsa nyelvben [[M/Maghz\|maghz]] = agy, azaz a [[M/MAG\|mag]] szavunk kétségtelen számításba vehető (így vagy úgy: a mag(y) és agy között csak egy szóeleji ajakhang a különbség).  
 
 Kerékagyról lásd [[A/Abroncs\|abroncs]] és [[N/Navel\|navel]].  

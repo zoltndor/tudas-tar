@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2024-03-03T15:25"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2024-04-05T19:30"}
 ---
 
 
@@ -172,7 +172,7 @@ A Sirius in Ancient Greek and Roman literature című cikkben fejtegetik, hogy a
 [[E/Eire\|Eire]] címnél felemlítettük, hogy mi lenne, ha Mária nem a [[M/Marha\|marha]] szavunkból eredne mégsem, hanem az "[[A/Árja\|árja]]" (levegő) ajakhang-előtételezése lenne. Illetve valójában pont arról volt szó, hogy mi lenne, ha a Mária lenne a kiinduló oda.  
 A Mária marhából való közvetlen eredeztetésének az is ellentmond, hogy az (általán területek nevére alkalmazott) -[[I/Ia\|ia]] végződés más nevekben is szerepel; például Kornélia, Natália, a gall fenyő (nem tölgy?) istennő [[D/Druantia\|Druantia]], a tölgy (nem inkább éger?) istennő [[E/Egeria\|Egeria]], a szintén Tejút/kígyóistennő [[L/Lamia\|Lamia]], illetve Péterfai János Atlantiszról szóló írásában azt írja, hogy az ír [[E/Eriu\|Eriu]] (lásd róla illetve a passzust [[E/Eire\|Eire]]) nevében is az -ia végződés lenne meg.  
 
-Ezért is gondoltam, hogy a Mária-jelkép kagyló arab mahar neve alapján is inkább a Magyar < Mahar < Maar < Már-ia levezetésre, melyet a Quora cikkbe is felírtam. Csak hónapokkal ezután találkoztam...  
+Ezért is gondoltam, hogy a Mária-jelkép kagyló arab `mahar` neve alapján is inkább a Magyar < Mahar < Maar < Már-ia levezetésre, melyet a Quora cikkbe is felírtam. Csak hónapokkal ezután találkoztam...  
 
 #### Pap Gábor...
 
@@ -203,7 +203,7 @@ Jankovics Marcellnél Szíriusszal való azonosítás is előjön(!):
 
 #### Dobos Csanád írja:
 
-> A Tejút környékén van a Tündérasszony Palotája, a Tündérasszony Kútja, a Szépasszony Kútja, a Tündérek Tánca, a Tündérfő, a Nagy és Kis Táltos, és a Bába Motollája. A Tündérfő, Tündérszemű Csillag, szintén a Sziriusz, kétségtelenné teszi Ízisz tündérségét. Az Ikrek jegyet a Tejút köti össze a Nyilas jeggyel. Köztük van a Forgó, magyar népi nevén a tündérek tánca helye, ahonnan a Tejút két irányba ágazik el, és közte a barlang.  
+> A Tejút környékén van a Tündérasszony Palotája, a Tündérasszony Kútja, a Szépasszony Kútja, a Tündérek Tánca, a Tündérfő, a Nagy és Kis Táltos, és a Bába Motollája. A Tündérfő, Tündérszemű Csillag, szintén a Szíriusz, kétségtelenné teszi Ízisz tündérségét. Az Ikrek jegyet a Tejút köti össze a Nyilas jeggyel. Köztük van a Forgó, magyar népi nevén a tündérek tánca helye, ahonnan a Tejút két irányba ágazik el, és közte a barlang.  
 
 Az alábbi JM-féle passzus (mely immmáron [[N/Nut\|Nut]], [[S/Száj\|száj]], [[S/Sárkány\|sárkány]], [[C/Colon\|colon]], [[A/Angle\|angle]] és [[R/Remese\|remese]] címnél is szerepelt) taglalja hogy Mária a Napot felfaló és újraszülő ősi Tejútistennők örökébe lépett (jól látja[^8]):  
 > Az ajtó, a kapu, a "megnyílnak az egek" metaforája mely utóbbi, mint már jeleztem, arra a két naptári időszakra vonatkozik, amikor a Nap a Tejúton tartózkodván "feltárja annak kapuit", s ily módon nyit utat ég és föld között a lelkek számára, a Születés jelképrendszerén belül azonos a megnyíló anyaöllel, s amennyiben a Napról, napistenről van szó, a Tejút hasadékával, mely – nem győzöm ismételgetni –, Szent Ivánkor látszik a legszebben, és amelyet karácsonykor hagy el a Nap. Ilyeténképpen Mária a Napot "felfaló" és "újraszülő" ősi tejút-faistennők örökébe lépett. Erről már szintén írtam másutt (1991: 99-111), itt csak egy, ideillő példát említek. Jézus szűzi fogantatásának dogmája – feltevésem szerint – azon a mindennapi megfigyelésen alapszik, hogy a Nap keleten kél (naptámadat) és nyugaton nyugszik (napáldozat, napszentület). Ezért ábrázolják Nut tejút- és faanyát a szájánál, a testében meg az ágyékánál napkoronggal. Ezért esnek a mesehősnők "világmegváltó hős fiaikkal" a szájukon át teherbe (JANKOVICS 1987: 61-62). És ez lehet a magyarázata annak is, hogy az Angyali üdvözlet hagyományos ábrázolásain a Szentlélek galambja nem Mária ölére, hanem – az általam látott képeken kivétel nélkül – a fejére ereszkedik.  
@@ -244,7 +244,7 @@ Badiny Jós Ferenc már megállapította, hogy Mária pártus eredetű volt.
 Nagyné dr. Fülöp Krisztina cikkében még Badiny Jós Ferenc Jézus Király a pártus herceg című könyvéből idéz:  
 > Mária azonosítva lett azzal az Anahyta "Szűzanyával", akit II. Artaxerxes (Kr.e.405-359) "szeplőtelennek" nyilvánított még az achaimenida korban.  
 > \[...\]  
-> Nestor pátriárka (Kr.u.360-440) is Máriát a "szeplőtelen Szülőanyjának" nevezi. A római-zsidó kereszténység az Ephezusi Zsinaton (Kr. u. 431-ben) szavazza meg Máriának ugyanazt a titulust, amelyet évtizedeken át az egyiptomi Isis "Istenanya" viselt, s csak Kr. után a 6. században építenek egy kápolnát Mária tiszteletére. A sumíralapú, palesztinai "Szűzanya" (Astarte) tiszteletre való emlékezés szóba sem jöhetett, hiszen ez a hiedelem volt a Jézus-korabeli zsidó vallási felfogás legnagyobb ellensége. Ugyanis e fogalmakkal kifejezett istenszemélyeknek (mint: "Égkirálynő" "Szűzanya" "Világ-Világossága") tisztelete Közép-Ázsiától a Kárpát-medence – Kaukázus – Palesztina – Mezopotámia és Egyiptom térségében már évezredes múltra tekint vissza.  
+> Nestor pátriárka (Kr.u.360-440) is Máriát a "szeplőtelen Szülőanyjának" nevezi. A római-zsidó kereszténység az Ephezusi Zsinaton (Kr. u. 431-ben) szavazza meg Máriának ugyanazt a titulust, amelyet évtizedeken át az egyiptomi `Isis` "Istenanya" viselt, s csak Kr. után a 6. században építenek egy kápolnát Mária tiszteletére. A sumíralapú, palesztinai "Szűzanya" (Astarte) tiszteletre való emlékezés szóba sem jöhetett, hiszen ez a hiedelem volt a Jézus-korabeli zsidó vallási felfogás legnagyobb ellensége. Ugyanis e fogalmakkal kifejezett istenszemélyeknek (mint: "Égkirálynő" "Szűzanya" "Világ-Világossága") tisztelete Közép-Ázsiától a Kárpát-medence – Kaukázus – Palesztina – Mezopotámia és Egyiptom térségében már évezredes múltra tekint vissza.  
 > \[...\]  
 > Összefoglalva: Máriát megelőző Istenasszony elnevezések a következők: "Ég Asszonya" = [[I/Istár\|Istár]] (Amarna-táblákon: asszír, vagy akkád), "Ég Királynő" = Antit (Egyiptomi Beth-Shani felirat), "Ég Úrnője" = Anat (Kána-i termékenység istennő), "Ashtoreht" = Astarte (palesztinai Ras-Shamra szövegek), [[I/Inanna\|Inanna]] (a sumer Boldogasszony), [[I/Ízisz\|Isis]] (Egyiptomban), "[[T/Tanit\|Tanit]]" (Karthágóban), "Ana Hit" (a turáni népeknél), görögöknél "[[A/Aphrodité\|Aphrodité]]" ill. "[[A/Athéné\|Athéné]]" rómaiaknál "[[M/Minerva\|Minerva]]" és "[[V/Vénusz\|Vénusz]]".  
 
@@ -396,7 +396,7 @@ Lásd még Robert Graves The White Goddess című könyvének hosszabb passzusá
 A [[M/Miriam\|Miriam]] címnél álló adat szerint 8 vagy 9?  
 
 [^7]: Lábjegyzet:  
-Ha bármi más lett volna neve – Tercsi, Fercsi, Klára –, akkor lehetett volna szó annak valóságtartalmáról, hogy Mária Magdolna Jézus felesége volt. Így viszont csak az istennő harmasság egyik aspektusa, semmi több.  
+Ha bármi más lett volna neve – Tercsi, Fercsi, Klára –, akkor lehetett volna szó annak valóságtartalmáról, hogy Mária Magdolna Jézus felesége volt. Így viszont csak az istennő hármasság egyik aspektusa, semmi több.  
 
 [^8]: Lábjegyzet:  
 Buddhista párhuzamában Mára nevű démon is tulajdonképpen Buddha (szexuális) megkísértésében halálára tör:  

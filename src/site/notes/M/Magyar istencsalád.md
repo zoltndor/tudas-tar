@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar istencsalád/","title":"Magyar istencsalád","tags":["Englishtexttranslated"],"created":"2023-11-30T10:05","updated":"2024-02-10T04:08"}
+{"dg-publish":true,"permalink":"/M/Magyar istencsalád/","title":"Magyar istencsalád","tags":["Englishtexttranslated"],"created":"2023-11-30T10:05","updated":"2024-04-05T19:25"}
 ---
 
 
@@ -45,7 +45,7 @@ De ki is az az [[O/Orion\|Orion]]? Nevének értelmezése szerint az Ég Ura. [[
 [[N/Ninsubur\|Ninsubur]] neve úgy jött elő [[P/Papszukkal\|Papsukkal]] címnél, minthogy állítólag az Orion alakja nőiség lett volna? Aligha. Nyilván félreértésről van szó. Orion nem lehet nőiség, ahogy a Nap sem \[nincs olyan, hogy [[N/Napistennő\|Napistennő]]\]. A félreértést az okozza, hogy Orion (Úr-Isten) mellett ott van az Istenanya (An, Ana, Anu; [[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]]), el nem választhatóan.  
 - [[I/Isa\|Isa]] címnél is, sémi és szanszkrit szavak által bemutatásra került, hogy az Úr(isten) és a neje lehet Orion és Szíriusz.  
 
-Tehát egyrészt Orion és Szíriusz egymástól el nem választhatósága adja meg a választ, másrészt az, hogy maga [[S/Szíriusz\|Szíriusz]] is kettős [[A/Androgün\|androgün]]: egyszerre nőiségi és hímségi természetű (hisz ott zajlik a nemzés). Orion az Ég Ura (Uri-An, Uru-An; az An, Án = ég jelentése eredetileg az éj sötétjére, a tágabban értelmezhető istenanyára utal), míg Szíriusz az Anya ([[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]]) (viszont [[H/Hágár\|Hágár]] [[A/Agar\|agar]] és [[A/Akar\|Akar]] olvasata szerint szintén Ég Úr értelmű: [[H/Hágár\|Hágár]] és nemzője [[A/Ábrahám\|Ábrahám]] egyek Szíriuszban és Orionban).  
+Tehát egyrészt Orion és Szíriusz egymástól el nem választhatósága adja meg a választ, másrészt az, hogy maga [[S/Szíriusz\|Szíriusz]] is kettős [[A/Androgün\|androgün]]: egyszerre nőiségi és hímségi természetű (hisz ott zajlik a nemzés). Orion az Ég Ura (Uri-An, Uru-An; az `An`, `Án` = ég jelentése eredetileg az éj sötétjére, a tágabban értelmezhető istenanyára utal), míg Szíriusz az Anya ([[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]]) (viszont [[H/Hágár\|Hágár]] [[A/Agar\|agar]] és [[A/Akar\|Akar]] olvasata szerint szintén Ég Úr értelmű: [[H/Hágár\|Hágár]] és nemzője [[A/Ábrahám\|Ábrahám]] egyek Szíriuszban és Orionban).  
 
 [[O/Orion\|Orion]] címnél írtuk legutóbb:  
 Nem tartom elképzelhetetlennek, hogy a nemcsak akkád, hanem sumér nyelvűként is helyes Uru-Anna tulajdonképpen (mondjuk ki: magyarítva) Uru-Anya, azaz az Anyaistennő Ura, azaz Férje értelmű is lehet, azzal, hogy az Orion mellett neje, a Tejút van.  
@@ -65,7 +65,7 @@ Megjegyzés: a feleség értelem asszony és nő (honnan is: nej, nejem) alapér
 
 ## A férj és feleség, Orion és Szíriusz összetartozósága
 
-Nagyon sok helyen, főleg [[I/Íj csillagkép\|Íj csillagkép]], [[O/Orion övcsillagai\|Orion övcsillagai]], [[K/Kovács és a kutya\|kovács és a kutya]] és sok más helyen szó esett arról, hogy ezek összetartoznak. [[K/Khuda\|Khuda]] és [[G/God\|God]] címnél még ez is elhangzott az iráni Khuda kapcsán:  
+Nagyon sok helyen, főleg [[I/Íj csillagkép\|Íj csillagkép]], [[O/Orion övcsillagai\|Orion övcsillagai]], [[K/Kovács és a kutya\|kovács és a kutya]] és sok más helyen szó esett arról, hogy ezek összetartoznak. [[K/Khuda\|Khuda]] és [[G/God\|God]] címnél még ez is elhangzott az iráni `Khuda` kapcsán:  
 Ergo a perzsa [[K/Khuda\|Khuda]] = isten lehet kutya, hugya és Kutya csillagkép, sőt, mivel [[G/Gábor\|Gábor]] és [[K/Kutyahitű\|kutyahitű]] címnél az Orionról is volt szó, akár Orion plusz Szíriusz is lehetne akár.  
 
 ## Lábjegyzetek

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mock/","title":"Mock","created":"2024-02-06T08:15","updated":"2024-02-08T07:11"}
+{"dg-publish":true,"permalink":"/M/Mock/","title":"Mock","created":"2024-02-06T08:15","updated":"2024-04-05T19:29"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Tréfát űz, gúnyol. Móka szavunkból. (Görög `mókosz` = gúny.) A hivatalos nyelvészet nem jutott el a göröghöz, nemhogy a magyarhoz. Az ófrancia `mocquer` szót hozzák fel csupán. Pedig CzF is tudta, hogy a francia a görögből ered. Persze ők azt gondolták, netán mi vettük át a franciából:  
 > MÓKÁZIK  
-> k. m. mókáz-tam, ~tál, ~ott. Játszilag, kötődve tréfál valakivel; csúfolódik, gúnyolódik. Erdélyben divatos. Talán közelebb a franczia (se) moquer szó után jött divatba, hacsak ,mokány' szóval, mely másokon kikapót is jelent, s mely az idézett franczia szónak is az értelme, egygyökűnek nem veszszük; a franczia pedig alkalmasint a görög mwkaomai vagy mokizw szótól vette által; a törzs mvkoV (= gúny), vagy mwkoV (= gúnyoló, mokány). Ha közvetlenül a göröggel akarnók rokonítni, akkor mwkiz-w és mókáz-om majdnem teljesen is egyeznek.  
+> k. m. mókáz-tam, ~tál, ~ott. Játszilag, kötődve tréfál valakivel; csúfolódik, gúnyolódik. Erdélyben divatos. Talán közelebb a franczia (se) moquer szó után jött divatba, hacsak ,mokány' szóval, mely másokon kikapót is jelent, s mely az idézett franczia szónak is az értelme, egygyökűnek nem veszszük; a franczia pedig alkalmasint a görög `mwkaomai` vagy `mokizw` szótól vette által; a törzs `mvkoV` (= gúny), vagy `mwkoV` (= gúnyoló, mokány). Ha közvetlenül a göröggel akarnók rokonítni, akkor mwkiz-w és mókáz-om majdnem teljesen is egyeznek.  
 
 #### Péterfai János írja:
 

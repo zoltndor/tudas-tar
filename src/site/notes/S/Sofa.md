@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sofa/","title":"Sofa","tags":["dg_uploaded"],"created":"2023-11-08T05:36","updated":"2023-11-28T09:12"}
+{"dg-publish":true,"permalink":"/S/Sofa/","title":"Sofa","created":"2023-11-08T05:36","updated":"2024-04-05T19:39"}
 ---
 
 # Sofa
@@ -9,7 +9,7 @@ Ahogy [[S/Szíriusz\|Szíriusz]] címnél megjegyeztem, [[S/Szoba\|szoba]], [[S/
 
 A sova szónak megfelel a perzsa `shab` = éjszaka. A [[S/Szabáka\|szabáka]] is akkor lehet éjre vonatkozó. Ugyanakkor a [[B/Black\|black]] – blanche azonosság alapján akkor a shab eredete lehet egy a perzsa `sufid` = fehér gyökével.  
 Persze lehet, hogy a süpped, csappan, [[Z/Zsupán\|zsupán]] nevek (eredetének) valamelyike a megoldás. Mint erről [[S/Stop\|stop]] szónál is volt szó.  
-Ha már [[K/Kutya\|kutya]], a wolof `guddi` = éjszaka és a üzbég `kecha` (török `gece`) hasonlítanak kutya szavunkra.  
+Ha már [[K/Kutya\|kutya]], a volof `guddi` = éjszaka és a üzbég `kecha` (török `gece`) hasonlítanak kutya szavunkra.  
 
 [[K/Kutya\|Kutya]] (és [[C/Couch\|couch]]) címnél írtuk még:  
 Az ír `codail` = aludni is azért a kutya szóval rokonítható, mert a Nap a sötét félévbe lépve tér nyugovóra, ahogy az ember is sötétben alszik. A bengáli sylheti nyelvű `huta` = lefeküdni; aludni is ilyen alakú, valamint az amerikai klasszikus nahuatl `cochi` és pipil nyelvű `kuchi`, `cuchi` = aludni szintén (a kutya éppen a vízszintes, halál vonallal azonosul, gerincoszlopa miatt is). Ezen szavak pedig egyeznek a Mahmud al-Kāšγari oszmán-török etimológiai szótárának 591. oldalán adatolt \[a kurdok nyelvében éppen ilyen alakú szóban kutyát[^1] jelentő!\] **Kuçik** = [[R/Rák csillagkép\|Rák csillagkép]] nevével: azaz nyilván a Kutya név Kucs-os változatát rejti, hiszen egy téridőbeli helyen találhatók, és ahogy a [[H/Huny\|huny]] és [[C/Coma\|coma]] címnél is láttuk, az alvás nemcsak a napi időkörre, hanem a kis évesre is értelmes.  

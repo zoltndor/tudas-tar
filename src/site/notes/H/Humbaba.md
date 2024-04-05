@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Humbaba/","title":"Humbaba","tags":["Englishtexttranslated"],"created":"2023-10-23T03:13","updated":"2024-02-28T21:11"}
+{"dg-publish":true,"permalink":"/H/Humbaba/","title":"Humbaba","tags":["Englishtexttranslated"],"created":"2023-10-23T03:13","updated":"2024-04-05T19:18"}
 ---
 
 
@@ -8,7 +8,7 @@
 #### Péterfai János írja:
 
 > A szumir `Huvava`, és az akkád `Humbaba` a hettitáknál `Kubaba` alakban jelenik meg. Ezt a nyomorult Huvavát dönti meg [[G/Gilgames és Enkidu\|Gilgames és Enkidu]], Izdubar és [[L/Luhunga\|Luhunga]], a két hős, isteni magyar hadvezér, [[O/Ötven\|ötven]] harcosukkal.  
-> A hetita Kubaba nem más, mint a mai magyar Kü-Baba, Kő-Baba. A Ku magyar szó Száj és Kő értelmű. A Kő-Babák állítása sokáig érvényben volt, amiket Kő Bálványnak is neveztek őseink, isteneink és halottaink emlékére. A török Gül- Baba Rózsák-Apja, a Baba ebben az értelemben megy a csillagok felé, meg fog halni, csillaggá lesz. Tehát a török Baba tiszteletreméltó öreg, az orosz Bábuska szintén. Ám a magyar Ba Gyerek, tehát a Baba Gyerek, Tündér, az angol `Baby` is Tündérem, mint a magyar Babám. Ezek a szavak mind a magyar nyelvből erednek. Az ember a csillagokból születik, és csillaggá lesz.  
+> A hetita Kubaba nem más, mint a mai magyar Kü-Baba, Kő-Baba. A Ku magyar szó Száj és Kő értelmű. A Kő-Babák állítása sokáig érvényben volt, amiket Kő Bálványnak is neveztek őseink, isteneink és halottaink emlékére. A török Gül- Baba Rózsák-Apja, a Baba ebben az értelemben megy a csillagok felé, meg fog halni, csillaggá lesz. Tehát a török Baba tiszteletreméltó öreg, az orosz `Bábuska` szintén. Ám a magyar Ba Gyerek, tehát a Baba Gyerek, Tündér, az angol `Baby` is Tündérem, mint a magyar Babám. Ezek a szavak mind a magyar nyelvből erednek. Az ember a csillagokból születik, és csillaggá lesz.  
 ![assets/Humbaba_image1.jpeg](/img/user/H/assets/Humbaba_image1.jpeg)  
 > A `Vava` finn szó Tiszteletre Méltó Öreg értelmű. A szumir Hu-Vava ezért Csillag-Öreg értelmű, egy olyan istenség, aki a csillagokkal kapcsolatos, a Hu jelentése által. Gilgames és Enkidu tehát egy olyan istenséget győzött le, aki félig a földön, félig az égben lakott. Cédrus démon, kőbaba, kiléte elmosódott, nem tudni, sajnáljuk-e, vagy örüljünk megölésének? Hős Enkidu sérülése a csatában halált okozott, de Gilgames kimentette őt a halál országából. Láthatjuk finn rokonaink nyelvét is az ókori nevekben, ami azt jelzi, a szumir korban a finnségiek már léteztek, de indoeurópaiak, szemiták még nem.  
 >
@@ -16,7 +16,7 @@
 > Kubaba neve később átalakul Kübelé alakra. Kü-Bél-É jelentése Kő-Nagy/Ragyogó-Ház. A Kárpát-medencében a Kebele folyó neve nagyon hasonlít hozzá, ami nem lehet véletlen. Még később a név Cybele alakú lett, egészen Rómáig elterjedt, ami természetesen magyar alapítású város.  
 
 Az [alábbi](https://youtu.be/u9eX2Hs9OUc) Álomvarázs videóban taglalt [[K/Kunbaba\|kunbaba]] vajon egyező-e vele?  
-(A szumir Huvava, és az akkád Humbaba a hetitáknál Kubaba alakban jelenik meg.)  
+(A szumir `Huvava`, és az akkád `Humbaba` a hetitáknál Kubaba alakban jelenik meg.)  
 Azt mondja, hogy a kurgán-temetkezés ék kőszobrait kő-babáknak hívják az oroszok. Folyt. lásd [[B/Baba\|baba]].  
 Álomvarázs adata szerint [[B/Bau\|Bau]] istennő [[B/Baba\|baba]]-ként és [[G/Gula\|Gula]]-ként is ismeretes, de mivel [[B/Bába\|bába]] funkciót is ellát, a Baba nyilván akkor bábát jelent.  
 Szól még utána a Kish-beli Ku-Bau-ról és a vele asszociált hettita Ku-Babáról/Kumbabáról is. Utóbbiban nyilván (K = H) Humbabát és így tehát Bau-t kell látni.  

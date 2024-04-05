@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kapu/","title":"Kapu","created":"2023-10-30T08:56","updated":"2024-02-10T04:04"}
+{"dg-publish":true,"permalink":"/K/Kapu/","title":"Kapu","created":"2023-10-30T08:56","updated":"2024-04-05T19:20"}
 ---
 
 
@@ -16,7 +16,7 @@ Timaru Kast Sándor a kelta-ír `cab` = nyílás szóban találja meg szavunkat.
 
 #### Péterfai János írja:
 
-> A Pu Üresség, az akkád Pu Kapu, az akkád szó magyar eredetű. Maga a Ka-Pu is egy üresség, hiány, mert a falat, kerítést a kapu megszakítja, hiányt, üres helyet képez a házat körbe vevő falban.  
+> A Pu Üresség, az akkád `Pu` Kapu, az akkád szó magyar eredetű. Maga a Ka-Pu is egy üresség, hiány, mert a falat, kerítést a kapu megszakítja, hiányt, üres helyet képez a házat körbe vevő falban.  
 > 
 > A Ka-Gán Ka előtagja Fő, Magas, mint Ka-Sza, Ka-Pa, Ka-Pu és egyéb szavainkban.  
 
@@ -69,7 +69,7 @@ A csillaghit nemcsak az évszakok és az év fordulóit tekinti kapuknak, hanem 
 
 Érdekes a görög `pülosz` = kapu elnevezés:  
 > Egy hagyomány az Ikreket [[A/Apolló\|Apollón]]nal és [[H/Heraklész\|Hérakléssz]]el azonosítja[^4]. A két isten között van hasonlóság, s több olyan elbeszélés maradt fenn, amelyben együtt szerepelnek, így Apollón védelmezte Püloszt, a "Kaput", melyen Héraklész behatolt, hogy a "túlnanra" jusson. Pülosz, az egyik túlvilági átjáró itt, az Ikrekben található. Amikor az [[A/Argo\|Argo]] hajó (a Tejút déli csillagképe) Héraklésszel átkel az alvilágba vezető hajóút (a [[T/Tejút\|Tejút]]) sziklái közt (ez a **tejúthasadék**), Apollón búcsúztatja, s ő is köszönti a hajót, amikor a "túlpartról" visszatér. Ez egyszer a Nyilas-, másszor az Ikrekbeli átjárót jelenti. Aszerint, hogy Apollón előbb Artemisz ezüst íját tartotta a baljában, utóbb saját arany íját a jobbjában. Ezek az íjak a nappálya félköríveit jelképezik.  
-- Az a furcsa, hogy sem az értelmezők, sem JM nem ébred rá, hogy [[P/Pollux\|Pollux]] nevével is azonos e görög szó, melyhez hasonlókat lásd még [[P/Pole\|pole]].  
+- Az a furcsa, hogy sem az értelmezők, sem Jankovics Marcell nem ébred rá, hogy [[P/Pollux\|Pollux]] nevével is azonos e görög szó, melyhez hasonlókat lásd még [[P/Pole\|pole]].  
 
 #### Jankovics Marcell Ahol a madár se jár...
 
@@ -115,7 +115,7 @@ A kelta mitológia szájon át történő fogantatási eseteit illetően: három
 Nyilvánvalóan mind a három Tejútanyai szerepkörben áll: a walesi (Tejút/Szíriusz)istennő [[C/Ceridwen\|Ceridwen]], a kutya/Naphős [[C/Cuchulainn\|Cuchulainn]] anyja [[D/Dechtire\|Dechtire]] és [[C/Concobar mac Nessa\|Concobar mac Nessa]] anyja, Nessa is ugyanúgy fogant meg: szájon át, [[F/Féreg\|féreg]] megivása által. (Lásd még Patricia Monaghan Kelta enciklopédiájának Pregnancy Through Drinking Drinking cikkét.)  
 
 [^3]: Lábjegyzet:  
-Az [[O/Őszpont\|őszpont]] a természet haldoklásának kezdete, Mihály \[ünnepnapja szeptember 29.\] már a tél sötétülő kapujában áll, hogy kezében az ítélet pallosával és az igazság mérlegével fogadja a holtak lelkeit. (A naptári sarokpontok jelképes "kapu", "hegy" neve – lásd a Mérleg-jel mintájául szolgáló \[[[Ahet\|ahet]]\] "fényhegy" hieroglifát – és a városkapuk, hegyek Mihálynak, korábban Thot-Mercuriusnak való ajánlása között belátható az összefüggés.) \[JM – Jelkép-kalendárium\]  
+Az [[O/Őszpont\|őszpont]] a természet haldoklásának kezdete, Mihály \[ünnepnapja szeptember 29.\] már a tél sötétülő kapujában áll, hogy kezében az ítélet pallosával és az igazság mérlegével fogadja a holtak lelkeit. (A naptári sarokpontok jelképes "kapu", "hegy" neve – lásd a Mérleg-jel mintájául szolgáló \[[[Ahet\|ahet]]\] "fényhegy" hieroglifát – és a városkapuk, hegyek Mihálynak, korábban Thot-Mercuriusnak való ajánlása között belátható az összefüggés.) \[Jankovics Marcell – Jelkép-kalendárium\]  
 
 [^4]: Lábjegyzet:  
 Ez azért furcsa, mert Héraklész ikerestvére már Iphiklész, másnevén Kaun; lásd még erről [[K/Káin és Ábel\|Káin és Ábel]].  

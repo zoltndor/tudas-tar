@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pan-Hu/","title":"Pan-Hu","tags":["Englishtexttranslated"],"created":"2023-11-06T12:47","updated":"2024-02-28T21:38"}
+{"dg-publish":true,"permalink":"/P/Pan-Hu/","title":"Pan-Hu","tags":["Englishtexttranslated"],"created":"2023-11-06T12:47","updated":"2024-04-05T19:34"}
 ---
 
 
@@ -218,7 +218,7 @@ Ami érdekes, szintén szúrás, de itt már íjazás kapcsán, hogy Szíriusz n
 > A Szíriusz csillagot, a nyugati hagyomány kutya-csillagát Kínában égi farkasnak (Tien-lang) nevezik. Egy gyakori kínai téma a Canis Major három csillagát és az Argo egyik csillagát az Égi Farkasra mutató nyílvesszőként írja le. Nincs közvetlen bizonyíték arra, hogy az égi farkas kilövésének ezt az esetét összekapcsolnánk a különböző mitikus vagy áldozati kutyák kilövésével. Az égi kopó és az égi farkas azonban funkciójukban összeforr: mindkettő a Shang-ti égi palotát őrzi, az Ursa Major csillagképet, amely maga is a hősi halottak földje volt az ősi kínai gondolkodásban.  
 - Lásd még erről [[S/Szíriusz és a nyíl\|Szíriusz és a nyíl]].  
 
-Amit még mindenképpen fontos elmondani, hogy [[P/Pán\|Pán]] nem más, mint a Szíriusszal összetartozó [[O/Orion\|Orion]], melynek neve a sumérban is Mul.Ban. Azaz ahogy a párduc [[P/Panther\|Panther]] nevét adhatja egy helyen, másutt a költött mítosz alapján más értelem jön elő. Tehát a Pan-Hu születésnap az év kezdetét jelölésével egy nyári napfordulós évkezdet jön elő, mint Egyiptomban.  
+Amit még mindenképpen fontos elmondani, hogy [[P/Pán\|Pán]] nem más, mint a Szíriusszal összetartozó [[O/Orion\|Orion]], melynek neve a sumérben is Mul.Ban. Azaz ahogy a párduc [[P/Panther\|Panther]] nevét adhatja egy helyen, másutt a költött mítosz alapján más értelem jön elő. Tehát a Pan-Hu születésnap az év kezdetét jelölésével egy nyári napfordulós évkezdet jön elő, mint Egyiptomban.  
 
 ## Lábjegyzetek
 
@@ -243,7 +243,7 @@ Mindez nem jelent mást, mint hogy az év kezdetét ünneplik. Kutyával kezdőd
 
 [^5]: Lábjegyzet:  
 Péterfai János írja:  
-A kínai Tien kétségtelenül a Ten szétesése. Ti-En önálló jelentéssel is bír, Élet-Isten a jelentése. A hatalmas Tien-San Mennyei-Hegység értelmű, a San ebben a névben Hegység, máskor Úr értelmű.  
+A kínai `Tien` kétségtelenül a Ten szétesése. Ti-En önálló jelentéssel is bír, Élet-Isten a jelentése. A hatalmas Tien-San Mennyei-Hegység értelmű, a San ebben a névben Hegység, máskor Úr értelmű.  
 —  
 A pekingi Tien-An-Men jelentése Mennyei-Béke-Tere. A pekingi olimpia alatt is járhattunk a híres téren.  
 

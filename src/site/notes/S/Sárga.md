@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sárga/","title":"Sárga","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-20T09:28","updated":"2023-11-10T07:37"}
+{"dg-publish":true,"permalink":"/S/Sárga/","title":"Sárga","tags":["Englishtexttranslated"],"created":"2023-10-20T09:28","updated":"2024-04-05T19:47"}
 ---
 
 
@@ -13,7 +13,7 @@
 
 Czeglédi Katalin Magyar-török nyelvviszony című az Ősi Gyökér 2012/2-4. sz. megjelent cikkében hasznosnak mondható adatokat szolgáltat:  
 > Vö.: csuv. `šură`, `šur` 'fehér', `sară` 'sárga'. A 'fehér és sárga' jelentésre ld. még ÓT., tuvai, hak., sor, oszm., alt. `saryg`, `sary`, kirg., kazah, k.kalp., nog., azerb., oszm., türkm., tat. `sary`, ujg. `serik`, üzb. `sarik`, bask. `hary`, ojr. `sar` 'sárga, világosbarna, szőke', vö.: mong. `šar`, burj. mong. `šara` 'sárga, világosbarna, szőke'. A régiségben 'sárga' és 'fehér' jelentése is volt néhány török nyelvben, így a bulgároknál és a kazároknál. A görögök Sarkel nevét 'fehér ház' jelentésben adták vissza. Az orosz évkönyvekben ennek az erődnek a neve Belaja Veža 'fehér ház, fehér sátor, fehér nomádsátor, fehér torony'. A mansi `sajr` 'fehér' szó a bulgároktól való átvétel lehet, mansi nyelven a `saragury` jelentése belaja ugra 'fehér ugor' jelentésű. A nyenyeceknél a `seser`, `sera`, `ser`, `siri` 'fehér' jelentésben van meg.  
-> A belaja ugra megnevezés érdekessége, hogy az orosz ugra alakot használ és nőneműnek fogja fel. Mindemellett Kāšγ. ugrak népet említ, akik az ő (mármint Kāšγ.) nyelvéhez hasonlót, ugyanazt beszélik. Ez azt jelenti, hogy i.sz. 1100 körül Kāšγar körzetében ugrak nép élt és török nyelven beszélt, amelynek az ugra, ugry, ugor alakokhoz köze van.  
+> A belaja ugra megnevezés érdekessége, hogy az orosz `ugra` alakot használ és nőneműnek fogja fel. Mindemellett Kāšγ. ugrak népet említ, akik az ő (mármint Kāšγ.) nyelvéhez hasonlót, ugyanazt beszélik. Ez azt jelenti, hogy i.sz. 1100 körül Kāšγar körzetében ugrak nép élt és török nyelven beszélt, amelynek az ugra, ugry, ugor alakokhoz köze van.  
 - A fentiekhez annyit tegyünk hozzá, hogy a fehér az ezüsthöz és az pedig a szürkéhez tartható. Így a [[S/Szürke\|szürke]] előrészének hasonlósága igazolt.
 
 #### Péterfai János adata lehetett:

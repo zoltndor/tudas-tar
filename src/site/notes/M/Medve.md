@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Medve/","title":"Medve","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T05:41","updated":"2023-12-01T07:48"}
+{"dg-publish":true,"permalink":"/M/Medve/","title":"Medve","tags":["Englishtexttranslated"],"created":"2023-10-14T05:41","updated":"2024-04-05T19:27"}
 ---
 
 
@@ -9,7 +9,7 @@ Dr. Lónay Gyula az általa sajátosan értelmezett [[M/Megy\|megy]] szó értel
 
 #### Péterfai János írja:
 
-> A Medvék neve magyar eredetű, Méz-Evő a jelentése. A Medvigy is mézevő. A hun `Medos` Mézös ital, amiben szintén benne van a Méd/Méz szó. De a szumer Me (és Mé, Mu) Fény, amely szó Da jelzőt kapva alakul ki a Méd – Méz szó. Ha valaki megtanul magyarul, akkor nem újdonság neki a sok meglepő tény, így a medve szó magyar eredete sem. A Medve név Ve része kisebb istent jelent, ami miatt a medvék a méz főnökei, őseink szerint. A finneknél a vasat a medve és a farkas találja fel.  
+> A Medvék neve magyar eredetű, Méz-Evő a jelentése. A Medvigy is mézevő. A hun `Medos` Mézös ital, amiben szintén benne van a Méd/Méz szó. De a szumer `Me` (és Mé, Mu) Fény, amely szó Da jelzőt kapva alakul ki a Méd – Méz szó. Ha valaki megtanul magyarul, akkor nem újdonság neki a sok meglepő tény, így a medve szó magyar eredete sem. A Medve név Ve része kisebb istent jelent, ami miatt a medvék a méz főnökei, őseink szerint. A finneknél a vasat a medve és a farkas találja fel.  
 >
 > A Med-Ve névben a Ve kisebb isten, a Va/Ve rendszer alapján, a Med pedig éppen saját egyik népnevünk, a Méd – Megyer alapja. A Medvék népe lennénk[^1]? Bizonyos mértékig talán.  
 > A kínai népi hagyományban Ti-Sa, a névben a Ti – Föld, a Sa – Szellemek ártalmas hatása –, 72 csillag ártó szelleme. A Ti-Sa szemben áll a Nagy Medve csillagainak 36 szellemével, őket Tien-Kannak nevezik, Tien – Ég, Kan – a Nagy Medve. Ti-Sa ugyan csillagok szelleme, de mégis a Föld gonosz erőinek a megtestesülése. Egy ifjú mágus parancsol a Ti-Sa szellemeinek. A két erő, a 72 és 36 a 108 összetevője. A Nagy Medve a Föld forgatásához is kell, Úr Sus az Úr Keze, továbbá a latinban Medve. A mágus a [[P/Precesszió\|precesszió]] ismerője lehet.  
@@ -23,9 +23,9 @@ A magyar medve med- törzse látszik meg a kelta `mathghambhuin` = medve névben
 #### Greg Rigby The God Secret...
 
 ...című könyvében J A MacCulloch The Religion of the Ancient Celts című könyvéből idézi a gall Matu, ír Math neveket és ilyen összefüggésben tárja elénk:  
-> Another Celtic name for bear was the Gaulish `Matu`, Irish `Math`, found in Matugenos, "son of bear" and in MacMahon, which is the corrupt form of Mac-Mathghamhain "son the of bear's son" or "of the bear."  
+> Another Celtic name for bear was the Gaulish Matu, Irish `Math`, found in Matugenos, "son of bear" and in MacMahon, which is the corrupt form of Mac-Mathghamhain "son the of bear's son" or "of the bear."  
 > —  
-> A medve másik kelta neve a gall `Matu`, ír `Math` volt, amely megtalálható a Matugenosban, "medve fia" és a MacMahonban, amely a Mac-Mathghamhain "a medve fia" vagy "a medve fia" korrupt formája.  
+> A medve másik kelta neve a gall Matu, ír `Math` volt, amely megtalálható a Matugenosban, "medve fia" és a MacMahonban, amely a Mac-Mathghamhain "a medve fia" vagy "a medve fia" korrupt formája.  
 
 A kelta `math`[^2] = jó jelentésű is, ahogy a [[M/MISZ\|MISZ]] címnél levő diagramon is szerepelt. A jó = tej összefüggését korábban ismertük, továbbá tej = méz.  
 
@@ -37,7 +37,7 @@ A leplet [[M/MISZ\|MISZ]] címnél (az ott szereplő diagramok alapján is) rán
 > A vadásztársaságnak tagja még Favtna, más néven **Tiermesz, a medve** alakban járó lapp ég/viharisten \[az ég illetve menny neve is lapp nyelven Kandra Kabos adata szerint\]. A finn szerzők az Ökörhajcsár (Bootes) csillagképpel azonosítják. A csillagisten megfeszített és nyilakat lövöldöző íja a [[J/Jávor\|jávor]]szarvas csillagzatra "mutató" Nagy Medve (Ursa Maior) csillagkép.  
 > Bár ideillő lapp nevét a szerzők nem közlik, az égi mondában \[a Joseph Fontenrose Orionjában is taglalt görög mítoszokhoz hasonlóan\] a Tejút mentén folyik a vadászat.  
 > A Jávorszarvas csillagzat, az Orion és az Ikrek egyaránt a Tejút csillagképei. Bizonyos értelemben a Kis Medve (Ursa Minor) is beleillik a képbe. Egy följegyzés szerint ui., amikor Favtna (Tiermesz) nem vadászik, íját szögre, a Sarkcsillagra (Polaris) akasztja; ez a Kis Medve csillagkép legfényesebb csillaga. (A két Medve csillagzat ilyetén együvé kapcsolása általános; lásd a Kis Medve – Nagy Medve, Kis Göncöl – Nagy Göncöl neveket.) Alapos okunk van arra is, hogy a Bika csillagképet (Taurus) – ennek vállán kotlik a Fiastyúk – szintén a menekülő szarvasok csapatába soroljuk, ám ennek bizonyítása már szétfeszítené írásunk kereteit.  
-- Ahogy [[C/Csudaszarvas\|Csudaszarvas]] címnél is írtuk, JM Cirlot Dictionary of Symbols című könyvéből is vette gondolatait.  
+- Ahogy [[C/Csudaszarvas\|Csudaszarvas]] címnél is írtuk, Jankovics Marcell Cirlot Dictionary of Symbols című könyvéből is vette gondolatait.  
 
 #### Jankovics Marcell Jelkép-kalendárium...
 
@@ -70,7 +70,7 @@ Igen hasonló a medve névhez a lakota mitológia **Mato** (pajkos medveszellem)
 
 ## Medve jelentésű szavak egyes nyelvekben
 
-A madagaszkári malagasy/malgasi `maharitra`‎ = medve névben ott a [[M/Magyar\|magyar]] név.  
+A madagaszkári malagasi/malgasi `maharitra`‎ = medve névben ott a [[M/Magyar\|magyar]] név.  
 A latin nyelvhez és `ursa` szóhoz nyilván semmi köze a szomáli `oorso` = szónak; inkább orsó szavunkhoz tartható.  
 
 ## Lábjegyzetek
@@ -92,4 +92,4 @@ A holtak lelkeinek bírálásáról is lehet még itt szó; bír szavunk is töb
 [^5]: Lábjegyzet:  
 Joseph Fontenrose Orionjában is szó van a Kallisztó Artemisz azonosságról (Artemisz mellékneve volt eredetileg, szépségére utalva).  
 De Artemisz diófaistennő is:  
-JM említ biz. karüatidákat, akik a karüai Artemisz diófaistennő papnői voltak/lehettek.  
+Jankovics Marcell említ biz. karüatidákat, akik a karüai Artemisz diófaistennő papnői voltak/lehettek.  

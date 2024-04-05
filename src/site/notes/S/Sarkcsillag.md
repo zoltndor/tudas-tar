@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","created":"2023-10-13T12:33","updated":"2024-02-28T17:47"}
+{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","created":"2023-10-13T12:33","updated":"2024-04-05T19:37"}
 ---
 
 
@@ -146,7 +146,7 @@ Mindegyik csillagképben közös az északon elfoglalt helyük és a hét szám 
 [[A/Aszklépiosz\|Aszklépiosz]] címnél is említésre került a Sarkcsillag és Szíriusz.  
 
 [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címnél is szerepelt legutóbb:  
-A nyári napfordulós Ég-Úr, Uru-Anna [[O/Orion\|Orion]] nevében is ugyanaz a (sumérban éppen Kutyát is jelentő) Ur szerepel, mint az [[U/Ursa Maior\|Ursa Maior]] címnél említett észak-amerikai indiánok Medve csillagkép elnevezését is mintázó latin `ursus` szóban.  
+A nyári napfordulós Ég-Úr, Uru-Anna [[O/Orion\|Orion]] nevében is ugyanaz a (sumérben éppen Kutyát is jelentő) Ur szerepel, mint az [[U/Ursa Maior\|Ursa Maior]] címnél említett észak-amerikai indiánok Medve csillagkép elnevezését is mintázó latin `ursus` szóban.  
 
 ## Lábjegyzetek
 

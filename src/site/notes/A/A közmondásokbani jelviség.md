@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/A közmondásokbani jelviség/","title":"A közmondásokbani jelviség","tags":["dg_uploaded"],"created":"2023-10-22T12:46","updated":"2023-10-25T12:12"}
+{"dg-publish":true,"permalink":"/A/A közmondásokbani jelviség/","title":"A közmondásokbani jelviség","created":"2023-10-22T12:46","updated":"2024-04-05T18:57"}
 ---
 
 
@@ -9,4 +9,4 @@ Ez a közmondás például "fehér liliomnak is fekete az árnyéka" – egésze
 
 Midőn azt mondja: addig hajtsd a fát, mig fiatal; vagy addig verd a vasat, mig tüzes, - nem oda néz, hogy a kertészt vagy a kovácsot tanitsa; hanem, hogy a "fiatal fáról" a gyermeknevelő értsen; a hamar hülő s keményedő tüzes vasban pedig, mint példában intsen, hogy a mig jelen van, addig használjuk föl az alkalmat; mert az idő nem vár.  
 
-Itt a "fa" és "vas" és a mi róluk mondatik, csak kép. Más és több a jelentősége e közmondásnak, mint a mit szószerinti értelmében mond; - és épen ezen többet jelentő viszony, ezen fokozat határozza meg minden közmondás lényegét.  
+Itt a "fa" és "vas" és a mi róluk mondatik, csak kép. Más és több a jelentősége e közmondásnak, mint a mit szó szerinti értelmében mond; - és épen ezen többet jelentő viszony, ezen fokozat határozza meg minden közmondás lényegét.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2024-02-28T21:47"}
+{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2024-04-05T19:44"}
 ---
 
 
@@ -74,7 +74,7 @@ A két hasadékot másutt is említi (talán a Hegy Úrnője címből vagy más,
 
 #### Dobos Csanád írja:
 
-> A Tejút környékén van a Tündérasszony Palotája, a Tündérasszony Kútja, a Szépasszony Kútja, a Tündérek Tánca, a Tündérfő, a Nagy és Kis Táltos, és a Bába Motollája. A Tündérfő, Tündérszemű Csillag, szintén a Sziriusz, kétségtelenné teszi Ízisz tündérségét. Az Ikrek jegyet a Tejút köti össze a Nyilas jeggyel. Köztük van a Forgó, magyar népi nevén a tündérek tánca helye, ahonnan a Tejút két irányba ágazik el, és közte a [[B/Barlang\|barlang]].  
+> A Tejút környékén van a Tündérasszony Palotája, a Tündérasszony Kútja, a Szépasszony Kútja, a Tündérek Tánca, a Tündérfő, a Nagy és Kis Táltos, és a Bába Motollája. A Tündérfő, Tündérszemű Csillag, szintén a Szíriusz, kétségtelenné teszi Ízisz tündérségét. Az Ikrek jegyet a Tejút köti össze a Nyilas jeggyel. Köztük van a Forgó, magyar népi nevén a tündérek tánca helye, ahonnan a Tejút két irányba ágazik el, és közte a [[B/Barlang\|barlang]].  
 
 #### Magyar Adorján...
 
@@ -141,7 +141,7 @@ A nőiségi-princípium [[K/Kehely\|kehely]] (= [[H/Hüvely\|hüvely]]) alakot f
 > Istenfia Élet jelképe, megjelenítője az Áldott Nap valóban az Életfa ágába "kapaszkodik", s így "látogatja" meg földünket, fényt, életet árasztva, önmagát sokszorozva életet teremt.  
 > A pásztor földbeszúrt botja végén megjelenő új nap az anyag és erőny teremtő egyensúlyát tökéletesen kifejezve a Teremtő Istenre emlékeztet éppen úgy, mint a villás fa két ága, vagy a kiskapu keretében megjelenő áldott Fény is a születés szent ajándékát fejezi ki, legyen e születés emberfia születése, vagy csillagé, vagy világmindenségé. Itt emlékeztetni kell önmagunkat, hogy a világ templomainak szárnyas-oltárai \[lásd [[A/Altar\|altar]]\] magyar eredetűek, s a kiskapu székely kapu – egyszerűbb keretek között a zöldág, villás ág, a Csodaszarvas agancsa övezte, vagy a Turul szárnyán lebegő Istenfia megjelenési helye jelképének késői unokái.  
 
-Komoróczy Géza Gilgames – Agyagtáblák üzenete című könyvében [[T/Tilmun\|Tilmun]]nál ugyan említi a földrajzi Bahreint, de amikor arról ír, hogy ez volt a sumér vallásos képzetek "Boldogok Szigete," ahol az aranykor-mítoszok is játszódtak, akkor önkéntelenül is a fentebb írott sorok jutnak eszünkbe. Ráadásul a Gilgames-eposzban [[H/Hierogamy\|szent nász]]ról is szó van. Ráadásul a boldog Boldogasszony nevében is szerepel és görög (plusz óegyiptomi és héber) hagyományok szerint is a Makar = boldog a Boldogasszony [[M/Magyar\|magyar]] nevéből származik (azt pedig már láttuk [[G/Göd\|Göd]] címnél is, hogy a Tejútanya-nevek szeméremrészükre utaló nevek is lehetnek). Ez a Boldogok Szigete tehát az a hely, ahol a lelkek születnek. Ezért jelent makor ősforrást a héberben (ezért lehet Hargita szerint Mária nagyapja neve is Makhor). Erről legutóbb [[M/Magyar\|magyar]] címnél, a Visnu-purána Maitréja-nál is volt szó.  
+Komoróczy Géza Gilgames – Agyagtáblák üzenete című könyvében [[T/Tilmun\|Tilmun]]nál ugyan említi a földrajzi Bahreint, de amikor arról ír, hogy ez volt a sumér vallásos képzetek "Boldogok Szigete," ahol az aranykor-mítoszok is játszódtak, akkor önkéntelenül is a fentebb írott sorok jutnak eszünkbe. Ráadásul a Gilgames-eposzban [[H/Hierogamy\|szent nász]]ról is szó van. Ráadásul a boldog Boldogasszony nevében is szerepel és görög (plusz óegyiptomi és héber) hagyományok szerint is a `Makar` = boldog a Boldogasszony [[M/Magyar\|magyar]] nevéből származik (azt pedig már láttuk [[G/Göd\|Göd]] címnél is, hogy a Tejútanya-nevek szeméremrészükre utaló nevek is lehetnek). Ez a Boldogok Szigete tehát az a hely, ahol a lelkek születnek. Ezért jelent makor ősforrást a héberben (ezért lehet Hargita szerint Mária nagyapja neve is Makhor). Erről legutóbb [[M/Magyar\|magyar]] címnél, a Visnu-purána Maitréja-nál is volt szó.  
 
 [[O/Ogygia\|Ogygia]] is úgy tűnik, ha nem általán a Tejútra, akkor annak eme sziget részére utal.  
 [[A/Akhilleusz\|Akhilleusz]] címnél volt szó azon RG által említett szigetekről ('Silver Island' or 'White Island', or 'Revolving Island'), melyek erre a szigetre utalnak.  
@@ -163,8 +163,8 @@ Ne feledjük, a fenti ábra alapján is a Kis Év utolsó hónapjaiban járunk, 
 > A magyar [[E/Eszterág\|eszterág]] (eszter + ág) a gólya vagy a [[D/Daru\|daru]] neve onnan van, hogy a madár két vékony hosszú lába megfordított V-alakú elágazáshoz hasonló.  
 - Ehhez tegyük hozzá, hogy a szintén az ő adataként hozott orosz `osztrov` = sziget is ugyanerre az elágazásra utal és szinte azonos alakú vele.
 
-> Lásd még [[O/Ösztörű#Eszterág – ösztörű – görög hustera\|eszterág – ösztörű – görög hustera]] cím/alcímet, ahol elhangzott:  
-> A Tejútelágazás ágai a közös kapocs, sőt, mivel ott a Tejútközpont, a [[T/Tejútanya\|Tejútanya]] méhe, a [[H/Hysteria\|hysteria]] címnél taglalt görög `hustera` = méh is innen veszi eredetét.  
+Lásd még [[O/Ösztörű#Eszterág – ösztörű – görög hustera\|eszterág – ösztörű – görög hustera]] cím/alcímet, ahol elhangzott:  
+A Tejútelágazás ágai a közös kapocs, sőt, mivel ott a Tejútközpont, a [[T/Tejútanya\|Tejútanya]] méhe, a [[H/Hysteria\|hysteria]] címnél taglalt görög `hustera` = méh is innen veszi eredetét.  
 
 ## Aranyos szegelet
 
@@ -209,5 +209,5 @@ Amint azt Nagy Albert is elismerte, a szűzi születés motívuma asztroteológi
 Október 24/25-ével kezdődik a Skorpió hava. Vége a föld termékeny periódusának, halált susog az őszi szél, vigasztalanul esik; a szürke ég, a feketülő táj gyászol. Ez a holtak hava (ld. halottak napja). Nem csoda, hogy összegyűlnek az orvosszentek jeles napjai a hónap közeledtével, s Rafael, a haldoklók vigasztalója áll a Skorpió ajtajában, az év betegágyánál. Ám a természet halála nem végleges. E halál tetszhalál csupán, téli álom, magzati állapot. A mag földbe temetése új termést, újjászületést ígér. Ez a vigasztaló gondolat hatja át a hónap szimbólum-világát.  
 
 [^8]: Lábjegyzet:  
-Bakos Attila A Duna Evangéliuma című könyvének 217. oldalán MA nyomán ugyanezt leírja:  
+Bakos Attila A Duna Evangéliuma című könyvének 217. oldalán Magyar Adorján nyomán ugyanezt leírja:  
 A magyar őshagyomány szerint [[C/Csallóköz\|Csallóköz]] volt az emberiség aranykori őshazája, ahol az emberek éltek Tündér Ilona Aranykertjében. Tündér Ilona minden tavasszal nászra kelt Magyar \[helyett [[M/Magor\|Magor]]\] Napistennel s ekkor fölvette a Magyar Ilona nevet. Ez a földi Aranykert volt a földi mása a Tejútban rejtező hosszúkás szigetnek, amit mondánk Tündérországnak tart. A Tejútban Hattyú α és ξ elágazásánál található a Tündérhaza. Itt, Tündér Ilona Aranykertjében állt az a mitologikus gyümölcsű tiltott fa, amelynek jelentősége, értelme oly régen elhomályosult. Ez a tanítás szerencsére indiai ősnépünknél megőrződött (itt utal egy helyre a könyvben, amely nem lett sehol beszkennelve).  

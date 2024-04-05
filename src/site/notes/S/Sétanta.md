@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sétanta/","title":"Sétanta","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-21T12:44","updated":"2023-11-21T12:44"}
+{"dg-publish":true,"permalink":"/S/Sétanta/","title":"Sétanta","tags":["Englishtexttranslated"],"created":"2023-11-21T12:44","updated":"2024-04-05T19:47"}
 ---
 
 
@@ -18,4 +18,4 @@ Michel-Gerald Boutet a [[G/Gundestrup üst\|Gundestrup üst]]ről szóló 2017-e
 > Setanta < Sentonos "He that goes, goes roaming;" footpath, driveway, path, way;" sentio/sintio, "pathway;"; Setantoi, "distant," a small tribe ofthe Brigantes Nation in what is now Merseyside Lancashire.  
 > —  
 > Setanta < Sentonos "Aki megy, bolyong;" gyalogösvény, felhajtó, ösvény, út;" `sentio`/`sintio`, "ösvény;"; Setantoi, "távoli", a Brigantes nemzet egy kis törzse a mai Merseyside Lancashire területén.  
-- A latin `sentis` = ösvény, út szó (mely [[S/Send\|send]] címnél is előjött) párja az említett kelta szó. Nyilván a Tejútra/állatövre vonatkozik és [[S/Szent\|szent]] szavunkhoz kapcsolandó. Sokat nem ér MGB adata.  
+- A latin `sentis` = ösvény, út szó (mely [[S/Send\|send]] címnél is előjött) párja az említett kelta szó. Nyilván a Tejútra/állatövre vonatkozik és [[S/Szent\|szent]] szavunkhoz kapcsolandó. Sokat nem ér Boutet adata.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2024-02-28T21:45"}
+{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2024-04-05T19:42"}
 ---
 
 
@@ -51,7 +51,7 @@ A sumér/szumér adatokkal szintén foglalkozó...
 > A szemantikai összefüggés egyrészt a "szarv" és a "hegycsúcs", másrészt pedig a "fő" és a "főnök" jelentések között nyilvánvaló, de szinte ugyanilyen plauzibilis a "valaminek a csúcsa" és a "valaminek a feje" jelentéstani rokonsága is.  
 > ...  
 > Ismeretes, hogy a szumérok – de az elámiak és később a babiloni-asszír szemiták is – isteneiket szarvakkal, illetve szarvas koronákkal ábrázolták, rangjuk szerint 1-4 szarvpárral fejükön. A szarv tehát az isteni hatalom jelképe volt.  
-> Ennek magyarázata kétségkívül az egész Elő-Ázsiában, de a Mediterráneumban, valamint Dél- és Közép-Európában is általánosan elterjedt újkőkori-kőrézkori és korai bronzkori bikakultuszban kereshető, amelynek nyelvi emlékeit a német Gott (Isten; lásd [[G/God\|God]]) és a szumér [[G/GUD\|GUD]] (bika, erős, hős), valamint az ősgermán [[T/Thor\|Thor]] istennév és a szumér TUR, ŠUR (bika, szúr, fénylik) szavak közötti kétségtelen összefüggések még ma is őrzik.  
+> Ennek magyarázata kétségkívül az egész Elő-Ázsiában, de a Mediterráneumban, valamint Dél- és Közép-Európában is általánosan elterjedt újkőkori-kőrézkori és korai bronzkori bikakultuszban kereshető, amelynek nyelvi emlékeit a német `Gott` (Isten; lásd [[G/God\|God]]) és a szumér [[G/GUD\|GUD]] (bika, erős, hős), valamint az ősgermán [[T/Thor\|Thor]] istennév és a szumér TUR, ŠUR (bika, szúr, fénylik) szavak közötti kétségtelen összefüggések még ma is őrzik.  
 > Az óind `bagha` (Isten), a szláv `bog` (Isten), és a német `Bock`, magyar [[B/BAK\|BAK]], [[B/Bika\|bika]], [[B/BÖK\|BÖK]], ótörök `buga` (bika), latin `pungo` (perfektum: pugui) = "szúr" szavak ugyanezen szemantikai, jobban mondva vallástörténeti összefüggések kései tanújelei.  
 > Másrészt azt is tudjuk, hogy a szumér mitológia az istenek lakóhelyét a hegyeken képzelte el, éppúgy, mint később a nyugat-eurázsiai népek mítoszai is. A királyság pedig a szumér kozmológia szerint "az égből szállott alá", az istenek különleges ajándéka volt az emberiség számára, a király az istenek helytartója, aki az égi rendet volt hivatva megvalósítani az emberek világában, pontosabban mondva annak tükörképét (v.ö. a régészet megállapításait a honfoglaló magyarok túlvilági elképzeléseiről, amelyekben ez a "tükörképkozmológia" még csorbítatlanul jelentkezik).  
 > A "Miatyánk" szövegét olvasva senkisem sejti már, hogy a "miképpen a mennyben, azonképpen itt a földön is" kifejezésben ezen ősi szumér kozmológiai képzetek élnek mind a mai napig.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/BIT/","title":"BIT","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-03T05:30","updated":"2024-02-02T12:47"}
+{"dg-publish":true,"permalink":"/B/BIT/","title":"BIT","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-03T05:30","updated":"2024-04-05T19:03"}
 ---
 
 
@@ -11,7 +11,7 @@
 - Nemcsak [[E/Egyiptom\|Egyiptom]] került az égről letükrözésre.  
 
 > Egy hunza sámán neve Bitán. A Bit-Án értelmezése Bit-Ház, az Án-Ég. Bitán sámán neve ezért magyar nyelvű, jelentése nevének Ég-Háza, vagyis Bit-Án.  
-> A Véda Tudás, amit Védeni kell. Vé az Isten, Da a Hely, tehát a Vé-Da az istenek tudásának a helye, magyarul. Az angol Wit Tudás, a Bit – Ház, Ég Háza magyar szóval azonos.  
+> A Véda Tudás, amit Védeni kell. Vé az Isten, Da a Hely, tehát a Vé-Da az istenek tudásának a helye, magyarul. Az angol `Wit` Tudás, a Bit – Ház, Ég Háza magyar szóval azonos.  
 
 Biz szónál írja CzF:  
 > Élünk vele, midőn olyasmit állítunk, minek valóságáról teljes tudomásunk van, vagy azt hiszszük, hogy úgy van. Biz igaz! Biz igen! Biz úgy! Biz úgy ám! Néha esküféle erősítő erejü. Biz Isten, nem én voltam. A tagadást hatályosabbá teszi az ilyenekben. Biz én nem megyek! Biz azt meg nem kapod! Származékai bizon, bizony, bizonyít, bizonyos, stb.  

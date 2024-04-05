@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Neith/","title":"Neith","tags":["Englishtexttranslated"],"created":"2023-10-25T05:03","updated":"2024-02-10T04:13"}
+{"dg-publish":true,"permalink":"/N/Neith/","title":"Neith","tags":["Englishtexttranslated"],"created":"2023-10-25T05:03","updated":"2024-04-05T19:32"}
 ---
 
 
@@ -31,7 +31,7 @@ A Szűz volta kapcsán ...
 > —  
 > "Neith egy ősi kétnemű istennő volt, aki állítólag megteremtette a világot és a Nap szűz anyja volt."  
 
-Várkonyi Nándor és MA előtt már Fáy Elek is szólt Neith-ről, A magyarok őshona című könyvének 138. oldalán ([[S/Szohit\|Szohit]] címnél szerepel FE-t ismétlő Magyar Adorján féle adat is és más is):  
+Várkonyi Nándor és Magyar Adorján előtt már Fáy Elek is szólt Neith-ről, A magyarok őshona című könyvének 138. oldalán ([[S/Szohit\|Szohit]] címnél szerepel FE-t ismétlő Magyar Adorján féle adat is és más is):  
 > A szarvasmarhatenyésztést is nagyban űzték a mi ősnépeink s a tehén és bika szavaink is ősörökségeink. Brugsch ugyanis kimutatja, hogy Egyiptom nyugati részén, főként annak a szomszédos Libiával összefolyó lakossága között Neit (Athene) istennőnek legalább is a Kr. e. XIV. századtól fogva egy libiai eredetű kultusza élt, melyben az istennő, mint a nedves ösanyag személyesítője és Ra napisten szüllőanyja, az esőt adó égi tehénként tiszteltetett. E tisztelet annyira odaadó volt, hogy az istennő hivei ennek szimbolumát: a tehenet karjaikon és lábszáraikon betetoválva viselték. A tehénistennő aztán e minőségében összefolyt Izisszel is, aki a memphisi Szohit nevű minőségében és tehéntejü Hathor istennői alak jában egyenesen nyugoti és libiai istennőnek neveztetett s libiai népnevekkel hozatott összefüggésbe úgy, hogy címe is Szohit istennő, a tehenu nép fejedelemnője volt. Mindezekböl tehát kétségbevonhatlanul kitünik, hogy a tehenu nép nevét a tehénről vette. De ugyanebben a kultuszban a tehénistennővel szemben a hím elvet képviselő isténség Bakh, Bakis, Pakis, P-ka, Pika nevet viselt. E szerint tehát a tehén mellett a bika szavunk is szerepelt szintén a magyar fogalmában.  
 
 De hogy a kép teljes legyen, Várkonyi Nándor [[A/Aalu\|Aalu]] címnél szereplő adata szerint Neftisz-[[N/Nephthys\|Nephthys]] másneve Nit ill. Neith.  

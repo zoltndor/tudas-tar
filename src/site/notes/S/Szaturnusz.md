@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2024-02-29T01:49"}
+{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"]}
 ---
 
 
@@ -25,7 +25,7 @@ Nem elfelejtendő itt még az sem, hogy a mítoszalkotó képzelet a [[N/Nap –
 > Az asztronómiai ékiratokon "Mul-Sag-Us" ékjelekkel van írva, amit a sémi nyelven "kakkabu kaimanu" néven ismernek és így ment át az összes sémita nyelvbe. A káld-sumír mitológiában igen hatalmas erőt tulajdonítottak a Földre jövő sugárzásának és "éjszakai nap" volt egyik neve, de amikor a [[H/Halak csillagkép\|Halak csillagkép]]ében volt, akkor "Mul-Ug-Ga" nevet kapott, melynek jelentése a "halál csillaga".  
 - [[K/Kámán\|Kámán]] címhez is betéve.
 
-Viszont ha Péterfai János adata szerint Us = halál, akkor az első neve is ilyen jelentésű.  
+Viszont ha Péterfai János adata szerint `Us` = halál, akkor az első neve is ilyen jelentésű.  
 
 Szaturnuszról mint ellen-Napról ír Jankovics Marcell:  
 > A mitológiai ellentétpárok szimmetrikusak, tagjaik közt van némi hasonlóság is, nemcsak ellentét. Így van ez a Nap (arany) és a Szaturnusz (ólom) esetében is. A [[S/Szaturnusz\|Szaturnusz]] "**ellen-Nap**", "holt Nap", hisz istene ifjan napisten volt. (L. az osztjákok téli "ólom-pótnapját". Szibériában télen a Nap valóban csak annyit ér, mint aranyhoz képest az ólom.) Ezért próbáltak ólomból csinálni aranyat az alkimisták. Mindkettő nehéz fém és puha, de a hasonlatosság itt véget is ér: "Nehéz a szíve" (mint az ólom) és "aranyszíve van" egészen mást jelentenek. Az utóbbinak "keményszívű", "kőből van a szíve" az ellentéte.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Naga/","title":"Naga","tags":["Englishtexttranslated"],"created":"2023-10-13T01:24","updated":"2024-02-02T03:32"}
+{"dg-publish":true,"permalink":"/N/Naga/","title":"Naga","tags":["Englishtexttranslated"],"created":"2023-10-13T01:24","updated":"2024-04-05T19:31"}
 ---
 
 
@@ -12,13 +12,13 @@
 
 #### Péterfai János...
 
-...BA könyve megjelenése után írhatja:  
+...Bakos Attila könyve megjelenése után írhatja:  
 > A Naga [[K/Kígyó\|kígyó]] neve a mai Nagy szavunk változata, továbbá a Nagák az egyik fontos ősi magyar nép. Na-Ga értelemben Nagy-Ház magyarul, ami az égboltra vonatkozik. A nagák szkythafélék, vagyis magyarok a csudaországból. A Nagák, mint tipikus magyar nép, nyugatról indultak útnak, és keleten messze Japánig jutottak. Japán egyik magyar törzse, akik betelepítették a nagy szigeteket.  
 
 #### Varsa Mátyás A legrégibb magyar mítosz...
 
 ...című tanulmányában előjön az Naga névhez hasonló ugor mitológiai név, és nyilván itt is az égből való leszármazásra kell gondolni:  
-> Nga teljes neve Ljuba-Nga, mely szószerinti jelentésben: "istenárva." Az enyecekkel közeli rokonságban lévő nganaszánok mitológiájában a Ljuba-Nga-nak megfelelő alakot Djuba-Nga-nak vagy Djojba-Nguo-nak hívják (a név jelentése ugyanaz: "istenárva;" egyébként maga a nganaszán név is a törzs istentől való származására mutat). Djuba-Nga sokszor megkettőződve létezik. Az egyik Djuba-Nga az árva hős, a másik Dia, vagyis ugyanaz a Djuba-Nga, égi síelőként, cselvetőként és csalóként.  
+> Nga teljes neve Ljuba-Nga, mely szó szerinti jelentésben: "istenárva." Az enyecekkel közeli rokonságban lévő nganaszánok mitológiájában a Ljuba-Nga-nak megfelelő alakot Djuba-Nga-nak vagy Djojba-Nguo-nak hívják (a név jelentése ugyanaz: "istenárva;" egyébként maga a nganaszán név is a törzs istentől való származására mutat). Djuba-Nga sokszor megkettőződve létezik. Az egyik Djuba-Nga az árva hős, a másik Dia, vagyis ugyanaz a Djuba-Nga, égi síelőként, cselvetőként és csalóként.  
 - Az istenárva fordítást illetően nyilván hozzákapcsolt jelentésről van szó.  
 
 #### Péterfai János folytatja:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-21T04:29","updated":"2023-11-11T12:35"}
+{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-21T04:29","updated":"2024-04-05T19:06"}
 ---
 
 
@@ -51,6 +51,8 @@ Amennyiben az etruszkok emeltek is volna szobrokat Isteneiknek, az is a hanyatl�
 
 [[H/Hérodotosz\|Hérodotosz]] írja, hogy a szkítáknál \[nyilván értsd: bizonyos szkítáknál\] sem voltak bálványok:  
 > Scythians made no idols (Herodotus 4:59).  
+> —  
+> A szkíták nem készítettek bálványokat (Hérodotosz 4:59).  
 - Pedig valahol ott náluk volt egy fallikus kultusz.  
 
 #### Schmidt Irén A magyarok és elődeik istenképe, találkozásuk a kereszténységgel a római térítés előtt 1-2....
@@ -87,7 +89,7 @@ Kubínyi Tamás mondja egy ÁKTV műsorában, hogy a televízió felváltotta a 
 
 ## Bálványimádó Jahve-imádó zsidók
 
-Amikor a [[K/Kabbalah\|Kabbalah]] címnél említett, [[M/Magyar nyelv és nyelvcsaládok#Ausztráliai magyar nyelv\|ausztráliai magyar nyelv]] cím/alcímnél is előjövő ausztrál, magyar nyelvet ősnyelvnek tanító Goz nevű illető a kabbalisták által elferdített istenképről beszél, elszalasztott egy jó lehetőséget annak kimondására, hogy ha a szerinte az [[I/Ige\|Ige]] címnél is említett magyar nyelv maga az isten, ami a tudatunkon és lelkünkön keresztül létezik, akkor az egyénen kívül helyezett istenkép, mint amilyen a zsidóké, az bálványimádásnak tekinthető. Tehát pont azok a zsidók beszélnek Jézus kapcsán bálványimádásról, akik maguk is bálványimádók. Klasszikus esete a projekciónak.  
+Amikor a [[K/Kabbalah\|Kabbalah]] címnél említett, [[M/Magyar nyelv és nyelvcsaládok#Ausztráliai magyar nyelv\|ausztráliai magyar nyelv]] cím/alcímnél is előjövő ausztrál, magyar nyelvet ősnyelvnek tanító Goz nevű illető a kabbalisták által elferdített istenképről beszél, elszalasztott egy jó lehetőséget annak kimondására, hogy ha a szerinte az [[I/Ige\|ige]] címnél is említett magyar nyelv maga az isten, ami a tudatunkon és lelkünkön keresztül létezik, akkor az egyénen kívül helyezett istenkép, mint amilyen a zsidóké, az bálványimádásnak tekinthető. Tehát pont azok a zsidók beszélnek Jézus kapcsán bálványimádásról, akik maguk is bálványimádók. Klasszikus esete a projekciónak.  
 
 [[M/Megtévesztés\|Megtévesztés]] címhez is betéve.
 

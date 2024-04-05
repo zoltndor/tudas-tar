@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["Englishtexttranslated"],"created":"2023-10-04T02:14","updated":"2024-02-28T17:46"}
+{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["Englishtexttranslated"],"created":"2023-10-04T02:14","updated":"2024-04-05T19:16"}
 ---
 
 
@@ -24,7 +24,7 @@ A Hargita Csaba Ferenc közreműködésével készült A magyarok őstörténete
 Nos, valójában címet jelöl, melynek égi eredete van.  
 
 Majd:  
-> A habirok már a legősibb idők óta léteztek. Az első rendelkezésünkre álló dokumentumokban már szerepelnek, évszázadokkal Ábrahám előtt. Egyiptomtól Mezopotámiáig, az Asszír szélsőségektől a Kánaánon keresztül a Földközi-tenger partvidékén és Anatólia térségeiben, az egész Közel-Keleten szétszóródtak. Nem köthetők sem egy határozott földrajzi területhez, sem társadalmi rétegbe; a társadalom minden szintjén megjelennek, számos különböző tevékenységgel. \[...\] Az ókori feljegyzések azt is megjegyzik, hogy nem szemita elemek is voltak közöttük, pontosan szubarok \[akiket másutt sumérnak mond\]. Éver/Héber utódai két ágra szakadtak: délire (Joktán) és északira (Péleg). Az ókori feljegyzések habirjai Péleg vonalához tartoznak. Mindemellett fontos megkülönböztetni történetük két fázisát: egy korai szakaszt, amikor Mezopotámiában és Anatóliában voltak, az Ábrahám előtti időkben, és a későbbi szakasz, amely Egyiptomban való megjelenésükkel kezdődik, amit Ábrahám törzsének Egyiptom földjén való megjelenésével kapcsolatban jegyeztek le. Míg a habirok északi ága a térség népeibe való erőteljes beolvadáson megy keresztül, addig az egyiptomi beszámolók apirjai Kánaánban való letelepedésükig jól megkülönbztethető csoportként léteznek, amikor is a habir/apir kifejezést az izraelita váltja fel, az egyetlen héber csoport, amely megőrizte ezt az azonosságát.  
+> A habirok már a legősibb idők óta léteztek. Az első rendelkezésünkre álló dokumentumokban már szerepelnek, évszázadokkal Ábrahám előtt. Egyiptomtól Mezopotámiáig, az Asszír szélsőségektől a Kánaánon keresztül a Földközi-tenger partvidékén és Anatólia térségeiben, az egész Közel-Keleten szétszóródtak. Nem köthetők sem egy határozott földrajzi területhez, sem társadalmi rétegbe; a társadalom minden szintjén megjelennek, számos különböző tevékenységgel. \[...\] Az ókori feljegyzések azt is megjegyzik, hogy nem szemita elemek is voltak közöttük, pontosan szubarok \[akiket másutt sumérnek mond\]. Éver/Héber utódai két ágra szakadtak: délire (Joktán) és északira (Péleg). Az ókori feljegyzések habirjai Péleg vonalához tartoznak. Mindemellett fontos megkülönböztetni történetük két fázisát: egy korai szakaszt, amikor Mezopotámiában és Anatóliában voltak, az Ábrahám előtti időkben, és a későbbi szakasz, amely Egyiptomban való megjelenésükkel kezdődik, amit Ábrahám törzsének Egyiptom földjén való megjelenésével kapcsolatban jegyeztek le. Míg a habirok északi ága a térség népeibe való erőteljes beolvadáson megy keresztül, addig az egyiptomi beszámolók apirjai Kánaánban való letelepedésükig jól megkülönböztethető csoportként léteznek, amikor is a habir/apir kifejezést az izraelita váltja fel, az egyetlen héber csoport, amely megőrizte ezt az azonosságát.  
 
 #### Péterfai János írja:
 
@@ -42,7 +42,7 @@ Na most a Habur/Habiru nevek kapcsán előjön alant a Szíriusz arab neve, **Al
 Na most nem-e ezen Magarisz város az, amely az égre helyezve Magarként kiolvasott? Hiszen Magar, Magor, Magur a Solaris Nap neve és nem lehetne Szíriusz neve is. Hacsak nem arról van szó, hogy a [[M/Magor\|Magor]] és [[M/Makara\|Makara]] címnél felfejtett téma nyomán vitetett át a név Szíriuszra, mert a téli napfordulón vele együttállás van:  
 Valószínűleg, mivel több nyelvben a Bakban születő Nap neve révén a Bak neve lett és ilyenkor együttállás történik a Szíriusszal, az elnevezés még átment arra is. Vagy valamilyen kontextusbeli hiba van Kovácsnál is, mint Sitchinnél. Sajnos ha nincs meg a forrás, nehéz bármit mondani.  
 Másutt Gyárfás Ágnes Ur Magar-ként is utal rá. Könnyen lehet, hogy az [[U/UR\|UR]] az, ami viszi benne a kutya értelmet, annál is inkább mert kutyafejjel jelzik ezt a szót.  
-Az ír kutyát jelentő madadh és madra szavakat ugyan [[M/Magyar\|magyar]]ral azonosítottam, mondván, a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] között a kutyának is kell lennie.  
+Az ír kutyát jelentő `madadh` és `madra` szavakat ugyan [[M/Magyar\|magyar]]ral azonosítottam, mondván, a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] között a kutyának is kell lennie.  
 Egyébként Hunor kellene Szíriusz legyen. Nem hiszem, hogy át kell értékelnem a dolgokat (viszont közben született egy [[M/Magyar mint Szíriusz\|Magyar mint Szíriusz]] cím is).  
 
 A helyzet az, hogy mivel minden [[F/Folyó\|folyó]] a Tejútfolyó és magukat a Tejútról származtatták az emberek, ezért egyes népek (számuk egyre növekedni látszik, ahogy megfejtjük őket) nevei is vagy magából a magyar Tejút/Teut névből vagy egyes folyók nevéből ered. Ezen megfontolás alapján a [[H/Héber\|héber]]ek neve eredhetne a Habur folyó nevéből, de ha közvetlenül nem, akkor a [[K/Kabar\|kabar]]ok nevéből, míg a kabarok neve a Habur/Habor folyó nevéből.  
@@ -65,7 +65,7 @@ Habur a Wikipédia adata szerint az [[E/Eufrátesz\|Eufrátesz]] mellékfolyója
 > Hubur (`ḪU.BUR`, Hu-bur) egy sumér kifejezés, amely "folyót", "vízfolyást" vagy "alvilágot" jelent. Általában az "alvilág folyója".  
 > Felvetődött a Tiamathoz való kapcsolódás az ő "Ummu-Hubur"-ként való leírásával való párhuzamossággal. Huburra az Enuma Elishben is úgy hivatkoznak, mint "anyatenger Hubur, aki mindent megformál". Az Eufrátesz folyót azonosították Huburral, mint a sumér termékenység forrásával.  
 > \[...\]  
-> Delitzch szerint a hasonló sumér Habur szó valószínűleg "hatalmas vízforrást", "termékenység forrását" vagy hasonlót jelentett.  
+> Delitzch szerint a hasonló sumér `Habur` szó valószínűleg "hatalmas vízforrást", "termékenység forrását" vagy hasonlót jelentett.  
 - A Wiki oldal szerkesztői nem jönnek rá, hogy az Élet folyója a Halál folyója is egyben.  
 Azt jegyezzük meg egyébként, hogy az indo-európai nyelvcsaládba sorolt örmény nyelvben `hawaṙi` = víz kilóg a sorból[^3], talán mert Habúr eredetre megy vissza.  
 

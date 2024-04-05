@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz Iránban/","title":"Szíriusz Iránban","tags":["Englishtexttranslated"],"created":"2023-10-29T06:02","updated":"2024-02-29T00:41"}
+{"dg-publish":true,"permalink":"/S/Szíriusz Iránban/","title":"Szíriusz Iránban","tags":["Englishtexttranslated"],"created":"2023-10-29T06:02","updated":"2024-04-05T19:46"}
 ---
 
 
@@ -58,7 +58,7 @@ Az alábbiak szintén a Hamlet Malmából származnak és [[A/Apam Napat\|Apam N
 > Itt csupán egyfajta "megszakadt" kapcsolat számít, mely téma terjedelmes fejezetet érdemelne, de mivel a kapcsolatot legjobban kifejező grafikus jel (\*) értelmezése a nyugat-szudáni mandék hagyományból származik (ahol körülmetélést jelöl, illetve a körülmetélés (lásd még erről [[C/Circumcision\|circumcision]]) csillagát, a Szíriuszt), legjobb lesz elhalasztani az egész kérdéskör vizsgálatát.  
 
 A fentiekhez több hozzáfűznivalónk lehet. Először is a [[N/Nephew\|nephew]] és [[N/Neptunusz\|Neptunusz]] nevekkel kapcsolatosan az, hogy a Nap nevéből ered Nép, Név, Nev (nevel) és Növ (növekszik) szavunk is.  
-Az Apām Napāt tökéletesen értelmes magyarul: Apám a Napatya. Hogy a Szíriuszra is alkalmazták ezt a nevet, és a várt értelmezés, az unokaöccs "inverze" a nagybácsi, [[U/Uncle\|uncle]] = An-Kal (An-Gol?), azt jelezheti ismét, hogy a Szíriusz (rendszer valamely csillaga? Nibiru?) felelős a Nap fényének időleges csökkenéséért (lásd [[C/Circumcision\|circumcision]] és/vagy [[A/Apocalypse\|apocalypse]]), majd ahogy "az unokaöccs bosszút áll," a Nap fénye újra növekszik.  
+Az Apām Napāt tökéletesen értelmes magyarul: Apám a Napatya. Hogy a Szíriuszra is alkalmazták ezt a nevet, és a várt értelmezés, az unokaöcs "inverze" a nagybácsi, [[U/Uncle\|uncle]] = An-Kal (An-Gol?), azt jelezheti ismét, hogy a Szíriusz (rendszer valamely csillaga? Nibiru?) felelős a Nap fényének időleges csökkenéséért (lásd [[C/Circumcision\|circumcision]] és/vagy [[A/Apocalypse\|apocalypse]]), majd ahogy "az unokaöcs bosszút áll," a Nap fénye újra növekszik.  
 
 [[A/Apam Napat\|Apam Napat]] és [[A/Ardvisura Anahita\|Ardvisura Anahita]] szócikkek úgymond összetartoznak. Utóbbi szócikknél – bár William F. Warren óva int Szíriusznak névértékben való kezelésétől (szerinte [[M/Mozgó név\|mozgó név]]?) – főleg hogy a Szíriusz folyton előkerül azonosításokként, nem képzelhető el, hogy valaha az volt a Sarkcsillag vagy ahhoz közeli csillag?  
 Elképzelhető, hogy a Föld jelenleg fejjel lefelé van és a hyperboreai időkben a Canopus és a Szíriusz volt a fejük felett? Hogy is volt korábban:  

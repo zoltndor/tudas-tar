@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/DUG/","title":"DUG","created":"2023-10-13T02:24","updated":"2024-02-02T02:22"}
+{"dg-publish":true,"permalink":"/D/DUG/","title":"DUG","created":"2023-10-13T02:24","updated":"2024-04-05T19:09"}
 ---
 
 
@@ -30,8 +30,8 @@ DUG sokjelentésű fontos alapszavunk, mely [[O/Ördög\|ördög]], [[B/Boldog\|
 Dug viszont a [[D/DOG#Dog 2)\|dog]] = kutya szóval is egyezőnek látszik, márpedig a [[K/Kutya\|kutya]] és [[G/God\|God]] szavaknál írottak alapján a kutya szintén szent állat, a kúnoknál/hunoknál/szkítáknál.  
 Jól kiegészíti a fentieket, hogy az orosz nyelvben `dukh` = spirit, azaz szellem jelentésű.  
 
-Perzsa `dugh` = tej és az etimon (Péterfai János által megállapított) DUG = szent értelmét jártuk körül [[K/KU\|KU]], [[G/God\|God]] és [[M/MISZ\|MISZ]], [[K/Kumisz\|kumisz]] címszavaknál (némi info ide is betéve, de a végkövetketésekez lásd ott):  
-Természetesen nehéz egyértelműen kinevezni egy-egy szót eredetként úgy, hogy ennyi hasonló szó közül lehet válogatni (a magyar nyelvben, Isten nyelvében minden mindennel szorosan összefügg). A [[F/Freyja\|Freyja]] istennőnél is írottak szerint és Magyar Adorján adataival való összevetése után a skandináv Goð, germán Gott és [[G/God\|God]] nemcsak a kutyák szentségére utalhat, hanem a(z Indiában szent) tehenek tejének szentségére: a magyarok nézete szerint lelkünk a [[T/Tejút\|Tejút]]ról való, és a [[G/Galactic centre\|Galactic centre]]-nél írottak alapján a maják szerint is onnan származunk.  
+Perzsa `dugh` = tej és az etimon (Péterfai János által megállapított) DUG = szent értelmét jártuk körül [[K/KU\|KU]], [[G/God\|God]] és [[M/MISZ\|MISZ]], [[K/Kumisz\|kumisz]] címszavaknál (némi info ide is betéve, de a végkövetkezéseket lásd ott):  
+Természetesen nehéz egyértelműen kinevezni egy-egy szót eredetként úgy, hogy ennyi hasonló szó közül lehet válogatni (a magyar nyelvben, Isten nyelvében minden mindennel szorosan összefügg). A [[F/Freyja\|Freyja]] istennőnél is írottak szerint és Magyar Adorján adataival való összevetése után a skandináv `Goð`, germán `Gott` és [[G/God\|God]] nemcsak a kutyák szentségére utalhat, hanem a(z Indiában szent) tehenek tejének szentségére: a magyarok nézete szerint lelkünk a [[T/Tejút\|Tejút]]ról való, és a [[G/Galactic centre\|Galactic centre]]-nél írottak alapján a maják szerint is onnan származunk.  
 A God, Dog, Dug (mely tej értelmű perzsában, lásd azóta átírt [[D/Daughter\|daughter]]) szavakban keveredik a kutya, szent, tej, tehén értelem. A [[K/KU\|KU]] etimon tisztázásával felfedjük a rejtélyt, mely alapján pontossá válik God értelme is.  
 A KU viszont kúszik igénk kiindulója, gyöke is, és a táltosokról, druidákról – ahogy [[E/Életfa\|életfa]] címnél szó esett róla – tudjuk, hogy fára, [[T/Tölgy\|tölgy]]fára másztak. A [[T/Tölgy\|tölgy]] szónál és a [[M/MISZ\|MISZ]] etimonnál szóltunk arról, hogy a tölgyfa a Tejút jelképezője, így a tölgy valójában tőgy: ahonnan a tej jön. Ír nyelvben egyébként udder, azaz [[T/Tőgy\|tőgy]], `ùth`, mondhatni "Tej-Úth."  
 

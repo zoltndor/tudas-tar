@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mastabbagalgal/","title":"Mastabbagalgal","tags":["Englishtexttranslated"],"created":"2023-11-12T01:10","updated":"2024-02-28T21:21"}
+{"dg-publish":true,"permalink":"/M/Mastabbagalgal/","title":"Mastabbagalgal","tags":["Englishtexttranslated"],"created":"2023-11-12T01:10","updated":"2024-04-05T19:26"}
 ---
 
 
@@ -19,7 +19,7 @@ Helyesen Mas-Tab-Ba-Gal-Gal a sumér-babiloni zodiákus Ikrek jegyének neve, me
 > —  
 > A Nagy Ikrek nevét úgy írják, hogy "Mul Maš-tab-ba-gal-gal".
 > A Nagy Ikreket akkád nyelven "tū'amū rabűtu"-ként ismerik. A sumér `Maš` szó, amely 'ikertestvér vagy társ' jelentésű, az akkád nyelvbe is bekerült `māšū` néven.  
-> A sumérban az "iker" kifejezést a Maš-jel önmagában is kifejezheti, de gyakrabban az "iker" szót hosszabb formában `Maštabba`-ként írják. Önálló jelként a Tab 'társat, partnert' jelent, így az 'ikrek' gondolata szó szerint 'a két társ' jelentéssel fordítható.  
+> A sumérben az "iker" kifejezést a Maš-jel önmagában is kifejezheti, de gyakrabban az "iker" szót hosszabb formában `Maštabba`-ként írják. Önálló jelként a Tab 'társat, partnert' jelent, így az 'ikrek' gondolata szó szerint 'a két társ' jelentéssel fordítható.  
 > Nem ismert, hogy a Gal-jel valójában mit ábrázol, a javaslatok szerint valamilyen koronát vagy fejdíszt. A jelet általában 'nagy' jelentéssel használják. Az ékírásos írásrendszerben az utolsó melléknév (Gal) gyakran megduplázódik, hogy a többes számot jelezze.  
 - Varga Zsigmond Ősmagyar mitológia című könyvének (a PDF) 65-66. oldalán talált adat szerint a kettőzés itt többesszámot jelent; például `dingir gal-gal` = nagy istenek.  <br/>
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (második kötetének) 73. oldala alján máshogy is magyarázza a nevet.  
@@ -32,7 +32,7 @@ A Gal-Gal végződésnek tehát ez a (megkülönböztetett) jelentősége; nem k
 Pap Gábor egy előadásában közli, hogy az arabok pikkelyes altesttel jelenítik meg az Ikreket, de minthogy ez magyar festett kazettás mennyezeten is előfordul, azt kell gondolni, hogy ez egy régi egyetemes ábrázolás és nem azzal kell törődni, hogy ki az átvevő. Lásd csatolt képeket. 
 ![assets/Mastabbagalgal_image2.jpeg](/img/user/M/assets/Mastabbagalgal_image2.jpeg)  
 ![assets/Mastabbagalgal_image3.jpeg](/img/user/M/assets/Mastabbagalgal_image3.jpeg)  
-Hogy a hal és a kecske azonos szóval hogy jelezhetett, erről lásd például bakhal sumér jegy-elnevezést: [[S/Suhurmasku\|Suhurmasku]]. De MA is szólt a [[H/Hab\|hab]] és a [[K/Kabala\|kabala]] szavak azonosságáról, mely utóbbi szó gyöke megfordítva végül is: [[B/BAK\|bak]].  
+Hogy a hal és a kecske azonos szóval hogy jelezhetett, erről lásd például bakhal sumér jegy-elnevezést: [[S/Suhurmasku\|Suhurmasku]]. De Magyar Adorján is szólt a [[H/Hab\|hab]] és a [[K/Kabala\|kabala]] szavak azonosságáról, mely utóbbi szó gyöke megfordítva végül is: [[B/BAK\|bak]].  
 
 Richard H. Allen Star Names című könyvében az Ikrek Csillagkép alfájánál szól egy érdekes asszír `Mas-Mas` = Ikrek elnevezésről.  
 Az Ikrek(hez köthető) M-S vázú név/neve azért is érdekes, mert a [[M/Miscoatl\|Miscoatl]] címnél szereplő Giorgio de Santillanatól származó adat is az Ikreket hozza szóba, mint (esetleges) (hatalom)váltási pontot.  

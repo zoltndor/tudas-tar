@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2024-03-11T21:26"}
+{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2024-04-05T19:44"}
 ---
 
 
@@ -53,7 +53,7 @@ Götz másutt írja:
 > A szkíták tehát a Kr. e. 7. századot megelőző időkben a Kaukázustól délre laktak – állapítja meg Mészáros. A fennmaradt szkita helynevek sok esetben azonos hangalakban megtalálhatók Kis-Ázsiában és Transzkaukáziában is, néha az ékírásos hettita időkig visszamenőleg. Ugyancsak szemléltető dokumentumokat találunk a szkita vándorlás kiindulópontjának meghatározására a szkíta személynevek kis-ázsiai párhuzamaiban. Azonos szójelentéssel bíró azonos személynevek tűnnek fel mindkét területen, amelyek Kis-Ázsiában túlnyomórészt a jellegzetes, hettiták előtti hatti ősnyelvi rétegből erednek. Többek között az első ismert szkita királyok nevei, "Partatua" és "Madyas", vitathatatlanul ősi kis-ázsiai nevek.  
 - Folytatást lásd [[H/Hettita#Hettita nyelv\|hettita nyelv]] cím/alcímnél.  
 
-[Ezen](https://qr.ae/pGTezy) Quora válaszban a szkíták iráni nyelve mellett kardoskodó perzsa illető az Sir Harold Walter Bailey által írt kotáni-szaka szótárra hivatkozva írja amit ír.  
+[Ezen](https://qr.ae/pGTezy) Quora válaszban a szkíták iráni nyelve mellett kardoskodó perzsa illető az Sir Harold Walter Bailey által írt khotáni szaka szótárra hivatkozva írja amit ír.  
 
 ## Szkíta mint szumer nyelv
 

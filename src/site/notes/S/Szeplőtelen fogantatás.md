@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2024-02-02T03:46"}
+{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2024-04-05T19:43"}
 ---
 
 
@@ -50,7 +50,7 @@ Az alábbiakban elsősorban a napfiúk szeplőtelen fogantatásáról lesz szó[
 
 Még [[A/Álmos\|Álmos]]sal kapcsolatosan felmerült másutt is, hogy hogyan lehet prototípus más népek mondáiban, ha később élt: Bíró Lajos is elmondja előadásában, hogy az Álmos és Árpád nevek inkább olyanféle mitikus őstől örökül vett rangnevek, mint ahogy Egyiptomban (az Erpat-Árpád név kapcsán is taglalt) [[O/Ozirisz\|Ozirisz]] nevét felvették, hogy vele azonosuljanak.  
 
-[[V/VAN\|VAN]], [[V/VÁN\|VÁN]], [[V/VÁNY\|VÁNY]], [[V/Vain\|vain]], [[W/Want\|want]] szavaknál írtuk, hogy bár Péterfai János Ványt a fény módosulataként tekinti, a latin `vanus` (lásd [[V/Vain\|vain]]) és angol [[W/Want\|want]] ige éppenhogy a fény hiányát, várva várt befogadását fejezik ki.  
+[[V/VAN\|VAN]], [[V/VÁN\|VÁN]], [[V/VÁNY\|VÁNY]], [[V/Vain\|vain]], [[W/Want\|want]] szavaknál írtuk, hogy bár Péterfai János Ványt a fény módosulataként tekinti, a latin `vanus` (lásd [[V/Vain\|vain]]) és angol [[W/Want\|want]] ige éppen hogy a fény hiányát, várva várt befogadását fejezik ki.  
 Szeplőtelen azaz szűzen fogantatásról lásd még [[P/Parthenogenesis\|parthenogenesis]].  
 Jankovics Marcell Jelkép-kalendárium című könyvének azonos című fejezetében írottakat is lásd ott és másutt.  
 Közben ott arról is szó volt, hogy **félrefordítás történt** (a héber `almah` = maiden, nem virgin):  
@@ -116,7 +116,7 @@ Persze nem Szent Albert volt az egyetlen, aki a [[S/Szűz csillagkép\|Szűz csi
 
 #### Falvay Károly Nagyboldogasszony...
 
-...című könyvének 382. oldalán is szól a Szűz csillagképről a [[S/Szeptember 8\|szeptember 8]].-i Kisasszony (Mária) ünnep (születés) és [[D/December 8\|december 8]]. (fogantatás) kapcsán (hisz az egyház a pogány keresztény csillagászati összefüggések mintájára kreálta meg Mária [[A/Anna\|Anná]]tól való szűzen fogantatását, azaz ahogy JM Jelkép-kalendárium című könyvének 323. oldalán is olvassuk, nemcsak Jézus az, akit anyja szűzen szült). FK azt írja, hogy a két időpont szorosan kapcsolódik a [[S/Szűz csillagkép\|Szűz csillagkép]] egykori felkeléséhez és decemberi deleléséhez.  
+...című könyvének 382. oldalán is szól a Szűz csillagképről a [[S/Szeptember 8\|szeptember 8]].-i Kisasszony (Mária) ünnep (születés) és [[D/December 8\|december 8]]. (fogantatás) kapcsán (hisz az egyház a pogány keresztény csillagászati összefüggések mintájára kreálta meg Mária [[A/Anna\|Anná]]tól való szűzen fogantatását, azaz ahogy Jankovics Marcell Jelkép-kalendárium című könyvének 323. oldalán is olvassuk, nemcsak Jézus az, akit anyja szűzen szült). FK azt írja, hogy a két időpont szorosan kapcsolódik a [[S/Szűz csillagkép\|Szűz csillagkép]] egykori felkeléséhez és decemberi deleléséhez.  
 Falvay könyvében a több helyen taglalt nőiség által képviselt örökkévalóság (a végtelen jelére is kitér a könyvének 251. oldalán) kerül megformálásra. Fantasztikus analógiás módon gondolkodott a magyar. Amit ír (az első fele másutt is megvolt):  
 > A Nagy Istennő, [[M/Magna Mater\|Magna Mater]], a \[Szent [[A/Anna\|Anná]]val azonosuló\] magyar Nagyboldogasszony december 8-án fogant és a következő év [[S/Szeptember 8\|szeptember 8]]-án szülte meg leányát a Kisasszonyt \[ki így [[M/Mária\|Mária]] lenne\]. Mind a két időszak az év sötét időszaka, amelyből az új élet kél föl.  
 > Ennek felel meg az évkör Állatövében is a Szűz időszak, kezdet fogalmunkkal együtt. A magyar nyelv ennek megfelelően nevezte el Szűz Máriának Jézus anyját, ami sajátos, magyar nyelvi eredetű kifejezés \[Santa Maria azaz Szent Mária szerepel más népeknél\].  
@@ -127,7 +127,7 @@ Gesztesi Albert csillagász több helyen idézett A világ négy sarka című ci
 #### Huszárik László Denderai csillagképek, hónapok és mítoszok...
 
 ...című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXIII./10. sz. megjelent cikkének alábbi sorait viszont igen, mert a fentieket magyarázza:  
-> \[A Szűz\] legfényesebb csillagát, a Spicát egyértelműen *t nfr* \[[[Nefer\|nefer]]\] 'gyönyörű gyermek'-nek nevezték. Ezt és a környező csillagainak elnevezéseit későbbi időkben a megváltóval hozták kapcsolatba, bár itt még nyilván Hóruszra gondolhatunk. A héber Zavijaveh 'csodálatosan gyönyörű', az arab Al Mureddin 'aki el fog jönni', káld Vindemiatrix 'az ág', 'a fiú' nevek erre emlékeztetnek. Látható, hogy nem "aratás-betakarítás" értelműek a Szűzhöz kapcsolt elnevezések, mint azt a jegy általában elfogadott magyarázata megkívánná. Milyen értelemben használták ebben az esetben a gabona kalászát? Például itt is utalhat egy ősre, mely szaporodni fog, ő maga a gabona szára, magja szaporodni fog. Amint Gilgamest röviden csak Gisnek nevezték, s a gis szónak az értelme Mezopotámiában az 'ág'.  
+> \[A Szűz\] legfényesebb csillagát, a Spicát egyértelműen *t nfr* \[[[Nefer\|nefer]]\] 'gyönyörű gyermek'-nek nevezték. Ezt és a környező csillagainak elnevezéseit későbbi időkben a megváltóval hozták kapcsolatba, bár itt még nyilván Hóruszra gondolhatunk. A héber `Zavijaveh` 'csodálatosan gyönyörű', az arab Al Mureddin 'aki el fog jönni', káld Vindemiatrix 'az ág', 'a fiú' nevek erre emlékeztetnek. Látható, hogy nem "aratás-betakarítás" értelműek a Szűzhöz kapcsolt elnevezések, mint azt a jegy általában elfogadott magyarázata megkívánná. Milyen értelemben használták ebben az esetben a gabona kalászát? Például itt is utalhat egy ősre, mely szaporodni fog, ő maga a gabona szára, magja szaporodni fog. Amint Gilgamest röviden csak Gisnek nevezték, s a gis szónak az értelme Mezopotámiában az 'ág'.  
 
 Az alábbiaknak nem sok értelme/jelentősége van:  
 > A Nílus áradása, amihez Hórusz születését kötik augusztusban, a Szűz csillagzat végén jön el. Servius arról informál minket, hogy Hórusz a Szűz jegyében született.  

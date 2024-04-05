@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-04T04:55","updated":"2024-02-28T17:29"}
+{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-04T04:55","updated":"2024-04-05T19:03"}
 ---
 
 
@@ -26,7 +26,7 @@ Ezt erősíteni látszik Varga Zsigmond Az ősmagyar mitológia c. könyvének a
 
 Péterfai János megspórolt volna nekem némi időt és néhány Quora oldalon is lefutott kanyart (ahol csak a barbar = fényes, magasztos jelentését érintettem egy-két cikkben), ha az akkád értelmezését is megadja a szónak. Ugyanis nagyon valószínű, hogy ezt vette át az elsémisedett(nek mutatkozó) görög.  
 (A Quorára írott cikkekben, melyben védem a barbár eredeti jelentését, így sajnos nem tértem arra, pedig muszáj illetve jó lehetőség lett volna, hogy a görög nyelvbe nem a sumér, hanem már a szemita akkád szóalak és jelentés került át.).  
-[Ezen](https://en.wikipedia.org/wiki/Ur_(cuneiform)) Wiki oldalon szereplő adatok szerint a [[G/Gilgames\|Gilgames]] eposzban a sumér [[U/UR\|UR]] = kutya jelentésű szóból kifejezett, az eredeti sumér `urbarra` = farkas szónak, az annak átírásaként számon tartott akkád `barbaru` = farkas olvasatú névnek felel meg. A sumér urbarra szóra ezen alábbi magyarázat nem a Wiki oldalról való:  
+[Ezen](https://en.wikipedia.org/wiki/Ur_(cuneiform)) Wiki oldalon szereplő adatok szerint a [[G/Gilgames\|Gilgames]] eposzban a sumér [[U/UR\|UR]] = kutya jelentésű szóból kifejezett, az eredeti sumér `urbarra` = farkas szónak, az annak átírásaként számon tartott akkád `barbaru` = farkas olvasatú névnek felel meg. A sumér `urbarra` szóra ezen alábbi magyarázat nem a Wiki oldalról való:  
 > The Sumerian word for "wolf" is urbarra, which literally means "dog (ur) of the outdoors (bar)".  
 > —  
 > A sumér "farkas" szó az urbarra, ami szó szerint azt jelenti: "a szabadban (bar) élő kutya (ur)".  
@@ -53,7 +53,7 @@ Az hogy a tigris is Napállat, ahogy a többi, kivált a kutya, mely kutyát jel
 </div></div>
   
 
-Hogy az eltelt 120 évben pontosították volna az akkád barbaru jelentését, vagy pedig csak úgy gondolták, "hasonlósága" miatt megfelel a sumér urbarra szónak, nem tudni, mindenesetre a [[M/Mulapin\|Mulapin]] csillagkatalógusban mit keresne második helyen az [ezen](https://en.wikipedia.org/w/index.php?title=Talk:Babylonian_star_catalogues&oldid=308328520) oldalon a [Háromszög alfájának](https://en.wikipedia.org/wiki/Alpha_Trianguli) megfeleltetett farkas, aminek [[F/Farkas\|farkas]] címnél írottak szerint a Kutya csillagképpel szemközt kellene lennie, mint ma is. Ugyanakkor a Mulapin-ban nem az akkád `barbaru` név szerepel, hanem a sumér `urbarra`,...  
+Hogy az eltelt 120 évben pontosították volna az akkád `barbaru` jelentését, vagy pedig csak úgy gondolták, "hasonlósága" miatt megfelel a sumér `urbarra` szónak, nem tudni, mindenesetre a [[M/Mulapin\|Mulapin]] csillagkatalógusban mit keresne második helyen az [ezen](https://en.wikipedia.org/w/index.php?title=Talk:Babylonian_star_catalogues&oldid=308328520) oldalon a [Háromszög alfájának](https://en.wikipedia.org/wiki/Alpha_Trianguli) megfeleltetett farkas, aminek [[F/Farkas\|farkas]] címnél írottak szerint a Kutya csillagképpel szemközt kellene lennie, mint ma is. Ugyanakkor a Mulapin-ban nem az akkád `barbaru` név szerepel, hanem a sumér `urbarra`,...  
 - mulUR.BAR.RA gišNINDA₂ ša₂ mulAPIN = the Wolf, seed-funnel of the Plough (a Farkas, a Szántó magtölcsérje)  
 
 ...így mégis hinni kell, hogy nem a szemita korban tértek el, hanem a sumér már így gondolta (már amennyiben a mai csillagképnek megfeleltetés helyes persze).  

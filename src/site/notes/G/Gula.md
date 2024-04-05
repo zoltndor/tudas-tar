@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gula/","title":"Gula","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions","Englishtexttranslated"],"created":"2023-11-04T11:49","updated":"2024-02-28T17:46"}
+{"dg-publish":true,"permalink":"/G/Gula/","title":"Gula","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions","Englishtexttranslated"],"created":"2023-11-04T11:49","updated":"2024-04-05T19:16"}
 ---
 
 
@@ -200,7 +200,7 @@ Nos, [[T/Tejút#Nagy Éves szempontból a Tejút (Világfa) melyik asztrológiai
 > 
 > A férfi vízhordó mellett találunk egy női változatot is. Bár a túlcsorduló váza szimbólumát sokféle isteni és félisteni alak tarthatja (lásd a bőség csillaga), biztosak lehetünk benne, hogy a női forma valóban a Nagyot képviseli, mivel trónját néha a Kecskehal (jobbra) fölött helyezik el, és legalább egy feljogosító kő \[[[Kudurru\|kudurru]]\] valóban egy trónoló istennőt jelöl "a Nagynak". Fennáll a gyanú, hogy ez a nőnemű forma régebbi, mivel az ősi 'Gula' istennév eredetileg istennőkre vonatkozott. A tél folyamán felemelkedő többi ekliptikus csillagképhez hasonlóan a Nagy Egyhez is nagyon kevés előjel kapcsolódik kifejezetten. A kommentárokból azonban kiderül, hogy a 'Vese-csillag' a Nagy Egy alternatív neveként is használható. A Vese-csillagra vonatkozó ómenek általában a termésre és a közelgő árvizek természetére vonatkozó jóslatokat tartalmaznak, ami teljes mértékben összhangban van a Nagy Egyes szimbolikus jelentésével. Amint azt az Eridu csillagáról szóló fejezetben kifejtem, ez az azonosítás valószínűleg a két csillagkép közös megjelenésén múlik, amely szerint a két csillagkép emberi alakokat ábrázol, akik túlcsorduló vázákat tartanak a kezükben.  
 - A "Nagy Ő" nevezet, mint mondottam, egy teljesen elhibázott összevetésből született. Még angolszász nyelvérzékkel is megtalálható lett volna: [[C/Cola\|cola]] = folyadék – ugye hogy nem lett volna olyan nehéz?!  
-- A [[V/Vese\|vese]] egyébként a [[V/Víz\|víz]] szó változata; gondolom ez az összefüggés a sumérban már nem volt meg.  
+- A [[V/Vese\|vese]] egyébként a [[V/Víz\|víz]] szó változata; gondolom ez az összefüggés a sumérben már nem volt meg.  
 
 Gavin White könyvének interneten elérhető kivonataiban tallózva az előző jegy a Bak (Kecskehal) [[S/Suhurmasku\|Suhurmasku]], következő jegy pedig a Halak [[K/Kunmes\|Kunmes]].  
 
@@ -220,5 +220,5 @@ A kínai csillagképek, a Sze Fūh, a Négy Nagy Csatorna; a Kwan Kew; és a Wae
 
 [^3]: Lábjegyzet:  
 [[C/Cola\|Cola]] címnél szerepeltek keleti szavak folyás, folyó, tó értelemmel:  
-A mongol `gol` = folyó, a kalmikban `hol` = folyó, kazahban `köl` = tó, míg a törökben `göl` = tó, a tadzsikban pedig `kūl` = tó.  
+A mongol `gol` = folyó, a kalmikban `hol` = folyó, kazahban `köl` = tó, míg a törökben `göl` = tó, a tádzsikban pedig `kūl` = tó.  
 A görög `kúlosz` = lé szóról lásd még [[C/Cataclysm\|cataclysm]].  

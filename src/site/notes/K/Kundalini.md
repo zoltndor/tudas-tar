@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kundalini/","title":"Kundalini","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-12T07:24","updated":"2024-02-10T04:05"}
+{"dg-publish":true,"permalink":"/K/Kundalini/","title":"Kundalini","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-12T07:24","updated":"2024-04-05T19:22"}
 ---
 
 
@@ -126,6 +126,6 @@ John Major Jenkins Galactic Alignment című könyvében erre a spirituális tan
 ...maja és hindu szavak hasonlóságárára hívja fel a figyelmet:  
 > As to the similarities between the Mayan and Hindu religion and language, Hinduism Today says, K'ultanlilni in Mayan refers to the power of God within man which is controlled by the breath, similar in meaning to kundalini. Mayan [[C/Chilam Balam\|chilambalam]] refers to a sacred space, as does Tamil Chidambaram. `Yok'hah` in Maya means 'on top of truth,' similar to `yoga` in Sanskrit.  
 > —  
-> Ami a maja és a hindu vallás és nyelv közötti hasonlóságokat illeti, a Hinduism Today azt írja, hogy a K'ultanlilni a maja nyelvben Isten erejére utal az emberben, amelyet a légzés irányít, hasonlóan a kundalinihez. A maja [[C/Chilam Balam\|chilambalam]] egy szent térre utal, akárcsak a tamil Chidambaram. A `yok'hah` a maja nyelven azt jelenti, hogy 'az igazság tetején', hasonlóan a szanszkrit [[Y/Yoga\|jógá]]hoz.  
+> Ami a maja és a hindu vallás és nyelv közötti hasonlóságokat illeti, a Hinduism Today azt írja, hogy a K'ultanlilni a maja nyelvben Isten erejére utal az emberben, amelyet a légzés irányít, hasonlóan a kundalinihez. A maja [[C/Chilam Balam\|chilambalam]] egy szent térre utal, akárcsak a tamil `Chidambaram`. A `yok'hah` a maja nyelven azt jelenti, hogy 'az igazság tetején', hasonlóan a szanszkrit [[Y/Yoga\|jógá]]hoz.  
 
 Egyébiránt [[C/Chakra\|chakra]] szóhoz hasonlót is találtak a maja nyelvben; lásd ott.  
