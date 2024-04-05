@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2024-02-28T21:33"}
+{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2024-04-05T19:32"}
 ---
 
 
 # Nap – halott Nap
 
 Jankovics Marcell A Nap könyve című könyvének ([[H/Háromszögletű Nap\|háromszögletű Nap]] címnél is szereplő) adata szerint az ókori Egyiptomban négy Napot azaz Napminőséget[^1] különböztettek meg: a kelő/reggeli (neve a galacsinhajtó bogár, a [[H/Hórusz\|Hórusz]] és [[S/Scarabeus\|scarabeus]] címnél is említett Kheper), delelő (Ré-Harahti) és az öregember lenyugvó ([[A/Atum\|Atum]]) Nap alkotta a nappali triászt, mely kiegészült az éjszakai (halott) napisten (Ozirisz) személyével. Magyar analógiája is létezik mindennek.  
-![assets/Naphalott_image1.png](/img/user/N/assets/Naphalott_image1.png)  
+![assets/Naphalott_image1.png|invert_dark](/img/user/N/assets/Naphalott_image1.png)  
 Beszámol ugyanis Bosnyák Sándor arról, hogy a szegedi házhomlokzatok, tetők mintázatában "a szegedi parasztok a napfelkeltét, a delelést, a napnyugtát, alul a zárt rekeszekben az éjszakát látják."  
 
 Elterjedt hiedelem szerint a [[G/Göncöl\|Göncöl]]szekér szállítja a túlvilágra a halott napisten tetemét.  
@@ -31,7 +31,7 @@ Jankovics Marcell A Nap könyve című könyvében Arthurt az óind/óperzsa hal
 Márpedig [[A/Avalon\|Avalon]] szigete is hasonló az óegyiptomiak Amentijéhez, és Arthurral kapcsolatban – különösen [[B/Bier\|bier]], [[B/Bárka\|bárka]] és más címnél írottak alapján – valóban stimmel a (halott) Napisten szimbolika, különösen a 12 lovagos kerekasztallal (12 jegy az Állatövvel). Ami a Szaturnusz-Nap azonosításokat, kapcsolatokat illeti, lásd [[N/Nap\|Nap]] és [[S/Szaturnusz\|Szaturnusz]].  
 
 [[E/Észak\|Észak]] illetve [[E/Észak és dél\|észak és dél]] címnél szerepelt egy gond eredetű `deoguhr`[^2] (Dög-Úr) szó, mely nyilvánvalóan a halott Nap helyére, a [[S/Sarkcsillag\|Sarkcsillag]]ra utal, mely valóban az északi irányt jelöli ki.  
-Igen ám, de a Dög-Úr lehet a [[G/Gödör\|gödör]] ellentételezéseként Szíriuszra illetve a Szíriuszhoz közel kerülésére utaló elnevezés is, hiszen a [[D/Dzsed\|dzsed]] és [[S/Széth\|Széth]] címnél írottak alapján is tudjuk, hogy a Sarkcsillag tulajdonképpen a Szíriusz kivetítése (az egész egy rendszer). Ergo ha a Szíriusz a Nap mögötti Nap (lásd még [[A/Anta\|anta]], [[S/Széth\|Széth]], [[K/KUN\|KUN]] címnél írottakat arról, hogy a Napnevek Szíriuszra utaló nevek is lehetnek, ha másért nem, mert a Nap és a Sziriusz is csillag = Nap), amely rejtve van (ezért is tudták a papok jelentőségét is elfeledtetni), éppúgy, ahogy a halott Nap is rejtve van (hová is tűnik, Egyiptomban úgy mondták, [[D/Duat\|duat]]-ba, az alvilágba), és ha Sarkcsillag Szíriusz "másodmaga," akkor a Sarkcsillagra, északra tett halott Nap képzete akár precessziós, Szíriusszal kapcsolatba hozható nézet is lehetne, de ennél többet most nem tudok róla mondani.  
+Igen ám, de a Dög-Úr lehet a [[G/Gödör\|gödör]] ellentételezéseként Szíriuszra illetve a Szíriuszhoz közel kerülésére utaló elnevezés is, hiszen a [[D/Dzsed\|dzsed]] és [[S/Széth\|Széth]] címnél írottak alapján is tudjuk, hogy a Sarkcsillag tulajdonképpen a Szíriusz kivetítése (az egész egy rendszer). Ergo ha a Szíriusz a Nap mögötti Nap (lásd még [[A/Anta\|anta]], [[S/Széth\|Széth]], [[K/KUN\|KUN]] címnél írottakat arról, hogy a Napnevek Szíriuszra utaló nevek is lehetnek, ha másért nem, mert a Nap és a Szíriusz is csillag = Nap), amely rejtve van (ezért is tudták a papok jelentőségét is elfeledtetni), éppúgy, ahogy a halott Nap is rejtve van (hová is tűnik, Egyiptomban úgy mondták, [[D/Duat\|duat]]-ba, az alvilágba), és ha Sarkcsillag Szíriusz "másodmaga," akkor a Sarkcsillagra, északra tett halott Nap képzete akár precessziós, Szíriusszal kapcsolatba hozható nézet is lehetne, de ennél többet most nem tudok róla mondani.  
 
 #### Jankovics Marcell A Nap könyve...
 
