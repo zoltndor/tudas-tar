@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["Englishtexttranslated"],"created":"2023-10-11T04:44","updated":"2024-02-28T21:36"}
+{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["Englishtexttranslated"],"created":"2023-10-11T04:44","updated":"2024-04-05T19:33"}
 ---
 
 
 # Oak
 
 [[T/Tölgy\|Tölgy]]fa. [[T/Táltos\|Táltos]]ok, [[D/Druida\|druidá]]k fája. A magyar tölgy inkább boncolgatható és hasonlítható tőgyhöz, amiből a táltost tápláló tej származik.  
-Az angol oak elődei a magyar [[O/OK\|OK]], [[E/Ég\|ég]], [[E/Egy\|egy]], [[A/Ág\|ág]] szavaink bármelyikére utalhatnak. Az Ok Péterfai János adata szerint Csillag.   
+Az angol `oak` elődei a magyar [[O/OK\|OK]], [[E/Ég\|ég]], [[E/Egy\|egy]], [[A/Ág\|ág]] szavaink bármelyikére utalhatnak. Az Ok Péterfai János adata szerint Csillag.   
 
 A német `Eiche` és ófelnémet `eih` = tölgy [[Y/Ygg\|Ygg]] nevével és egyértelműen [[E/Ég\|ég]] szavunkkal azonosíthatók.  
 Az ([[E/Elk\|elk]] címnél is említett) ónorvég `eik` egyszerre tölgyfa és fa jelentésű, de megtudjuk (ahogy [[D/Druida\|druida]] címnél is szerepelt), hogy a görög nyelvben is `drúsz`/`drüsz` egyszerre fa és tölgyfa (és Jankovics Marcell adata szerint fenyő is!); ezzel megkaptuk, hogy a tölgyfa a legfontosabb fa, a fák legszentebbike, királya.  
@@ -19,7 +19,7 @@ Az ([[E/Elk\|elk]] címnél is említett) ónorvég `eik` egyszerre tölgyfa és
 > A magyaroknál párhuzamát találjuk a tölgyfa ágai és a közönséges szarvas agancsa ágasbogossága azonos vonalritmusában, amit népünk ma is ezen ágasbogas szavunkkal nevez meg, amivel azután egyeznek a magyar-kún ág, makk, makk-fa (tölgy-fa) valamint e szarvasfaj egykori ágos, ákos neve; emlékezünk pedig, hogy regös-énekeink a Csodaszarvas "ezer ágaboga"-ról szólanak.  
 
 Lásd erről Magyar Adorján Csodaszarvasának anyagát képekkel [[A/Ágas-bogas\|ágas-bogas]]. Egy képet ide is tehetünk:  
-![assets/Oak_image1.png](/img/user/O/assets/Oak_image1.png)  
+![assets/Oak_image1.png|invert_dark](/img/user/O/assets/Oak_image1.png)  
 
 Robert Graves The White Goddess című könyvében is megtalálható az összevetés:
 > From Sardinia comes a Bronze Age figurine of a man-stag with horns resembling the foliage of an oak, a short tail, an arrow in one hand and in the other a bow that has turned into a wriggling serpent.  
