@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated"],"created":"2023-10-31T06:45","updated":"2024-02-02T01:23"}
+{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated"],"created":"2023-10-31T06:45","updated":"2024-04-05T19:04"}
 ---
 
 
@@ -75,7 +75,7 @@ Merésznek tűnhet a Bar-At szót a [[K/Kutya\|kutyá]]khoz vagy inkább [[K/Kut
 (Az olasz `bracco` = vadászkutya szó is hasonló, melyet szintén nehéz elhelyezni.)  
 Nagyon könnyen elképzelhető, hogy a német `freund`, angol [[F/Friend\|friend]] = barát szavakban is a BAR etimonhoz tartozó [[F/FER, FÉR\|FER, FÉR]] és a kún-germán `hund` (lásd [[H/Hound\|hound]]) = vadászkutya szavak összehúzását kell látni. [[O/Ond\|Ond]], ont, önt (ojt) szavak is elképzelhetőek benne, asztrális kutyanemzésről lévén szó.  
 [[T/Teremtő és teremtett\|Teremtő és teremtett]] szócikknél is volt szó a [[B/BAR\|BAR]] etimonról. Bar At lehet a Teremtő Adó, asztrális [[K/Kutyanemzés\|kutyanemzés]]re értve. Teremtett vonalon [[B/Barom\|barom]] = teremtmény. Azaz első körben volt egy primordiális [[N/Nimrud\|Nimrud]]-féle nemzés, mely a Naprendszerünket szülte, másodikként a Nap (talán szíriuszi Kutyacsillag segítségével) szülte az életet a bolygón.  
-A barát szóból több angol szó származhat: [[B/Britain\|Britain]], [[B/Bretagne\|Bretagne]], [[B/Brat\|brat]], [[B/Betray\|betray]], [[B/Bird\|bird]], [[B/Bread\|bread]], [[B/Beard\|beard]], [[B/Bard\|bard]] és[[B/Bárd\|bárd]], valamint [[B/Board\|board]] stb.  
+A barát szóból több név és szó származhat: [[B/Britain\|Britain]], [[B/Bretagne\|Bretagne]], talán [[P/Portugál\|portugál]], míg az angol szavak közül [[B/Brat\|brat]], [[B/Betray\|betray]], [[B/Bird\|bird]], [[B/Bread\|bread]], [[B/Beard\|beard]], [[B/Bard\|bard]] és [[B/Bárd\|bárd]], valamint [[B/Board\|board]] stb.  
 A spanyol `barato` (*fem*. `barata`) jelentése nyilván azért olcsó, olcsón, mert baráti áron adott: "Tiene algo más barato?" = "Van valami olcsóbb?"  
 A kelta-ír `barantas` = garancia. A G-B változás hasonló az [[U/Ugorka\|ugorka]] – [[U/Uborka\|uborka]] esethez.  
 
@@ -105,9 +105,13 @@ A barát szót [ezen](https://qr.ae/pNsjGC) Quora cikkbe is felírtam, továbbá
 - Kimaradt innen a balta r-hangos változataként számon tartható [[B/Bárd\|bárd]], a hajfonat [[B/Braid\|braid]] és akár a [[B/Bride\|bride]] szó, illetve akár a [[B/Breath\|breath]] szó is a sorba tartozhat.  
 A szanszkrit pedig csak a feljegyző nyelv, és nem is napistent jelent a név (a névadók nem szanszkrit nyelven beszéltek).
 
+Esélyes a latin `brutus` = barom Bar-Ata eredete szintén.  
+
 Magyar szavak közül hasonló, azaz szintén Bat-Ata felbontással számolható [[B/Bárca\|bárca]] szavunk.  
 
 A fentiek írása idején még nem ismertem L. A. Waddell The Phoenician Origin of Britons, Scots & Anglo-Saxons (1924) című könyvét, melyben **Barat** föníciaiként kerül bemutatásra.  
+
+A keresztnevek közül a délszláv **Borut** név hasonló (a "kazah" Borat név kitalált név, ilyen név ott nincs).  
 
 [[K/Kér és kap\|Kér és kap]] címnél is szerepelt:  
 A Nap nevei, de legalábbis hímségi értelmű szavak szerepelnek a kér és kap szavakban is. A lényeg ugyanaz: aki kér, az kap. Úgy adom, hogy nem kell visszaadni. A Nap is úgy adományozza fényét, hőjét, hogy nem kéri számon a Földtől, mennyit adott. Hogy is írta Hafez, a perzsa költő (szépen összefoglalja, mit is jelent a Nap szerető, baráti viszonyulása a Földhöz és hozzánk, a rajta élőkhöz):  
