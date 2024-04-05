@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2024-02-28T21:13"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2024-04-05T19:19"}
 ---
 
 
@@ -130,17 +130,17 @@ Arról a [[D/Daughter\|daughter]], [[D/Dame\|dame]], [[D/Danu\|Danu]] és [[T/Ta
 > A nyíl – mint már említettük – világfa-szimbólum. Lehet-e valami köze ahhoz a nyíl tőhöz, amelyből a nyílik, illetve a nyílás \[[[Nyilas csillagkép\|[Nyilas csillagkép]]nek is rébusza\] szavak származnak? A nyíl szó bevilágítja a világfa mitikus etimológiáját. Volt már szó róla, hogy a jurta középső oszlopa világfa-szimbólum, s hogy a mellette lévő lyuk, a füstnyílás teszi lehetővé a világok közötti utazást a sámán számára. Az obi-ugor Numi Tórem, a legfőbb isten is egy lyukon tekintget lefelé a felső világból, ezen át nézi meg időnként, hogy rendben mennek-e a dolgok nálunk. A nyíl mellett tehát nyílás van, talán épp a nyíl ütötte. De hogy kapcsolódik a nyíl ige ebbe a körbe? Hát úgy, hogy a világfa nyílik, virágzik. Mit virágzik a fa? Természetesen fényt, erre utal a mellette ábrázolt nap és hold.  
 - Folytatást lásd világ és világ témában [[V/Virág\|virág]].  
 
-> A dobra rajzolt világmodell kiegészíthető még egy érdekes nyelvi megfeleléssel; az íj két vége a mitikus tudatban a világ keleti és nyugati végét jelenti. E két végpontot összekötő [[H/HÚR\|húr]] ősi neve: [[I/Ideg\|ideg]].  
+> A dobra rajzolt világmodell kiegészíthető még egy érdekes nyelvi megfeleléssel; az íj két vége a mitikus tudatban a világ keleti és nyugati végét jelenti. E két végpontot összekötő [[H/Húr\|húr]] ősi neve: [[I/Ideg\|ideg]].  
 - Folytatást lásd ott, bár sok érdekes nem hangzik el.  
 
-[[M/Mestergerenda\|Mestergerenda]] és [[I/Ideg\|ideg]] címnél írottak szerint érthető meg (a régi magyarok ugyanis tudvalevőleg az íjat kifeszítő [[H/HÚR\|húr]]t nevezték volt idegnek, aminthogy ezt mai irodalmi nyelvünk is nevezi még így), miről is van szó.  
+[[M/Mestergerenda\|Mestergerenda]] és [[I/Ideg\|ideg]] címnél írottak szerint érthető meg (a régi magyarok ugyanis tudvalevőleg az íjat kifeszítő [[H/Húr\|húr]]t nevezték volt idegnek, aminthogy ezt mai irodalmi nyelvünk is nevezi még így), miről is van szó.  
 MA nagy szolgálatot tett rajzával is. Ugyanis Id-Eg annyit tesz, mint Isten Ege, és mivel íjról is szó van és a fentiek alapján tudjuk, hogy az íj = ív = év = ég és a nyíl = Níl(us) = Tejút, valamint hogy a húr nemcsak bél jelentésű de a [[T/Teknős\|teknős]] és [[L/Lapos Föld\|lapos Föld]] címnél is említett [[H/Horizon\|horizon]] szónak kiadója is, hogy itt [[S/Szakrális geometria\|szakrális geometria]] újabb és egyben legalapvetőbb példájával állunk szemben.  
 (Mellékelve lásd még a látható ég félgömbjét, a hupolagot, melyet Péterfai János [[C/Csuda\|csudá]]nak hív.)  
 ![assets/Ijesnyil_image5.png|invert_dark](/img/user/I/assets/Ijesnyil_image5.png)  
 
 Szintén ide tehető a tűzfúró-szerszám [[T/Terebra\|terebra]] címnél is szereplő képe, mely nagyon hasonló az íj és a nyíl együtteséhez.  
 ![assets/Ijesnyil_image6.png|invert_dark](/img/user/I/assets/Ijesnyil_image6.png)  
-A képekhez tartozó MA-féle magyarázatot lásd a lábjegyzetben[^7].  
+A képekhez tartozó Magyar Adorján féle magyarázatot lásd a lábjegyzetben[^7].  
 A saját diagramon pedig összefoglalva lásd, miként képzelhették el az eget.  
 ![assets/Ijesnyil_image7.png|invert_dark](/img/user/I/assets/Ijesnyil_image7.png)  
 
@@ -257,7 +257,7 @@ Az íj és a nyíl értelmek keveredését látjuk viszont megint csak, hiszen a
 
 #### Morris Silver Talking Ancient Mythology...  
 
-...című könyvének adata szerint a sumér Tir An-Na (lásd róla [[T/TIR\|TIR]]) mellett a sumér Ban-An-Na szintén jelentett íjat és szivárványt egyszerre:  
+...című könyvének adata szerint a sumér `Tir-An-Na` (lásd róla [[T/TIR\|TIR]]) mellett a sumér Ban-An-Na szintén jelentett íjat és szivárványt egyszerre:  
 > The Bible gives a hint of the token identifying the marketplaces frequented by our circuiting artisans. In Gen. 4.15 the Lord set an `'ōt` 'mark, sign, token' l' 'for' (not 'on'!) Cain (T.C. Mitchell 1982: 157). The 'ōt intended to protect Cain is not further identified. However, in Gen. 9.12-13, the 'ōt of the covenant between God and Noah is identified as 'the bow in the clouds' – that is, the bow is to symbolize the Post-Flood reconciliation between man and God (see Sarna 1966: 68-69). It is not unreasonable to surmise that, as a symbol of reconciliation and therefore protection, the 'bow in the sky' was the 'mark for Cain'. Here it should be noted that the Hebrew word `qeshet` 'bow' means 'archer's bow, rainbow' and, presumably, 'vault of heaven' or, indeed, anything shaped like an arch. This wide range of meanings for 'bow' is attested in a number of ancient languages. Thus, Old Kingdom Egyptian `pedjet` signifies 'bow' and 'vault of heaven' (Mercer 1952: II, 183, 509); Sumerian `ban-an-na` (and the earlier `tir-an-na`) stands for 'bow' and 'rainbow' (see Hallo 1989: 69); Latin `arcus` is 'archer's bow, rainbow, arch, vault, curving line' (OLD s.v.); and Greek `toxon` may be rendered 'archer's bow, rainbow, arch' (LSJ s.vv. `toxon`, `toxoomai`, `tonos`). Also an Akkadian text compares the curve of the `gamlu` 'staff, curved scythe' to that of the rainbow.  
 > In continuing our exploration of the 'bow' we find Sumerian texts of the later third millennium in which commercial contractors finalize their agreement by passing the `gis-bana` 'bow' (Oppenheim 1948: 5556). Further, during the same era the 'rainbow' was identified with a feature of cult architecture, as is demonstrated by King Gudea's Cylinder: 'Its (referring to the new temple for the god Ningursu) curved gate posts standing at the gate were like a rainbow standing in the sky' (Jacobsen 1987a: 419). Similarly, in a hymn of the early second millennium from Nippur in Sumer the 'vault (`nir-gim-ma`) of the temple (the Ekur) is like a rainbow (`tir-an-na`)' (Sjöberg 1973: 29). Along the same line, seal-impressions from the Old Assyrian trading station at Kanesh (Anatolia) depict the winged gate, representing the rainbow, as an 'arched guilloche' or 'as an arch from which rain falls'.  
 > —  
@@ -313,7 +313,7 @@ A Szimbólumtár adata:
 > • A sámánrítusok ősi eszköze, például az íj egyensúlyozása a jósló, sorsjelző, igazságosztó szertartásokban játszott fontos szerepet. A sámánutazás egyik jelképe a repülő nyílvessző.  
 > • A bráhmanizmusban az upanisad ('titkos tanítás') szimbóluma, amely a bráhman (bráhman/Brahmá), az örökkévaló, világfenntartó elv megértésének eszköze: "Íjad legyen az upanisad nagy fegyvere, / tedd nyílvessződül az imádságot reá, / feszítse meg Erre irányuló gondolatod, / és a cél Ez, a nem-múló bráhman legyen" (Mundaka upanisad, II. 2).  
 > • Kínában a fiúgyermek születését jelezte az ajtóra függesztett íj (Pu Szuling: Előszó Lino-csej furcsa történeteihez). A mongol népeknél apotropaikus jelentéssel bír a gyermek születésekor a jurta bejáratára függesztett íj és nyílvessző.  
-> • A görög-római mitológiában [[E/Eros\|Erósz]]/[[A/Amor\|Amor]]/[[C/Cupid\|Cupid]]o, Apollón/[[A/Apolló\|Apolló]] és [[A/Artemisz\|Artemisz]]/Diana attribútuma; utal a Nap és Hold fénysugaraira, valamint az igazságosztó, büntető funkcióra (Niobé).  
+> • A görög-római mitológiában [[E/Eros\|Erósz]]/[[A/Ámor\|Amor]]/[[C/Cupid\|Cupid]]o, Apollón/[[A/Apolló\|Apolló]] és [[A/Artemisz\|Artemisz]]/Diana attribútuma; utal a Nap és Hold fénysugaraira, valamint az igazságosztó, büntető funkcióra (Niobé).  
 > • A Bibliában az Úr haragját, bosszúját jelzi: "Kilövöm rájuk minden nyilam. Éhséggel rakott csűr lesz majd az íj" (MTörv 32,23-24). A "nappal repülő nyilak" az égető sugarak (Zsolt 91,5). A profetálás erejére utal Izajásnál: "Mint a hegyes nyíl, olyanná tett" (Iz 49,2). Az Apokalipszis első lovasának kezében a pusztulást jelenti (Jel 6,2) (Apokalipszis lovasai). Pál apostol a gonosz tüzes nyilát említi, amelyet a hit pajzsával lehet elhárítani (Ef 6,16).  
 > • Dante Isteni Színjátékában a világegyetem rendjének középpontja Isten: "a jelzett Rendnek célja s orma", s mindenfelé "áramlik: az Ij erejével röpítve, melynek / minden vesszője megpihen a Jelben" (Paradicsom, I. 125-126).  
 > • A keresztény ikonográfiában a nyíllal megkínzott, kivégzett mártírok attribútuma, például Szt. Orsolya, Szt. Sebestyén (Hans Memling: Szent Orsolya vértanúsága, Szent Orsolya ereklyetartó szekrény egyik táblája, 1489, Brugge, Sint Jans-hospitaal; Mantegna: Szent Sebestyén, 1480, Párizs, Louvre), valamint a vadászat során véletlenül eltalált Szt. Egyed ábrázolásain látható.  
@@ -450,7 +450,7 @@ A japán `kyūdō` = íjászat és `kyūjutsu` = íjászat művészete jelentés
 Az [alábbi](https://youtu.be/ObQpn8Hbe60) ÁKTV műsorban 1:56:03-nál KT kifejti, hogy Jézus szkíta fajúságára vagy inkább úgy mondanám, hogy a [[K/Kereszténység\|kereszténység]] szkíta eredetére utal Tamás evangéliuma 47-je, ahol Jézussal azt mondatja: "Lehetetlen, hogy egy ember egyszerre két lovat üljön meg és hogy egyszerre két íjat feszítsen."  
 Lásd még Rómaikhoz 3.23 részt például [[M/Miss#Miss 2)\|miss]] és [[H/Hamartia\|hamartia]] címnél, ismét íjász-nyilas téma kapcsán.  
 
-[[E/EB#Eb mint Év és Ív\|Eb mint Év és Ív]] és [[E/EB#Eb mint Ív/Íj\|Eb mint Ív/Íj]] cím/alcímnél (is) volt szó arról, hogy ami egy helyütt Kutya/Eb(csillag/zat), az másutt Ív/Íj csillagzat. És lám, amikor a joruba `ife` = szerelem szóra ráleltem, biztos voltam benne, hogy itt is ugyanaz a kiinduló idea, mint [[L/Love\|love]] (valamint [[A/Ámor\|Ámor]] és a többi) esetében: íjlövés = szerelem (a nemzés aktusához szükséges előfeltétel).  
+[[E/EB#Eb mint Év és Ív\|Eb mint Év és Ív]] és [[E/EB#Eb mint Ív/Íj\|Eb mint Ív/Íj]] cím/alcímnél (is) volt szó arról, hogy ami egy helyütt Kutya/Eb(csillag/zat), az másutt Ív/Íj csillagzat. És lám, amikor a joruba `ìfẹ́`/`ife` = szerelem szóra ráleltem, biztos voltam benne, hogy itt is ugyanaz a kiinduló idea, mint [[L/Love\|love]] (valamint [[A/Ámor\|Ámor]] és a többi) esetében: íjlövés = szerelem (a nemzés aktusához szükséges előfeltétel).  
 
 #### Pintye Mihály Anonymus végzetes névcseréje – Kik voltak a besenyők?...
 
@@ -562,7 +562,7 @@ Allen régies írásmódja, az "Iswara" az "Ishvara" szóra utal. A szanszkrit `
 Iránt kihagyta, holott a [[T/Tír\|tír]] éppen perzsa szó nyíl jelentéssel és a Merkúr-vonatkozás helyett ezt kellett volna említenie. Lásd [[S/Szíriusz Iránban\|Szíriusz Iránban]].  
 
 [^16]: Lábjegyzet:  
-[[K/Kwen-lun\|Kwen-lun]] a kínai taosita hagyomány sarkköri Édene, [[V/Világhegy\|Világhegy]]e.  
+[[K/Kwen-lun\|Kwen-lun]] a kínai taoista hagyomány sarkköri Édene, [[V/Világhegy\|Világhegy]]e.  
 
 [^17]: Lábjegyzet:  
 Lásd az [alábbi](https://www.quora.com/Does-the-word-widow-and-the-word-sand-share-the-same-root-in-the-Arabic-written-language) oldalon.  
