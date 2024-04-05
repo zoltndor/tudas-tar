@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/E/E/","title":"E","created":"2023-11-22T07:06","updated":"2024-02-02T02:23"}
+{"dg-publish":true,"permalink":"/E/E/","title":"E","created":"2023-11-22T07:06","updated":"2024-04-05T19:11"}
 ---
 
 
 # E
 
-Péterfai János adata szerint jelentése Ház, Templom a sumérban.  
+Péterfai János adata szerint jelentése Ház, Templom a sumérben.  
 Varga Zsigmond Az ősmagyar mitológia című könyvének 130. oldalán szól az E és [[E/ES\|ES]] ház, kultuszház, templom jelentéseiről.  
 A sumér mellett a hettita `é` = ház jelentéssel adatolt szintén.  
 Lásd még ilyen jelentésben [[E/É\|É]].  
