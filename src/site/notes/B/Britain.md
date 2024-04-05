@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Britain/","title":"Britain","tags":["Englishtexttranslated"],"created":"2023-11-11T12:30","updated":"2024-02-02T01:35"}
+{"dg-publish":true,"permalink":"/B/Britain/","title":"Britain","tags":["Englishtexttranslated"],"created":"2023-11-11T12:30","updated":"2024-04-05T19:06"}
 ---
 
 
@@ -11,7 +11,7 @@ A [[B/BAR\|BAR]] etimon és valószínűleg az [[A/AN, ÁN\|AN, ÁN]] ([[B/Bará
 
 Bretagne nevét összevetik Berthenon-Ville nevével, a város nevében még tiszta a Berthenon név, amely Breton, Bratgne alakra tömörül. Birgit és Birgitta \[lásd [[B/Birghid\|Birghid]]\] neve a Brigitta névben él ma tovább. A régebbiek a kelta-magyar formák, az újabb az indoeurópai forma.
 
-A Briganti (lásd [[B/Brigand\|brigand]]) egy régi törzs neve volt, a Brutális a rombolás szava.  
+A Briganti egy régi törzs neve volt.  
 
 Az általa említett Berit név előjött [[B/Berith\|Berith]] címnél, minthogy ilyen ugariti isten (nem istennő?) létezett. Márpedig arról alant is lesz szó, hogy a briteket föníciai eredetűnek mondják (a hiberniai skótokat pedig hébereknek).  
 
