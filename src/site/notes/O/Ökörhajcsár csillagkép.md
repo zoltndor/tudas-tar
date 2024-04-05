@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ökörhajcsár csillagkép/","title":"Ökörhajcsár csillagkép","created":"2023-10-13T12:48","updated":"2024-02-28T21:37"}
+{"dg-publish":true,"permalink":"/O/Ökörhajcsár csillagkép/","title":"Ökörhajcsár csillagkép","created":"2023-10-13T12:48","updated":"2024-04-05T19:34"}
 ---
 
 
@@ -20,4 +20,4 @@ Gyárfás Ágnes sorai:
 [[T/Typhon\|Typhon]] címnél szerepelt [[F/Farkasinszky Tibor\|Farkasinszky Tibor]] adata, miszerint létez(het)ett egy Bál-Göncöl csillagkép is. Vélhetően erre a csillagképre (Orion-duplikációra) gondolt.  
 [[P/Papszukkal\|Papsukkal]] címhez írottakat is lásd a továbbiakban ([[N/Nyáj\|nyáj]] kapcsán).  
 
-[[T/Tiermesz\|Tiermesz]] lapp viharistent a finn szerzők az Ökörhajcsár csillagképpel azonosítják, írja JM, de könnyen lehet T-R vázú neve miatt és a fentiek alapján is, hogy eredetileg Orion-név volt.  
+[[T/Tiermesz\|Tiermesz]] lapp viharistent a finn szerzők az Ökörhajcsár csillagképpel azonosítják, írja Jankovics Marcell, de könnyen lehet T-R vázú neve miatt és a fentiek alapján is, hogy eredetileg Orion-név volt.  
