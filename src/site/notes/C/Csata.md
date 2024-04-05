@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csata/","title":"Csata","tags":["Englishtexttranslated"],"created":"2023-11-02T01:48","updated":"2024-02-05T02:41"}
+{"dg-publish":true,"permalink":"/C/Csata/","title":"Csata","tags":["Englishtexttranslated"],"created":"2023-11-02T01:48","updated":"2024-04-05T19:09"}
 ---
 
 
@@ -21,7 +21,7 @@ Legutóbb [[C/Cadaver\|cadaver]] és [[O/Ősz\|ősz]] címnél arról volt szó,
 > —  
 > Ötven évvel Ptolemaiosz után, Kr. u. 230 körül Tertullianus említette az `anabibazon` és a `katabibazon` szavakat, amelyek görögül a felszálló és a leszálló csomópontokat jelentik.  
 
-Elképzelhető lenne, hogy a [[K/Kata\|kata]], csata szavaink jelentése a Nyilasban erőben lévő leszálló holdcsomópontokra, és így napfogyatkozásokra, továbbmenve a Nap által vívott farkas/sárkánnyal elleni küzdelmekre értendő? (Itt azt lenne jó tudni, hogy a görög katabibazon az első olyan szó volt, mely a kata-/[[C/Cata- prefixum\|cata- prefixum]]ot ilyen, csata értelemben használta. Nyilván nem valószínű, hiszen akkor már ott van az [[A/Apocatastasis\|apocatastasis]], mely szintén fontos téridőbeli helyre utal.)  
+Elképzelhető lenne, hogy a [[K/Kata\|kata]], csata szavaink jelentése a Nyilasban erőben lévő leszálló holdcsomópontokra, és így napfogyatkozásokra, továbbmenve a Nap által vívott farkas/sárkánnyal elleni küzdelmekre értendő? (Itt azt lenne jó tudni, hogy a görög `katabibazon` az első olyan szó volt, mely a kata-/[[C/Cata- prefixum\|cata- prefixum]]ot ilyen, csata értelemben használta. Nyilván nem valószínű, hiszen akkor már ott van az [[A/Apocatastasis\|apocatastasis]], mely szintén fontos téridőbeli helyre utal.)  
 A lényeget tekintve persze mindegy: csata együttállásokra értendő, ezt korábban is kimondtuk.  
 Lásd még [[K/Kezdet és vég\|kezdet és vég]] címnél írottakat, ahol arról (is) volt szó, hogy az ekliptika és a Tejút-sík kereszteződése mellett igen is szóba jöhet a holdcsomópontok pályája is, mint harmadik keresztező sík. Csakhogy a 100 rovásjelének megfeleljünk.  
 
@@ -38,3 +38,5 @@ Alant írottak alapján [[C/Csatár\|csatár]] visszaképzése is megadhatja ere
 Elképzelhető, mivel a háború és szerelem istennője Szíriusz, a Kutyacsillag, mely kutya a [[C/Csat\|csat]] szónál is előjövő [[K/Köt\|köt]] szót tartalmazza, hogy a [[L/Lemniszkáta\|lemniszkáta]] középső kötőpontja a csata.  
 
 A kata szóvázát némileg követő, de m-előhangos [[M/Meet\|meet]] is olyan találkozás, mely pályák metszőpontjára utal. `Encounter` eredeti értelme is hasonló.  
+
+Idegen nyelvekben is megtalálható a szó: finn `sota` = csata és a walesi `cad` is ezt jelenti.  
