@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated"],"created":"2023-10-15T10:43","updated":"2024-02-28T21:43"}
+{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated"],"created":"2023-10-15T10:43","updated":"2024-04-05T19:42"}
 ---
 
 
