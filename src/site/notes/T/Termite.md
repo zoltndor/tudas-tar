@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Termite/","title":"Termite","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-21T04:17","updated":"2023-10-28T08:04"}
+{"dg-publish":true,"permalink":"/T/Termite/","title":"Termite","tags":["Englishtexttranslated"],"created":"2023-10-21T04:17","updated":"2024-04-05T19:48"}
 ---
 
 
@@ -34,7 +34,7 @@ Lewis Freemantle The Thirteenth Stone című könyvében írja a bennszülött a
 > —  
 > Az aborigineknél a kozmikus fa egyik formája a Tnatantja, a földtől az égig érő pózna. Pehely borította, amelyet a szél szétszórt; ami jobbra esett, az férfivá változott, ami balra, az pedig nővé. Később a férfiak aludtak a lábánál. Amikor még később - a Halak hajnalán - háborúba indultak, a Termesz Nő gondjaira bízták - egy Lilith-típus, aki egy termeszdombban alszik, szemben egy kővel. Ezek a lények a fák elpusztításával léteznek, és mindez akkor történt, amikor az emberek háborúba mentek. A nő védelme alatt a Tnatantja eltört a tövében. Végül újra felállt, de most már hajlamos volt felborulni. Egy alkalommal szándékosan rávetette magát egy meg nem nevezett ősre (egy Öreg). Egy "hajszálnyira" tévesztette el. Ő felkapta, hevesen megrázta, amíg kettétört, és elhurcolta (mint a Gilgames eposzban). Az egyik része megnőtt, és a szent vérfa lett belőle. A Tanító Gilgames szerepében, (szellemi) születésekor egy sas menti meg, ez a fogalom szintén megtalálható az ausztrál hagyományban.  
 
-Némi infot lásd még róluk [[R/Rovarok\|rovarok]].  
+Némi infót lásd még róluk [[R/Rovarok\|rovarok]].  
 
 Számtalan más esetben láttuk, mint [[G/Giliszta\|giliszta]], [[K/Kukac\|kukac]], [[N/Nyű\|nyű]], [[M/Mouse\|mouse]], [[R/Rat\|rat]], [[M/Métely\|métely]], [[M/Mite\|mite]], [[M/Maggot\|maggot]], [[L/Locust\|locust]], [[W/Worm\|worm]] és főleg [[K/Kígyó\|kígyó]] és [[S/Sárkány\|sárkány]] szavak esetében, hogy e kártevők[^1] vagy – mai szemmel – csúnyaságok neveiben egyáltalán nem érezni negatív hangvételt a magyar nyelv részéről. Ezek a szavak az Aranykor termékei ugyanis. Mintha csak arra várna a magyar, hogy a [[S/SZAR\|SZAR]] = testi állapotából a [[S/Szár\|szár]] = fényes állapotába juthasson mihamarabb.  
 Ezen fenti szavak továbbá mind a fehér, szent fogalmát fejezik ki, valamint a Tejút forgására is utalhatnak. A kártevők illetve élő anyagot ((dög)húst, fát, stb) elpusztító állatok, mint farkas, holló, keselyű, kukac, stb. jó szolgálatot tesznek őseink szemében, akik számára az anyag a bezártság érzését váltotta ki. Ezen gondolatmenet nyomán válik érthetővé, hogy egyes törzsi társadalmakban még talán ma is megeszik meghalt ősüket a fiak.  
