@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kép/","title":"Kép","tags":["Englishtexttranslated"],"created":"2023-10-31T10:43","updated":"2024-02-02T04:13"}
+{"dg-publish":true,"permalink":"/K/Kép/","title":"Kép","tags":["Englishtexttranslated"],"created":"2023-10-31T10:43","updated":"2024-04-05T19:23"}
 ---
 
 
@@ -56,7 +56,7 @@ Faragott képről van szó.
 
 #### Várkonyi Nándor írja:
 
-> A japán Kami az egyiptomi [[N/Nutar\|Nutar]], a hindu Brahma és Déva, az indogermán [[A/Amrita\|Amrita]] az ősi isteneszme hordozói. A görög Moirát (eredetileg csak egy volt), az emberfölötti végzet hatalmas eszméjét, egy művész sem merészelte szimbolikus alakba öltöztetni, kultusza sem volt; amikor ábrázolni kezdték, már nem is hittek benne. A zsidó [[J/Jahve\|Jahve]] egyenesen megtiltotta, hogy faragott képet csináljanak róla, még oltárát sem volt szabad olyan kövekből emelni, amelyeket véső érintett.  
+> A japán `Kami` az egyiptomi [[N/Nutar\|Nutar]], a hindu Brahma és Déva, az indogermán [[A/Amrita\|Amrita]] az ősi isteneszme hordozói. A görög Moirát (eredetileg csak egy volt), az emberfölötti végzet hatalmas eszméjét, egy művész sem merészelte szimbolikus alakba öltöztetni, kultusza sem volt; amikor ábrázolni kezdték, már nem is hittek benne. A zsidó [[J/Jahve\|Jahve]] egyenesen megtiltotta, hogy faragott képet csináljanak róla, még oltárát sem volt szabad olyan kövekből emelni, amelyeket véső érintett.  
 
 [[D/Daidalos\|Daidalos]] faképfaragó is eszünkbe juthat: az első szobrászok fából faragtak.  
 
