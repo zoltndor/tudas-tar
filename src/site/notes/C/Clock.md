@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Clock/","title":"Clock","created":"2023-11-03T12:18","updated":"2024-02-02T02:16"}
+{"dg-publish":true,"permalink":"/C/Clock/","title":"Clock","created":"2023-11-03T12:18","updated":"2024-04-07T23:24"}
 ---
 
 
@@ -28,8 +28,8 @@ Akár [[K/Kerek\|kerek]] és [[K/Kerék\|kerék]] szavaink R>L változással is 
 
 #### Végvári József...
 
-...[[A/Az égig érő paszuly mese\|Az égig érő paszuly mese]] elemzésénél szóba hozza a tyúk kotkodálása kapcsán az angol [[C/Cluck\|cluck]] és clock szavakat. [[K/Kotlik\|Kotlik]] címnél csak ide vonatkozó rész szerepel és annak is csak egy kivonatát adom itt:  
+...[[A/Az égig érő paszuly mese\|Az égig érő paszuly mese]] elemzésénél szóba hozza a tyúk kotkodálása kapcsán az angol `cluck` és clock szavakat. [[K/Kotlik\|Kotlik]] címnél csak ide vonatkozó rész szerepel és annak is csak egy kivonatát adom itt:  
 > Megfigyeltük-e már, milyen ütemérzékkel kotyog a kotlós a csibéinek? Mintha óra lenne beleépítve!  
-> Ekkor már meg tudunk magyarázni legalább két nyelvi sajátosságot: 1) a magyarban azt, hogy a kotyog és ketyeg nemcsak hangrendi párt jelöl, hanem itt mélyebb tartalmi összefüggés van a két szó között; 2) az angolban a kotlóstyúk furcsa `clock-hen` 'óra-tyúk' nevét, melynek első elemét a legtekintélyesebb angol szótár \[OED\] csakis hangutánzóként fogja fel ([[C/Cluck\|cluck]] = 'kotkodál'), és élesen elválasztja az óra jelentésű clock főnévtől, melynek eredeti jelentése: harang (lásd német `Glocke` 'harang, csengő').  
+> Ekkor már meg tudunk magyarázni legalább két nyelvi sajátosságot: 1) a magyarban azt, hogy a kotyog és ketyeg nemcsak hangrendi párt jelöl, hanem itt mélyebb tartalmi összefüggés van a két szó között; 2) az angolban a kotlóstyúk furcsa `clock-hen` 'óra-tyúk' nevét, melynek első elemét a legtekintélyesebb angol szótár \[OED\] csakis hangutánzóként fogja fel (`cluck` = 'kotkodál'), és élesen elválasztja az óra jelentésű clock főnévtől, melynek eredeti jelentése: harang (lásd német `Glocke` 'harang, csengő').  
 
 Luca-napi kotyolásról [[K/Koty\|koty]] címnél is volt szó. Falvay Károly Nagyboldogasszony c. könyvének 129. oldalán a Luca, Luca kity-koty szöveget hozza; könnyel ehet-e még itt is utalás az idő múlására, hisz az év végén járunk.  
