@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["Englishtexttranslated"],"created":"2023-10-03T09:41","updated":"2024-02-05T02:43"}
+{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["Englishtexttranslated"],"created":"2023-10-03T09:41","updated":"2024-04-11T01:27"}
 ---
 
 
@@ -13,7 +13,7 @@ A CzF szótár a fül szóban a fel(álló) (és kiálló) értelmet keresi, azz
 Fül szavunkkal mutat egyezést a francia `feuille` = (fa)levél (talán a kutya füléhez hasonlíttatott). [[F/File\|File]] címnél is előjött fül.  
 Igeként fül a fől és fűt (és a fú(j)) szavainkkal rokon. Valószínűbb, hogy a francia szó és a latin `folium` = levél elődje inkább [[F/Fúj\|fúj]] (szél) szavunkkal rokonítandó.  
 Fül rokon a [[F/Fürj\|fürj]] für elemével is.  
-![assets/Fül_image1.png](/img/user/F/assets/F%C3%BCl_image1.png)  
+![assets/Fül_image1.png|invert_dark](/img/user/F/assets/F%C3%BCl_image1.png)  
 
 A fül megint csak egy olyan szó, melybe többféle ideát kellett belesuvasztani. Egyrészt valóban rokon vele a [[F/Fel\|fel]], hiszen a figyelmes [[K/Kutya\|kutya]] felfelé álló füle [[S/Szarv\|szarv]]ként volt értelmezett. A másik használható fogalmi kapcsolódás a [[F/Fél\|fél]] szavunkkal van. A két fül két iránya a téridőnek és a teremtett világ dualisztikus rendjének felel meg. A fülben így tündéri füleket, mint a szellem házából, a fejből kivezetett függelékeket, apró szárnyakat kell látni. Olyanokat, melyekről [[D/Dió\|dió]] és frissen [[F/Fin\|fin]] címnél is volt szó.  
 
@@ -26,9 +26,9 @@ Igaz, lehetséges, hogy itt az f-előhang csak (arabos) utólagos és a p illetv
 ...című könyvében is írja:  
 > De ugyanígy lehetett az őskori óriásnagyságú fehér elefántfaj neve `bál` is, mert tudjuk hogy Elő-Ázsiában egy [[B/Bél\|Bél]], de egyúttal [[B/Bál\|Bál]] nevű istenség is tiszteltetett, amely név értelme ugyan úr, hatalmas és király de ezenkívül nagy és óriás is volt.  
 
-Lehet a sémi szavaknak más eredete is. Amikor MA ezen sorait olvassuk ("a besenyő bűz és büzönd szavaknak a palócoknál pül, pul, ful, fül, fülünd, pulund, pülünd szóalakot kellett megfeleljenek"), akkor kell eszünkbe jusson a [[B/Bison\|bison]], mely felveti, hogy az elefánt sémi (azaz, mondjuk ki: jász-filiszteus) neve eredetileg nem elefántra utalt. \[[[Foul\|[Foul]] címnél is megvolt.\]  
+Lehet a sémi szavaknak más eredete is. Amikor MA ezen sorait olvassuk ("a besenyő bűz és büzönd szavaknak a palócoknál pül, pul, ful, fül, fülünd, pulund, pülünd szóalakot kellett megfeleljenek"), akkor kell eszünkbe jusson a [[B/Bison\|bison]], mely felveti, hogy az elefánt sémi (azaz, mondjuk ki: jász-filiszteus) neve eredetileg nem elefántra utalt.   
 
-A fülek kapcsán már Péterfai János írta, hogy a fentebb említett tündérfülekkel ékesített lehetett a magyarság. Lám, mire véljük azon egyes kontinensek őslakóinak azon fülcimpahosszító szokását: amikor fülükbe egy nehéz fülbevalót tesznek, ami a fület lehúzza. Ennek vagy szakrális célja van: a teremtő hangját a tündérmagyarok a legjobban hallották.  
+A fülek kapcsán már Péterfai János írta, hogy a fentebb említett tündérfülekkel ékesített lehetett a magyarság. Lám, mire véljük azon egyes kontinensek őslakóinak azon fülcimpahosszító szokását: amikor fülükbe egy nehéz fülbevalót tesznek, ami a fület lehúzza. Ennek vagy szakrális célja van: a teremtő hangját a tündér-magyarok a legjobban hallották.  
 
 A felfelé álló fülek (nem csak kutyáé) kapcsán...
 
