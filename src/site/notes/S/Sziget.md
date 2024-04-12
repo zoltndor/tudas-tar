@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2024-04-05T19:44"}
+{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2024-04-12T16:59"}
 ---
 
 
@@ -96,7 +96,7 @@ A két hasadékot másutt is említi (talán a Hegy Úrnője címből vagy más,
 Lásd még szexuális tartalomról [[I/Íj és a nyíl\|íj és a nyíl]].  
 
 ![assets/Sziget_image3.png](/img/user/S/assets/Sziget_image3.png)  
-Margaret Merisante Cloths of Fate: Inter-weavings of Finnic Goddess Embroidery című dolgozatában finn(ugor) hímzésekkel és istenanyákkal (annak ló és hattyú állatalakjaival) foglalkozik. A hímzések – kimondhatjuk – ősmagyar szimbolikát viselnek magukon. Blogjában (Mythwoman.com) is több esetben szól a [[T/Tejútanya\|Tejútanya]] illetve a nők vulvájáról, macskával való azonosításról, stb. A mellékelt képen széttett lábbal álló Tejútistennő egyértelműen a fentebb taglalt szigetet jeleníti meg. (Felveti mindez azt is, hogy a [[C/Crotch\|crotch]] és [[S/Straddle\|straddle]] szavak eredete asztrális.)  
+Margaret Merisante Cloths of Fate: Inter-weavings of Finnic Goddess Embroidery című dolgozatában finn(ugor) hímzésekkel és istenanyákkal (annak ló és hattyú állatalakjaival) foglalkozik. A hímzések – kimondhatjuk – ősmagyar szimbolikát viselnek magukon. Blogjában (Mythwoman.com) is több esetben szól a [[T/Tejútanya\|Tejútanya]] illetve a nők vulvájáról, macskával való azonosításról, stb. A mellékelt képen széttett lábbal álló Tejútistennő egyértelműen a fentebb taglalt szigetet jeleníti meg.   
 A lába közé gondolja a finn és magyar felmenőkkel rendelkező Merisante asszony a finn `väki` = teremtő energia, szellem jelentésű szó/fogalom helyét.  
 A [[L/LÁB\|láb]]ak házat is formáznak, mely [[H/Ház\|ház]] szóról kimondtuk, hogy a [[T/Tejútanya\|Tejútanya]] lába köze/méhe/stb.  
 A képet újabb gondolatokkal [[L/LÁB\|láb]], [[H/Harmony\|harmony]] és [[O/Orion övcsillagai\|Orion övcsillagai]] címnél is szerepeltettük.  
