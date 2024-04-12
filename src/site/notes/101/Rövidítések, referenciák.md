@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Rövidítések, referenciák/","title":"Rövidítések, referenciák","created":"2023-10-04T07:50","updated":"2024-01-27T11:05"}
+{"dg-publish":true,"permalink":"/101/Rövidítések, referenciák/","title":"Rövidítések, referenciák","created":"2023-10-04T07:50","updated":"2024-04-12T16:57"}
 ---
 
 
@@ -61,8 +61,8 @@ HO - Herman Ottó
 HT - Hervay Tamás  
 IA - Ipolyi Arnold  
 JF - Sir James Frazer  
-JM - Jankovics Marcell  
-JMJ - John Major Jenkins  
+Jankovics Marcell - Jankovics Marcell  
+John M. Jenkins - John Major Jenkins  
 JO - Johan Oldenkamp  
 KD - Kiss Dénes  
 KK - Kandra Kabos  
@@ -75,7 +75,7 @@ MA - Magyar Adorján
 ME - Mircea Eliade
 MM - Mellár Mihály  
 MVJ - Molnár V. József  
-MZS - Mesterházy Zsolt  
+MZs - Mesterházy Zsolt  
 NB - Noah Brosch  
 NMT - Nancy M. Tischler  
 OI - Oláh Imre  
@@ -84,7 +84,9 @@ PG - Pap Gábor
 PI - Práczki István  
 PIM - Pető Imre  
 PJI - Péterfai János István  
+PM - Patricia Monaghan
 PZ - Paksi Zoltán  
+RB - Robert Brown Jr.
 RFL - Remete Farkas László  
 RG - Robert Graves  
 RHA - Richard Hinckley Allen  
