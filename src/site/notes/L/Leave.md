@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/L/Leave/","title":"Leave","created":"2023-11-13T03:24","updated":"2024-01-14T01:48"}
+{"dg-publish":true,"permalink":"/L/Leave/","title":"Leave","created":"2023-11-13T03:24","updated":"2024-04-12T16:58"}
 ---
 
 
 # Leave
 
 Hagy, marad; szabadság, "eltáv". [[L/Lép\|Lép]] szavunk (ha nem a [[L/Left\|left]] szótól ered), vagy akár lévén lehet.  
-Az [[E/Eclipse\|eclipse]] és [[L/Leper\|leper]] szónál előjövő görög `leipein` = (el)hagyni ige is a leave párja lehet.  
+A görög `leipein` = (el)hagyni ige is a leave párja lehet.  
 
 Ide kívánkozik Magyar Adorján leveles fejtegetése, mely [[N/Naptár\|naptár]] címhez került.  
 
