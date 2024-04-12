@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lasso/","title":"Lasso","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-15T09:24","updated":"2023-10-29T02:41"}
+{"dg-publish":true,"permalink":"/L/Lasso/","title":"Lasso","tags":["Englishtexttranslated"],"created":"2023-10-15T09:24","updated":"2024-04-12T16:58"}
 ---
 
 
 # Lasso
 
-Lasszó(zik). [[L/Lace\|Lace]] szóhoz, így [[L/Lánc\|lánc]] szavunkhoz utal a nyelvészet. Inkább tűnik úgy, hogy a lasszó, a lánchoz, [[L/Ladder\|ladder]]-hez és vélhetően a [[C/Cable\|cable]] szóhoz hasonlóan afféle segédeszköz magasabb eszmék/tanok eléréséhez: ezekkel isteni magasságokba lehet jutni, illetve megismerni a legfőbb dolgok láncolatát (mint például DNS-spirált).  
+Lasszó(zik). `Lace` szóhoz, így ezzel [[L/Lánc\|lánc]] szavunkhoz utal a nyelvészet. Inkább tűnik úgy, hogy a lasszó, a lánchoz, [[L/Ladder\|ladder]]-hez és vélhetően a [[C/Cable\|cable]] szóhoz hasonlóan afféle segédeszköz magasabb eszmék/tanok eléréséhez: ezekkel isteni magasságokba lehet jutni, illetve megismerni a legfőbb dolgok láncolatát (mint például DNS-spirált).  
 Mindezek a [[L/LAD\|LAD]], [[L/LAT\|LAT]] = Hegy és Látni szavakhoz kötődnek.  
 
 
