@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Augusztus 15/","title":"Augusztus 15","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-06T01:03","updated":"2024-02-29T00:39"}
+{"dg-publish":true,"permalink":"/A/Augusztus 15/","title":"Augusztus 15","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-06T01:03","updated":"2024-04-12T16:57"}
 ---
 
 
@@ -117,7 +117,7 @@ KT azt mondja, hogy Nagyboldogasszony napja a [[V/Vérszerződés\|vérszerződ�
 Viszont [ezen](https://en.wikipedia.org/wiki/Assumption_of_Mary) oldal szerint **1948-ban Magyarország megszüntette állami ünnepként való megünneplését**[^6]. Vajon miért?  
 
 Arról, hogy halála napján István Boldogasszonynak vagy Szűz Máriának ajánlotta fel az országot[^7], már másutt is volt szó. Én úgy gondoltam erre, hogy valójában ez azt jelenti, hogy mindig is [[B/Boldogasszony\|Boldogasszony]] azaz [[M/Magyar\|magyar]] (Ilona) országa volt Magyarország.  
-KT Turul és szarvas [című](https://youtu.be/VlJJdkm4AWE) YouTube-os előadás-sorozatának első részében 1:11:50-nél is jól mondja, hogy István azért ajánlotta fel, mert nem volt törvényes örököse, másrészt, mert annak adta vissza, akitől kapta. [[K/Korona\|Korona]] címnél is volt arról szó, hogy kit is illet elsődlegesen a korona. De oda ezt a [[T/Throne\|throne]] címnél is szereplő passzust is betettük (Falvay Károly Nagyboldogasszony, egykor az augusztusi telihold című 2005/3. sz. megjelent cikkében írja):  
+Kubínyi Tamás Turul és szarvas [című](https://youtu.be/VlJJdkm4AWE) YouTube-os előadás-sorozatának első részében 1:11:50-nél is jól mondja, hogy István azért ajánlotta fel, mert nem volt törvényes örököse, másrészt, mert annak adta vissza, akitől kapta. [[K/Korona\|Korona]] címnél is volt arról szó, hogy kit is illet elsődlegesen a korona. De oda ezt a [[T/Throne\|throne]] címnél is szereplő passzust is betettük (Falvay Károly Nagyboldogasszony, egykor az augusztusi telihold című 2005/3. sz. megjelent cikkében írja):  
 > Augusztus 15-én tehát király- és (eredetileg) királynőünnepről van szó. Mind Sumerban ([[I/Inanna\|Inanna]], [[I/Istár\|Istár]]), mind Egyiptomban ([[I/Ízisz\|Ízisz]]) a mennynek és a földnek egyszemélyes királynői voltak, akiket a vaskorban váltott fel a királyság önálló intézménye. A király mindig a trón "ölében" ült, emlékeztetve a korábbi királynőre.  
 > Kr. e. 3000-ben Nammu, Úr bölcs királya "Inanna, a Menny és Föld királynője" szolgájaként írt alá.  
 
