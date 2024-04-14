@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kampó/","title":"Kampó","created":"2023-10-19T03:25","updated":"2023-12-23T08:25"}
+{"dg-publish":true,"permalink":"/K/Kampó/","title":"Kampó","created":"2023-10-19T03:25","updated":"2024-04-15T00:26"}
 ---
 
 
@@ -7,12 +7,12 @@
 
 Kam-Pó felbontásban értelmezhető. Benne van a görbület és a hímségi csúcsos, hegyes értelem.  
 
-#### Magyar Adorján Kérdésekjében…
+#### Magyar Adorján Kérdések...  
 
-…írja (a finn szó miatt [[K/Khamor\|Khamor]] címnél is szerepelt):  
+...című könyvében írja (a finn szó miatt [[K/Khamor\|Khamor]] címnél is szerepelt):  
 > Ha a magyarság Ázsiából vetődött volna Európába: hogyan magyarázható akkor, hogy nyelvünk szavai a régi görög és latin nyelvekkel oly meglepő egyezéseket mutatnak? Például: görög `kampülosz` = görbe, hajlott, amely szó a magyar kampó, gamó, kamó görbeséget, hajlottságot kifejező szavakkal egyezik, amelyeknek még a finn `kumara` = meggörbült, görbe szó is eléggé megfelel. Sőt, a gamó, kamó szavunk (Ballaginál: pálcaféle eszköz horgas véggel) a latin `hamo`, `hamus` szóval is egyezik.  
 
-MA [[K/Kapa\|kapa]] címnél is említi még kampót. Valóban egyrészt a kapatás, kapcsolás oldaláról is vizsgálható.  
+Magyar Adorján [[K/Kapa\|kapa]] címnél is említi még kampót. Valóban egyrészt a kapatás, kapcsolás oldaláról is vizsgálható.  
 
 Ami a kampó a finn [[S/Szampó\|Szampó]] névvel való kapcsolatát illeti, lásd [[K/Komp\|komp]]. Ott szó lesz arról, hogy a Kampócsillag és Szögcsillag elnevezések közt lehet átfedés. ([[I/Íj és a nyíl#Lapp-finnségi nyilas témák\|Lapp-finnségi nyilas témák]] cím/alcímnél szögreakasztás témáját lásd még.)  
 Ugyanakkor a sátor (égjelkép) [[C/Camp\|camp]] neve is egyezik kampóval (vagy [[K/Komp\|komp]]pal vagy [[K/Kanop\|kanop]]pal).  
