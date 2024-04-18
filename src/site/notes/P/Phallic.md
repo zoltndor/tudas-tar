@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["containstransclusions","Englishtexttranslated","titleandheadingonedontmatch"],"created":"2023-11-09T05:11","updated":"2024-02-28T21:39"}
+{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["containstransclusions","Englishtexttranslated","titleandheadingonedontmatch"],"created":"2023-11-09T05:11","updated":"2024-04-18T03:28"}
 ---
 
 
@@ -41,7 +41,7 @@ Ha már teremtőgyök, a pelaszg-palóc nyelven ez P-L, (B-L) mássalhangzóváz
 Ugyanakkor nem elképzelhetetlen, hogy a [[C/Cephalic\|cephalic]] szó görög elődje kő/sze előtag nélkül a phallosz.  
 
 Közben a megoldást megtaláltuk/megadtuk [[F/Flash\|flash]] címnél. Az ott írottak alapján a [[T/Trójai faló\|trójai faló]] és lófasz – fallosz megfeleltetések tévútnak bizonyulnak.  
-Ott arról volt szó, hogy sok más nyelv hasonló szavaihoz hasonlóan (legtöbbször a [[K/Kutya\|kutya]] – kutya hímtagja – Íjazó csillagkép – [[O/Orion övcsillagai\|Orion övcsillagai]] – Nimrud összefüggéseket láttuk) a nyílvessző és hímtag értelmek keveredését láttuk. Ami egyszer nyílvessző, másutt fallosz; lám a görög `phallos` = hímtag név tökéletesen megfelel az Magyar Adorján által sorolt szavaknak: a nyíl jelentésű görög `bélosz`, német `Pfeil`, francia `flèche` szavakról van szó. Amit még itt Magyar Adorján ír villámlás kapcsán, hogy az angol [[F/Flash\|flash]] szóalaknak és germán párjainak még villámlás és villám értelme is van (például magyar villan, [[V/Villám\|villám]], német `Blitz` és `blinken` = villám és villanni), és hogy ebből következtethető, hogy a nyíl őspalóc neve vil, vill avagy esetleg vall szóalak lehetett.  
+Ott arról volt szó, hogy sok más nyelv hasonló szavaihoz hasonlóan (legtöbbször a [[K/Kutya\|kutya]] – kutya hímtagja – Íjazó csillagkép – [[O/Orion övcsillagai\|Orion övcsillagai]] – Nimrud összefüggéseket láttuk) a nyílvessző és hímtag értelmek keveredését láttuk. Ami egyszer nyílvessző, másutt fallosz; lám a görög `phallos` = hímtag név tökéletesen megfelel a Magyar Adorján által sorolt szavaknak: a nyíl jelentésű görög `bélosz`, német `Pfeil`, francia `flèche` szavakról van szó. Amit még itt Magyar Adorján ír villámlás kapcsán, hogy az angol [[F/Flash\|flash]] szóalaknak és germán párjainak még villámlás és villám értelme is van (például magyar villan, [[V/Villám\|villám]], német `Blitz` és `blinken` = villám és villanni), és hogy ebből következtethető, hogy a nyíl őspalóc neve vil, vill avagy esetleg vall szóalak lehetett.  
 Ide kívánkozik még azon tény is, hogy a [[B/Balog\|Balog]] (valamint [[P/Palóc\|palóc]] és [[B/Balázs\|Balázs]]) név is ilyen alakúak és tulajdonképpen a [[P/Palóc\|palóc]] név teljesen azonos a phallosz névvel \[p = f\]. Ilyenképpen a lentebb cölöp kapcsán felvetett szómegfordításos eredeztetés helytelen.  
 
 Lásd még [[P/Pilis\|Pilis]], mindenképpen Jankovics Marcell írását is [[P/Penis\|penis]] és [[T/Trójai faló\|trójai faló]]. [[O/Omphalos\|Omphalos]] szóban nyilván nem a phallosz elem található.  
