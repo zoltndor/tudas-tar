@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Audio/","title":"Audio","tags":["containstransclusions"],"created":"2023-10-21T03:02","updated":"2024-02-01T11:15"}
+{"dg-publish":true,"permalink":"/A/Audio/","title":"Audio","tags":["containstransclusions"],"created":"2023-10-21T03:02","updated":"2024-04-18T03:21"}
 ---
 
 
@@ -18,4 +18,5 @@ Hang(kiadás) értelmű görög eredetű szó. Talán Péterfai János passzusa 
 
 
 Lásd még alternatív elemzést [[A/Audacity\|audacity]].  
+  
 Közben [[G/Gajd\|gajd]] címnél is született egy elmélet.  

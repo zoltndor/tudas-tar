@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Alma Mater/","title":"Alma Mater","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-11T04:42","updated":"2023-10-26T05:37"}
+{"dg-publish":true,"permalink":"/A/Alma Mater/","title":"Alma Mater","tags":["Englishtexttranslated"],"created":"2023-10-11T04:42","updated":"2024-04-18T03:20"}
 ---
 
 
@@ -19,7 +19,7 @@ A Wiki [alábbi](https://en.m.wikipedia.org/wiki/Alma_mater) oldalának fontosab
 > "We are all sprung from that celestial seed,  
 > all of us have same father, from whom earth,  
 > the nourishing mother, receives drops of liquid moisture"*
-- Viszont ha már kitér az etimológiára, miért nem említi az [[A/Alma#Alma 2)\|alma]] címnél taglalt olasz szót?  
+- Viszont ha már kitér az etimológiára, miért nem említi az [[A/Alma#Alma 2)\|alma]] címnél taglalt olasz szót?
 
 #### Robert Graves The White Goddess...
 
@@ -35,7 +35,7 @@ A Wiki [alábbi](https://en.m.wikipedia.org/wiki/Alma_mater) oldalának fontosab
 > *"Az Úr megtestesülésének 677. esztendejében, Attilának, a magyarok királyának a halálát követő 104. évben, III. Konstantin császár és Zakariás pápa idején, amint az meg van írva a rómaiak krónikájában, a magyarok másodszor is kijöttek Szkítiából az alábbi módon. Eleud, Ugek fia Szkítiában Eunodbilia leánytól egy fiút nemzett, kit Álmosnak neveztek el arról az eseményről, hogy anyjának álomban úgy tűnt, egy madár, héja formájában jőve, őt teherbe ejtette, és hogy méhéből egy sebes patak indult meg, de nem a saját földjén sokasodott meg. Ezért történt, hogy ágyékából dicső királyok származnak. Mivel pedig a sompniumot nyelvünkön alm-nak mondják, és hogy maga a születés álom által volt előre bejelentve, ezért hívták őt magát Álmosnak, ki volt Eleud, ki volt Ugek, ki volt Ed, ki volt Csaba, ki volt Etele \[...\] fia."*  
 > Az eredeti latin szöveg összeköti a [[M/Magyar\|magyar]], a nádra/mádra (itt méhnek fordítva; nyilván [[M/Matrix\|matrix]] illetve [[M/Metro\|metro]]), a medence/[[M/Meder\|meder]] (itt ágyéknak fordítva) és a [[M/Madár\|madár]] szavakat. Sőt, a szöveg tovább megy és burkoltan ugyan, de utal Alma Materra, a nagylelkű, jótékony Istenanyára, aki a kereszténység felvétele után Boldogságos Szűz [[M/Mária\|Mária]] lesz, eredeti nevét, a Magyart átengedve a Kárpát-medencében újra államot alapító nemzetének.  
 > A születés álom általi megjövendölése azt jelenti, hogy Alma Mater kegyelméből, a magyarok Istenasszonyának ajándékaként lesz [[A/Álmos\|Álmos]], az új-régi államalapító turul nemzetség szakrális, szent turultól származó ősapja[^2]. Az állam almája nem véletlenül, vagy csupán elvontan, szimbólikusan jelképezi a magyar államot, teszi ezt nevével is, mely rímel az állam szóval. (A magyarban a jelképek beszélnek magyarul!)  
-- Az [[O/Országalma\|országalmá]]t is idevehette volna még MM.  
+- Az [[O/Országalma\|országalmá]]t is idevehette volna még Mellár.  
 
 [[A/Álmos\|Álmos]] nevéről közben [[A/Alma#Alma, alom és álom\|alma, alom és álom]] cím/alcímnél is volt szó. Ott megadtuk a a latin `almus` = tápláló, táplálékadó, és innen másodjelentésében jótékony, áldott, áldásárasztó, kegyes jelentésekkel álló szót, melyből az alma utóbb képzett lenne, a nyelvészet szerint.  
 Ami MM állam szóval való játékát illeti, nos, az állam szót nyelvújításkori szónak tartják. Az [[O/Ország\|ország]] és nemzet szavak helyettese.  

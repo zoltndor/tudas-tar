@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makk/","title":"Makk","tags":["Englishtexttranslated"],"created":"2023-10-21T04:46","updated":"2024-02-10T04:09"}
+{"dg-publish":true,"permalink":"/M/Makk/","title":"Makk","tags":["Englishtexttranslated"],"created":"2023-10-21T04:46","updated":"2024-04-18T03:25"}
 ---
 
 
@@ -23,6 +23,6 @@ Az egyik fő szempont, amiért a tölgy nagy tiszteletnek örvendett, az volt, h
 A fa – makkfa – makk – mag analógia kapcsán lásd Magyar Adorján írását [[M/Máglya\|máglya]]. Saját kútfőből dolgokat ezen a vonalon lásd [[J/Jugular\|jugular]].  
 
 Ami azt illeti, hogy a makk miért lett [[M/Mast\|mast]] alakú, nos nyilván a `mast` = árboc hímségi jelentése miatt (mely pedig a tölgy/[[M/MES\|MES]]-fa ilyen neve nyomán alakult ki).  
-A [[M/Masturbate\|masturbate]] ige is érthetővé válik a fentiek alapján.  
+  
 
 [[P/Pina\|Pina]] címnél volt arról szó, a pénisz névvel azonos. Ott pedig analógiaként felhoztuk, hogy a magyar makk a sumér `mug` és magyar [[M/Méh\|méh]] szavakkal is ugyanígy egyeztethető.  

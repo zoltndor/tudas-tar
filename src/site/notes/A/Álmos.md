@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Álmos/","title":"Álmos","created":"2023-10-11T04:38","updated":"2024-03-04T18:03"}
+{"dg-publish":true,"permalink":"/A/Álmos/","title":"Álmos","created":"2023-10-11T04:38","updated":"2024-04-18T03:21"}
 ---
 
 
@@ -30,8 +30,8 @@ Még egy zárójeles dolgot ide. Mi lenne, ha itt az álom, almus kapcsán az `a
 > *"Az Úr megtestesülésének 677. esztendejében, Attilának, a magyarok királyának a halálát követő 104. évben, III. Konstantin császár és Zakariás pápa idején, amint az meg van írva a rómaiak krónikájában, a magyarok másodszor is kijöttek Szkítiából az alábbi módon. Eleud, Ugek fia Szkítiában Eunodbilia leánytól egy fiút nemzett, kit Álmosnak neveztek el arról az eseményről, hogy anyjának álomban úgy tűnt, egy madár, héja formájában jőve, őt teherbe ejtette, és hogy méhéből egy sebes patak indult meg, de nem a saját földjén sokasodott meg. Ezért történt, hogy ágyékából dicső királyok származnak. Mivel pedig a sompniumot nyelvünkön alm-nak mondják, és hogy maga a születés álom által volt előre bejelentve, ezért hívták őt magát Álmosnak, ki volt Eleud, ki volt Ugek, ki volt Ed, ki volt Csaba, ki volt Etele \[...\] fia*[^2]."  
 > Az eredeti latin szöveg összeköti a [[M/Magyar\|magyar]], a nádra/mádra (itt méhnek fordítva; nyilván [[M/Matrix\|matrix]] illetve [[M/Metro\|metro]]), a medence/[[M/Meder\|meder]] (itt ágyéknak fordítva) és a [[M/Madár\|madár]] szavakat. Sőt, a szöveg tovább megy és burkoltan ugyan, de utal Alma Materra, a nagylelkű, jótékony Istenanyára, aki a kereszténység felvétele után Boldogságos Szűz [[M/Mária\|Mária]] lesz, eredeti nevét, a Magyart átengedve a Kárpát-medencében újra államot alapító nemzetének.  
 > A születés álom általi megjövendölése azt jelenti, hogy Alma Mater kegyelméből, a magyarok Istenasszonyának ajándékaként lesz Álmos, az új-régi államalapító Turul nemzetség szakrális, szent turultól származó ősapja[^3]. Az állam almája nem véletlenül, vagy csupán elvontan, szimbólikusan jelképezi a magyar államot, teszi ezt nevével is, mely rímel az állam szóval. (A magyarban a jelképek beszélnek magyarul!)  
-- Az [[O/Országalma\|országalmá]]t is idevehette volna még MM.  
-Ami MM állam szóval való játékát illeti, nos, az állam szót nyelvújításkori szónak tartják. Az [[O/Ország\|ország]] és nemzet szavak helyettese.  
+- Az [[O/Országalma\|országalmá]]t is idevehette volna még Mellár.  
+Ami Mellár állam szóval való játékát illeti, nos, az állam szót nyelvújításkori szónak tartják. Az [[O/Ország\|ország]] és nemzet szavak helyettese.  
 
 [[H/Hamlet\|Hamlet]] címnél írtuk, hogy az alábbi BL-féle adat alapján lehetne Álmos > Álmod > Amlodhi sorozatot is elképzelni:  
 > A szabir águnk őshazája jól behatárolható: az ókori Szíria és Észak-Mezopotámia területén volt, ahol az egykori Árpád és Emesa városok is jelzik a nyomát. A szintén a Teremtés Könyvében szereplő Arpaksád és Álmodád neveket sem lehet elválasztani az Árpád és Álmos nevektől, már csak azért sem, mert mindketten Sém, azaz Szem ős-szülő leszármazottai! (Móz.I. 10,24 és 26.)  
@@ -39,7 +39,7 @@ Ami MM állam szóval való játékát illeti, nos, az állam szót nyelvújít�
 [[E/Emese\|Emese]] címnél még több Álmossal kapcsolatos mitikus téma került taglalásra. A tulajdonképpeni, [[T/Történelemhamisítás\|történelemhamisítás]] és [[A/Árpád#Árpád-ház\|Árpád-ház]] címnél is megfogalmazott lényeg, hogy a [[T/Turul\|Turul]] címnél is taglalt Atilla féle Turul-házhoz való tartozás (Atilla Turulos pajzzsal ábrázolt volt) is Álmos születésének legendájával is ezt a leszármazást mutatja, de krónikáink is folytonosságot mutatnak Atilla és a későbbi magyar királyok közt.  
 Álmost Kubínyi Tamás királynak bizonyítja, mint aki [[C/Cirill és Metód\|Cirill és Metód]]dal (vagy utóbbival) is találkozott volna (igen ám, de ez csak egy alternatív idősíkon lett volna lehetséges). Isteni születése is legendás, így nyilván lehet király (hiszen ez a cím asztrális-szakrális, nem állami), de létezett-e valaha Szent István ükapja, Álmos? Nyilván, hinni kell. Ha könyvemben Álmos és Jézus létezését megkérdőjelezném, magyargyűlölőként bélyegeznének. Ugyanakkor az Álmos név, mely akár Almos (lásd [[A/Alom\|alom]]) is lehet, kétségtelenül mesés (a régi mese nem mese) név.  
 
-Híre ment annak, hogy Álmost valamilyen szakrális áldozatnak vetették volna alá. KT elveti ezt és ...
+Híre ment annak, hogy Álmost valamilyen szakrális áldozatnak vetették volna alá. Kubínyi Tamás elveti ezt és ...
 
 #### Siklósi András Árpád a magyarok legfényesebb csillaga...
 

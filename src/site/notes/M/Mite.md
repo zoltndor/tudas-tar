@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mite/","title":"Mite","tags":["dg_uploaded"],"created":"2023-10-21T04:26","updated":"2023-10-25T01:57"}
+{"dg-publish":true,"permalink":"/M/Mite/","title":"Mite","created":"2023-10-21T04:26","updated":"2024-04-18T03:26"}
 ---
 
 
 # Mite
 
 Kicsi, parányi dolog; szerény hozzájárulás; atka, (sajt)kukac.  
-Szerény hozzájárulást jelent a [[P/Pittance\|pittance]] szó is, mely elárulja, hogy kicsi értelmét P>M változással nyeri, pici szavunkból, de ugyanakkor [[M/MI\|MI]] és [[P/PI\|PI]] alapszavak csillag/fény jelentése is azonosulnak.  
+Szerény hozzájárulást jelent a `pittance` szó is, mely elárulja, hogy kicsi értelmét P>M változással nyeri, pici szavunkból, de ugyanakkor [[M/MI\|MI]] és [[P/PI\|PI]] alapszavak csillag/fény jelentése is azonosulnak.  
 Ezen értelem van még meg a fentebb említett csökkenés értelmű görög `meiosis` szóban is.  
 
 Érdekesebb viszont atka jelentése, melyből eredeztetik a kicsi jelentést a nyelvészek, egyéb ötlet híján.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Plastene/","title":"Plastene","tags":["dg_uploaded"],"created":"2023-11-13T06:46","updated":"2023-11-13T06:46"}
+{"dg-publish":true,"permalink":"/P/Plastene/","title":"Plastene","tags":["containstransclusions"],"created":"2023-11-13T06:46","updated":"2024-04-18T03:28"}
 ---
 
 
@@ -21,6 +21,6 @@
 </div></div>
 
 
-Ami a név értelmezését illeti (közben az [[I/Ino\|Ino]] nevet [[U/Ünő\|ünő]] címnél is említettük), előtagja nyilván pelazg eredetű és [[P/Plastic\|plastic]] címnél volt róla szó, míg utótagja lehet [[T/TEN\|TEN]] = isten, de lehet tehén is (a tehén szavunkból eredő utódnyelvi szavakat lásd [[D/Dame\|dame]]).  
+Ami a név értelmezését illeti (közben az [[I/Ino\|Ino]] nevet [[U/Ünő\|ünő]] címnél is említettük), előtagja nyilván pelazg eredetű, míg utótagja lehet [[T/TEN\|TEN]] = isten, de lehet tehén is (a tehén szavunkból eredő utódnyelvi szavakat lásd [[D/Dame\|dame]]).  
 Nem kizárt, mivel a szarvasünő ([[S/Sika\|sika]] címnél írottak szerint is) tarka, mint az ég, hogy a [[P/Palást\|palást]] szavunkhoz lesz köze.  
 Egyébiránt Bál-Isten olvasatú lehetne és [[P/Palesztina\|Palesztina]] neve ilyen még.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Amalthea/","title":"Amalthea","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T05:35","updated":"2024-02-01T11:00"}
+{"dg-publish":true,"permalink":"/A/Amalthea/","title":"Amalthea","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T05:35","updated":"2024-04-18T03:20"}
 ---
 
 
@@ -39,7 +39,7 @@ Ezen passzus alapján (mármint a görög mitológia ismerete alapján, hiszen n
 > Kerényi Károlynak feltűnt, hogy a görög évkezdő fény-ünnepnap mögött Zeusz [[I/Ida\|Ida]]-hegyi barlangcsodája van. (Január 6.: [[E/Epiphany\|Epiphania]] – "kiáradás", amit az első évszázadokban a keresztény egyház Krisztus születési napjaként ünnepelt.) Ehhez a tüneményhez kezdetben szigorúan titkos rítus tartozott, csak nagyon kevesek vehettek rajta részt. Zeuszt ugyanis Kronosz bosszúja elől ebbe a barlangba mentette Héra (egyik változatban). Itt Melisszusz király lányai Amalthea és Melissza táplálták a gyermeket. Melissza mézzel, mert a neve méhet jelent. Olyan történet is volt, melyben méhek voltak Zeusz dajkái. Sőt, meséltek Krétán egy szent "méhbarlangról" is, amelyben [[R/Rhea\|Rhea]] Zeuszt szülte.  
 - Rhea, mint anyaméh? Nem hinném, hogy anyaméhet jelentett volna. Nyilván a folyó, áramlás értelmet kell alapérteményként keresni benne. [[R/Rhea\|Rhea]] címnél pedig (RG definíciójaként) tej kifröccsenéséről volt szó.  
 
-Ami a név magyarítását illeti, hasonló név a RG által adatolt [[A/Amathaon\|Amathaon]] és [[A/Amathaounta\|Amathaounta]] (előtagja), de ha próbálkozni kell, akkor lehet:  
+Ami a név magyarítását illeti, hasonló név a Robert Graves által adatolt [[A/Amathaon\|Amathaon]] és [[A/Amathaounta\|Amathaounta]] (előtagja), de ha próbálkozni kell, akkor lehet:  
 – A-Mal-Thea (A névelő, Mal – Édes/Méz, Thea – Istennő vagy inkább Tej);  
 – Ama-El-Thea (Ama = Anya, El = IL, mint Ilona nevében, Tej).  
 Az első megoldás azért is tetszetősebb, mert Amalthea regebeli húgának, Melisszának a nevében is megvan a méz értelem (ezt is jelenti \[Falvay Károlynál miért méhet[^1]?\]); sőt, így tudták ketten együtt tejjel-mézzel táplálni Zeuszt igazán..!  

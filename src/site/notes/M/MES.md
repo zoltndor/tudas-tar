@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MES/","title":"MES","tags":["Englishtexttranslated"],"created":"2023-10-21T04:46","updated":"2024-02-28T21:17"}
+{"dg-publish":true,"permalink":"/M/MES/","title":"MES","tags":["Englishtexttranslated"],"created":"2023-10-21T04:46","updated":"2024-04-18T03:25"}
 ---
 
 
@@ -43,8 +43,11 @@ Csatolva lásd az akkád szótárban talált szavakat.
 Ezen MES egyezőnek látszik a török `meşe` = [[T/Tölgy\|tölgy]] szóval és felveti, hogy Gilgames is afféle Fehérlófia alak, aki asztrális-erkölcsi utat jár be.  
 [[M/Messiás\|Messiás]] címnél szebben kifejtve mindez.  
 
-Ha ezen MES a névben hőst, fiút jelölne, akkor Kun-Mes értelme Csúnya Fiú (Csúnya Világ; [[K/Konyec\|konyec]]-ből kiindulva Világvége?) értelmet vehetne fel. Kun (Kony) szerepel [[A/Alkony\|alkony]] szavunkban is.  
+Ha ezen MES a névben ([[M/MAS\|MAS]] felhangos párjaként) hőst, fiút jelölne, akkor Kun-Mes értelme Csúnya Fiú (Csúnya Világ; [[K/Konyec\|konyec]]-ből kiindulva Világvége?) értelmet vehetne fel. Kun (Kony) szerepel [[A/Alkony\|alkony]] szavunkban is.  
 Lám, a [[R/Rák csillagkép\|Rák csillagkép]] idézett A-MES nevében is a Rák-ság elvágó, megszüntető szerepe kell jelen legyen, bár itt MES hordozná a negatív értelmet, nem KUN. MES-nek ott felső (holt)pont jelentése kell legyen. Rendkívül érdekes a [[H/Holtpont\|holtpont]] kifejezésünk is.  
+
+Az iménti fejtegetések viszont feleslegesek, ha a többes szám jelölésére használt szóelemet adottnak, már belső fejlődéssel kialakultnak tekintjük.  
+Ide tartozó információt találunk [[M/Más#Más és több\|más és több]] cím/alcímnél (illetve az felett), ahol a régi többes, azaz előbb az ún. "kettes" szám létrejötte kapcsán felhozott Ikrek (Ember) fogalmából kiindulva vezettük le a MAS > MES (kettes majd) többesszám értelmét.  
 
 A mes-fáról volt szó [[M/MISZ\|MISZ]] címnél is. Itt csak annyit, hogy a kelta `meas`[^1], walesi `mes` = gyümölcs, pontosabban elsősorban a tölgy gyümölcse, a [[M/Mast\|mast]] címnél is említett makk! Márpedig a mes-fa a török nyelvű `meşe` szó jelentése alapján is tölgy[^2]!  
 Ahogy [[M/Mező\|mező]] címnél is szerepelt, az albán `mes` = közép egy az egyben azonos a mes-fa nevével (a [[K/Köldök\|köldök]]nek is van közép mellékjelentése és azon áll a világfa/világoszlop is).  
