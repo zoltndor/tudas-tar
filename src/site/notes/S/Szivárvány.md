@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szivárvány/","title":"Szivárvány","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-31T11:12","updated":"2024-02-10T04:22"}
+{"dg-publish":true,"permalink":"/S/Szivárvány/","title":"Szivárvány","tags":["containstransclusions"],"created":"2023-10-31T11:12","updated":"2024-04-18T15:10"}
 ---
 
 
@@ -16,10 +16,10 @@
 > Szí fel onnan új vizet."*  
 > (Arany János)  
 - [Ezen](https://www.wordsense.eu/curcubeu/#Romanian) oldalon is erről szólnak:  
-> From Vulgar Latin \*circus bibit, literally, 'ring that drinks' (from bibere ("to drink")), late variant of arcus bibit 'rainbow' (also cras pluit); compare Franco-Provençal arcboit, arboè, Ladin arcobuàn, Campanian arcovevere.  
+> From Vulgar Latin \*circus bibit, literally, 'ring that drinks' (from bibere ("to drink")), late variant of arcus bibit 'rainbow' (also cras pluit); compare Franco-Provençal arcboit, arboè, Ladin arcobuàn, Campanian arcovevere.
 
-> Bibliai nyelven és némely, nevezetesen erdélyi tájbeszédben kegyelet, mint az isteni kegynek és Noéval kötött szövetségének jele. "Az én szivárványomat helyheztetem a felhőkben, és az szövetségnek jele leszen én közöttem és a föld között, és mikor béburítom felhőkkel az eget, megtetszik az én szivárványom a felhőkben." Mózes. I. K. IX fej. 13-14. v. A palóczoknál bába[[B/Bukra\|bukra]] (bokra), vagyis tündér szalagja.  
-- Robert Burnham Jr. Burnham's Celestial Handbook III. kötetének 630. oldalán álló adata szerint az ómexikói Tejút-megszemélyesítő elnevezés a "Szivárvány húga" volt.  
+> Bibliai nyelven és némely, nevezetesen erdélyi tájbeszédben kegyelet, mint az isteni kegynek és Noéval kötött szövetségének jele. "Az én szivárványomat helyeztetem a felhőkben, és az szövetségnek jele leszen én közöttem és a föld között, és mikor béburítom felhőkkel az eget, megtetszik az én szivárványom a felhőkben." Mózes. I. K. IX fej. 13-14. v. A palóczoknál bába[[B/Bukra\|bukra]] (bokra), vagyis tündér szalagja.  
+- Robert Burnham Jr. Burnham's Celestial Handbook III. kötetének 630. oldalán álló adata szerint az ómexikói Tejút-megszemélyesítő elnevezés a "Szivárvány húga" volt.
 
 Lásd még [[S/Sphere\|sphere]]; az ott szereplő Jankovics Marcell adat is igen érdekes.  
 Ipolyi Arnold Magyar mythologia című könyvének 341. oldalán szól róla. Lásd még bábabukra nevet [[B/Bukor\|bukor]] címnél (ott sarki fényekről is lesz szó).  
@@ -40,7 +40,7 @@ Morris Silver Talking Ancient Mythology című könyvének adata szerint a sumé
 
 </div></div>
   
-A német `regenbogen`/angol [[R/Rainbow\|rainbow]] így nem más, mint a RÁN/RÉN = ég [[B/BOG\|BOG]]-a = íve. A germán elnevezés azért igen találó, mert a [[R/Rain\|rain]] = eső szó is szerepel benne. Innen jöhet a vízfelszívás népi hiedelme? Nyilván nem. A régiek tudták, hogy az eső páraként felszáll, mert ez az életkör egyik törvénye. A fénytörés szépségének a germánban viszont nincs meg, míg a magyarban a vány végződés látszik erre utalni.  
+A német `regenbogen`/angol `rainbow` így nem más, mint a RÁN/RÉN = ég [[B/BOG\|BOG]]-a = íve. A germán elnevezés azért igen találó, mert a [[R/Rain\|rain]] = eső szó is szerepel benne. Innen jöhet a vízfelszívás népi hiedelme? Nyilván nem. A régiek tudták, hogy az eső páraként felszáll, mert ez az életkör egyik törvénye. A fénytörés szépségének a germánban viszont nincs meg, míg a magyarban a vány végződés látszik erre utalni.  
 
 #### Ellen van Wolde One Bow or Another – A Study of the Bow in Genesis 9:8-17...
 
