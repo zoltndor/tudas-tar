@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Enki/","title":"Enki","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-26T05:26","updated":"2024-04-05T19:12"}
+{"dg-publish":true,"permalink":"/E/Enki/","title":"Enki","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-26T05:26","updated":"2024-04-18T03:22"}
 ---
 
 
@@ -11,13 +11,17 @@
 > Érdekes szó az Eskü is, amely Ős-Kű tartalmú. Nem feltétlenül egy Ős Kőre esküdtek, vagy esetleg egy egekből leesett meteorkőre, hanem éppen En-Ki, vagy Kaján nevére. En-Ki mégiscsak a Föld ensége, lényege, amit vízzel kell locsolni, hogy termékennyé legyen. Emiatt En-Ki termékenységi isten is. Az Es-Kü azt is jelenti: Helye, Háza a Kőnek.  
 >
 > Az Oera Linda Book fríz nyelven íródott, a család 1256 óta őrizte, majd a család egy tagja, Over de Linden, a köz elé tárta a könyvet. Hamar kiderült, hogy a könyv a fríz nép eredetét beszéli el. A frízek, amúgy germán nép, nyelvük rokon az angollal, valaha egy Atland nevű szigeten élt, de Kr.e. 2.194-ben földjüket csapások érték, ami miatt a népnek menekülnie kellett. A könyvben szerepelnek nevek, Nef Tunis, Nef Inka, ősi királyok. Nef Tunis a Neptunusz isten, aki magyar nyelvű. A Nap-Tünős az Atlanti-óceán, ahol a Napkirály este alámerül pihenni, Édesanyjánál megvacsorázik, azután alszik, majd a Föld túloldalán útjára indul, hogy keleten felkeljen. Neptunusz neve egyértelműen magyar eredetű, amit megerősít Nef Tunis neve is. Ám Nef Inka, aki nyugatra hajózott, neve is magyar eredetű. Mivel az Enki és Inka nevet is vizsgálat alá vettem, a magyar Kaján, Kain és Enki nevek között szoros rokonságot véltem felfedezni, azt gondolom, hogy az Inka rangnév magyar eredetű, jelentése Isten-Háza, Isten-Király.  
-- [[E/Enlil#Enlil és Enki dualizmusa – sumir teológia Badiny Jós Ferenc olvasatában\|Enlil és Enki dualizmusa – sumir teológia Badiny Jós Ferenc olvasatában]] cím/alcímnél írottakat is lásd.  
+- [[E/Enlil#Enlil és Enki dualizmusa – sumir teológia Badiny Jós Ferenc olvasatában\|Enlil és Enki dualizmusa – sumir teológia Badiny Jós Ferenc olvasatában]] cím/alcímnél írottakat is lásd.
 
-Anne Wright írja:  
+#### Anne Wright írja:  
+
 > From the Sumerians, who invented the ﬁrst written Western language, we ﬁnd references to the Mesopotamian god Enki masturbating, his ejaculation ﬁlling the [[T/Tigris\|Tigris]] River with ﬂowing water. (Tigris 'arrow river' – Sagitta – Sagitta might also be the penis. Tigers only drink from ﬂowing water and won't drink from still waters.)  
 > —  
 > A suméroktól, akik feltalálták az első nyugati írott nyelvet, találunk utalásokat arra, hogy a mezopotámiai Enki isten maszturbált, és magömlése a [[T/Tigris\|Tigris]] folyóba ömlött. folyót a Tigris folyó vizével. (Tigris 'nyilas folyó': Sagitta – Sagitta lehet a pénisz is. A tigrisek csak folyóvízből isznak, állóvízből nem isznak).  
-- De másutt is előjön a képzet.  
+- De másutt is előjön a képzet. Az At Random: Thoughts and Observations on Life, Morality, Sex, Time, Truth and War című könyvben az áll, hogy az egyiptomi [[A/Atum\|Atum]] isten is hasonló maszturbálás és magömlés révén hozta volna létre a Nílust:  
+> Male masturbation was an even more important image in ancient Egypt: when performed by a god it could be considered a creative or magical act: the god Atum was believed to have created the universe by masturbating to ejaculation.  
+> The ancient Greeks also regarded masturbation as a normal and healthy substitute for other forms of sexual pleasure. Most information about masturbation in ancient Greece comes from surviving works of ancient Greek comedy and pottery. Masturbation is frequently referenced in the surviving comedies of Aristophanes, which are the most important sources of information on ancient Greek views on the subject. In ancient Greek pottery, satyrs are often depicted masturbating.  
+- Az észak-amerikai zuni indiánok választottja egy szent mesa-ra állva maszturbálással próbálta a vadakat visszaterelni magukhoz.
 
 #### Péterfai János írja:
 
