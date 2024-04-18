@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2024-04-12T16:59"}
+{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2024-04-18T03:30"}
 ---
 
 
@@ -144,7 +144,7 @@ A nőiségi-princípium [[K/Kehely\|kehely]] (= [[H/Hüvely\|hüvely]]) alakot f
 Komoróczy Géza Gilgames – Agyagtáblák üzenete című könyvében [[T/Tilmun\|Tilmun]]nál ugyan említi a földrajzi Bahreint, de amikor arról ír, hogy ez volt a sumér vallásos képzetek "Boldogok Szigete," ahol az aranykor-mítoszok is játszódtak, akkor önkéntelenül is a fentebb írott sorok jutnak eszünkbe. Ráadásul a Gilgames-eposzban [[H/Hierogamy\|szent nász]]ról is szó van. Ráadásul a boldog Boldogasszony nevében is szerepel és görög (plusz óegyiptomi és héber) hagyományok szerint is a `Makar` = boldog a Boldogasszony [[M/Magyar\|magyar]] nevéből származik (azt pedig már láttuk [[G/Göd\|Göd]] címnél is, hogy a Tejútanya-nevek szeméremrészükre utaló nevek is lehetnek). Ez a Boldogok Szigete tehát az a hely, ahol a lelkek születnek. Ezért jelent makor ősforrást a héberben (ezért lehet Hargita szerint Mária nagyapja neve is Makhor). Erről legutóbb [[M/Magyar\|magyar]] címnél, a Visnu-purána Maitréja-nál is volt szó.  
 
 [[O/Ogygia\|Ogygia]] is úgy tűnik, ha nem általán a Tejútra, akkor annak eme sziget részére utal.  
-[[A/Akhilleusz\|Akhilleusz]] címnél volt szó azon RG által említett szigetekről ('Silver Island' or 'White Island', or 'Revolving Island'), melyek erre a szigetre utalnak.  
+[[A/Akhilleusz\|Akhilleusz]] címnél volt szó azon Robert Graves által említett szigetekről ('Silver Island' or 'White Island', or 'Revolving Island'), melyek erre a szigetre utalnak.  
 
 Ha már görög, a [[S/Szümplegádok\|szümplegádok]] (asszociációs jelentése) hegyek, mégpedig olyanok, melyekről [[V/Világhegy\|Világhegy]] és [[M/Meru\|Meru]] címnél is volt szó. És hol található az égen? Ahogy Bakos Attila A Duna Evangéliuma című könyvének 105. oldalán is írja, Skorpió-emberek vigyázzák a bejáratát (a szümplegádok kapuk, ahogy John M. Jenkins is írja). Azaz itt a Tejútközpontról van szó, mely lehet lyuk is, barlang is, de hegy (valójában kapu) is. Ezen témáról volt már szó [[M/Meru\|Meru]]-nál négy folyó kapcsán is. (John Major Jenkins Galactic Alignment c. könyvének 169. oldalán a [[M/Meru\|Meru]] csúcsát a Nyilas-béli Tejútközpontba teszi.)  
 Pedig én bugyi emlékeztem, hogy itt sziget címnél is tárgyaltuk korábban ezt a témát (lehet, hogy [[S/Szikla\|sziklá]]val kevertem).  
