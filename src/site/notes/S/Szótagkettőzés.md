@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","created":"2023-10-29T05:21","updated":"2024-02-02T03:58"}
+{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","created":"2023-10-29T05:21","updated":"2024-04-18T03:30"}
 ---
 
 
 # Szótagkettőzés
 
-Péterfai János és Varga Csaba is megírta[^1] – amit már magam is tudtam –, hogy a régi archaikus nyelvben, így a sumérben is a szóelem kettőzése többesszámot jelentett illetve nyomatékosítást (nagyon valami valami; például, ahogy a nemrég Quorára írott ezen témát ragozó válaszomban írtam, Ma-Ma lehet Drága (Föld)Anya értelmű).  
+Péterfai János és Varga Csaba is megírta[^1] – amit már magam is tudtam –, hogy a régi archaikus nyelvben, így a sumérben is a szóelem kettőzése többesszámot jelentett illetve nyomatékosítást (nagyon "valami" valami; például, ahogy a nemrég Quorára írott ezen témát ragozó válaszomban írtam, Ma-Ma lehet Drága (Föld)Anya értelmű).  
 Legutóbb a [[B/Barbár\|barbár]] elemzésénél is előjött (lásd [[B/Barber\|barber]] címhez téve). Ott a Ma-Ma és Pa-Pa szavakat hoztam csak fel, de [[D/Double\|double]] címnél szóltam a Ba-Ba[^2] névről is.  
 
 [[G/Galgal\|Galgal]] címnél szerepelt:  
@@ -28,7 +28,7 @@ Az arab `lulu` = gyöngy (lua-lua-nak ejtik, ahol az a olyan mintha h lenne vagy
 A sumér nyelvben is megvolt `LU-LU`, de Sitchin és társai önkényesen párosítottak hozzá jelentést.  
 
 [[C/Coco\|Coco]] címnél szerepelt, hogy gyermeknyelven `kokó` v. `kókó`, az Őrségben pedig általában is kuku (Vass József szerént) tojást jelent(ett). Hogy itt a (feleslegesnek tűnő) kettőzésben mit kell látni (akár egy hímségi és nőiségi minőséget, hiszen az ősállapot egyszerre volt nő és hím: [[A/Androgün\|androgün]]), ez kérdés marad.  
-A **gyereknyelv** (a magyar is gyereknyelv: az emberiség fiatalkorában már magyarul beszélt) fogalmának kiemelése fontos itt. A pipi és zsizsi szavak is ilyenek ([[P/PI\|PI]]-PI, [[Z/ZSI\|zsi]]-Zsi elemeinek taglalásáról volt szó helyükön). Ami igen érdekes, hogy a bennszülött indián [[A/Algonquian\|algonkin]] [[C/Cree\|cree]] nyelvben a gyereknyelvű `pipi` = madár (ez a nyelv már máskor hozott érdekességeket).  
+A **gyereknyelv** (a magyar is gyereknyelv: az emberiség fiatalkorában már magyarul beszélt) fogalmának kiemelése fontos itt. A pipi és zsizsi szavak is ilyenek ([[P/PI\|Pi]]-Pi, [[Z/ZSI\|Zsi]]-Zsi elemeinek taglalásáról volt szó helyükön). Ami igen érdekes, hogy a bennszülött indián [[A/Algonquian\|algonkin]] [[C/Cree\|cree]] nyelvben a gyereknyelvű `pipi` = madár (ez a nyelv már máskor hozott érdekességeket).  
 
 [[V/Várhun\|Várhun]] címnél volt arról szó, hogy a [[H/Humavarka\|humavarka]] tulajdonképpen megfordításának kezelhető.  
 
@@ -51,6 +51,8 @@ Az ausztrál bennszülöttek egyik nyelvén `nulla-nulla` nem focieredmény, han
 
 Bengáli nyelvben kisgyerek nemzőszerve, pöcse `dul-dul`, ha igaz.  
 
+Lásd még témát említve [[M/Más#Más és több\|más és több]] cím/alcímnél.  
+
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
@@ -60,5 +62,5 @@ Varga Csaba A kettős kereszt – hármas halom jelentése című cikkében írj
 Az ősi írás fontos szabályai: 1. a jel önmagában egyes számú; 2. ha kettőzött: a szó többes számban olvasandó. (Írja még, hogy ha három, akkor soknak értelmezendő; ezért [[M/Második\|második]] címhez is bekerült.)  
 
 [^2]: Lábjegyzet:  
-KS is írja (érdekesen):  
+Kolumbán Sándor is írja (érdekesen):  
 A kisbaba a baba szót nem önmagára, hanem a vele szemben levő, az ő szemeiben nagyon nagy felnőtt személyre mondja. Nagyon nagy vagy az ő kis szemeiben, ezért ejti kétszer. Lásd a régi képi írásnál: nagyobb tömeg, többes szám, kettős jelölés.  
