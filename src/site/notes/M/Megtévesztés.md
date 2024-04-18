@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2024-04-05T19:39"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2024-04-18T14:59"}
 ---
 
 
@@ -167,7 +167,7 @@ A fedősztori kifejezést ismerjük. Az [[M/Magyar nyelv és nyelvcsaládok#Ausz
 
 ### Levédés
 
-A levédés alatt a következőket értem. Az isteni igazság szolgálatában álló magyar ha megszólal, azzal valakinek az érdekeit és érzéseit sérti. Kiknek? A világuralmon lévő "Nagy Zsidó" körök érdekeit illetve a "kis zsidók érzéseit." Ezek a Nagy Zsidók a kis zsidókat tolják maguk előtt pajzsként úgy, ahogy a júdaizmus a kereszténységet. Lefedi, levédi magát velük (már maguk a [[F/Fed\|fed]] és [[V/Véd\|véd]] igék logikai és hangalaki egyezősége miatt is egy kalap alatt tárgyalhatók).  
+A levédés alatt a következőket értem. Az isteni igazság szolgálatában álló magyar ha megszólal, azzal valakinek az érdekeit és érzéseit sérti. Kiknek? A világuralmon lévő "Nagy Zsidó" körök érdekeit illetve a "kis zsidók érzéseit." Ezek a Nagy Zsidók a kis zsidókat tolják maguk előtt pajzsként úgy, ahogy a júdaizmus a kereszténységet. Lefedi, levédi magát velük (már maguk a [[F/Föd\|fed]] és [[V/Véd\|véd]] igék logikai és hangalaki egyezősége miatt is egy kalap alatt tárgyalhatók).  
 A liberalizmus pedig leginkább arról szól, hogy politikai korrektség van és semmiféle rosszat a kis ember magánvéleményében meg nem fogalmazhat, de állami vagy államok feletti szinten vagy a háttérben bármi mehet. De ez már a **double standard**-ek, a kettős mércék témájához tartozik.  
 
 ### Ráültetés
