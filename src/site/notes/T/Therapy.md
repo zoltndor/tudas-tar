@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Therapy/","title":"Therapy","tags":["Englishtexttranslated"],"created":"2023-10-27T10:21","updated":"2024-02-02T04:05"}
+{"dg-publish":true,"permalink":"/T/Therapy/","title":"Therapy","tags":["Englishtexttranslated"],"created":"2023-10-27T10:21","updated":"2024-04-18T15:13"}
 ---
 
 
@@ -68,7 +68,7 @@ SzM is mondja, hogy a melléd fekvő kutya és macska leveszi rólad a negatív 
 Márpedig a név értelmezésekor nem-e az alant is taglalt állat/szarvas (őz) vagy a [[T/Tree\|tree]] = fa szavakat kell meglátni előtagjában? És ha volt ilyesféle földrajzi név, akkor az nem mindig égi terület földre való tükrözése?  
 Megjegyzés: az orvoslás másutt is a magyarokhoz vagy szent állatukhoz vagy a fához kötött volt: a latin `medere` = gyógyítani lehet a [[M/Méd\|méd]] népnévből eredő vagy a [[M/MES\|MES]]-fa nevéhez köthető. A hun-származék indiánok is a fák átölelésének gyógyító hatást tulajdonítottak!  
 
-A Gubernatis nevéhez hasonló [[K/Kufri\|kufri]] címnél volt legutóbb arról szó, hogy a meggyógyul jelentésű szavak, úgy mint [[R/Recover\|recover]] és [[C/Cure\|cure]] köthetőek látszanak [[O/Öleb\|öleb]]ekhez.  
+A Gubernatis nevéhez hasonló [[K/Kufri\|kufri]] címnél volt legutóbb arról szó, hogy a meggyógyul jelentésű szavak, úgy mint `recover` és `cure` köthetőek látszanak [[O/Öleb\|öleb]]ekhez.  
 Ölükben vagy lábuk mellett gyógyító istennők is tartottak kiskutyát ([[B/Bau\|Bau]] vagy [[G/Gula\|Gula]] címnél is volt erről szó).  
 
 De [[E/EB\|EB]] szavunkat megláthatjuk talán a görög `therapeia` szóban és a görög Epidaurosz helynévben. Előbbi lehet Tér-Eb (Eb-Csillag), míg utóbbi is lehet hasonló összetétel.  
