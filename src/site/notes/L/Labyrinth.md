@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Labyrinth/","title":"Labyrinth","tags":["Englishtexttranslated"],"created":"2023-10-22T03:46","updated":"2024-02-10T04:06"}
+{"dg-publish":true,"permalink":"/L/Labyrinth/","title":"Labyrinth","tags":["Englishtexttranslated"],"created":"2023-10-22T03:46","updated":"2024-04-18T03:25"}
 ---
 
 
@@ -24,7 +24,7 @@ Labirintus, útvesztő.
 
 Úgy tűnik, Péterfai János nem számol azzal, hogy itt az emberi belekhez hasonlíttatott [[A/Anyaméh\|anyaméh]]ről[^1], az abba való behatolásról, azaz szexuális szimbolikáról van szó. Arról másutt is volt szó, hogy a [[L/LÁB\|láb]] – mint "harmadik láb" – ezen kontextusokban a \[Napot nemző Napatya – mint [[A/Apam Napat\|Apam Napat]]\] hímvesszőjét jelképezi, sőt, új, [[L/Labia\|labia]] címnél álló adat alapján a női nemi szervre is utalhat!  
 De ha még a női oldalra koncentrálunk, a [[L/Láp\|láp]] szavunk is megfelelne. Gondoljunk csak a [[M/Mocsár-mitológia\|mocsár-mitológia]] címnél írottakra.  
-De a szó megfordítása, a [[B/Bél\|Bél]] és [[P/Pina\|pina]] címnél is előjövő maya `pel` = vagina szó is rámutathat, hogy ezzel lehet itt keresni valamit.  
+De a szó megfordítása, a [[B/Bél\|Bél]] és [[P/Pina\|pina]] címnél is előjövő maja `pel` = vagina szó is rámutathat, hogy ezzel lehet itt keresni valamit.  
 \[Láb illetve láp más-más oldalról megmagyarázhatná a [[L/Love\|love]] szó eredetét is.\]  
 
 #### Bakos Attila A Duna Evangéliuma...
@@ -48,7 +48,7 @@ Ugyanez Jankovics Marcelltől másutt:
 > A spirál, mely a Föld "tekervényes belű" mélyére is utal, ahová temetkezünk, a Nap útja az alvilágba, de a Nap útját járó léleké is. Ezért hol labirintusnak hívják (a gör. lab-, labr- tőből képzett szavak a "sír látott szája" jelentést társítják hozzá; lásd `labé` "fogóhely", `labropotész` "faIánk"), hol spirálnak (a lat. `spiro` "lélegzem" igéből képződik a "lélek" jelentésű `spiritus`). Ha felrajzolják, az eltávozó léleknek készítenek jelképes visszautat. (Ezen tért vissza Thészeusz naphérosz a halált jelképező labürinthoszból.)  
 
 A témát kifejtve, újraértelmezve lásd még [[L/Love\|love]].  
-Egy fontos szót JM sehol sem említ: a latin-francia-angol [[L/Labour\|labour]] jelentése szülés.  
+Egy fontos szót Jankovics Marcell sehol sem említ: a latin-francia-angol [[L/Labour\|labour]] jelentése szülés.  
 
 Dr. Gyárfás Ágnes az Ősi Gyökér 2005/1-2. sz. megjelent Kecskehal című cikkének bevezetőjében említ örvényt és labirintust, mely passzust lásd [[T/Téli napforduló\|téli napforduló]].  
 Majd a folyóirat 58. oldalán ismét szóba kerül, mint állítólagos képjele a Ma, Mah, Mada neveknek, melyeket persze a magyarokkal, népnevükkel hoz kapcsolatba, de inkább földet jelentenek. A labirintus-piktogram így ![assets/Labyrinth_image2.png](/img/user/L/assets/Labyrinth_image2.png) (Labat 342) néz ki. Hogy hogyan lehet [[M/Magyar\|Magyar]] istenanya méhének jele, itt most megmondani nem tudom (kontextusban kellene látni, de a sumér kontextus sem sokat segít, ismerve az önkényes jelentés-asszociációs gyakorlatokat). Az 59. oldalon még (érthetetlenül) Magur képjelének is mondja (két piktogrammból kellene álljon). Az tény, hogy mindezen dolgokról Kecskehalról szóló cikkében ír és [[M/Makara\|Makara]] címnél elő is jön Magur Bak(hal)ra értve.  
@@ -77,7 +77,7 @@ Hasonló téma jön elő Falvay Károly Nagyboldogasszony c. k. 234. oldalán, a
 
 Azt nem mondja, hogy ez utalás lenne a szűz/menyasszony [[V/Vulva\|vulvá]]jára. Egyénként a latin-angol [[V/Vestibule\|vestibule]] szónak is van ilyen (anatómiai szakszóként is jelenlévő) értelme.  
 
-Mint látjuk, JM MA-hoz hasonlóan jelképekben, ráádásul – nagyon helyesen – asztrológiai jelképekben gondolkodik. A jelképes jelentéseket veszik át sok esetben az utódnyelvek.  
+Mint látjuk, Jankovics Marcell MA-hoz hasonlóan jelképekben, ráádásul – nagyon helyesen – asztrológiai jelképekben gondolkodik. A jelképes jelentéseket veszik át sok esetben az utódnyelvek.  
 Ezek alapján a [[L/LÁB\|láb]], mint alul, a vízben ([[A/Alvilág\|alvilág]] vizében) járó emberrész, végtag valóban eleme kell legyen a szókapcsolatnak.  
 Lásd még [[W/Wall\|wall]] és [[M/Maze\|maze]].  
 
