@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sock/","title":"Sock","tags":["dg_uploaded"],"created":"2023-10-16T03:59","updated":"2023-10-25T02:11"}
+{"dg-publish":true,"permalink":"/S/Sock/","title":"Sock","created":"2023-10-16T03:59","updated":"2024-04-18T20:15"}
 ---
 
 
 # Sock
 
-Zokni. Hasonló a [[S/Sac\|sac]] és [[S/Sack\|sack]] zsák jelentésű szavakhoz. A -[[N/NI\|ni]] és -[[L/LI\|li]] germán eredetűnek tartott szavak (kamásli, kalocsni, stb.) másutt még taglalandók.  
+Zokni. Hasonló a `sac` és `sack` zsák jelentésű szavakhoz. A -[[N/NI\|ni]] és -[[L/LI\|li]] germán eredetűnek tartott szavakat (kamásli, kalocsni, stb.) helyükön taglaljuk.  
 
 Falk Nóra írja réntartásról szóló disszertációjában (észak lapp szavakat taglal):  
 > sukka|juolgi '(elsősorban szürkés) rén fehér lábbal vagy lábakkal'.  
