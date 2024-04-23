@@ -1,7 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-04-10T02:39"}
+title: Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)
+status: dg_uploaded
+share: true
+dg-publish: true
+dg-home: true
+dg-created: 2023-10-04T08:31
+dg-updated: 2024-04-23T18:22
+dg_upload: VNC done
+dateCreated: 2022-12-14T00:00
+dateModified: 2024-04-23T18:22
+danglinglink_commentedout: true
 ---
-
 
 # Fény és sötétség - a magyarság helye a világban
 
@@ -102,6 +111,8 @@ A fordítások a lábjegyzetekre is kihatással lesznek: az egyes lábjegyzetek 
 
 Az egyes szócikkek nagybetűvel való felvételének oka, hogy az alapszavakat vagy ún. etimonokat (és teoretikus etimonokat) meg kívántam különböztetni a többitől. Az olyan szavak, mint [[B/BOG\|BOG]], [[S/SZEK\|SZEK]], és társai Napot, napminőséget (hímségi princípiumot) jelentenek és változataik sok más szó részét képezik. Mivel nem kimondott – legalábbis nem az indoeurópai értelemben vett – szógyökök, hanem nemcsak a szavak elején szereplő szóelemek (szótagnyelv-elemek), ezért célszerű volt megkülönböztetni őket.  
 
+Az írásban leginkább a fejedelmi többest használom, abban bízva hogy együtt gondolkodunk és amit én magam feltártam, más is feltárta vagy feltárhatta volna.  
+
 ### A tartalom
 
 Elsődlegesen nyelvészeti oldalról közelítem meg a cikkek zömét, melyek közül kezdetben mindent nem is jelenítek meg publikusan, mert az ingyenes kereteimet rögtön az elején feleslegesen nem szeretném feszegetni.  
@@ -110,7 +121,7 @@ A nyelvészeti vonalat csillagászati, jobban mondva csillagmitológiai, vagy ha
 
 Az alábbiakban a korábban itt – magamnak – felvázolt témákat közlöm, melyek az egyes szócikkekben szereplő ismeretek feltárásának főbb motiváló tényezőiként vagy éppen azok létrejöttének magyarázataként tarthatók számon.  
 Mivel magam inkább és kizárólag a germán nyelvek ismerője vagyok, az angol nyelv egyes szavain keresztül kerülnek bemutatásra más germán, és a tágabb indoeurópai szavak, köztük a latin, görög, szanszkrit, valamint a más mesterségesen létrehozott nyelvcsaládok szavai.  
-Az angol nyelv fiatal korom óta érdekelt, és mintegy tíz év külföldön tartózkodással sikerült csiszolni rajta úgy, hogy közben minden nemzet képviselőinek nyelvére és kultúrájára figyelemmel voltam. De ahogy alant is látható, az angolon keresztül kötöm magam a többi nyelvhez.  
+Az angol nyelv fiatal korom óta érdekelt, és mintegy tíz év külföldön tartózkodással sikerült csiszolni rajta úgy, hogy közben minden nemzet képviselőinek nyelvére és kultúrájára figyelemmel voltam. De ahogy alant is látható, az angolon keresztül kötöttem magam a többi nyelvhez.  
 
 #### A kiadvány megírásának céljairól – a magyarság helye a világban
 
@@ -176,8 +187,8 @@ D'Alembert említi az ősapáinkat, akiknek mindent köszönhetünk és akikről
 
 Az ősmagyar nyelv egyik törekvése, hogy amennyiben lehetséges, a szavaiban szerepeljen a [[K/Kör\|kör]] alapfogalma, rávilágítva, hogy minden része a mindenségnek és minden körbe foglalható. A kör, továbbiakban nevezzük etimonként [[K/KAR\|KAR]]-nak, hiszen a Kar fogalmában megvan a bot és a gyűrű, azaz az élethez szükséges két princípium (ősképük két gömbszerű, rajzban körrel ábrázolható égitest: a Nap (hím) és a Föld (nőstény)), megjelenhet átalakulva, szabályos (lehet SZ-R, K-L vázú például) és szabálytalan (B-R, B-L, P-L, B-K, P-CS, stb.) változással, de még mindig ugyanazt jelentve (főleg a lélekvivő kutyák, madarak és halak hordozzák ezen szóvázt).  
 Azt be kell látni, hogy minden szóban nem lehet r hang, vagy k hang, mert monotonná és főleg érthetetlenné válna a nyelv. Ezért a továbbiakban nem is kör jelentésűként tekintünk a szavakra, hanem úgy mint, Napot, vagy annak fényét és tüzét (és ellentétesen, tellurisan, ezeknek hiányát) kifejezőkként.  
-Az is nyilvánvaló, hogy minden szavunkban nem szerepelhet [[N/Nap\|Nap]] vagy [[T/Tűz\|tűz]], ebben a formában kiírva, az előbb említett oknál kifolyólag. [[T/Tűz\|Tűz]] változhat tüs-re [[T/Tüske\|tüske]] szavunkban, tus-ra [[T/Tuskó\|tuskó]] szavunkban, tisz-re [[T/Tiszta\|tiszta]] szavunkban, de a [[D/Dísz\|dísz]] és dics szavak is még mindig ebbe a kategóriába tartoznak. (Figyeljük meg a magyar szavak harmóniára való törekvését is: tüskó, tuske nem hangzik olyan jól. A mély és a magas hangrendnek, valamint a mássalhangzók anyag sűrűségére vagy anyagtalanságára vonatkozóan szintén lesz jelentősége olyan szavakban mint [[S/Sár\|sár]], [[S/SZAR\|szar]] vagy [[S/Szár\|szár]]; vélhetően egyedül csak a magyar nyelvben van értelme az egyes hangzóknak értelmet adni: lásd [[G/Gáll Péter\|Gáll Péter]] rendszerét például.)  
-A Nap jelentésű szóelemek ilyen változtatási módok által több mint százra rúgnak (magában a [[R/Rúg\|rúg]] szavunkban is a Nap [[R/RU\|RU]] neve van meg).  
+Az is nyilvánvaló, hogy minden szavunkban nem szerepelhet [[N/Nap\|Nap]] vagy [[T/Tűz\|tűz]], ebben a formában kiírva, az előbb említett oknál kifolyólag. [[T/Tűz\|Tűz]] változhat tüs-re [[T/Tüske\|tüske]] szavunkban, tus-ra [[T/Tuskó\|tuskó]] szavunkban, tisz-re [[T/Tiszta\|tiszta]] és [[T/Tisztel\|tisztel]] szavunkban, de a [[D/Dísz\|dísz]] és dics szavak is még mindig ebbe a kategóriába tartoznak. (Figyeljük meg a magyar szavak harmóniára való törekvését is: \*tüskó, \*tuske nem hangzik olyan jól. A mély és a magas hangrendnek, valamint a mássalhangzók anyag sűrűségére vagy anyagtalanságára vonatkozóan szintén lesz jelentősége olyan szavakban mint [[S/Sár\|sár]], [[S/SZAR\|szar]] vagy [[S/Szár\|szár]]; vélhetően egyedül csak a magyar nyelvben van értelme az egyes hangzóknak értelmet adni: lásd [[G/Gáll Péter\|Gáll Péter]] rendszerét például.)  
+A Nap jelentésű szóelemek ilyen változtatási módok által több mint százra rúgnak (magában a [[R/Rúg\|rúg]] szavunkban is a Nap [[R/RU\|RU]] neve lehet meg).  
 
 A magyar nyelv képekben gondolkozik. A legfontosabb alapot a kozmikus tudásra épített fénykereszténység és a hozzá kötött – mintegy Istentől készen kapott és a magyar "Homo Magus[^5]" őstudatalattijában vele született – alapszavak alkotják, melyek elsődlegesen tehát vallási, kozmikus – nem szeretem ezt a kifejezést – "kódokat" tartalmaznak, majd mára már hétköznapi jelentésekkel állókként mutatkoznak. Az [[A/Alma\|alma]] az a nem-körte, igaz? Vagy valami más?  
 A másik fontos jelkép a hunok jelképe, az ék-alak, mely utalhat a fény terjedésére: elég csak az obeliszkek, piramisok alakjára gondolni, vagy a csakrákéra/csokrokéra. Olyan matematikai ill. asztrofizikailag értékelhető elemek keverednek az ősnyelv alapszavaiban, hogy tényleg azt kell gondolni, ez Isten Nyelve.  
@@ -204,7 +215,7 @@ Hasonlóan hibás gondolkodásnak tartom a (fény)kereszténység eredetét a [[
 
   
 A leglátványosabban a magyar nyelvbe ágyazott poláris, dualisztikus világunkról a [[F/Fény és sötétség\|fény és sötétség]], [[F/Fény és anyag\|fény és anyag]], valamint a [[F/Feltámadás\|feltámadás]] címnél írottak szólnak.  
-De ha már itt tartunk, minden mesénk a Tejúton járó Napról szól, és minden [[C/Csillagok magyar népi elnevezései\|népies csillagelnevezés]] azt látszik igazolni, hogy az emberiség/magyarság történetét a csillagokba írták eleink. Már a vaskorban papiruszra és később nyomdai úton történt az utókorra fennhagyott írás, a magyarok ezt megelőzően csak szájhagyomány útján terjesztették a tudást. (Arról is lehet itt szólni, hogy mely módok azok, amelyek leginkább időt állóan meg tudják őrizni a több százezer, több tízezer éves tudást: csillagokba írni a tudást, időtálló építményekbe illetve [[A/Aranylemezek\|aranylemezek]]be vésve).  
+De ha már itt tartunk, minden mesénk a Tejúton járó Napról szól, és minden [[C/Csillagok magyar népi elnevezései\|népies csillagelnevezés]] azt látszik igazolni, hogy az emberiség/magyarság történetét a csillagokba írták eleink. Már a vaskorban papiruszra és később nyomdai úton történt az utókorra fennhagyott írás, a magyarok ezt megelőzően csak szájhagyomány útján terjesztették a tudást. (Arról is lehet itt szólni, hogy mely módok azok, amelyek leginkább időt állóan meg tudják őrizni a több százezer, több tízezer éves tudást: csillagokba írni a tudást, időtálló építményekbe illetve aranylemezekbe vésve).  
 Amikor tehát Ipolyi Arnold Magyar mythologia című könyvében (lásd adalékjaiban a 649. oldalon) arról ír, hogy a hitregéink emlékei a csillagokba emelkedtek fel a földöni elhanyagoltságuk végett és onnét világítanak feledékenységünk éjét felderítendők, tulajdonképpen elárulja a jelenkori magyarság célját: a feledékeny vaskor embere számára ezen jelekből olvasva kell kiindulni, hogy újra felderíthessük a magyar ősi világképet.  
 
 #### Még a magyar nyelvről
@@ -341,7 +352,7 @@ A magyar nyelv olyan széles szósklálával rendelkezik (szóbokrok olyan zárt
 
 Sok esetben előfordul, hogy az eredetként meghatározott szó a nyelv aljas rétegeiből látszik kikerülni. Ilyenkor mindig tovább kell vizsgálni a magyar szó vonatkozásait (a szóbokrot), hogy az alapszó legyen kiválasztva, esetleg csupán gyökkel, etimonnal való beazonosításra korlátozva.  
 Ezek az etimonok mindig hímségi (és az ebből levezethető nőiségi) alapértelműek lesznek. Minden szó eredete ez, (nap)fény (es annak hiánya: sötétség). ha pl. a [[P/Push\|push]] szónak [[B/Basz\|basz]] nem felelne meg, elég megfeleltetni egy buz- gyökkel (CzF úgy mondaná, buzgó, buzog buz- gyökével).  
-A nap értelmű előtag es föld(re leképező) utótag alkotta szótag-szavak száma a magyarban igen nagy lehet; pl. [[B/Bunda\|bunda]] (bun-da), [[T/Tukma\|tukma]] (tuk-ma), [[C/Csapda\|csapda]] (csap-da), [[T/Torma\|torma]] (tor-ma), [[R/Ráma\|ráma]] (rá-ma), [[S/Sólyom\|sólyom]] (szól-om), [[Z/Zsemle\|zsemle]] (zsem/szem-le), stb.  
+A nap értelmű előtag es föld(re leképező) utótag alkotta szótag-szavak száma a magyarban igen nagy lehet; pl. [[B/Bunda\|bunda]] (bun-da), [[T/Tukma\|tukma]] (tuk-ma), [[T/Torma\|torma]] (tor-ma), [[R/Ráma\|ráma]] (rá-ma), [[S/Sólyom\|sólyom]] (szól-om), [[Z/Zsemle\|zsemle]] (zsem/szem-le), stb.  
 Lásd a feltárásokat [[M/Magyar ősnyelv szótagnyelv#A magyar nyelv szavainak logikája\|a magyar nyelv szavainak logikája]] cím/alcímnél.  
 
 Egy kínai [[H/Holdújév\|holdújév]]vel kapcsolatos hagyományokról szóló műsorban arról szól a magyar utazó-szakértő, hogy újévkor olyan ételek kerülnek terítékre, mint például mandarin, csirke, hal, melyek kínai nevei olyan szavakkal mutatnak fogalmi rokonságot, mint szerencse, a csirkében `csi` = életerő, vagy a halat jelentő szavukhoz hasonló bőség fogalmát jelentő szó.  
