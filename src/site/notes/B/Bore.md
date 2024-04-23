@@ -1,12 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bore/","title":"Bore","created":"2023-11-30T08:39","updated":"2024-04-15T00:25"}
+title: Bore
+foreignTitle: true
+aliases:
+  - bore
+status: dg_uploaded
+tags: 
+share: true
+dg-publish: true
+dg-created: 2023-11-30T08:39
+dg-updated: 2024-04-24T01:09
+dg_upload: VNC done
+dateCreated: 2022-12-14
+dateModified: 2024-04-24T01:09
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/B/Bore.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/B/Bore.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/B/Bore.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/B/Bore.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/B/Bore.md
+danglinglink_commentedout: true
 ---
-
 
 # Bore
 
 Ún, úntat ("oldalába lyukat fúr?"). Lehet a [[B/Bear#Bear 2)\|bear]] szó múlt idejű alakja is, viseltes jelentéssel, akkor is az ún értelemhez juthatunk. A B-R mássalhangzó-csoport tagja, ahogy a [[B/Bear\|bear]] (medve) is és többek közt a Napot megszemélyesítő barna oroszlán is. Mindenképpen valamilyen kerekded, súlyos értelme van, ami elnyűvi az embert. A `bearing down on` kifejezés nyomába ered, hajszol jelentésű, arra gondolva, hogy nagytestű állat üldözi vagy ember, de ellenség, netán manapság sportban, ellenfél.  
-A rokon elnyű szót [[W/Wear\|wear]]-nél tárgyaljuk.  
+  
 
 Visszatérve fúrni értelméhez, Magyar Adorján [[F/Forog\|forog]] szavunkkal rokonítja a latin-olasz `forare` = fúrni igét, de a pörgés, forgás szavakkal rokonítható az avar szócsoporthoz vehető angol `bore` is. A B-R, P-R, F-R alapú (avar-hun eredetű) szavak rengeteg angol szóban előfordulnak, ahogy ind és perzsa szavakban is.  
 
