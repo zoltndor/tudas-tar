@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated"],"created":"2023-10-13T01:11","updated":"2024-04-05T18:57"}
+{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated"],"created":"2023-10-13T01:11","updated":"2024-04-23T18:32"}
 ---
 
 
@@ -9,7 +9,7 @@
 
 > Az "A" magyar szó jelent Istent, Magasat, Nagyot, Vizet (Esőt) és névelőként is funkcionál, amikor feladata egy bizonyos **szó kiemelése a nemlétből**, továbbá a szavak végén hátravetve is szerepelhet névutó-névelőként.  
 
-Véleményem szerint lehet még "házbafoglaló" értelmű; lásd [[A/AS\|AS]] és [[A/Az\|az]] ilyen értelmeit/megközelítését.  
+Lehet még "házbafoglaló" értelműként is tekinteni rá; lásd [[A/AS\|AS]] és [[A/Az\|az]] ilyen értelmeit/megközelítését.  
 
 Mivel az ABC is e hanggal kezdődik, nyilván nem véletlenül kerültek ezek a jelentések mellé. Mondhatjuk eztán, hogy első és kezdet, továbbá legnagyobb, legfontosabb jelentései is lehetnek. Hímségi értelemben ez a magas, Isten jelentés a fényre, szellemre irányul, telluris-nőiségként a bolygón lévő vízre és az első élet kialakulására. Véleményem szerint a [[B/Béka\|béka]] szóban is ezen víz értelmet kell vagy lehet keresni 'a' hangjában.  
 
@@ -17,7 +17,7 @@ Mivel az ABC is e hanggal kezdődik, nyilván nem véletlenül kerültek ezek a 
 
 ...szerint :  
 > A: anyai és atyai ősgyök, a nyelvben később a vízzel azonosult (L 578). Az α és az Ω, a kezdet és a vég két betűszimbóluma eredeti ősképünk. A magyar nyelvben ez az őskép névelő formában él és mozgósítja nyelvünk szakrális elemeit.  
-- [[A/Az\|Az]] címnél is szerepelt.  
+- [[A/Az\|Az]] címnél is szerepelt.
 
 Megvan [[T/Tisza\|Tisza]] és [[D/Duna\|Duna]] neveinkben is. Az azték `Atl` is vizet kell jelentsen, mert a Halak csillagkép neve volt: a szóvégi tl Péterfai János adata szerint főnévképző; leválasztásával A = Víz marad.  
 A víz értelmét tekintve jejes párjai [[A/AJ\|AJ]] és [[J/JA\|JA]] (jó).  
@@ -78,7 +78,7 @@ Az előhang nélküli és előhangos állatnevek kapcsán legutóbb [[U/UR#UR sz
 
 Ami tehát azt a szabályt illeti, hogy a magyar nyelvében a mássalhangzók "viszik" a szó jelentését, igaz, viszont a mássalhangzó magában nem lehet szó. Ki sem tudod ejteni őket magánhangzó nélkül (Pap Gábor az [[S/SZ\|SZ]] hangzót félmagánhangzónak titulálja). Ezért hívjuk őket mássalhangzónak. A mássalhangzók csak a vázat adják meg, a testet. A lelket/szellemet a magánhangzók hordozzák a szavakban, mely szavak a magyar nyelvben egy betűből is állhatnak, de sosem mássalhangzóként.  
 
-Kapát Ka-Pa felbontásban is lehet értelmezni. [[C/Cápa\|Cápa]] címnél is volt arról szó legutóbb, hogy a magyar nyelvre az jellemző, hogy többféleképpen elemezhetőek a szavak. Ezért is járnak (rész)sikerrel a CzF szótár szerkesztői is és az etimonokat nem ismerő magyar gondolkodók is, mint például MA. Hiszen (a Cá-Pa/Szá-Pa = Száj-Fej értelmezés mellett) Cáp-A felbontásban Cáp a hímségi [[C/Csap\|csap]] igével is egyeztethető, utalva a csapott fejére, vagy akár fogaira is. A szóvégi A hangról meg lehet az, amiről fentebb szó volt.  
+Kapát Ka-Pa felbontásban is lehet értelmezni. [[C/Cápa\|Cápa]] címnél is volt arról szó legutóbb, hogy a magyar nyelvre az jellemző, hogy többféleképpen elemezhetőek a szavak. Ezért is járnak (rész)sikerrel a CzF szótár szerkesztői is és az etimonokat nem ismerő magyar gondolkodók is, mint például Magyar Adorján. Hiszen (a Cá-Pa/Szá-Pa = Száj-Fej értelmezés mellett) Cáp-A felbontásban Cáp a hímségi [[C/Csap\|csap]] igével is egyeztethető, utalva a csapott fejére, vagy akár fogaira is. A szóvégi A hangról meg lehet az, amiről fentebb szó volt.  
 
 ## 'A' a nevek elején (névelő?)
 
