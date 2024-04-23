@@ -1,7 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bozgor/","title":"Bozgor","tags":["Englishtexttranslated"],"created":"2024-02-11T03:22","updated":"2024-02-12T18:09"}
+title: Bozgor
+foreignTitle: false
+aliases:
+  - bozgor
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg-created: 2024-02-11T03:22
+dg-updated: 2024-04-24T01:09
+dg_upload: VNC done
+dateCreated: 2022-12-14
+dateModified: 2024-04-24T01:09
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/B/Bozgor.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/B/Bozgor.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/B/Bozgor.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/B/Bozgor.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/B/Bozgor.md
 ---
-
 
 # Bozgor
 
@@ -19,4 +37,4 @@ Valóban, [ezen](https://en.wikipedia.org/wiki/Bashkir_language) oldalon is elő
 > —  
 > A baskír egy türk nyelv, amely a kipcsak ághoz tartozik. Baskírföldön az orosz nyelvvel együtt hivatalos.  
 
-[Ezen](https://qr.ae/pNiXHN) Quora válaszra adott kérdésekben török eredeztetés (a [[M/Magyar\|magyar]] és [[B/Baskír\|baskír]] címnél is szereplő értelmetlenség, miszerint a török nem tudta kimondani a magyar nevet, de ebből is szokták a magyar nevet helytelenül megfejteni akarni), a [[B/Boszorkány\|boszorkány]]kodás és a [[B/Bocskor\|bocskor]] szavunk is előjön, mint lehetséges eredet (minthogy pl. mi hívtuk volna őket bocskorosoknak és visszafordították volna ránk).  
+[Ezen](https://qr.ae/pNiXHN) Quora válaszra adott kérdésekben török eredeztetés (a [[M/Magyar\|magyar]] és [[B/Baskír\|baskír]] címnél is szereplő értelmetlenség, miszerint a török nem tudta kimondani a magyar nevet, de ebből is szokták a magyar nevet helytelenül megfejteni akarni), a [[B/Boszorkány\|boszorkány]]kodás és a [[B/Bocskor\|bocskor]] szavunk is előjön, mint lehetséges eredet (minthogy pl. mi hívtuk volna őket bocskoros oláhoknak és ezt a nevet visszafordították volna mi ránk).  
