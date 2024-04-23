@@ -1,7 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/B/Betyár/","title":"Betyár","created":"2023-10-05T03:21","updated":"2024-02-02T01:27"}
+title: Betyár
+foreignTitle: false
+aliases:
+  - betyár
+status: dg_uploaded
+tags: 
+share: true
+dg-publish: true
+dg-created: 2023-10-05T03:21
+dg-updated: 2024-04-24T01:05
+dg_upload: VNC done
+dateCreated: 2022-12-14
+dateModified: 2024-04-24T01:05
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/B/Bety%C3%A1r.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/B/Bety%C3%A1r.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/B/Bety%C3%A1r.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/B/Bety%C3%A1r.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/B/Bety%C3%A1r.md
+danglinglink_commentedout: true
 ---
-
 
 # Betyár
 
@@ -41,6 +59,6 @@ Híres betyárunk a fentebb említett Rózsa Sándor.
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Ármány (lásd [[A/Ahriman\|Ahriman]]) és [[O/Ocsmány\|ocsmány]] szavaink mellett ezt is felhozza Ipolyi Arnold Magyar mythologia című könyvében. Jerney adata szerint a zend `petiare` = rossznak forrása, kútfeje névvel lenne azonos betyár. Betyár neveket IA könyvének 248. oldalán hoz.  
+Ármány (lásd [[A/Ahriman\|Ahriman]]) és [[O/Ocsmány\|ocsmány]] szavaink mellett ezt is felhozza Ipolyi Arnold Magyar mythologia című könyvében. Jerney adata szerint a zend `petiare` = rossznak forrása, kútfeje névvel lenne azonos betyár. Betyár neveket Ipolyi Arnold könyvének 248. oldalán hoz.  
 —  
 Az előző és a fenti türk szavak párja a perzsa `patyâreh`, mely jelent ellenséget és csúfot is egyben.  

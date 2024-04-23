@@ -1,7 +1,29 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-04T04:55","updated":"2024-04-05T19:03"}
+title: Barbár
+foreignTitle: false
+aliases:
+  - barbár
+  - barbarian
+  - Barbarian
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+  - containstransclusions
+share: true
+dg-publish: true
+dg-created: 2023-11-04T04:55
+dg-updated: 2024-04-24T01:00
+dg_upload: VNC done
+dateCreated: 2023-07-29
+dateModified: 2024-04-24T01:00
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/B/Barb%C3%A1r.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/B/Barb%C3%A1r.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/B/Barb%C3%A1r.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/B/Barb%C3%A1r.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/B/Barb%C3%A1r.md
+danglinglink_commentedout: true
 ---
-
 
 # Barbár
 
@@ -20,7 +42,7 @@ Másutt:
 Nálam, minthogy [[T/Teremtő és teremtett\|Teremtő és teremtett]] címnél is volt szó erről, Bar-Bar a Nap Fia értelmet hordozza, hasonlóan az [[U/Ugra\|Ugra]]-hoz (Ug-Ra, Nap Fia).  
 
 Ezt erősíteni látszik Varga Zsigmond Az ősmagyar mitológia c. könyvének adata is (a nap szót persze lehet hogy Napként értelmezi):  
-> A sumér [[B/Babbar\|babbar]] a bar gyök összevont reduplikációja, bar-bar helyett, jelentése fehér, fénylik, világosodik (de a nap egyik neve is).  
+> A sumér `babbar` a bar gyök összevont reduplikációja, bar-bar helyett, jelentése fehér, fénylik, világosodik (de a nap egyik neve is).  
 - Babbar előjön Péterfai Jánosnál [[B/Bab\|bab]] címnél és lásd még [[B/Babba Mária\|Babba Mária]] nevénél is. <br/>
 `Bar-Bar` világosság világossága értelmet kap a fentiek alapján Rostás László "Lehel-kürt" és a "Szent László legenda" ikonográfiai azonossága a szkíta kereszténység tükrében c. az Ősi Gyökér 2008/3-4. sz. megjelent cikkében is.  
 
@@ -117,7 +139,7 @@ Az [alábbi](https://youtu.be/xF2hpMBgYn0) Echo TV-s beszélgetés végén Pap G
 [[S/Szakáll\|Szakáll]] címnél volt arról szó, hogy a hosszú szőrszálak napsugár-jelképek, azaz a Nap [[B/BAR\|BAR]] neve nyomán alakult ki a szakáll másodlagos jelentés.  
 Ahogy [[B/Barber\|barber]] címnél is szerepelt, Obrusánszky Borbála a barbárt szintén szakállas jelentéssel adja meg (miután megosztja a kínai `hu` = szakállas jelentésű szót; sajnos OB révén sok magyar a [[H/Hun\|hun]] nevet is szakállasnak értelmezi). Mindkettő hozzákapcsolt jelentés (így [[L/Light\|light]] címhez is volt okom betenni; [[H/Hun\|hun]] címnél, külön friss alcímnél pedig a szakállas témával is foglalkozom; ott arról is volt szó, hogy ennyi erővel a kínai `hú` = ív, körív (vesd össze ainu `ku` = íj) jelentésű szóból is kiindulhatott volna Obrusánszky Borika vagy forrása).  
 
-Barbar [[B/Bahrein\|Bahrein]] szigetén lévő város is (volt), mezopotámiai (korú) templommal.  
+Barbar Bahrein szigetén lévő város is (volt), mezopotámiai (korú) templommal.  
 [[B/Barbara\|Barbara]] nevünk a barbár szó női változata (illetve eredetük közös). Ernie Barbarash amerikai rendező (Bedrótozva című filmé például).  
 Elgondolkodtató, hogy megannyi angolszász (vagy a zsidó Barbra Streisand) hölgy nevét miért adná szemita/IE szempontból negatív szókapcsolat, ha valóban negatív lenne? Persze a Borbála[^2] nevet is ide vagy a borbolya névhez kell sorolni.  
 

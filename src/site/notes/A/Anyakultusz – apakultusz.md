@@ -1,28 +1,7 @@
 ---
-title: Anyakultusz – apakultusz
-foreignTitle: false
-aliases:
-  - anyakultusz – apakultusz
-  - anyaelvűség és apaelvűség
-  - anya- és apaelvűség
-status: dg_uploaded
-tags:
-  - Englishtexttranslated
-  - containstransclusions
-share: true
-dg-publish: true
-dg-created: 2023-11-14T03:26
-dg-updated: 2024-04-23T18:35
-dg_upload: VNC done
-dateCreated: 2022-12-14
-dateModified: 2024-04-23T18:35
-ghrepoURL:
-  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/A/Anyakultusz%20%E2%80%93%20apakultusz.md
-  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/A/Anyakultusz%20%E2%80%93%20apakultusz.md
-  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/A/Anyakultusz%20%E2%80%93%20apakultusz.md
-  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/A/Anyakultusz%20%E2%80%93%20apakultusz.md
-  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/A/Anyakultusz%20%E2%80%93%20apakultusz.md
+{"dg-publish":true,"permalink":"/A/Anyakultusz – apakultusz/","title":"Anyakultusz – apakultusz","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-14T03:26","updated":"2024-04-24T00:55"}
 ---
+
 
 # Anyakultusz – apakultusz
 
@@ -58,8 +37,8 @@ Folytassuk azzal, ami [[N/Nő és férfi\|nő és férfi]] címnél is szerepelt
 ...című A. Crowley anyagát feldolgozó könyvében is szó van erről:  
 > The Draconians, or Typhonians, oblivious of the role of the male in the biological mysteries of procreation, had worshipped the whore and her bastard who were ages later typified as the Virgin and Child.  
 > —  
-> A drakóniaiak vagy tifóniak, akik nem ismerték a férfi szerepét a nemzés biológiai misztériumában, a szajhát és fattyát imádták, akiket évszázadokkal később Szűzként és Gyermekként tipizáltak.  
-^8yzjci
+> A drakóniaiak vagy tifóniak, akik nem ismerték a férfi szerepét a nemzés biológiai misztériumában, a szajhát és fattyát imádták, akiket évszázadokkal később Szűzként és Gyermekként tipizáltak.  { #8yzjci}
+
 
 A megjegyzésem mindehhez az, hogy aligha hiszem el, hogy egy több százezer vagy több millió évvel ezelőtt élő "proto-táltos" ne tudta volna, hogy nem a gólya hozza a gyereket.  
 Itt nem arról van szó, hogy a férfi szerepét nem ismerték volna fel, inkább arról, hogy az első civilizációk hitrendszere tudatosan nőközpontú volt, mert egyrészt csak az anya a biztos, másrészt tudatosan így is alkották meg a mitológiájukat. Ennek még az is állt a háttérében, hogy az első ember is a [[H/Hermaphrodite\|hermafroditá]]k és a kétéltűek előtt, ami/aki önmagából létre tudta hozni, afféle [[S/Szűznemzés\|szűznemzés]]sel az életet a nő volt. Ennek a tudásnak a fenntartását kell még itt látni. Beszélhetnénk itt még sok mindenről, például az [[O/Ösztön\|ösztön]] és [[I/Isten\|Isten]] kapcsolatáról is.  
@@ -134,8 +113,8 @@ A Bognár Ferenc nyomán is a több helyen beígért,...
 > Európában eleinte nem voltak az Istennővel kortárs férfi istenek, akik megkérdőjelezhették volna tekintélyét vagy hatalmát, de volt egy szeretője, aki felváltva volt a Bölcsesség jótékony kígyója és az Élet jótékony csillaga, a fia. A Fiú az általa uralt különböző totemtársadalmak férfi démonaiban testesült meg, akik segédkeztek a tiszteletére rendezett erotikus táncokban. A Kígyó a szent kígyókban testesült meg, amelyek a halottak szellemei voltak, és a szeleket küldték. A Fiú, akit Lucifernek vagy Phosphorusnak ("fényhozónak") is neveztek, mert esti csillagként a Hold fényét vezette, minden évben újjászületett, az év előrehaladtával felnőtt, elpusztította a Kígyót, és elnyerte az Istennő szeretetét. Szerelme elpusztította őt, de hamvaiból egy másik Kígyó született, amely húsvétkor lerakta a glain vagy piros tojást, amelyet az Istennő megevett; így a Fiú ismét gyermekként született újjá számára. Ozirisz csillag-fiú volt, és bár halála után kígyóként hurkolta körbe a világot, mégis, amikor ötven méter hosszú falloszát körmenetben vitték, egy aranycsillaggal \[ezen rész [[I/Íj csillagkép\|Íj csillagkép]] címnél is szerepelt\] volt a tetején; ez jelentette önmagát megújulva, mint a Gyermek Hórusz, Ízisz fia, aki egyszerre volt a menyasszonya és a kivetett rétege, és most újra az anyja volt. Abszolút hatalmát a tiszteletére évente megrendezett holokauszt bizonyította, amelynek során minden egyes társadalom totemmadarát vagy -állatát élve elégették, mint "a vadak úrnőjét".  
 > Az égei-tengeri vallás legismertebb ikonja tehát egy gyümölcsfa alatt csoportosuló Hold-asszony, egy csillag-fiú és egy bölcs, pettyes kígyó: Artemisz, Herkules és Erechtheusz. A Csillag-fiú és a Kígyó harcban állnak egymással; a Hold-asszony kegyében egyik a másikat követi, ahogy a nyár a telet, a tél a nyarat; ahogy a halál a születést, a születés a halált. A Nap gyengül vagy erősödik, ahogy az év halad, a fa ágai hol megrakottak, hol csupaszok, de a Hold fénye változatlan. Pártatlan: egyforma szenvedéllyel pusztít vagy teremt.  
 > Az ikrek közötti konfliktus zseniális fordulatot vesz a Kilhwych és Olwen románcában: Gwyn ("Fehér") és riválisa, Gwythur ap Greidawl ("Victor, Scorcher fia") örökös háborút vívtak Creiddyladért (más néven Cordelia), Lludd (más néven Llyr, más néven Lear, más néven Nudd, más néven Nuada, más néven Nodens) lányáért, és mindketten sorra ellopták őt a másiktól, amíg az ügyet Arthur király elé nem vitték. Ő azt az ironikus döntést hozta, hogy Creiddyladot vissza kell adni az apjának, és hogy az ikrek "harcoljanak érte minden május elsején, a végzet napjáig", és hogy amelyikük akkor győzedelmeskedik, az tartsa meg őt.  
-> Még nincsenek atyák, mert a Kígyó éppúgy nem atyja a Csillag-fiúnak, mint ahogy a Csillag-fiú nem atyja a Kígyónak. Ők ikrek, és itt visszatérünk az egyetlen költői témához. A költő azonosítja magát a Csillag-fiúval, gyűlölt riválisa a Kígyó; csak ha szatirikusnak ír, akkor játssza el a Kígyót. A hármas múzsa a nő a maga isteni mivoltában: a költő varázslónője, dalainak egyetlen témája. Nem szabad elfelejteni, hogy egykor maga Apollón is a Kígyó áldozata volt: Püthagorasz ugyanis Delphoi sírjára feliratot vésetett, amely a helyi pitonnal vívott harcban bekövetkezett halálát örökíti meg - azzal a pitonnal, amelyet általában úgy véltek, hogy egyenesen megölt.  
-^smo7av
+> Még nincsenek atyák, mert a Kígyó éppúgy nem atyja a Csillag-fiúnak, mint ahogy a Csillag-fiú nem atyja a Kígyónak. Ők ikrek, és itt visszatérünk az egyetlen költői témához. A költő azonosítja magát a Csillag-fiúval, gyűlölt riválisa a Kígyó; csak ha szatirikusnak ír, akkor játssza el a Kígyót. A hármas múzsa a nő a maga isteni mivoltában: a költő varázslónője, dalainak egyetlen témája. Nem szabad elfelejteni, hogy egykor maga Apollón is a Kígyó áldozata volt: Püthagorasz ugyanis Delphoi sírjára feliratot vésetett, amely a helyi pitonnal vívott harcban bekövetkezett halálát örökíti meg - azzal a pitonnal, amelyet általában úgy véltek, hogy egyenesen megölt.  { #smo7av}
+
 - Ezen rész [[S/Sárkány\|sárkány]] címnél is szerepelt.  
 
 > The Star-son and the Serpent are still mere demons, and in Crete the Goddess is not even pictured with a divine child in her arm? She is the mother of all things; her sons and lovers partake of the sacred essence only by her grace.  

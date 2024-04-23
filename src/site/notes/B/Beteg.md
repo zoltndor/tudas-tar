@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Beteg/","title":"Beteg","tags":["Englishtexttranslated"],"created":"2024-04-20T15:38","updated":"2024-04-23T18:07"}
+{"dg-publish":true,"permalink":"/B/Beteg/","title":"Beteg","tags":["Englishtexttranslated"],"created":"2024-04-20T15:38","updated":"2024-04-24T01:04"}
 ---
 
 
@@ -25,6 +25,8 @@ TeSz: ismeretlen eredetű; finnugor egyeztetése téves.
 Aczél József szerint jelent még bút, gyászt is.  
 
 A TeSz szerint a beteg ismeretlen eredetű szó egyébként.  
+
+Hasonló alakú a [[B/Bitang\|bitang]].  
 
 ## Mi a betegség – mi okozza? Léteznek-e vírusok?
 

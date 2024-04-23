@@ -1,7 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/B/Buda/","title":"Buda","tags":["Englishtexttranslated"],"created":"2023-12-03T10:25","updated":"2024-03-03T22:18"}
+title: Buda
+foreignTitle: false
+aliases:
+  - Budá
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg-created: 2023-12-03T10:25
+dg-updated: 2024-04-24T01:11
+dg_upload: VNC done
+dateCreated: 2022-12-14
+dateModified: 2024-04-24T01:11
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/B/Buda.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/B/Buda.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/B/Buda.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/B/Buda.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/B/Buda.md
+danglinglink_commentedout: true
 ---
-
 
 # Buda
 
@@ -55,10 +74,10 @@ Lásd még említve [[B/Blood\|blood]].
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Egy 19. századi angol forrásból ([[S/Szkíta\|szkíta]] címnél is szerepelt e brit zsidó írótól anyag):  
+Egy 19. századi angol forrásból ([[S/Szkíta\|szkíta]] címnél is szerepelt a brit izraelita írótól anyag):  
 From "The Saxons of the East and West," with translations of the rock records in India, by Dr. Moore, printed in 1861, I have gathered some valuable facts. In Alexander's time we hear of some of the Sakai on the confines of India. These Eastern Sakai are connected with the Western Sakai, because the "White Island, England, Sacam or Saxum, as pronounced by our Saxon ancestors is stated in the Purana named Veraha to have been in the possession of the Sacs, at an early period." The rock and pillar inscriptions of the Sakhs, who also introduced Buddhism into India, are to be found in Afghanistan, Bombay, Delhi, Allahabad, and elsewhere. They are in the so-called Aryan character, and become intelligible by "transliteration" into Hebrew. They appear to be the utterances of people who have been brought through great trials, who are groping in the dark though believing they have a Divine mission. "Sak," their deity, after whom they call themselves, is apparently a man and an ancestor. Sometimes they call themselves "Budh"; and Moore points out that the **Budii are mentioned by Herodotus as a Scythian people** living in Media, and that in Hebrew it signifies "separated."  
 —  
-Dr. Moore "The Saxons of the East and West" című, 1861-ben nyomtatott művéből, az indiai sziklafeljegyzések fordításával, összegyűjtöttem néhány értékes tényt. Sándor idejében hallunk néhány szakairól India határain. Ezek a keleti szakaik kapcsolatban állnak a nyugati szakaikkal, mert a "Fehér sziget, Anglia, Sacam vagy Saxum, ahogy szász őseink kiejtik, a Veraha nevű Purána szerint a szakaik birtokában volt, egy korai időszakban". A buddhizmust Indiába is bevezető szákok szikla- és oszlopfeliratai Afganisztánban, Bombayban, Delhiben, Allahabadban és másutt is megtalálhatók. Ezek az úgynevezett árja karakterrel vannak írva, és héberre "átírva" válnak érthetővé. Úgy tűnik, hogy olyan emberek szavai, akik nagy megpróbáltatásokon mentek keresztül, akik a sötétben tapogatóznak, bár hiszik, hogy isteni küldetésük van. "Sak", az istenségük, akiről nevezik magukat, nyilvánvalóan egy ember és egy ős. Néha "Budh"-nak nevezik magukat; és Moore rámutat, hogy a **budii-t Hérodotosz mint Médiában élő szkíta népet** említi, és hogy héberül "elkülönültet" jelent.  
+Dr. Moore "The Saxons of the East and West" című, 1861-ben nyomtatott művéből, az indiai sziklafeljegyzések fordításával, összegyűjtöttem néhány értékes tényt. Sándor idejében hallunk szakákról India határain. Ezek a keleti szakák kapcsolatban állnak a nyugati szakákkal, mert a "Fehér sziget, Anglia, Sacam vagy Saxum, ahogy szász őseink kiejtik, a Veraha nevű Purána szerint a szakák birtokában volt, egy korai időszakban". A buddhizmust Indiába is bevezető szákok szikla- és oszlopfeliratai Afganisztánban, Bombayban, Delhiben, Allahabadban és másutt is megtalálhatók. Ezek az úgynevezett árja karakterrel vannak írva, és héberre "átírva" válnak érthetővé. Úgy tűnik, hogy olyan emberek szavai, akik nagy megpróbáltatásokon mentek keresztül, akik a sötétben tapogatóznak, bár hiszik, hogy isteni küldetésük van. "Sak", az istenségük, akiről nevezik magukat, nyilvánvalóan egy ember és egy ős. Néha "Budh"-nak nevezik magukat; és Moore rámutat, hogy a **budii-t Hérodotosz mint Médiában élő szkíta népet** említi, és hogy héberül "elkülönültet" jelent.  
 
 [^95]: Lábjegyzet:  
 Moravcsik *BT* 2, 91; Schönfeld 1911, 51.

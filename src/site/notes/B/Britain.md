@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/B/Britain/","title":"Britain","tags":["Englishtexttranslated"],"created":"2023-11-11T12:30","updated":"2024-04-05T19:06"}
+{"dg-publish":true,"permalink":"/B/Britain/","title":"Britain","tags":["Englishtexttranslated"],"created":"2023-11-11T12:30","updated":"2024-04-24T01:10"}
 ---
 
 
 # Britain
 
-[[B/Bretagne\|Bretagne]] volt Franciaországban előbb vagy sem, minket most nem ez köt le. A Britain szót akarjuk elemezni. Az is elképzelhető, hogy a két szárazföld az özönvíz előtt összefüggő volt és a két név egy és ugyanaz, csak Bretagne elfrankosodott.  
-A [[B/BAR\|BAR]] etimon és valószínűleg az [[A/AN, ÁN\|AN, ÁN]] ([[B/Baráth Tibor\|Baráth Tibor]]nál ez mindig egyszerűen: hon) elemek bújnak meg benne. A brit kelták nyelve szerint Brython! A hon a hunból ered, a hon haza. Egyesek Barátok Hona, Barátok Hazája kifejezéssel illetik, de Péterfai János nem hozza szóba:  
+Bretagne volt-e Franciaországban előbb vagy sem, minket most nem ez köt le. A Britain nevet akarjuk elemezni. Az is elképzelhető, hogy a két szárazföld az özönvíz előtt összefüggő volt és a két név egy és ugyanaz, csak Bretagne elfrankosodott.  
+A [[B/BAR\|BAR]] etimon és valószínűleg az [[A/AN, ÁN\|AN, ÁN]] ([[B/Baráth Tibor\|Baráth Tibor]]nál ez mindig egyszerűen: hon) elemek bújnak meg benne. A brit kelták nyelve szerint Brython! A hon a hunból ered, a hon haza. Egyesek "Barátok Hona", Barátok Hazája kifejezéssel illetik, de Péterfai János nem hozza szóba:  
 > A Brit kétségtelenül valamilyen Berit, Birit forma rövidülése. Bran, Brian, Brennan és hasonlók mind a Bar, Ber, Bir magyar szavak származékai.  
 
-Bretagne nevét összevetik Berthenon-Ville nevével, a város nevében még tiszta a Berthenon név, amely Breton, Bratgne alakra tömörül. Birgit és Birgitta \[lásd [[B/Birghid\|Birghid]]\] neve a Brigitta névben él ma tovább. A régebbiek a kelta-magyar formák, az újabb az indoeurópai forma.
+**Bretagne** nevét összevetik **Berthenon-Ville** nevével, a város nevében még tiszta a Berthenon név, amely Breton, Bratgne alakra tömörül. Birgit és Birgitta \[lásd [[B/Birghid\|Birghid]]\] neve a Brigitta névben él ma tovább. A régebbiek a kelta-magyar formák, az újabb az indoeurópai forma.
 
 A Briganti egy régi törzs neve volt.  
 

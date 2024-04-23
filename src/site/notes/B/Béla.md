@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/B/Béla/","title":"Béla","tags":["containstransclusions"],"created":"2023-12-03T05:04","updated":"2024-04-05T19:07"}
+{"dg-publish":true,"permalink":"/B/Béla/","title":"Béla","tags":["containstransclusions"],"created":"2023-12-03T05:04","updated":"2024-04-24T01:18"}
 ---
 
 
 # Béla
 
-A `bjel`, `bjelo` fehérséget, szépséget jelentő szavak természetesen [[B/Bál\|Bál]] Napisten ragyogó minőségéből erednek, a palóc szócsoportba tartoznak, tehát nem szláv szavak. Pl. a walesieknek például mi közük lenne a szlávokhoz.  
+A `bjel`, `bjelo` fehérséget, szépséget jelentő szavak természetesen [[B/Bál\|Bál]] Napisten ragyogó minőségéből erednek, a palóc szócsoportba tartoznak, tehát nem szláv szavak.   
 
 Lehet beszélni a latin-olasz `bella` = szép jelentéséről is (vesd össze [[F/Flott\|flott]]). Hasonló a kapcsolat, mint a német `schön` = szép és az angol [[S/Shine\|shine]] és [[S/Sun\|Sun]] szavak között. [[B/Bél\|Bél]] és [[B/Bál\|Bál]] palóc Napisten fénye szépített mindenkit. A régiek kifinomultsága, szépérzéke összehasonlíthatatlan a mai viszonyokban tapasztaltakkal.  
 
@@ -15,7 +15,7 @@ Lehet beszélni a latin-olasz `bella` = szép jelentéséről is (vesd össze [[
 > A szláv `bjel`, `bjly` \[és\] latin `bellus` szókat nem lehet többé a Bal, Bél isten névtől elkülönitni, maga Schafarik megismeri, hogy a szláv gyökszó is = mely ma szépet s fehért jelent, eredetileg tűz pirosat jelentett (Slav. Alt. II. p. 393.) vallásos gyökszó volt az a szláv, mint a kelta finn mythologiában. ([Lásd 210. old.](zotero://open-pdf/library/items/DFI47XPY?page=210&annotation=QYXGEPR7))
 >
 > Nork legújabb mythologiai szótárában is **Bel**, **Belen**, slavisch `biel` = weiss, leuchtend der Sonnengott der alten Gallier. ([Lásd 210. old.](zotero://open-pdf/library/items/DFI47XPY?page=210&annotation=J8IGWTYW))  
-- Bel, Belen tehát ógallok Napisten neve.  
+- Bel, Belen tehát ógallok Napisten neve.
 
 #### Magyar Adorján írja:
 
@@ -28,7 +28,7 @@ Lehet beszélni a latin-olasz `bella` = szép jelentéséről is (vesd össze [[
 >  (1), férfi kn. tt. Bélát. Adalbertus. Ezen latin, vagyis inkább köz hiedelem szerint német (Adelbert = nemes születésü) név nem felel meg a föntebbi régi magyar névnek, mert Adalbert inkább Bera, mint a palóczok nevezik. Bélára nézve pedig figyelmet érdemlőnek tartjuk, hogy noha azt némelyek a szláv `bél`, `bjél` (= fehér) szótól származtatják, azonban föltalálható ugyanazon gyök a latin `bellus`, s ettől kölcsönzött franczia `bel`, olasz `bello` szókban is, sőt mindezek rokonok a magyar vil elvont gyökkel, melyből világ (lux), régiesen és mai tájejtéssel is velág, továbbá villog, villan, stb. származott. Ezek szerint Béla annyit jelentene, mint szép, vagy fehér, villogó (régies részesülővel: villó, viló, vila, és Czech János tanusága szerént egy 1228-diki oklevélben csak ugyan fordul elő **Wela** = Béla. Jerney Magyar Nyelvkincsek).  
 - Az arab **Wael** férfinév is ehhez hasonló.
 
-A latin `albus`/`alba` =fehér (lásd [[A/Alba\|alba]] és [[A/Album\|album]]) szó a béla, szláv `belo`, `bjelo` szavak hangátvetett változata.  
+A latin `albus`/`alba` =fehér (lásd [[A/Alba\|alba]]) szó a béla, szláv `belo`, `bjelo` szavak hangátvetett változata.  
 Béla szó a palóc [[B/Bél\|Bél]]/[[B/Bál\|Bál]] Napisten nevéből képeztetett. (Legutóbb [[A/A\|A]] címnél volt arról szó, hogy a szóvégi – feleslegesnek tűnő – 'a' lehet névelő is.)  
 Fehérséget kifejező még a [[V/VASZ\|VASZ]] melyből lett a német `weiß` és angol [[W/White\|white]]. [[F/Fairy\|Fairy]] = tündér szó köthető [[F/Fehér\|fehér]]/fejér szavunkhoz. Az óperzsában [[K/Kutya\|kutya]] jelentéssel álló [[S/Saka\|saka]] a szanszkritban fehér jelentésű.  
 Többször felmerült, a görög `lykos` = fény és farkas és `leukos` = fehér szavak kapcsán is, hogy a [[K/Kutya\|kutya]] és a [[F/Farkas\|farkas]] nem kimondott állatnevek.  

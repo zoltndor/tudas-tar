@@ -1,7 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated"],"created":"2023-10-31T06:45","updated":"2024-04-05T19:04"}
+title: Barát
+foreignTitle: false
+aliases:
+  - barát
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg-created: 2023-10-31T06:45
+dg-updated: 2024-04-24T01:01
+dg_upload: VNC done
+dateCreated: 2022-12-14
+dateModified: 2024-04-24T01:01
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/B/Bar%C3%A1t.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/B/Bar%C3%A1t.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/B/Bar%C3%A1t.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/B/Bar%C3%A1t.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/B/Bar%C3%A1t.md
+danglinglink_commentedout: true
 ---
-
 
 # Barát
 
@@ -21,7 +40,7 @@
 [[R/Rama\|Rama]] címnél volt szó legutóbb a hindu mitológia különböző Bharatáiról. Szerepel [Bharata a Ramayanában](https://wikipedia.org/Bharata_(Ramayana)), de külön Wiki oldal foglalkozik a [Mahabharatából](https://wikipedia.org/Bharata_(Mahabharata)) ismert Bharatával (ha ezek nem egy és ugyanazok, legalább minőségben). ([[T/Taksony\|Taksony]] címnél előjön Bharata fiának, Takshának neve is.)  
 Viszont [[S/Saraswati\|Saraswati]] címnél előjön **Bharati**, mint hindu istennő, Saraswatival azonosítva.  
 Azt se feledjük, hogy Magyar Adorján szerint az avarok napistene Barata néven fut(hat)ott.  
-Az [[A/Avar\|avar]]oknál a Nap és a Tűz istensége, **Barata**, Varuk vagy Barisa és Páris neveken neveztetett, írja MA.  
+Az [[A/Avar\|avar]]oknál a Nap és a Tűz istensége, **Barata**, Varuk vagy Barisa és Páris neveken neveztetett, írja Magyar Adorján.  
 Nyilván nem az öreg, hanem a fiatal napisten neve volt. ([[R/Rama\|Rama]] címnél azt próbáljuk eldönteni, hogy melyik név utal a világos és sötét félévre.)  
 Aztán ott van a [[P/Pártus\|pártus]] címnél előjövő elnevezés (Parathas), melyről alant még lesz szó.  
 
@@ -75,7 +94,7 @@ Merésznek tűnhet a Bar-At szót a [[K/Kutya\|kutyá]]khoz vagy inkább [[K/Kut
 (Az olasz `bracco` = vadászkutya szó is hasonló, melyet szintén nehéz elhelyezni.)  
 Nagyon könnyen elképzelhető, hogy a német `freund`, angol [[F/Friend\|friend]] = barát szavakban is a BAR etimonhoz tartozó [[F/FER, FÉR\|FER, FÉR]] és a kún-germán `hund` (lásd [[H/Hound\|hound]]) = vadászkutya szavak összehúzását kell látni. [[O/Ond\|Ond]], ont, önt (ojt) szavak is elképzelhetőek benne, asztrális kutyanemzésről lévén szó.  
 [[T/Teremtő és teremtett\|Teremtő és teremtett]] szócikknél is volt szó a [[B/BAR\|BAR]] etimonról. Bar At lehet a Teremtő Adó, asztrális [[K/Kutyanemzés\|kutyanemzés]]re értve. Teremtett vonalon [[B/Barom\|barom]] = teremtmény. Azaz első körben volt egy primordiális [[N/Nimrud\|Nimrud]]-féle nemzés, mely a Naprendszerünket szülte, másodikként a Nap (talán szíriuszi Kutyacsillag segítségével) szülte az életet a bolygón.  
-A barát szóból több név és szó származhat: [[B/Britain\|Britain]], [[B/Bretagne\|Bretagne]], talán [[P/Portugál\|portugál]], míg az angol szavak közül [[B/Brat\|brat]], [[B/Betray\|betray]], [[B/Bird\|bird]], [[B/Bread\|bread]], [[B/Beard\|beard]], [[B/Bard\|bard]] és [[B/Bárd\|bárd]], valamint [[B/Board\|board]] stb.  
+A barát szóból több név és szó származhat: [[B/Britain\|Britain]]/Bretagne, talán [[P/Portugál\|portugál]], míg az angol szavak közül [[B/Brat\|brat]], [[B/Betray\|betray]], [[B/Bird\|bird]], [[B/Bread\|bread]], [[B/Beard\|beard]], [[B/Bard\|bard]] és [[B/Bárd\|bárd]], valamint [[B/Board\|board]] stb.  
 A spanyol `barato` (*fem*. `barata`) jelentése nyilván azért olcsó, olcsón, mert baráti áron adott: "Tiene algo más barato?" = "Van valami olcsóbb?"  
 A kelta-ír `barantas` = garancia. A G-B változás hasonló az [[U/Ugorka\|ugorka]] – [[U/Uborka\|uborka]] esethez.  
 
@@ -100,8 +119,8 @@ A barát szót [ezen](https://qr.ae/pNsjGC) Quora cikkbe is felírtam, továbbá
 > - `bread` (a Nap melegével sütött, a Nap testeként is fogyasztották; később, a kereszténységben corpus Christi néven);
 > - `beard` (a haj a napsugarakat jelképezi);
 > - `burn` szintén a B-R mássalhangzó alapja;
-> - a **Britannia** és **Bretagne** nevek (nem önmagában Indiából származnak, hanem) a Bar-At-On vagy Bar-At-An (Atya Nap az égen; a hun `an`-ból származik az `one` is; a magyar `ég` szóból is az egy számnév származik (`ég` > `egy`); ez azt jelenti, hogy egyistenhitű vallásaik voltak, és ezt nem a zsidók találták ki; a Napra Fiúként tekintettek, ahogy a főnévi alakok mutatják: `Sun` = `son`).  { #8f46ac}
-
+> - a **Britannia** és **Bretagne** nevek (nem önmagában Indiából származnak, hanem) a Bar-At-On vagy Bar-At-An (Atya Nap az égen; a hun `an`-ból származik az `one` is; a magyar `ég` szóból is az egy számnév származik (`ég` > `egy`); ez azt jelenti, hogy egyistenhitű vallásaik voltak, és ezt nem a zsidók találták ki; a Napra Fiúként tekintettek, ahogy a főnévi alakok mutatják: `Sun` = `son`).  
+^8f46ac
 - Kimaradt innen a balta r-hangos változataként számon tartható [[B/Bárd\|bárd]], a hajfonat [[B/Braid\|braid]] és akár a [[B/Bride\|bride]] szó, illetve akár a [[B/Breath\|breath]] szó is a sorba tartozhat.  
 A szanszkrit pedig csak a feljegyző nyelv, és nem is napistent jelent a név (a névadók nem szanszkrit nyelven beszéltek).
 

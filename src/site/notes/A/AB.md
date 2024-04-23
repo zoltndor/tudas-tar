@@ -1,27 +1,7 @@
 ---
-title: AB
-foreignTitle: false
-aliases:
-  - Ab
-  - ab
-status: dg_uploaded
-tags:
-  - Englishtexttranslated
-share: true
-dg-publish: true
-dg-created: 2023-10-20T05:11
-dg-updated: 2024-04-23T18:23
-dg_upload: VNC done
-dateCreated: 2022-12-14
-dateModified: 2024-04-23T18:23
-ghrepoURL:
-  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/A/AB.md
-  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/A/AB.md
-  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/A/AB.md
-  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/A/AB.md
-  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/A/AB.md
-danglinglink_commentedout: true
+{"dg-publish":true,"permalink":"/A/AB/","title":"AB","tags":["Englishtexttranslated"],"created":"2023-10-20T05:11","updated":"2024-04-24T00:53"}
 ---
+
 
 # AB
 
@@ -32,8 +12,8 @@ danglinglink_commentedout: true
 > Az is kétségtelen, hogy az Ab némely esetekben [[H/Hab\|Hab]] formát vehet fel. A Hab a vízzel, és más folyadékokkal kapcsolatos, a folyadékok felső részén helyezkedik el. Ilyen a Ser habja, vagy a Tej habja, amelyek a folyadék felszíne felett habzanak. A Hab talán a Ha-Ab, Háza a Víznek, fogalomból eredhet. A Hab tehát valószínűleg összefüggésben áll az Ab szóval.  
 - Megjegyzendő, hogy a Hab magyar szó a Ha-Ab összeolvadásából keletkezett, írja bátrabban másutt Péterfai.
 
-> Ismert Pandzs-Áb országa, amelynek jelentése Öt-Víz, Öt-Folyó, mivel ezt a területet valóban öt folyó öntözi. Az [[O/Ob\|Ob]] folyó neve is Ab volt eredetileg, csak az oroszok nevezik Obnak, mert nekik nincs tiszta 'A' hangjuk, valamikor elvesztették az idők sodrásában. Az `Abál` ige, 'l' magyar igeképzővel Vízben Főzni jelentésű. Kétségtelen tehát, az Ab jelentése Víz.  
-^4ea729
+> Ismert Pandzs-Áb országa, amelynek jelentése Öt-Víz, Öt-Folyó, mivel ezt a területet valóban öt folyó öntözi. Az [[O/Ob\|Ob]] folyó neve is Ab volt eredetileg, csak az oroszok nevezik Obnak, mert nekik nincs tiszta 'A' hangjuk, valamikor elvesztették az idők sodrásában. Az `Abál` ige, 'l' magyar igeképzővel Vízben Főzni jelentésű. Kétségtelen tehát, az Ab jelentése Víz.  { #4ea729}
+
 
 Lényegében itt is azt kell látni, mint másutt, ahogy [[F/Fény és anyag\|fény és anyag]] címnél össze is lett foglalva. Az "ahogy fent, úgy lent" értelmében egy szó (és variánsai) felső, hímségi jelentése a hímségi elementálokra, a tűzre, szélre (levegőre) utal (minden ami fenn van, az univerzumra, égre, csillagokra, Napra vonatkozik), míg az alsó értelem mindig víz vagy föld (elem) értelmű. [[H/Humour\|Humour]], [[R/Rain\|rain]], [[A/AK\|AK]] és számtalan más helyen volt erről szó.  
 

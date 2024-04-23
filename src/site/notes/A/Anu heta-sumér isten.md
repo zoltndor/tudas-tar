@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anu heta-sumér isten/","title":"Anu heta-sumér isten","created":"2024-04-20T10:57","updated":"2024-04-23T18:35"}
+{"dg-publish":true,"permalink":"/A/Anu heta-sumér isten/","title":"Anu heta-sumér isten","created":"2024-04-20T10:57","updated":"2024-04-24T00:54"}
 ---
 
 
