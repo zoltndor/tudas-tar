@@ -1,14 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arab nyelv/","title":"Arab nyelv","created":"2023-11-18T09:37","updated":"2024-03-03T23:02"}
+title: Arab nyelv
+foreignTitle: false
+aliases:
+  - arab nyelv
+status: dg_uploaded
+tags: []
+share: true
+dg-publish: true
+dg-created: 2023-11-18T09:37
+dg-updated: 2024-04-23T18:36
+dg_upload: VNC done
+dateCreated: 2022-12-14
+dateModified: 2024-04-23T18:36
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/A/Arab%20nyelv.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/A/Arab%20nyelv.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/A/Arab%20nyelv.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/A/Arab%20nyelv.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/A/Arab%20nyelv.md
+danglinglink_commentedout: true
 ---
-
 
 # Arab nyelv
 
 Nyilvánvalóan óegyiptomi-szemita eredetű, azaz magyar eredetű nyelv. Az [[A/Arab\|arab]] az avar-hun óegyiptomi nyelv szavaiból sokat eltárolt (például arab `fajr` = hajnal = [[F/Fire\|fire]], [[F/Fair\|fair]]; mellyel azonos az ír `fàire` = virradat szó; de van a hausa nyelvű `feri` = fehér eredete arab lenne?).  
 Igen feltűnő, hogy a [[G/Gyertya\|gyertya]] jelentésű szavak a germán és arab nyelvben azonosnak mondhatók: vö. holland `kaars`, német `kerze`, izlandi `kerti` és arab `qirât`.  
 Hasonló arab és germán nyelvek közötti egyezést láttunk már a [[S/SZAT\|SZAT]] címnél előjövő arab `sa'at` = idő, óra és német `zeit` = idő (melyet azóta [[T/Tide\|tide]] eredetével tisztáztunk) szavak, és a [[Y/Year\|year]] szónál bemutatott arab `jahr` = időtartam és német-angol `jahr`/`year` = év szavak kapcsán.  
-Arról [[P/Periwig\|periwig]] címnél esett szó, hogy a paróka azonos a magyar és az arab nyelvben. [[S/Szappan\|Szappan]] szavunk is szinte azonos az arabban (is).  
+ [[S/Szappan\|Szappan]] szavunk is szinte azonos az arabban (is).  
 Ki tudja, hogy mennyi arab-magyar (germán) egyezést lehetne találni az arab nyelv beható vizsgálatával. (Persze a hivatalos tudomány valószínűleg lesöpörné az egészet azzal, hogy az arab zsidó eredetű, vagy hogy Al Biruni és más indiai utazók hozták be az arab nyelvbe a híres indo-germán szavakat.)  
 Az arab nyelv szavait nagyon fontos lenne elemezni és erre pl. Rajki András arab etimológia szótára is jó szolgálatot tehet.  
 
@@ -37,7 +55,7 @@ Ha már szláv, a [[W/Wheel\|wheel]] és [[K/Kalács\|kalács]] címnél előjö
 
 Magyar [[Z/Zseb\|zseb]] szavunkkal azonos a bosnyák `dzsep` = zseb, melyet az arab `jayb` \[dzséjb\] szóra visznek vissza.  
 Az arab `dukān` = kis bolt nyilván olyan volt eredetileg, ahol [[D/Dochán\|dohány]]t árultak (hogy a perzsa `dochan` = füst lenne eredete, nos..., füstöt nem szoktak árulni).  
-Az iráni-kanadai YouTuber Bahador Alast bosnyák-arab szavakat hasonlító műsorából az arab `qafas` = ketrec lehet a mi [[H/Ház\|ház]] szavunk széthúzott változata (ahogy az [[A/Alcázar\|Alcázar]] is lehet [[K/KAS\|kas]]).  
+Az iráni-kanadai YouTuber Bahador Alast bosnyák-arab szavakat hasonlító műsorából az arab `qafas` = ketrec lehet a mi [[H/Ház\|ház]] szavunk széthúzott változata.  
 A `taawila` (asztal) = table = tábla azonosság rendben, de vajon az arabban friss jövevényszó?  
 
 [[M/Mészáros\|Mészáros]] címnél azt láttuk, hogy tökéletesen egyező szavakat találunk az arab és indo-európai nyelvekben is.  
