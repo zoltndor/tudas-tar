@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Árul/","title":"Árul","tags":["titleandheadingonedontmatch"],"created":"2024-04-20T11:28","updated":"2024-04-23T18:07"}
+{"dg-publish":true,"permalink":"/A/Árul/","title":"Árul","tags":["titleandheadingonedontmatch"],"created":"2024-04-20T11:28","updated":"2024-04-24T00:59"}
 ---
 
 
