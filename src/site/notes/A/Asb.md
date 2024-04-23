@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2024-04-05T19:01"}
+{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2024-04-23T18:44"}
 ---
 
 
@@ -36,7 +36,11 @@ De a szanszkrit nyelvben összefüggés látszik a ló és a kutya nevei közt. 
 [[K/Kuda\|Kuda]] címnél már találkoztunk a kutya és ló azonos szóalakjával és [[E/Epona\|Epona]] névalakja kapcsán is feltételeztük, hogy a ló IE neve [[E/EB\|EB]] eredetű lehet; a fentiek oda is betéve.  
 
 [[C/Crucifixion\|Crucifixion]] címnél is szerepelt:  
-A felfeszítés tehát a [[V/Világfa\|világfá]]n történik, azaz olyan pillanatban, amikor a Tejút bizonyos elágazásaihoz, kapuihoz érkezik a Nap (látszólagosan). Egyrészt tehát szó van kozmológiai téridő-stációkról, melyek korszakváltozásokkal járnak, másrészt szó van a táltos tölgyfájánál végzett szertartásáról, valamint a (lovas) temetkezési szokásokról: az egyszerű halandók a Napot követve akasztatnak fára ([[E/Életfa\|életfá]]ra = Tejút; lásd még folyók mellé temetkezés szokását is), például ahogy Varga Zsigmond Az ősmagyar mitológia című könyvében is írja:  
+A felfeszítés tehát a [[V/Világfa\|világfá]]n történik, azaz olyan pillanatban, amikor a Tejút bizonyos elágazásaihoz, kapuihoz érkezik a Nap (látszólagosan). Egyrészt tehát szó van kozmológiai téridő-stációkról, melyek korszakváltozásokkal járnak, másrészt szó van a táltos tölgyfájánál végzett szertartásáról, valamint a (lovas) temetkezési szokásokról: az egyszerű halandók a Napot követve akasztatnak fára ([[E/Életfa\|életfá]]ra = Tejút; lásd még folyók mellé temetkezés szokását is), például ahogy...
+
+#### Varga Zsigmond Az ősmagyar mitológia...  
+
+...című könyvében is írja:  
 > Az altáji népek, míg halászó és vadászó életmódot folytattak, halottaikat erdőkbe, ligetekbe, elhagyott helyekre, ún. priccsekre, vagyis 3 vagy 4 lábú emelvényekre \[ezért [[D/Dolmen\|dolmen]] címnél is szerepelt ez\] tették ki, amely temetési mód még ma is dívik a halászó-vadászó életmódot folytató északszibériai törzseknél.  
 > Amely népek azonban áttértek a nomád állattenyésztésre, azok **halottaikat a fákra akasztották ki**. Régi útleírók megerősítik e szokás jelenlétét, de még csattanósabb bizonyíték mellette, hogy a jakutok, tunguzok, és az altáji tatárok még ma is ezt gyakorolják. A tatárok azonban a fákra aggatás előtt lenyesik a fák ágait, hogy a halott ne tudjon róla lemászni. Pland Carpini azt írja, hogy a tatárok főnökeiket titokban temetik el, lovával, lószerszámával együtt. A fa mellé [[A/Asztal\|asztal]]t helyeznek, amelyre húst, és [[T/Tej\|tej]]et tesznek. 1-2 lovat is megáldoznak halotti lakoma céljaira. Ismételjük tehát, hogy a cölöpös, priccses temetés az északi halászó-vadászó kultúrához, a fákra való kiakasztási mód ellenben a harcos nomád kultúrához tartozik.
 
@@ -59,7 +63,7 @@ Még egy dologra érdemes felhívni a figyelmet, arra, hogy egyes nyelvekben [[A
 Az angolszász nyelvben törzsfő, herceg jelentéssel megadott [[M/Magoræswa\|magoræswa]] utórésze feltűnően hasonlít az `asb` = ló alakú szóra, azaz eredetük közös lehet. A Quorára tett fő cikkemben megírtam miről lehet itt szó:  
 > I understand `áśva` and `asb` mean horse in the East but it is not the original meaning: Huns and Magyars were forever atop their horses because the Horse was a symbol of the Milky Way which was also called the Ashen Path: [[A/Ash\|ash]]. [[A/Ász\|Ász]] meant Light, Ancestor, God in the old language (in Germanic mythology as well).  
 > —  
-> Értem, hogy `áśva` és `asb` lovat jelent keleten, de nem ez az eredeti jelentés: a hunok és a magyarok örökké a lovaikon ültek, mert a ló a Tejút szimbóluma volt, amit Hamuútnak is neveztek: [[A/Ash\|ash]]. Az [[A/Ász\|Ász]] a régi nyelvben (a germán mitológiában is) Fényt, Őst, Istent jelentett.  
+> Értem, hogy `áśva` és `asb` lovat jelent keleten, de nem ez az eredeti jelentés: a hunok és a magyarok örökké a lovaikon ültek, mert a ló a Tejút szimbóluma volt, amit Hamuútnak is neveztek: (angol) [[A/Ash\|ash]]. Az [[A/Ász\|Ász]] a régi nyelvben (a germán mitológiában is) Fényt, Őst, Istent jelentett.  
 
 Az óind `asva` szóval egyező az arab `aswa`[^2] = fallosz, mely már [[N/Nimrud\|Nimrud]]ra utalhat.  
 
@@ -83,7 +87,7 @@ A két jegy a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]en egymással szem
 
 ## A latin equus az indo-iráni asva/asb rokona?
 
-Közben észrevettem, hogy PJI-nek is köszönhetően az indo-iráni szónak feladtam az equus/aqwa szavakkal való azonosíthatóságát és mindkét szót külön elemeztem?  
+Közben észrevettem, hogy Péterfainak is köszönhetően az indo-iráni szónak feladtam az equus/aqwa szavakkal való azonosíthatóságát és mindkét szót külön elemeztem?  
 
 Amennyiben közös nevező alá vesszük őket, akkor hasonló esetet látunk, mint az [[A/Asszony\|asszony]] szavunk esetében. Ott is volt olyan értelmezés, ami szerint előrésze Ah/Ak/Ég, mely az equus eredeti elgondolás szerinti eredete.  
 
