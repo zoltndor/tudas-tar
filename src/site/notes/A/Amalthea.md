@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Amalthea/","title":"Amalthea","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T05:35","updated":"2024-04-23T18:33"}
+{"dg-publish":true,"permalink":"/A/Amalthea/","title":"Amalthea","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T05:35","updated":"2024-04-24T00:54"}
 ---
 
 
