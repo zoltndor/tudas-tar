@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["Englishtexttranslated"],"created":"2023-10-11T04:44","updated":"2024-04-18T03:27"}
+{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["Englishtexttranslated"],"created":"2023-10-11T04:44","updated":"2024-04-27T00:09"}
 ---
 
 
@@ -75,8 +75,9 @@ A vélhetően [[A/Ágas\|ágas]] szavunkból erődjei szanszkrit `akasha` = ég 
 
 A tölgy párja a [[B/Bükk\|bükk]]fa, szintén Világfa-jelkép. Ugyan Aczél József adata szerint az ógörögben `fagosz` = bükk(fa), ezt a szót ma már nem használja a görög, helyette az `oξιά` (oksziá) = bükkfa és `ξύλο` (kszúlo) és `oξιάς` (oksziász) = bükk(fa faanyaga) szavakat használja. Ezen szavak igen hasonlóak a tölgy angol nevéhez (Oxford nem rokonít), de a Péterfai János által elemzett [[O/Oxus\|Oxus]] névhez is.  
 
-De ha már ennyire ragaszkodunk **a germán Ok alakú szóhoz, nem szabad kihagyni, hogy a japáni `ōku` = tölgy azonos a germánnal**.  
+
 A Falk Nóra által adatolt északi lapp `oaksi` = ág is tökéletesen megfelel mind a magyar, mind a taglalt angol szónak. Az északi lapp `áksán` = agancs(ozat), agancskorona jelentésű.  
+
 
 Az [[O/Oxygen\|oxygen]] és [[O/Oxymoron\|oxymoron]] szavaknál is előjövő [[O/OK\|OK]], [[O/OG\|OG]] etimonok kapcsán vetődött fel, hogy a bükk- és tölgyfákkal azonosuló [[V/Világfa\|világfá]]k egyben világtengelyek is; így lehet, hogy [[A/Axis\|axis]] = tengely (és a [[H/Hamlet malma\|Hamlet malma]] és [[H/Honey\|honey]] címnél előjövő perzsa `ās`, `āsiyā` = malom(kő)) szavak összefüggenek.  
 Előjött még [[O/Oxter\|oxter]] = hónalj jelentésű szónál is.  
