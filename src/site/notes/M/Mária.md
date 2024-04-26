@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2024-04-05T19:30"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2024-04-27T00:19"}
 ---
 
 
@@ -191,7 +191,7 @@ A következő sorokból [[T/Tigris\|Tigris]] és [[U/Urgula\|Urgula]] valamint [
 - Folytatást lásd [[M/Magyar Ilona\|Magyar Ilona]].  
 
 [[B/Babba Mária\|Babba Mária]] címnél szó volt Jámbor János Az ősi Boldogasszony tisztelet című cikkében kifejtett Ma-Ri-A felbontásról:  
-Mária sumér-arámi összetett szó. [[M/MA\|MA]] (aMA) jelentése "Égi Anya", [[R/RI\|RI]] egyenlő eredet, eredő, valahonnét származó kifejezésekkel, az A pedig meghatározó rag, ami a mai nyelvünkben a határozott névelővel azonos. MA-RI-A neve tehát "Égi Anyától Származó".  
+> Mária sumér-arámi összetett szó. [[M/MA\|MA]] (aMA) jelentése "Égi Anya", [[R/RI\|RI]] egyenlő eredet, eredő, valahonnét származó kifejezésekkel, az A pedig meghatározó rag, ami a mai nyelvünkben a határozott névelővel azonos. MA-RI-A neve tehát "Égi Anyától Származó".  
 
 Ha már itt tartunk, [[B/Babba Mária\|Babba Mária]] címnél tértem ki arra, hogy Babba név [[B/Baba\|baba]] = tündér = szűz vagy [[B/Bába\|bába]] értelmű is lehet, vagy mindkettő egy személyben adja ki Babba Mária alakját. A kérdés már csak az, hogy a Babba Mária névben a Mária név a kereszténység terjedésével vagy felvételével került használatba (ez a valószínűbb), vagy ez egy őseredeti név a Magyar-ia rövidítéseként.  
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csűr/","title":"Csűr","created":"2023-10-23T02:34","updated":"2024-02-15T01:58"}
+{"dg-publish":true,"permalink":"/C/Csűr/","title":"Csűr","created":"2023-10-23T02:34","updated":"2024-04-27T00:14"}
 ---
 
 
@@ -13,7 +13,7 @@
 > A fenti jelentésekből egyértelműen megállapítható, hogy a `sur`, `šur` csupán a `gur₂`, `kur₂` sziszegő hangú, mondhatnánk "satem" hangalakú szinonim variációja (l. I. könyv 140-142. és 187-188. old. is). Nem lesz érdektelen, ha összehasonlításképpen közbevetőleg röviden áttekintjük a fenti magyar szavak származtatását a TeSz szerint:  
 > - félszer, fészer (Schuppen): a fél (halb) és a szer "sor, oldal" összetétele;  
 > - csűr (Scheune, Tenne): bajor-osztrák vagy középnémet jövevényszó (annak ellenére, hogy második jelentése "Tenne", azaz szérű!);  
-> - [[C/Cserény\|cserény]] (Hürde, Flechtwerk): valószínűleg származékszó; egy feltehetőleg a sző ige családjába tartozó \*ser ~ \*sir ~ \*sür igéből jöhetett létre.  
+> - cserény (Hürde, Flechtwerk): valószínűleg származékszó; egy feltehetőleg a sző ige családjába tartozó \*ser ~ \*sir ~ \*sür igéből jöhetett létre.  
 
 [[B/Barn\|Barn]] szónál írtuk, hogy akár [[M/MAG\|mag]]tárnak, [[S/Szín\|szín]]nek, csűrnek fordítjuk, mindegyik szavunk tartalmazza a fényt, azaz csillag (Nap) neveket. [[B/BAR\|BAR]] szintén a Nap neve.  
 A csűr az a hely, ahol a fényt tároljuk. Az anyag a fényt is tartalmazza, általa válik élővé, láthatóvá (eszközzé az élet(ünk) számára).  

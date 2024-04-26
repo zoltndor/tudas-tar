@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2024-04-05T19:17"}
+{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2024-04-27T00:06"}
 ---
 
 
@@ -20,7 +20,7 @@ Másutt bővebben kifejti Péterfai János a család fogalmát:
 ...című az Ősi Gyökér 2018/1-2. sz. megjelent cikkének [[M/Maros\|Maros]] címnél (ott bővebben) is szereplő adatsorában is rokonít:  
 > A Hold, alakváltozása és a Naphoz viszonyított helyzete következtében többször is "súghatott" elődeinknek, nem egy szavunk megalkotásakor. Például:  
 > - A Hold [[H/Halad\|halad]], míg a Nap poroszkál;  
-> - A fogyó Hold (h)-[[O/Olu\|olv]]ad az "ég vizében";  
+> - A fogyó Hold (h)-`olvad` az "ég vizében";  
 > - Napfelkeltekor a fogyó Hold fel[[O/Old\|old]]ja alsóvilági fogságából a fény hordozóját, miközben feláldozza magát a Nap tüzében;  
 > A hal formájú égitest halálakor elődeink feltehetőleg [[H/Hála\|hálá]]ból (h)-[[A/Áld\|áld]]ozatot mutattak be;
 > - Naplementekor a fogyó Hold ki[[O/Olt\|olt]]ja társa tüzét.  

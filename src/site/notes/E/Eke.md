@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/E/Eke/","title":"Eke","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-20T01:30","updated":"2024-04-05T19:12"}
+{"dg-publish":true,"permalink":"/E/Eke/","title":"Eke","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-20T01:30","updated":"2024-04-27T00:04"}
 ---
 
 
 # Eke 1)
 
-[[E/ÉK\|Ék]] és [[A/Aga\|aga]] szavakat láttatja benne MA. A német `egge` = boronáló egyezik vele.  
+[[E/Ék\|Ék]] és [[A/Aga\|aga]] szavakat láttatja benne Magyar Adorján. A német `egge` = boronáló egyezik vele.  
 
 #### Péterfai János írja:
 

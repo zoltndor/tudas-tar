@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Idegen/","title":"Idegen","tags":["dg_uploaded"],"created":"2023-10-20T10:02","updated":"2023-10-25T01:36"}
+{"dg-publish":true,"permalink":"/I/Idegen/","title":"Idegen","created":"2023-10-20T10:02","updated":"2024-04-27T00:22"}
 ---
 
 
@@ -17,10 +17,10 @@ Idegen lehet Id-Eg-En Isten Egének Énje értelmű, [[I/Ideg\|ideg]] címnél �
 
 > Az Ideg az Id részünk, ami Ég, amíg élünk, az Id-Eg-En pedig az Idünk Égésének Enje, hasonló az Id-Eg-Es szóhoz, amit általában valami ismeretlen lény vagy dolog idéz elő.  
 
-Érdekes egyébként, de nyilván véletlen, hogy az idegen szóban úgy szerepel [[I/Ideg\|ideg]] = húr, mint ahogy a [[S/Strange\|strange]] = idegen, furcsa szó hasonul a [[S/String\|string]] (és [[S/Strong\|strong]]) szavakhoz.  
+Érdekes egyébként, de nyilván véletlen, hogy az idegen szóban úgy szerepel [[I/Ideg\|ideg]] = húr, mint ahogy a `strange` = idegen, furcsa szó hasonul a [[S/String\|string]] (és [[S/Strong\|strong]]) szavakhoz.  
 
 Idegen a [[V/Vándor\|vándor]] fogalmához hasonlóan sok helyen előjön, így érdemes is lenne összeszedni, akár az indexelt keresést használva mindent erről a témáról.  
-Úgy tűnik, hogy az, hogy egyik nép a másikat idegennek tartja, valójában ősi, a Tejútfolyam két partjára kerülésük és az ezen felfogás alapjának vehető csillagászati háttér miatt van, ahogy erről [[H/Hunor és Magor#Hun/Kut(a)/Szkíta és Magyar nevek és névváltozatok és egymás melletti illetve egymással szembeniségük vizsgálata\|Hun/Kut(a)/Szkíta és Magyar nevek és névváltozatok és egymás melletti illetve egymással szembeniségük vizsgálata]] cím/alcím alján is írtam. Minden idegennel kapcsolatos infót hirtelen lásd [[A/Ahriman\|Ahriman]], [[J/Jón\|jón]], [[M/Migrate\|migrate]], [[P/Palesztina\|Palesztina]] és több más címnél, ahol szóba jöttek ilyen jelentéssel magyaros és hungáros alakú nevek.  
+Úgy tűnik, hogy az, hogy egyik nép a másikat idegennek tartja, valójában ősi, a Tejútfolyam két partjára kerülésük és az ezen felfogás alapjának vehető csillagászati háttér miatt van, ahogy erről [[H/Hunor és Magor#Hun/Kut(a)/Szkíta és Magyar nevek és névváltozatok és egymás melletti illetve évköri egymással szembeniségük vizsgálata\|Hun/Kut(a)/Szkíta és Magyar nevek és névváltozatok és egymás melletti illetve egymással szembeniségük vizsgálata]] cím/alcím alján is írtam. Minden idegennel kapcsolatos infót hirtelen lásd [[A/Ahriman\|Ahriman]], [[J/Jón\|jón]], [[M/Migrate\|migrate]], [[P/Palesztina\|Palesztina]] és több más címnél, ahol szóba jöttek ilyen jelentéssel magyaros és hungáros alakú nevek.  
 Ugyebár elvileg a sötét félévet képviselők irányában fejezhetnek ki szembenállást, így a hun a [[H/HAN\|HAN]] és más címeknél taglalt fogalmakat elnézve mindig is esélyes, hogy idegen nyelvekben ilyen negatív értelmeket hordozzon.  
 
 Hogy a fentiek alapján idegen lehet-e eztán a (főleg [[K/Khamor\|Khamor]] címnél és azóta új alcímjeinél és másutt, például [[I/Íj csillagkép\|Íj csillagkép]] címnél taglalt) nyári Íjazó/Nyilazó ívére/íjára, és annak idegére utaló, ez elég valószínű, tekintve, hogy a lovasíjász népeink nyelvét és szavait örökölte (hanyatlott formában) mindenki és ezen ősnyelv a lovas és íjas szimbolikát az égre is helyezte (lásd például [[K/Kantár\|kantár]] szavunkat).  

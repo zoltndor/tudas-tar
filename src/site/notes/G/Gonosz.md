@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gonosz/","title":"Gonosz","created":"2023-10-06T12:12","updated":"2024-02-02T02:31"}
+{"dg-publish":true,"permalink":"/G/Gonosz/","title":"Gonosz","created":"2023-10-06T12:12","updated":"2024-04-27T00:05"}
 ---
 
 
@@ -33,9 +33,9 @@ A japán `kanashii` mellett a [[K/Kanász\|kanász]] nevünk gonosz alakú.
 ...című az Ősi Gyökér 2009/4. sz. megjelent meseelemzésében a [[Z/Zöld király mese\|Zöld király mesé]]ben működő gonoszt hosszasan elemzi: bőven taglalja a világunkba befészkelő, ügyeskedő, hazudozó, csinált fénnyel játszó gonoszt, majd ezt írja:  
 > A gonosznak nincsen célja, mert akinek célja van, az alkot. A gonosznak programja \[[[Jehova-program\|[Jehova-program]] találó elnevezés is volt\] van. A gonosz visszafelé irányít, és arra van beprogramozva, hogy Isten művét megsemmisítse. Ez tehát nem cél, hanem program. Úgy hajtják végre, hogy van egy forgatókönyvük, melynek pontjait teljesítik és kipipálják \[mint tették a Covid-protokollban\]. Ennek a módszernek van hibahatára. Ezt a gonosz tudja és kábítással, varázslattal, kápráztatással leplezi a hatást. A határ azonban ettől még megvan, s akin nem fog a gonosz kábítása, varázslata, káprázata az észreveszi, hogy a gonosz nem tudja átlépni a határt. Mert a gonosz csak gyors, ügyes, okos tehetséges, sőt zseniális, de hiányzik lelkéből az égi fény.  
 
-A gonosz ezenfelül a materiális javaknak sincs híján; testi erejének latbavetése kapcsán írja még GYÁ:  
+A gonosz ezenfelül a materiális javaknak sincs híján; testi erejének latbavetése kapcsán írja még Gyárfás:  
 > Ólomszérű Üres álmok lapos helye, a földbedöngölés helye, a fölösleges erőlködések helye. A gonosz, brutálisan testi erő fölényével akarja legyőzni a jót. A csodaital pár cseppje, azonban nagy erőtöbbletet biztosít a hősnek. Üzenet: Az isteni csoda, a lélekerő a gyengét is vasgyúróvá teheti.  
 
-Gyárfás Ágnes A király virágoskertje című az Ősi Gyökér 2015/1-2. sz. megjelent meseelemzésében (lásd [[A/A király virágoskertje mese\|A király virágoskertje mesé]]t) főleg a gonosz és a gonosz módszereinek bemutatására helyezi a hangsúlyt. Lásd ott (tanulságos, már-már Pap Gáboros szempontok alapján mutat rá a modern kor ártalmaira).  
+Gyárfás Ágnes A király virágoskertje című az Ősi Gyökér 2015/1-2. sz. megjelent meseelemzésében főleg a gonosz és a gonosz módszereinek bemutatására helyezi a hangsúlyt.   
 
 A gonosz működési elvével szemben az [[E/Erkölcs\|erkölcs]]ös viselkedést is lásd még.  

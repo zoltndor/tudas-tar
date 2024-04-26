@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2024-04-18T03:30"}
+{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2024-04-27T00:21"}
 ---
 
 
@@ -9,7 +9,7 @@ Sziget a Nap Tája értelmet adja, de mivel minden Napnévnek van extra hímség
 
 #### Péterfai János is írja:  
 
-> Sziget szavunkban a Szig a Nap neve, a Szik párja. A Szig-Et második része Föld, Hely értelmű, megfelelően a Ta jelentésének. A Sziget kiemelkedő a vízből, továbbá a többi földtől elválaszott, vagyis Szigetelt terület. A Szigetel ezért elválasztó. De a Szig, mint Nap, azt is jelenti, hogy az Égi Szigetek szintén napok, vagyis a csillagok a Nap testvérei. Nehéz nem gondolni arra, hogy az Égi Szigetek a magyarok, és az emberiség őshazája is lehet! Továbbá a Sziget lehet ország is, Mezopotámia, Alsó-Egyiptom, Kárpát-medence, és más területek.  
+> Sziget szavunkban a Szig a Nap neve, a Szik párja. A Szig-Et második része Föld, Hely értelmű, megfelelően a Ta jelentésének. A Sziget kiemelkedő a vízből, továbbá a többi földtől elválasztott, vagyis Szigetelt terület. A Szigetel ezért elválasztó. De a Szig, mint Nap, azt is jelenti, hogy az Égi Szigetek szintén napok, vagyis a csillagok a Nap testvérei. Nehéz nem gondolni arra, hogy az Égi Szigetek a magyarok, és az emberiség őshazája is lehet! Továbbá a Sziget lehet ország is, Mezopotámia, Alsó-Egyiptom, Kárpát-medence, és más területek.  
 - De lehet (elsődlegesen) égi terület is, mint a mellékelt, másutt is szereplő képen.  
 ![assets/Sziget_image1.png|invert_dark](/img/user/S/assets/Sziget_image1.png)  
 
@@ -66,7 +66,7 @@ Másutt jelentőségteljesebben:
 
 Ami [[R/Remese\|remese]] címnél is szerepelt (saját kútfőből):  
 A végbéltraktus helyét a Skorpióba teszik a mitográfusok, tehát a kis éves időkörben a születés/feltámadás előtti stációnál járunk. A has/gyomor, végbél és végbélnyílás nyilvánvalóan a méh, szülőcsatorna-hüvely és vulva fogalmakkal egyeztethető és vélhetően azért volt szükség erre az analógiára, mert a Napgyermek apja nem (szabad, hogy) ismert(té váljon), nem fontos vagy mert a [[S/Száj\|száj]] címnél is taglalt primordiális önnemzés fogalmát akarták ide venni[^6].  
-A [[S/Skorpió csillagkép\|Skorpió csillagkép]] címnél is szereplő adatsorban Jankovics Marcell érdekes megfeleltésekkel hozakodik elő:  
+A [[S/Skorpió csillagkép\|Skorpió csillagkép]] címnél is szereplő adatsorban Jankovics Marcell érdekes megfeleltetésekkel hozakodik elő:  
 > Az asztrológiában a Skorpió a "zodiákus ember" testén az ivarszervek és a végbéltraktus helyére esik, így lett ezek védnöke, a nemi bajokért felelős csillagkép, majd jegy. Ez a képzet is magában hordja az újjászületés[^7] ígéretét. De ez a kép nemcsak a zodiákus emberre vonatkozik; a két isteni kör, Nut (a Tejút) és Géb (az Állatöv) itt nemző aktusban keresztezi egymást, s **a Tejút az égnek ezen a részén két ágra szakad**; **a Skorpió fölött és alatt az ágak két hasadékot, "nyílást" fognak közre eleink fölfogása szerint: a tejútistennő vulváját és végbélnyílását**. Adott összefüggésben az utóbbi a halál színtere (a pokol tornáca), az előbbi az újjászületésé.  
 
 A két hasadékot másutt is említi (talán a Hegy Úrnője címből vagy más, megalapozott adatból kiindulva – [[N/Ninhursag\|Ninhursag]]ot olyan Tejútistennőnek tartja, mint amilyen [[N/Nut\|Nut]] volt Egyiptomban):  
@@ -141,10 +141,10 @@ A nőiségi-princípium [[K/Kehely\|kehely]] (= [[H/Hüvely\|hüvely]]) alakot f
 > Istenfia Élet jelképe, megjelenítője az Áldott Nap valóban az Életfa ágába "kapaszkodik", s így "látogatja" meg földünket, fényt, életet árasztva, önmagát sokszorozva életet teremt.  
 > A pásztor földbeszúrt botja végén megjelenő új nap az anyag és erőny teremtő egyensúlyát tökéletesen kifejezve a Teremtő Istenre emlékeztet éppen úgy, mint a villás fa két ága, vagy a kiskapu keretében megjelenő áldott Fény is a születés szent ajándékát fejezi ki, legyen e születés emberfia születése, vagy csillagé, vagy világmindenségé. Itt emlékeztetni kell önmagunkat, hogy a világ templomainak szárnyas-oltárai \[lásd [[A/Altar\|altar]]\] magyar eredetűek, s a kiskapu székely kapu – egyszerűbb keretek között a zöldág, villás ág, a Csodaszarvas agancsa övezte, vagy a Turul szárnyán lebegő Istenfia megjelenési helye jelképének késői unokái.  
 
-Komoróczy Géza Gilgames – Agyagtáblák üzenete című könyvében [[T/Tilmun\|Tilmun]]nál ugyan említi a földrajzi Bahreint, de amikor arról ír, hogy ez volt a sumér vallásos képzetek "Boldogok Szigete," ahol az aranykor-mítoszok is játszódtak, akkor önkéntelenül is a fentebb írott sorok jutnak eszünkbe. Ráadásul a Gilgames-eposzban [[H/Hierogamy\|szent nász]]ról is szó van. Ráadásul a boldog Boldogasszony nevében is szerepel és görög (plusz óegyiptomi és héber) hagyományok szerint is a `Makar` = boldog a Boldogasszony [[M/Magyar\|magyar]] nevéből származik (azt pedig már láttuk [[G/Göd\|Göd]] címnél is, hogy a Tejútanya-nevek szeméremrészükre utaló nevek is lehetnek). Ez a Boldogok Szigete tehát az a hely, ahol a lelkek születnek. Ezért jelent makor ősforrást a héberben (ezért lehet Hargita szerint Mária nagyapja neve is Makhor). Erről legutóbb [[M/Magyar\|magyar]] címnél, a Visnu-purána Maitréja-nál is volt szó.  
+Komoróczy Géza Gilgames – Agyagtáblák üzenete című könyvében [[T/Tilmun\|Tilmun]]nál ugyan említi a – vele tévesen(?) azonosított – földrajzi Bahreint, de amikor arról ír, hogy ez volt a sumér vallásos képzetek "Boldogok Szigete," ahol az aranykor-mítoszok is játszódtak, akkor önkéntelenül is a fentebb írott sorok jutnak eszünkbe. Ráadásul a Gilgames-eposzban [[H/Hierogamy\|szent nász]]ról is szó van. Ráadásul a boldog Boldogasszony nevében is szerepel és görög (plusz óegyiptomi és héber) hagyományok szerint is a `Makar` = boldog a Boldogasszony [[M/Magyar\|magyar]] nevéből származik (azt pedig már láttuk [[G/Göd\|Göd]] címnél is, hogy a Tejútanya-nevek szeméremrészükre utaló nevek is lehetnek). Ez a Boldogok Szigete tehát az a hely, ahol a lelkek születnek. Ezért jelent makor ősforrást a héberben (ezért lehet Hargita szerint Mária nagyapja neve is Makhor). Erről legutóbb [[M/Magyar\|magyar]] címnél, a Visnu-purána Maitréja-nál is volt szó.  
 
 [[O/Ogygia\|Ogygia]] is úgy tűnik, ha nem általán a Tejútra, akkor annak eme sziget részére utal.  
-[[A/Akhilleusz\|Akhilleusz]] címnél volt szó azon Robert Graves által említett szigetekről ('Silver Island' or 'White Island', or 'Revolving Island'), melyek erre a szigetre utalnak.  
+[[A/Akhilleusz\|Akhilleusz]] címnél volt szó azon Robert Graves által említett szigetekről ('Silver Island' or 'White Island', or 'Revolving Island' – "Ezüst-sziget" vagy "Fehér-sziget", vagy "Forgó-sziget"), melyek erre a szigetre utalnak.  
 
 Ha már görög, a [[S/Szümplegádok\|szümplegádok]] (asszociációs jelentése) hegyek, mégpedig olyanok, melyekről [[V/Világhegy\|Világhegy]] és [[M/Meru\|Meru]] címnél is volt szó. És hol található az égen? Ahogy Bakos Attila A Duna Evangéliuma című könyvének 105. oldalán is írja, Skorpió-emberek vigyázzák a bejáratát (a szümplegádok kapuk, ahogy John M. Jenkins is írja). Azaz itt a Tejútközpontról van szó, mely lehet lyuk is, barlang is, de hegy (valójában kapu) is. Ezen témáról volt már szó [[M/Meru\|Meru]]-nál négy folyó kapcsán is. (John Major Jenkins Galactic Alignment c. könyvének 169. oldalán a [[M/Meru\|Meru]] csúcsát a Nyilas-béli Tejútközpontba teszi.)  
 Pedig én bugyi emlékeztem, hogy itt sziget címnél is tárgyaltuk korábban ezt a témát (lehet, hogy [[S/Szikla\|sziklá]]val kevertem).  
@@ -172,8 +172,9 @@ A Tejútelágazás ágai a közös kapocs, sőt, mivel ott a Tejútközpont, a [
 Mivel Péterfai János Atlantiszról szóló írásában ezen nevet a Komjáthy István Mondák könyve című könyvében is előadott "Világ Rámájának Aranyos Szegelete" c. monda kapcsán úgy érinti, mint [[A/Atlantisz\|Atlantisz]]ra vonatkozó nevet, könnyen lehet, hogy Atlantisz neve is a Tejút-szigetre utaló név.  
 Ennek tükrében At-Lan-Tisz végződése [[T/Tűz\|tűz]], mely a [[V/Vulva\|vulva]] tüze. Az Az-Lány-Tüze vagy Atya-Lánya-Tüze (nem elfeledve, hogy állítólag [[A/ATA\|ATA]] lehet nőiség is) olvasatok nyilván merészek, de nem elképzelhetetlen, hogy ilyen irányban kell keresgélni.  
 
-#### Péterfai János értelmezése szerint Atlantiszról van szó, azaz földrajzi síkon gondolkodik:  
+#### Péterfai János...
 
+...értelmezése szerint Atlantiszról van szó, azaz földrajzi síkon gondolkodik:  
 > A Világ Aranyos Szegellete messze Nyugaton volt. Ez a mítosz nagy pontossággal leírja a magyarok Nyugati őshazáját. Olyan országról beszél, amelyik a szárazföldtől, Európától nyugatra terült el, az óceánban, egy szigeten, avagy szárazföldön. A magyar mítoszokban megjelölt földrész a nyugati óceánban maga Atlantisz.  
 > A "Világ Aranyos Szegellete" mítosz a magyarok egyik eredetmondája. Még a legrégebbi időkben, amikor még emberek sem éltek a Földön, Arany Atyácska, a Világegyetem Teremtője, és felesége, Ezüst Boldogasszony, nagy egyetértésben teremtették a tejútakat, csillagokat, bolygókat, holdakat. Egyszer aztán egy csodálatosan szép bolygót teremtettek, amelynek a Nyugati-óceán nevű területén nagy szigetet, vagy földrészt hoztak létre. Ennek a földrésznek a neve volt a Világ Aranyos Szegellete.  
 - Folytatást lásd [[B/Bibliai teremtéstörténet\|bibliai teremtéstörténet]] címnél.

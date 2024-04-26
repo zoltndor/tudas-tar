@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Väinämöinen/","title":"Väinämöinen","tags":["dg_uploaded"],"created":"2023-10-15T02:43","updated":"2023-10-25T02:21"}
+{"dg-publish":true,"permalink":"/V/Väinämöinen/","title":"Väinämöinen","created":"2023-10-15T02:43","updated":"2024-04-27T00:07"}
 ---
 
 
@@ -40,7 +40,7 @@ Ami a nevet illeti, [[V/Vaj\|VAJ]] a [[V/VAK\|VAK]] és [[J/JÁK\|JÁK]] címné
 A Hamlet Malmának VIII. fejezetéből:  
 > A kovács a kozmosz isteni "archi-tektonjának" törvényes örököse. E típus számos képviselője, akiket Deus Fabernek nevezünk, megtartja mindkét funkcióját, azaz építész és kovács egyszerre, mint például a görög [[H/Héphaisztosz\|Héphaisztosz]], aki az istenek csillagházait építi és mestermunkákat kovácsol, vagy a rósz-samrai Kosorr-va-haszusz, aki Baál palotáját építi és szintén alkot műremekeket.  
 > A jakutok állítják: "Kovács és Sámán ugyanabból a fészekből származnak", és hozzáteszik: "a Kovács a Sámánnak a bátyja", ami igaz lehet Väinämöinenre is, hiszen párja Ilmarinen, aki állítólag "összekovácsolta az ég tetejét". Ő az ősidők kovácsa, aki – mint tudjuk – a Szampót készítette, de Észtországban ő kovácsolta az eget és az égitesteket is. Nem puszta fantázia, hogy az égi kovács képviselőjét, a Királyt magát is "Kovácsnak" címezik.  
-- A Hamlet Malmában még rengeteg info áll róla.  
+- A Hamlet Malmában még rengeteg info áll róla.
 
 #### Magyar Adorján...
 
@@ -55,4 +55,4 @@ A Hamlet Malmának VIII. fejezetéből:
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-A [[S/Szampó\|Szampó]]-malom a finneknél a boldogság jelképe is, írja MA még a Hamlet Malma megjelenése előtt ugye.  
+A [[S/Szampó\|Szampó]]-malom a finneknél a boldogság jelképe is, írja Magyar Adorján még a Hamlet Malma megjelenése előtt ugye.  

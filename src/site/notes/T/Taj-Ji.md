@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Taj-Ji/","title":"Taj-Ji","created":"2023-11-05T01:20","updated":"2024-04-05T19:48"}
+{"dg-publish":true,"permalink":"/T/Taj-Ji/","title":"Taj-Ji","created":"2023-11-05T01:20","updated":"2024-04-27T00:24"}
 ---
 
 
@@ -15,7 +15,7 @@ A "sokfunkciós" [[S/Széth\|Széth]]ről Jankovics Marcell nem szól, márpedig
 (Ha már tájfun, lásd még a csatolt képet [[K/Kamikaze\|kamikaze]] címnél.)  
 
 [[S/Szél\|Szél]] címnél is szerepelt:  
-Erőss Diána a HM 2015. júliusi számának Világőr-törpék és szélóriások című cikkében írja, hogy a különböző mitológiák négy égtáj-őre (akármivel, akármiként is legyenek jelképezve) véget nem érő küzdelemben állnak egymással, ezzel forgatják a világ kerekét, tartják mozgásban az Univerzumot. Az égtájak tehát a mindenség titkos mozgatóerői; nem véletlenül szelekként jelennek meg sok kultúrában, például a görögöknél (a szél- és esőistenek száma a négy világtáj révén négy, mint a görögöknél Boreasz, Zephürosz, Notosz és Eurosz, írja VN).  
+Erőss Diána a HM 2015. júliusi számának Világőr-törpék és szélóriások című cikkében írja, hogy a különböző mitológiák négy égtáj-őre (akármivel, akármiként is legyenek jelképezve) véget nem érő küzdelemben állnak egymással, ezzel forgatják a világ kerekét, tartják mozgásban az Univerzumot. Az égtájak tehát a mindenség titkos mozgatóerői; nem véletlenül szelekként jelennek meg sok kultúrában, például a görögöknél (a szél- és esőistenek száma a négy világtáj révén négy, mint a görögöknél Boreasz, Zephürosz, Notosz és Eurosz, írja Várkonyi Nándor).  
 A forgás tengelyét egy szilárd pont, az ötödik égtáj alkotja, ami az ősi Kínában Taiyi, a Hatalmas Egy. Érdekes, hogy a Taiyi szó képe kiterjesztett karú, Da Vinci-féle pózban álló ([[V/Vitruvius\|Vitruvius]]) emberalakot ábrázol.  
 
 A [[J/Jin és jang\|jin és jang]] címnél is szereplő, ...

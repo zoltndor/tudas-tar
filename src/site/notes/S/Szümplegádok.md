@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szümplegádok/","title":"Szümplegádok","tags":["Englishtexttranslated"],"created":"2023-10-29T05:16","updated":"2024-02-02T01:46"}
+{"dg-publish":true,"permalink":"/S/Szümplegádok/","title":"Szümplegádok","tags":["Englishtexttranslated"],"created":"2023-10-29T05:16","updated":"2024-04-27T00:20"}
 ---
 
 
@@ -40,7 +40,7 @@ Lásd bevezetőt Jankovics Marcell írásaival [[S/Szikla\|szikla]].
 > Az ausztrál picsentarák varázslója álomutazást tesz a Tejúton. Erről így számol be: "Azután felrepültem a Tejútra (Csukal), ahol egy fekete szikla volt, ahhoz repülnek mindig a lelkek. Két szikla, olyan, mintha tűz-ből lenne, legördült. Észak felé repültem. Két meg nem született gyermek (`iti-iti`) volt ott, egy üreges fában, ikrek voltak, és az anyjuk a fa mellett állt." (RÓHEIM, 1974, 55)  
 
 
-Amikor JM [[A/Ahet\|ahet]] címnél azt írja, hogy a Kr. e. 2300 körüli akkád pecséthengeren Samast látjuk, amint egy fűrésszel kivágja magát két hegy közül (lásd képet ott és egy másik hasonlót [[T/Téli napforduló\|téli napforduló]] címnél), ismét a szümplegádok ötlöttek fel.  
+Amikor Jankovics Marcell [[A/Ahet\|ahet]] címnél azt írja, hogy a Kr. e. 2300 körüli akkád pecséthengeren Samast látjuk, amint egy fűrésszel kivágja magát két hegy közül (lásd képet ott és egy másik hasonlót [[T/Téli napforduló\|téli napforduló]] címnél), ismét a szümplegádok ötlöttek fel.  
 
 A szümplegád magyarul is érthető név és valóban arra utal, amiről szó volt: előtagja [[S/SZÜM\|SZÜM]] a Nap neve, utolsó tagja pedig kapu ([[G/Gate\|gate]]). A középső elem vizsgálata felveti, hogy szümplegád lehet "[[S/Symbol\|symbol]]-gate." ([[G/Gate\|Gate]] címnél legutóbb sok érdekes adat szerepelt.)  
 
@@ -51,7 +51,7 @@ Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylon
 
 Ugyanakkor mégis az itt taglalt kapu a téli kapu és az nem igazán hozható kapcsolatba a Pleiadokkal.  
 
-Van még egy másik ismert vizsgálati vonal is. A szümplegádok (asszociációs jelentése) hegyek, mégpedig olyanok, melyekről [[V/Világhegy\|Világhegy]] és [[M/Meru\|Meru]] címnél is volt szó. És hol található az égen? Ahogy Bakos Attila A Duna Evangéliuma című könyvének 105-106. oldalán is írja, Skorpió-emberek vigyázzák a bejáratát (a szümplegádok kapuk, ahogy JMJ is írja, míg BA könyvében arról van szó, Gilgames a hegység kapujának megnyitását kéri). Azaz itt a Tejútközpontról van szó, mely lehet lyuk is, barlang is, de hegy (valójában kapu) is. Ezen témáról volt már szó, de nem tudom hol ([[S/Sziget\|sziget]] címnél nem, de [[M/Meru\|Meru]]-nál négy folyó kapcsán is igen). (John Major Jenkins Galactic Alignment c. könyvének 169. oldalán a [[M/Meru\|Meru]] csúcsát a Nyilas-béli Tejútközpontba teszi.)  
+Van még egy másik ismert vizsgálati vonal is. A szümplegádok (asszociációs jelentése) hegyek, mégpedig olyanok, melyekről [[V/Világhegy\|Világhegy]] és [[M/Meru\|Meru]] címnél is volt szó. És hol található az égen? Ahogy Bakos Attila A Duna Evangéliuma című könyvének 105-106. oldalán is írja, Skorpió-emberek vigyázzák a bejáratát (a szümplegádok kapuk, ahogy John M. Jenkins is írja, míg Bakos könyvében arról van szó, Gilgames a hegység kapujának megnyitását kéri). Azaz itt a Tejútközpontról van szó, mely lehet lyuk is, barlang is, de hegy (valójában kapu) is. Ezen témáról volt már szó, de nem tudom hol ([[S/Sziget\|sziget]] címnél nem, de [[M/Meru\|Meru]]-nál négy folyó kapcsán is igen). (John Major Jenkins Galactic Alignment c. könyvének 169. oldalán a [[M/Meru\|Meru]] csúcsát a Nyilas-béli Tejútközpontba teszi.)  
 A [[M/Mithra és a bika\|Mithra és a bika]] címnél is említett "istenszülő kő" nem más, mint a Tejútanya [[O/Öl\|öl]]e, ahol a Napisten megszületik.  
 Egyébiránt [[A/Ahet\|ahet]] (és [[T/Téli napforduló\|téli napforduló]]) címnél is láttuk, hogy [[S/Samas\|Samash]] két hegy közül vágja ki magát fűrésszel!  
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Ízisz/","title":"Ízisz","tags":["Englishtexttranslated"],"created":"2023-11-15T04:40","updated":"2024-02-28T21:13"}
+{"dg-publish":true,"permalink":"/I/Ízisz/","title":"Ízisz","tags":["Englishtexttranslated"],"created":"2023-11-15T04:40","updated":"2024-04-27T00:25"}
 ---
 
 
@@ -51,10 +51,10 @@ A Szimbólumtár adatsora:
 ![assets/Ízisz_image2.png](/img/user/I/assets/%C3%8Dzisz_image2.png)  
 Amit Inman ír:  
 > The bell was of old a symbol of virginity, for Eastern maidens wore them until marriage (see Isa. iii. 16). The origin of this custom was the desire that every maiden should have at her marriage, or sale, that which is spoken of in the Pentateuch as "the token of virginity." It was supposed that this membrane, technically called "the hymen," might be broken by too long a stride in walking or running, or by clambering over a stile or wall. To prevent such a catastrophe, a light chain or cord was worn, under or over the dress, at the level of the knees of just above. Its length only permitted a short step and a mincing gait.  
-> Slight bells were used as a sort of ornament, and when the bearer was walking their tinkling was a sort of proclamation that the lady who bore them was in the market as a virgin. After "the flower" had been plucked, the bells were no longer of use. They were analogous to the virgin [[S/Snood\|snood]] worn on the head of Scotch maidens.  
+> Slight bells were used as a sort of ornament, and when the bearer was walking their tinkling was a sort of proclamation that the lady who bore them was in the market as a virgin. After "the flower" had been plucked, the bells were no longer of use. They were analogous to the virgin snood worn on the head of Scotch maidens.  
 > —  
 > A harang régen a szüzesség jelképe volt, mert a keleti leányok a házasságig viselték (lásd Ézs. iii. 16). E szokás eredete az a vágy volt, hogy minden leánynak a házasságkötéskor vagy eladáskor legyen nála az, amiről a Pentateuch úgy beszél, mint "a szüzesség jeléről". Feltételezték, hogy ez a hártya, amelyet szaknyelven "szűzhártyának" neveznek, elszakadhat a túl hosszú járás vagy futás, vagy egy lépcsőfokon vagy falon való átmászás következtében. Az ilyen katasztrófa megelőzése érdekében a ruha alatt vagy fölött, a térd magasságában vagy éppen fölötte egy könnyű láncot vagy zsinórt viseltek. Hossza csak rövid lépést és szapora járást tett lehetővé.  
-> Egyfajta díszként könnyű csengettyűket használtak, és amikor a viselője sétált, csilingelésük egyfajta hirdetés volt, hogy a hölgy, aki viselte őket, szűzként van a piacon. Miután a "virágot" leszedték, a harangoknak már nem volt haszna. A skót leányok fején viselt szűzies [[P/Párta\|pártá]]hoz hasonlóak voltak.  
+> Egyfajta díszként könnyű csengettyűket használtak, és amikor a viselője sétált, csilingelésük egyfajta hirdetés volt, hogy a hölgy, aki viselte őket, szűzként van a piacon. Miután a "virágot" leszedték, a harangoknak már nem volt haszna. A skót leányok fején viselt szűzies [[P/Párta\|pártá]]hoz hasonló fejékek voltak.  
 
 ## Ízisz név értelmezése
 

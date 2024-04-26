@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Salma/","title":"Salma","created":"2024-01-02T06:35","updated":"2024-01-02T06:35"}
+{"dg-publish":true,"permalink":"/S/Salma/","title":"Salma","created":"2024-01-02T06:35","updated":"2024-04-27T00:11"}
 ---
 
 
@@ -13,4 +13,4 @@
 > Salma vagy Salim nyilvánvalóan a felkelő vagy megújuló nap szemita istene volt; Salmaone volt az égei istennő, akitől a címeit vette, akárcsak Salmoneus, az éoliai, aki szembeszállt a későbbi akháj hódítókkal, és ragaszkodott ahhoz, hogy a mennydörgés előidézéséhez egy bronz szekér csörömpölésével – ezzel megsértette az olümposzi Zeusz előjogát. Valószínű azonban, hogy Salma a megújuló Nap félisteni címét Hold-menyasszonyától, Circe-től, vagy Belili-től, a Fűzfa-anyától, Sal-Mától vette, akinek tiszteletére fűzfaágakat lengettek ebben az évszakban, és hogy a húsvét jelentése másodlagos.  { #1qz9a9}
 
 
-Ahogy a lazac [[S/Salmon\|salmon]] nevénél jeleztem, a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]] lehet, de a [[S/Szalma\|szalma]] szintén Tejút-nevezetet ad.  
+A [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]] lehet, de a [[S/Szalma\|szalma]] szintén Tejút-nevezetet ad.  

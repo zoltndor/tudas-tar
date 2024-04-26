@@ -1,25 +1,7 @@
 ---
-title: Bukor
-foreignTitle: false
-aliases:
-  - bukor
-status: dg_uploaded
-tags: 
-share: true
-dg-publish: true
-dg-created: 2024-04-21T13:26
-dg-updated: 2024-04-24T01:12
-dg_upload: VNC done
-dateCreated: 2022-12-14
-dateModified: 2024-04-24T01:12
-ghrepoURL:
-  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/B/Bukor.md
-  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/B/Bukor.md
-  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/B/Bukor.md
-  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/B/Bukor.md
-  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/B/Bukor.md
-danglinglink_commentedout: true
+{"dg-publish":true,"permalink":"/B/Bukor/","title":"Bukor","created":"2024-04-21T13:26","updated":"2024-04-26T23:55"}
 ---
+
 
 # Bukor
 
@@ -27,7 +9,7 @@ danglinglink_commentedout: true
 
 > A Bábabukra a szivárvány egyik magyar neve. A Bába tündért jelent, a Bukra a szalag. Ez a szalag a Buk, vagyis Fejecske szavunkhoz kapcsolódik, rajta a Ra Napistent jelképező sugarak. A Bukhoz legyen itt elég a Buksi szó. Bába Bukra tehát a bába tündérek íve, szalagja, amin fel lehet menni a csillagok közé.  
 
-Másutt szerepel nála Bukor is:  
+A ragozatlan bukor is szerepel nála:  
 > Bábabukra szintén a szivárvány neve. A Bába önmagában a tündéreket jelöli, a Bukra Szalag, Csokor (Bukor – Szalag). Eszerint a név a Tündérek Szalagja. Értelme mély, messze a múltba mutat. A Buk jelent még Fejet, a Ra Napot, ezért a Buk-Ra lehet a Nap-Feje is, ami utal a szivárvány íves formájára. A Tündér Nap Fősége a szivárvány, gyönyörű mintázatával.  
 
 #### Magyar Adorján is írja:  
@@ -39,12 +21,12 @@ Másutt szerepel nála Bukor is:
 #### Bobula Ida A magyar nép eredete...
 
 ...című könyvében írja:  
-> A mezopotámiai isteneket idők jártával egyre gyakrabban jelezték képük helyett a címerükkel, jelképükkel, különösen a tartósságuk miatt szép számban fennmaradt határköveken. [[B/Bau\|Bau]] szimbólumának mibenléte bizonytalan; "megfordított ómegaszerű jelnek szokták leírni". Ward szerint ez talán az istennő haja. Valószínűbb, hogy a fátyla, fejkötője: a szivárvány, népi szóval bábabukra. Valószínűleg ez a mezopotámiai bölcseletben a világmindenség összetartójaként ismert "nagy kötelék" az isteni kegyelem jele. Bizonyosan összefügg ezzel a fogalommal a naiv magyar néphit, mely szerint a terhes asszonynak a hajába piros szalagot kell kötnie és a Boldogasszony tiszteletére szigorúan főkötőben kell feküdnie a Boldogasszony ágyát. A tulipánszerű, "megfordított ómega" amely emlékeztet az asztrológiai Mérleg jegyének ómegájára is, először az ősi "[[K/Kudurru\|kudurru]]" (határ, régi magyar formában hutur) köveken jelenik meg, ékírásos szövegekkel, melyek a jelzett istenek haragját hívják arra, aki a kővel védett határt, vagy sírt megháborítaná. Az égi istenek összevont jelvénye; függőlegesen egymás fölé helyezett rozetták, félhold és tulipán, számos példányban került elő a nagy szittya népnek, a párthusoknak Hatra nevű városából. Ugyanezen gondolat végső formái vannak ráfaragva magyar és székely kapubálványokra, kopjafákra.  
+> A mezopotámiai isteneket idők jártával egyre gyakrabban jelezték képük helyett a címerükkel, jelképükkel, különösen a tartósságuk miatt szép számban fennmaradt határköveken. [[B/Bau\|Bau]] szimbólumának mibenléte bizonytalan; "megfordított ómegaszerű jelnek szokták leírni". Ward szerint ez talán az istennő haja. Valószínűbb, hogy a fátyla, fejkötője: a szivárvány, népi szóval bábabukra. Valószínűleg ez a mezopotámiai bölcseletben a világmindenség összetartójaként ismert "nagy kötelék" az isteni kegyelem jele. Bizonyosan összefügg ezzel a fogalommal a naiv magyar néphit, mely szerint a terhes asszonynak a hajába piros szalagot kell kötnie és a Boldogasszony tiszteletére szigorúan főkötőben kell feküdnie a Boldogasszony ágyát. A tulipánszerű, "megfordított ómega" amely emlékeztet az asztrológiai Mérleg jegyének ómegájára is, először az ősi "[[K/Kudurru\|kuduru]]" (határ, régi magyar formában hutur) köveken jelenik meg, ékírásos szövegekkel, melyek a jelzett istenek haragját hívják arra, aki a kővel védett határt, vagy sírt megháborítaná. Az égi istenek összevont jelvénye; függőlegesen egymás fölé helyezett rozetták, félhold és tulipán, számos példányban került elő a nagy szittya népnek, a párthusoknak Hatra nevű városából. Ugyanezen gondolat végső formái vannak ráfaragva magyar és székely kapubálványokra, kopjafákra.  
 
 Bukor magyar vezetéknév is. Buk-Or Nap Úr értelmű.  
 Szinte azonos vele [[B/Bokor\|bokor]].  
 
-Lásd még [[C/Csokor\|csokor]]. [[U/Ugor\|Ugor]], [[A/Akar\|Akar]], [[A/Agár\|agár]], [[J/Jogar\|jogar]], bukor, [[Z/Zsugor\|zsugor]], [[C/Csokor\|csokor]], [[K/Kukor\|kukor]] mind nyári napfordulóra utaló szavak (is lehetnek).  
+Lásd még [[C/Csokor\|csokor]]. [[U/Ugor\|Ugor]], [[A/Akar\|akar]], [[A/Agár\|agár]], [[J/Jogar\|jogar]], bukor, [[Z/Zsugor\|zsugor]], [[C/Csokor\|csokor]], [[K/Kukor\|kukor]] mind nyári napfordulóra utaló szavak (is lehetnek).  
 [[K/Khamor#Khamor – Makor Íjazók\|Khamor – Makor Íjazók]] cím/alcímnél álló adatokat mégsem teszem ide, nagy terjedelme miatt, dacára annak, hogy több címről ([[F/Figure\|figure]] és más címtől) ide utaltam. Csak annyit tennék ide, hogy ami előjöhet B-K-R vagy B-G-R szóvázzal, az előjöhet M-K-R/M-G-R szóvázzal, a [[B/Bow\|bow]]-nak megfelelő hajol, ív/íj, stb. jelentéssel. Illetve amit sebtiben mégis idetennék, az ...
 
 #### Czeglédi Katalin A keleti magyar sezserék nyelvi tanulságai...
@@ -58,7 +40,7 @@ Lásd még [[C/Csokor\|csokor]]. [[U/Ugor\|Ugor]], [[A/Akar\|Akar]], [[A/Agár\|
 (Ezen utóbbi cseremisz-mari `mogyr` = törzs szó látszik eredetéül szolgálni a [[M/Magor\|Magor]] és [[F/Fa\|fa]] címnél említett japán `moku` = fa szónak[^1] is. (Betéve oda is.))  
 A csuvas és más nyelvekben b-előhangosan vannak meg hasonló jelentésben a szavak, ezért gyanakodni kell, hogy a bukor vagy akár a [[B/Bow\|bow]] szó eredetét adó Bog-Úr lenne itt a kiinduló, nem a Magyar fogalom (úgy mint istenanya) (CzK [[M/Magyar\|magyar]] címnél álló adatait adom):  
 > Csagataj nyelven `bukri`, `mukri keše` 'görbe ember'; üzb. `bukur`, kirg. `bükür`, türkm., kazak `bükir`, ... tat. `bökere` 'dudor, bütyök, gumó, mag, toboz, ág' .  
-- Ez utóbbi [[B/BOG\|BOG]] címhez is tehető lenne; [[B/Bow\|bow]] címnél pedig a török `bükmek` szó szerepelt.  
+- Ez utóbbi [[B/BOG\|BOG]] címhez is tehető lenne; [[B/Bow\|bow]] címnél pedig a török `bükmek` szó szerepelt.
 
 Ahogy [[K/Khamor\|Khamor]] és [[H/Hungár\|hungár]] címnél is megjegyeztem, ezen CzK által bemutatott komi, mari és csagatáj szavak a "görbe emberre/(ember)alakra" utalóak, melyek tkp. Íjas Emberre (csillagképre) érthetők is lehetnek. Azaz megint csak csillagképekről van szó. Azaz a [[S/Sacchar-\|sacchar-]] címnél a Szag-Úr/Szek-Ér/stb. Nap-Úr értelmű kifejezésekhez hasonlóan a Bog-Úr/Buk-Or is olyan napnevek, melyek leginkább a Nap egyes fordulópontjaihoz (téli és nyári napforduló) és az azon helyeken található Íjazó/Nyilazó (Nyilas) csillagképek neveire utaló elnevezések lehetnek. Röviden: Bukor és Magor a téli, Khamor és társai a nyári napfordulós csillagképek nevei lennének, de Hunor és Magor arkadash-os íjazóira (és Osiris és Set-re és más ikeristenségekre) gondolva a nyilazó nevek Orionra is utalhatnak úgy, hogy Magor/Bogur/Bukor az egyik oldali, Hunor-Khamor a másik.  
 Úgy is lehetne gondolkodni, hogy a [[L/Lemniszkáta\|lemniszkáta]] domború bal oldala Magor/Bukor/Bog-Úr, jobb oldala [[K/Khamor\|Khamor]], homorú.  

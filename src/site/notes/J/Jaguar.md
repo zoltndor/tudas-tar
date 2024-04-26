@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jaguar/","title":"Jaguar","tags":["Englishtexttranslated"],"created":"2023-11-05T10:32","updated":"2024-02-02T03:12"}
+{"dg-publish":true,"permalink":"/J/Jaguar/","title":"Jaguar","tags":["Englishtexttranslated"],"created":"2023-11-05T10:32","updated":"2024-04-27T00:06"}
 ---
 
 
 # Jaguar
 
-Jaguár. A tupí indiánok adták nevét. Felbontható lehetne Ja-Gu-Ár formában Jó Fő Úr értelemben. Mivel [[G/GU\|GU]] alapjelentése nyak, erről is kaphatta nevét. A Jaguár megjelenik az Apocalypse című Mel Gibson filmben is.  
+Jaguár. A tupi indiánok adták nevét. Felbontható lehetne Ja-Gu-Ár formában Jó Fő Úr értelemben. Mivel [[G/GU\|GU]] alapjelentése nyak, erről is kaphatta nevét. A Jaguár megjelenik az Apocalypse című Mel Gibson filmben is.  
 
 [[J/JÁK\|JÁK]], [[J/JÁG\|JÁG]] és [[J/Jag\|jag]] hímségi jelentései alapján Jág-Vár a helyesebbnek tűnő felbontása: Tűz Háza. Azt az óamerikai nyelvekben láttuk, hogy a v hang helyett u hang áll.  
 Igen érdekes Eric Partridge adata, miszerint a tupi indiánok `jaguára` szava nagymacskát, de gyakran(!) [[K/Kutya\|kutyá]]t is jelöl. Ennek megfelelően a guarani nyelvben is `jagua` = kutya ([[J/Jahve\|Jahve]] névhez való hasonlósága miatt oda is betéve).  
@@ -15,7 +15,7 @@ Hasonló szó a [[J/Jackal\|jackal]] címnél is említett grúz `jaĝli` = kuty
 #### Dr. Kovács Sándor Gán.Muš – a kígyó kertje avagy a sötétség...
 
 ...című az Ősi Gyökér 2010/1-2. sz. megjelent cikkében [[N/Nimrud\|Nimrud]] sumér/szubar nevét forrása alapján kutyából vezeti le (mert hát a párduc is lehet kutyaféle) (Nimrud akkád nevét Nimru-nak, Nimrôd-ot óhébernek írja, majd megemlíti, hogy ógörög megfelelője Ninos és az ómagyarban pedig Ménrót):  
-> Az I. "uruki dinasztia" második királya, a "Párduc": `NÍB.UR`/`NÍB.RU₇` = Foltos/Pettes Kutya.  
+> Az I. "uruki dinasztia" második királya, a "Párduc": `NÍB.UR`/`NÍB.RU₇` = Foltos/Pettyes Kutya.  
 
 És ha már párducról esett szó...  
 
@@ -45,14 +45,14 @@ Ahogy [[S/Sphinx\|Sphinx]], [[S/Swastika\|swastika]] és sok más címnél is el
 
 ...című könyvében ír a jelképállatról:  
 > Közép- és Dél-Amerika éjszakai nagy ragadozója az "éjjeli Napnak", [[T/Teszkatlipoka\|Teszkatlipoka]] istennek volt az állatalakja. Teszkatlipoka ("Füstölgő Tükör"), aki a Sarkcsillag körüli ég, észak, a hideg és a sötétség, valamint a fekete obszidián istene volt, az azték pantheonban az első világkorszak ősi Napja. Jaguár alakban foltjai jelképezték az éj csillagait (ugyanezen okból viselhettek pettyes leopárdbőrt a vállukon Egyiptom csillagászpapjai).  
-- JM a pártus-szkíták [[P/Párduc\|párduc]]-kacagányát is idevehette volna.  
+- Jankovics Marcell a pártus-szkíták [[P/Párduc\|párduc]]-kacagányát is idevehette volna.  
 
 #### Várkonyi Nándor...
 
 ...nyilván fejvesztve valamely indo-európai forrására hivatkozva a jaguárt tévesen föld-szimbólumnak, földistennőnek veszi (fekete jaguárok alapján?):  
 > Mivel magyarázzuk azt a képzetet, hogy sok istent, félistent meg hőst csecsemőkorában "istenszoptató" nőstényállat táplál? Az etruszk-római anyafarkas (lásd [[R/Romulus és Remus\|Romulus és Remus]]), a Kürosz-mondabeli nősténykutya (lásd [[C/Cyrus\|Cyrus]]), a Zeuszt tápláló Amaltheia kecske, a germán Heidrun kecske párjai, a mongol szürke farkas, a maya nőstényjaguár és a tzeltal indiánok anyatapírja, Nimá-Tziis. Ilyen esetekben totemállatról is lehet szó, de a jaguár semmi esetre sem az, hanem földistennő, s mint az anyaföld, a többi élőlénnyel együtt szüli indián fiait is; a tzeltalok tapírja szintén "anya", szent állat, **Votán** vezette be tiszteletét.  
 
-Kiemelendő, hogy a legtöbb, nyilván hun-származék hagyományban a kutya és a farkas a tápláló szülő. Mivel a jaguár nem kecske (itt a kecskeség behozása már szemita-zsidó hagyomány lehet), hanem nagymacska és kutya, valamint a felsorolásban is farkasok jönnek elő, miért gondolja VN, hogy itt másról lehet szó?  
+Kiemelendő, hogy a legtöbb, nyilván hun-származék hagyományban a kutya és a farkas a tápláló szülő. Mivel a jaguár nem kecske (itt a kecskeség behozása már szemita-zsidó hagyomány lehet), hanem nagymacska és kutya, valamint a felsorolásban is farkasok jönnek elő, miért gondolja Várkonyi Nándor, hogy itt másról lehet szó?  
 Sőt, ha a Jag-Vár neve utalás Nimród, a Vadász kutyájára, egyértelműnek kell tűnjön, hogy a hun-származék indiánok magukat szintén [[S/Szíriusz\|Szíriusz]]ról származtatják, ahogy a [[D/Dogon\|dogon]]ok is. (Valójában [[O/Orion övcsillagai\|Orion övcsillagai]]t tartották a deszanák, tukanók és például a hopi indiánok az ősök házának, ahogy azon címnél is [[O/Orion övcsillagai#Orion mint ős (nemzés tekintetében) vagy az ősök háza – hárommal való jelzése\|ősök háza]] alcímnél volt erről szó.)  
 
 [[A/Agár\|Agár]] címnél frissen írottak szerint a jaguár eredete egy lehet indo-európai nyelvek más jelentésű szavaival (de már fentebb is szóba került az agár a gepárd részben):  
@@ -65,7 +65,7 @@ Az is elképzelhető ezután, hogy a tupi indiánoktól ismert jaguar szóban is
 Viszont vélhetően inkább a [[V/Vad\|vad]] = Csudaszarvas (minek neve Magyar Adorján szerint még ág, [[A/Ágas\|ágas]] is volt) elejtése nyomán alakult ki a szó.  
 
 [[G/Gnu\|Gnu]], [[G/Gazella\|gazella]], [[K/Kangaroo\|kangaroo]] és [[K/Kutya\|kutya]] címnél is volt arról szó, hogy a négylábúak (úgy mint nagymacska, kutya és ló, valamint szarvas és kecske, valamint tapír) nevei között átfedések lehetnek, hiszen az állatok a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] vagy kísérői.  
- 
+
 
 ## Lábjegyzetek
 
