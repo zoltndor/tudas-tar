@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vált/","title":"Vált","created":"2023-10-10T10:44","updated":"2024-02-29T00:48"}
+{"dg-publish":true,"permalink":"/V/Vált/","title":"Vált","created":"2023-10-10T10:44","updated":"2024-04-27T00:07"}
 ---
 
 
@@ -15,6 +15,6 @@ Ilyen vázú ide tehető szavakat Götz László Keleten kél a Nap című köny
 ![assets/Vált_image1.png|invert_dark](/img/user/V/assets/V%C3%A1lt_image1.png)  
 Különösen a [[B/Ball#Ball 2)\|ball]] címnél lábjegyzetben említett sumér [[B/Bal\|bal]] = forgat, orsó, forduló érdekes. A tengely mindig közepén van, amely felez is. A tengely mindig közepén van, amely [[F/Fél\|felez]] is, jegyezzük meg.  
 
-[[W/Welterweight\|Welterweight]] szó kapcsán jutottunk el a `welter` = turbulensen mozog ige vált igénkből való eredeztetéséhez is.  
+A `welter` = turbulensen mozog ige vált igénkből való eredeztetéséhez is eljutunk.  
 Vált szóba került legutóbb [[G/Guile\|guile]] címnél is.  
 Lásd még [[V/Változó várak\|változó várak]].  
