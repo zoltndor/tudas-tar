@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kenéz/","title":"Kenéz","tags":["dg_uploaded"],"created":"2023-11-02T11:45","updated":"2023-11-02T11:45"}
+{"dg-publish":true,"permalink":"/K/Kenéz/","title":"Kenéz","created":"2023-11-02T11:45","updated":"2024-04-27T00:19"}
 ---
 
 
@@ -13,8 +13,8 @@ Természetesen szláv eredetűnek tartják (`knez`) és fejedelem jelentéssel a
 > 
 > [[Z/Zsidó\|Zsidó]] rokonaink Ász-Kenázi, vagyis Szkűtha-zsidó nevében is ott van, csak a vak nem látja. Kendúrszág a vízözön körüli Mezopotámia neve, mellesleg. Ennyi talán elég a kenéz rangnevünkről, amit a románok is átvettek.  
 
-IA adata szerint a szláv `knaz` = pap (a `černoknažnik` = fekete pap, azaz [[G/Garabonciás\|garabonciás]]), mely nyilván a `knez` = kenéz, fejedelem után módosult és nyilván a magyarok [[K/Kettős fejedelemség\|kettős fejedelemség]]e miatt lett annak párja.  
-IA könyvének 546. oldalán írja még:  
+Ipolyi Arnold adata szerint a szláv `knaz` = pap (a `černoknažnik` = fekete pap, azaz [[G/Garabonciás\|garabonciás]]), mely nyilván a `knez` = kenéz, fejedelem után módosult és nyilván a magyarok [[K/Kettős fejedelemség\|kettős fejedelemség]]e miatt lett annak párja.  
+Ipolyi Arnold írja még:  
 > \[...\] és a godar papok régi kiváltságait is megtartják. A szlávoknál egyenesen a pogány `knez` név jön elő a papra és fejedelemre, egyiránt azonos értelemmel, mint az a pogány korban ismét a legtöbb szláv népeknél azonos papfejedelmi méltóság volt.  
 
 Tehát az [[A/Askenázi\|askenázi]] névben is ez a kenéz van meg.  
