@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2024-04-18T14:59"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2024-04-27T00:12"}
 ---
 
 
@@ -106,7 +106,7 @@ A megtévesztés tehát arra való, hogy az emberek tévedjenek; mindenféle kö
 
 A megtévesztés és a fals világnézet hatékony terjesztője a különböző "csatornákon" szállító televízió. Berényi László Géza Hogyan lett a Köristen tudatból zsidókeresztény hit? című Ősi Gyökér 2012/1. sz. megjelent cikkében írja ([[J/Judeo-kereszténység\|judeo-keresztény]] címnél álló hosszabb passzusa folytatása):  
 A fraktalitás jegyében elmondható, hogy a Kozmosz minden pontja az "Élő Valóság" középpontja ("valóságforrása") is egyben. A Rádió és TV csatornákra igaz az, hogy minden csatorna egy külön "Fiktív Valóság" forrásnak tekinthető. Minden csatornán mást hazudnak tehát éjjel és nappal. A nézők igényszintje is alacsony. Hogy a "Való Világot" három helyett két dimenzióra váltva adják el nekik, már észre sem veszik. A híveket a bőség zavara elszédíti, nem törődnek azzal, hogy a képernyőn csak kétdimenziós képet szemlélhetnek, a többdimenziós valóság manipulált kivonatát.  
-[[T/Television\|Television]] címnél már szó volt káros hatásairól, de [[P/Politikai korrektség\|politikai korrektség]] címnél is szó esett a témáról és [[M/Media#Média manipuláció\|média manipuláció]] cím is felvételre került.  
+[[T/Televízió\|Televízió]] címnél már szó volt káros hatásairól, de [[P/Politikai korrektség\|politikai korrektség]] címnél is szó esett a témáról és [[M/Media#Média manipuláció\|média manipuláció]] cím is felvételre került.  
 A [[L/Liberalizmus\|liberalizmus]] jegyében a szabad szerelmet népszerűsítik, de nem a természetes, hanem az LMBTQ(P) stb. formáit.  
 
 A Covid-terror során is azt állítják nekünk, hogy a rendelkezések értünk, a mi védelmünkben történnek, de nemcsak hogy fennáll a legsúlyosabb gyanú arra, hogy pont az ellenkezőjét követik el az emberiség ellen, hanem immáron bizonyított tény.  
@@ -266,7 +266,7 @@ Eszközeik: a kettős beszéd, mely más mint a sima hazugság, ez sokkal kifino
 A kettős játszma úgy néz ki, hogy nem szervezet, csak jótékonyság (ez a látszat); nem hierarchiára épülne, de mégis (33 fokozata van a szabadkőműves beavatottaknak).  
 
 ![assets/Megtévesztés_image1.png](/img/user/M/assets/Megt%C3%A9veszt%C3%A9s_image1.png)  
-[Ezen](https://www.youtube.com/watch?v=ZFBRVdsICSE) Feltámadás című húsvéti ÁKA előadásban 18:08-nál szól KT arról a kettős hatalmi játékról, ami (nemcsak) Magyarországon zajlik: Magyarországon a magyar emberek szavazatával bekerülnek a politikusok az országgyűlésbe majd pedig ott olyanokat (zsidó uzsoráztató maffia-háttérerőket) kezdenek szolgálni, akiket a magyarság sohasem választott (volna) meg. És amikor kiderül valódi természetük, valódi kötődésük, valódi hitrendszerük, akkor a kettős játékban a politikusnak az a dolga, hogy azt mondja, ami mindenki számára tetszetős: a választónak hogy, "ne idegeskedjetek, mi a ti érdeketekben teszünk mindent," majd a gyarmattartónak ugyanúgy, "ne idegeskedjetek, mi a ti érdeketekben teszünk mindent."  
+[Ezen](https://www.youtube.com/watch?v=ZFBRVdsICSE) Feltámadás című húsvéti ÁKA előadásban 18:08-nál szól Kubínyi Tamás arról a kettős hatalmi játékról, ami (nemcsak) Magyarországon zajlik: Magyarországon a magyar emberek szavazatával bekerülnek a politikusok az országgyűlésbe majd pedig ott olyanokat (zsidó uzsoráztató maffia-háttérerőket) kezdenek szolgálni, akiket a magyarság sohasem választott (volna) meg. És amikor kiderül valódi természetük, valódi kötődésük, valódi hitrendszerük, akkor a kettős játékban a politikusnak az a dolga, hogy azt mondja, ami mindenki számára tetszetős: a választónak hogy, "ne idegeskedjetek, mi a ti érdeketekben teszünk mindent," majd a gyarmattartónak ugyanúgy, "ne idegeskedjetek, mi a ti érdeketekben teszünk mindent."  
 
 ## Proto-címkék és negációk
 
@@ -391,9 +391,9 @@ Ahogy a gyermek viselkedését tükrözi az ember, ahogy hozzá leguggolva gyere
 
 ## A tömeg manipulációja
 
-Azt már a Zion bölcseinek jegyzőkönyvébe lapozgatással kiderítettem, hogy az emberiség ellenségei feltérképezték az emberi pszichét. Pontosan tudják, hogyan kell őket manipulálni. [[P/Politikai korrektség\|Politikai korrektség]] és [[T/Television\|television]] címnél is volt szó tele-manipulációról.  
+Azt már a Zion bölcseinek jegyzőkönyvébe lapozgatással kiderítettem, hogy az emberiség ellenségei feltérképezték az emberi pszichét. Pontosan tudják, hogyan kell őket manipulálni. [[P/Politikai korrektség\|Politikai korrektség]] és [[T/Televízió\|televízió]] címnél is volt szó tele-manipulációról.  
 
-[Ezen](https://www.youtube.com/watch?v=_Ss4RC1gd7A) ÁKTV műsorban 51:10-nél KT nagyszerűen látja és mondja, hogy **a tömeg lelkületében leginkább a kisgyerekhez hasonlítható**, akiknek nem egyetemi képleteket és tanulmányokat kell bemutatni, hanem egyszerű, érzelmekre ható dolgokat. Ahogy a Nagy francia forradalomban ezt a hosszú kenyeret, a bagetett használták fel...először kiéheztették a párizsi népet, majd pedig a forradalmárok elkezdték osztani. És persze hogy ez életben maradás ösztöne diktál és persze hogy a párizsi nép támogatta a forradalmat (már azon az áron, hogy aznap ehessen). Ezekkel az egyszerű módszerekkel lehet manipulálni a tömeget. \[[[Francia forradalom\|[Francia forradalom]] címhez is betéve.\]  
+[Ezen](https://www.youtube.com/watch?v=_Ss4RC1gd7A) ÁKTV műsorban 51:10-nél Kubínyi Tamás nagyszerűen látja és mondja, hogy **a tömeg lelkületében leginkább a kisgyerekhez hasonlítható**, akiknek nem egyetemi képleteket és tanulmányokat kell bemutatni, hanem egyszerű, érzelmekre ható dolgokat. Ahogy a Nagy francia forradalomban ezt a hosszú kenyeret, a bagetett használták fel...először kiéheztették a párizsi népet, majd pedig a forradalmárok elkezdték osztani. És persze hogy ez életben maradás ösztöne diktál és persze hogy a párizsi nép támogatta a forradalmat (már azon az áron, hogy aznap ehessen). Ezekkel az egyszerű módszerekkel lehet manipulálni a tömeget. \[[[Francia forradalom\|[Francia forradalom]] címhez is betéve.\]  
 
 Lásd még [[T/Tömegpszichózis\|tömegpszichózis]].  
 
