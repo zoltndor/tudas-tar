@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Folyóistennő/","title":"Folyóistennő","created":"2023-11-13T06:15","updated":"2024-02-02T03:03"}
+{"dg-publish":true,"permalink":"/F/Folyóistennő/","title":"Folyóistennő","created":"2023-11-13T06:15","updated":"2024-04-27T00:25"}
 ---
 
 
@@ -7,10 +7,10 @@
 
 [[F/Folyó\|Folyó]] címnél írottak értelmében ha valahol folyóistennőről hallunk, akkor nagy eséllyel Tejútistennőről van szó, de hiszen azt is tudjuk, hogy minden istennő eredetileg Tejútistennő.  
 A kelta mitológiában jó pár ilyen alak előjön.  
-Kezdésként ott van a leghíresebb, leginkább értelmezhető [[B/Bóand\|Bóand]] (lásd még [[B/Bó Find\|Bó Find]]) alakja, aztán érdekes még a Folyó névvel azonos szóvázu [[F/Fial\|Fial]], továbbá folyóistennőnek adatolja PM a következőket: [[S/Sequana\|Sequana]], Sínann, [[G/Garbhóg\|Garravogue]], Natosuelta, Belisama, stb. míg [[N/Nodens\|Nodens]]-et folyóistennek írja.  
+Kezdésként ott van a leghíresebb, leginkább értelmezhető [[B/Bóand\|Bóand]] (lásd még [[B/Bó Find\|Bó Find]]) alakja, aztán érdekes még a Folyó névvel azonos szóvázú [[F/Fial\|Fial]], továbbá folyóistennőnek adatolja Patricia Monaghan a következőket: [[S/Sequana\|Sequana]], Sínann, [[G/Garbhóg\|Garravogue]], Natosuelta, Belisama, stb. míg [[N/Nodens\|Nodens]]-et folyóistennek írja.  
 Ugyan maga úgy értelmezi a neveket, mint egyes bizonyos földi folyók istennőit, valójában minden (nagyobb, fontosabb) folyó a Tejúttal hozatott kapcsolatba, így a nevek illetve etimológiájuk is így vizsgálandók.  
 
-A kelta [[D/Danu\|Danu]] PM-nél nem folyóistennőként kerül elő, holott maga is kijelenti, hogy Európában (jellemző, hogy Kelet-Európát ír) folyó viseli nevét. Persze Danu [[D/Dame\|dame]] címnél írottak alapján sokkal több, mint folyóistennő.  
+A kelta [[D/Danu\|Danu]] Patricia Monaghan-nél nem folyóistennőként kerül elő, holott maga is kijelenti, hogy Európában (jellemző, hogy Kelet-Európát ír) folyó viseli nevét. Persze Danu [[D/Dame\|dame]] címnél írottak alapján sokkal több, mint folyóistennő.  
 
 Még mindig kelta/kimmér/brit vonalon érdekes Robert Graves The White Goddess című könyve, melyből [[F/Fehér istennő\|fehér istennő]] címnél szemezgetünk (illetve lásd Robert Graves adatait helyükön).  
 
