@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cat/","title":"Cat","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-17T08:48","updated":"2024-04-05T19:07"}
+{"dg-publish":true,"permalink":"/C/Cat/","title":"Cat","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-17T08:48","updated":"2024-04-27T00:00"}
 ---
 
 
@@ -15,7 +15,7 @@ CzF adata szintén:
 > KACZ (4)  
 > v. KACCZ! Tisza vidékén macskának mondják, midőn elkergetni, elűzni akarják. Midőn pedig hívják, így szólnak: czicz! Amaz hangokban a német `Katze` szóval rokon. A magyarban a kettő közti különbséget úgy látszik, az a (=ott, oda), és i (=itt, ide) önhangzók alkotják.  
 
-Kacc persze az inkább szintén felszólító módban használt [[S/Scat\|scat]] igéhez illik (illetve ez ige utólag képzett, hisz a (házi)állatnak mondják, hogy kocc, kacc).  
+  
 
 #### Péterfai János írja:  
 
@@ -62,7 +62,7 @@ Aztán leesett: mindkét szó, kutya és kat is kún/hun szavak. A magyarok eb �
 De mindkettő állat régi háziállatunk is, és lám, kutya a kútyával, kat (kac) a házzal hozható összefüggésbe. Arról is lehetne szólni, hogy régen az u és a hangok gyakran változtak egymással (erre jó bizonyíték az angol u hang, melyet tájjellegűen u-nak, a standard angol szabályoknak megfelelően a és ö hang között ejtenek).  
 
 Valpy latin etimológia szótárában előjön a latin `catulus` = rabszolgák által viselt vasból készült nyakörv ([[C/Carcanet\|carcanet]] és [[T/Torc\|torc]] is ilyesféle), mely szóra biz. Dacier azt írja, hogy `catuli`, azaz kutya nyakörve lehetett eredetileg. Lásd még csatolt képet.  
-![assets/Cat_image1.png](/img/user/C/assets/Cat_image1.png)  
+![assets/Cat_image1.png|invert_dark](/img/user/C/assets/Cat_image1.png)  
 
 Ha fentebb említettük Kacort, érdemes lenne esetleg [[K/Kacér\|kacér]] szavunkat is idevenni és megjegyezhető, hogy létezik Katzirtz személynév is.  
 [[K/Kacor\|Kacor]] címnél kimondtuk közben, hogy a cat/cattus lényegében a kacor név lecsípése és semmi egyebet nem jelentene, mint [[H/Ház\|ház]]at.  
