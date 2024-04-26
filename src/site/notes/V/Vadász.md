@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","created":"2023-10-13T05:41","updated":"2024-04-05T20:00"}
+{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","created":"2023-10-13T05:41","updated":"2024-04-27T00:08"}
 ---
 
 
@@ -41,7 +41,7 @@ Na most, ez a hazar mi is lehet? Itt jut eszünkbe ...
 Na most, ez a népréteg valójában az íjfeszítőkre utalhat, hiszen az íjfeszítő és vadász értelmek azonosak.  
 Viszont hihető lehet-e az, hogy mindezen nevek a Hágár név változatai lennének és nem-e gondolhatjuk, hogy önnállóan, alanyi jogon elemezendők? (Már eleve az is kétséges, hogy Hágár eredetileg a Holdra utaló név lett volna: inkább a holdtisztelő íjfeszítők Szíriuszát kellene benne látni. Így lenne pontosabb a kép.)  
 Nézzünk hasonló alakú neveket. Kezdjük a hehezet elvételével:  
-Ott van elsőként az [[A/Alcázar\|Alcázar]] címnél taglalt arab `al-qasr` = erőd, vár, aztén az [[A/Asera\|asera]] címnél előjövő mordvin `azar`, `azer`, `azoro` = úr és ugyanott és [[A/Atar\|Atar]] címnél említett óperzsa `atar` = tűz, melynek azar formájáról is szó esett ott. Pető Imre Dlimild Asar – Gyémánt Világ című munkájában azt írja, hogy a szkíta-hun `asar` = világ, melyet a sárgolyó/sárteke szavakból kiindulva (a perzsa [[S/Sarābistān\|sarābistān]] alapján is mondhatta volna) úgy értelmez, hogy a sárvilág.  
+Ott van elsőként az arab `al-qasr` = erőd, vár, aztén az [[A/Asera\|asera]] címnél előjövő mordvin `azar`, `azer`, `azoro` = úr és ugyanott és [[A/Atar\|Atar]] címnél említett óperzsa `atar` = tűz, melynek azar formájáról is szó esett ott. Pető Imre Dlimild Asar – Gyémánt Világ című munkájában azt írja, hogy a szkíta-hun `asar` = világ, melyet a sárgolyó/sárteke szavakból kiindulva (a perzsa [[S/Sarābistān\|sarābistān]] alapján is mondhatta volna) úgy értelmez, hogy a sárvilág.  
 A persza `hezár` = ezer a magyar szó mása, de ide aligha tudjuk eltenni. Konkretizálni kell a csillagképet (bár nyilván már megvan az [[I/Íj csillagkép\|Íj csillagkép]] személyében, nem igaz).  
 H-előhangos még a hasonló alakú, a-u átmenettel könnyen megfeleltethető [[H/Huszár\|huszár]] név is.  
 Ami a k-előhangos neveket illeti, az ide vajon hogyan illő [[K/Kosár\|kosár]] mellett a fentebbi arab szó kapcsán előjövő kazár név lenne a leginkább megfelelő. Ha úgy van, ahogy gondoljuk, akkor ez szkíta íjfeszítő nép neve volt. A kérdés, hogy mások adták-e a nevüket, mint annak a [[S/Szkíta\|szkíta]] esetében melyet szintén az [[I/Íj csillagkép\|Íj csillagkép]]pel hoztunk kapcsolatba (így lehetne Hágárból is kiindulni), vagy önelnevezés. Ez utóbbi esetben a Haz-Ár vagy Ha-Szár a Fény Árja Országából, a Tejútról való elnevezés adná magát (de semmiképp sem a Hold). A Ház Ura olvasat is teljesen megfelel (a [[H/Ház\|ház]] a Tejút).  
