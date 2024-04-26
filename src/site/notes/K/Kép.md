@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kép/","title":"Kép","tags":["Englishtexttranslated"],"created":"2023-10-31T10:43","updated":"2024-04-05T19:23"}
+{"dg-publish":true,"permalink":"/K/Kép/","title":"Kép","tags":["Englishtexttranslated"],"created":"2023-10-31T10:43","updated":"2024-04-27T00:28"}
 ---
 
 
 # Kép
 
-Kép úgy tűnik a kőből készült bálványkép, mely az istenség képe/arca (feje) is lehet, illetve ezek konflációjáról is lehet szó.  
-Ahogy [[B/Build\|build]] címnél is szerepelt, kép megfelel \*köv szónak.  
+A kép, úgy tűnik a [[K/Kő\|kő]]ből készült bálványkép, mely az istenség képe/arca (feje) is lehet, illetve ezek konflációjáról is lehet szó.  
+Ahogy [[B/Build\|build]] címnél is szerepelt, kép megfelel a \*köv szónak.  
 
 #### Magyar Adorjánnál...
 
@@ -64,7 +64,7 @@ Faragott képről van szó.
 
 Kállay Ferenc A pogány magyarok vallása című könyvének [44. oldalán](zotero://open-pdf/library/items/DFI47XPY?page=44&annotation=DSGIVZ7T) futólag említi a magyar közmondást: "ott hagyta a faképnél," ahol a fakép fából faragott idolum.  
 
-A tartósabb idolum kőből készül; lásd [[B/Betyl\|betyl]].  
+A tartósabb idolum kőből készül; lásd betil-kövekről [[K/Kaba\|Kaba]].  
 
 ## Lábjegyzetek
 
