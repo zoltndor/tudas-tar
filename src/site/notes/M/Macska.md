@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Macska/","title":"Macska","created":"2023-11-17T11:07","updated":"2024-02-28T21:18"}
+{"dg-publish":true,"permalink":"/M/Macska/","title":"Macska","created":"2023-11-17T11:07","updated":"2024-04-27T00:22"}
 ---
 
 
@@ -13,7 +13,7 @@
 Amennyiben Péterfai János szerint a macska a magányos és [[M/Makacs\|makacs]] ideák nyomán vizsgálandó, akkor gyorsan itt fel kell eleveníteni azt, amit Magyar Adorján írt a magányosságról, minthogy hímségi princípium.  
 A macska szavunkban így a Macs a Makk, [[M/MAG\|Mag]] változata, csillag, Nap, hímségi kell legyen: a nagymacskák mindenütt Napjelképek. De Nap Háza értelmű a [[K/Kutya\|Kutya]] is, sőt, a Kin/Kün/Kan nevek is Napnevek. A kutya ugyanúgy asztrális név, mint a macska. A [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] szócikk alatt is szerepelt, hogy ez a két fontos háziállatunk, a kutya és a (nagy)macska tulajdonképpen [[H/Hunor és Magor\|Hunor és Magor]] kergetőzése kell legyen az égen. Persze a kutya inkább kergeti a macskát, mintsem fordítva.   
 
-A PJI-nek nem tetsző (HH3 videóiban visszatérő) mancs – macska levezetésre visszatérve; a kelta-ír `màg` = mancs mutat rá, hogy ez a szó [[O/Orrhang\|orrhang]] nélkül, torokhanggal is szerepelt. Elképzelhető eztán, hogy macska is szerepelt \*makka alakban. Mivel viszont -ka kicsinyítés is lehet, visszatérünk oda, hogy a macska sem más, mint Mag = Nap.  
+A Péterfainak nem tetsző (HH3 videóiban visszatérő) mancs – macska levezetésre visszatérve; a kelta-ír `màg` = mancs mutat rá, hogy ez a szó [[O/Orrhang\|orrhang]] nélkül, torokhanggal is szerepelt. Elképzelhető eztán, hogy macska is szerepelt \*makka alakban. Mivel viszont -ka kicsinyítés is lehet, visszatérünk oda, hogy a macska sem más, mint Mag = Nap.  
 
 [[B/Basztet\|Basztet]] istennő címnél is volt szó egyiptomi kutyákról és macskákról, Guirdjieff elemzésében: végeredményben a macska a fényre, a sütő Napra, Magorra, a kutya a sötétségre, halálra, szexualitásra, Hunorra utal.  
 A Guirdjieff-et elemző internetes női blogger is felhívja a figyelmet még arra, hogy a kutyákkal ellentétben a macskáknak van emlékezetük. Elég sajátos vélemény, rossz velemény a kutyákkal kapcsolatban. Sokkal tetszetősebb azt mondani, hogy a macskákkal ellentétben a kutyák képesek – Jézus tanításaival egyezően – akár hetvenhétszer megbocsátani.  
