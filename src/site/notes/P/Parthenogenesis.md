@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Parthenogenesis/","title":"Parthenogenesis","tags":["Englishtexttranslated"],"created":"2023-11-11T12:17","updated":"2024-02-28T21:39"}
+{"dg-publish":true,"permalink":"/P/Parthenogenesis/","title":"Parthenogenesis","tags":["Englishtexttranslated"],"created":"2023-11-11T12:17","updated":"2024-04-27T00:15"}
 ---
 
 
@@ -17,7 +17,7 @@ Szűzként fogantatás. A háttérben a görög `parthenosz` = szűz (Magyar Ado
 > Nőelvi őstörzseink eszejárása a mai anyagelvűséggel (materializmussal) hasonlítható\[?\] össze, mert holott a hímelvi törzsek minden létezőnek emberi ésszel meg nem érthető kezdetének, ősokának az örökké megvolt őserőt tartották, amely az anyagot is létrehozta, és ezt férfiistenséggel jelképezték, ezzel szemben a nőelviek szerint minden létezőnek emberi ésszel szintén föl nem érhető kezdete az ősanyag volt, amely öröktől fogva létezett, amely az erőt is szülte és amit ők nőistenségben személyesítettek meg. Mivel pedig mielőtt ezt megszülte volna, még semminemű erő (energia), azaz semmiféle hímség nem létezett, ami megtermékenyíthette volna, ennélfogva ő csak szűzen szülhetett, vagyis tehát szűz-anya volt. Lévén pedig a hő és fény is erők, ezért ezek megszületése előtt csak sötétség és hidegség létezhettek. Ezért az Ősanyag költői megszemélyesítését vagyis az Ős-Anyagistennőt, az Örök-Anyát, a nőelvi törzsek egyrésze, mint például a besenyők, feketének képzelték; vagy csak feketébe öltözötten, vagypedig feketebőrűnek is ábrázolva őt. Ez oka annak, hogy például a rómaiak által "Efezuszi Diana"-nak nevezett elő-ázsiai Ős-Világanya-Istennő, aki tiszteletét a rómaiak is átvették, feketearcú-, kezű-, lábúnak ábrázoltatott, amint azt szobrain látjuk, amelyeken teste látható részei fekete márványból készültek, míg a ruhái és a rajta lévő jelképek fehér márványból valóak. Holott láttuk hogy a magyarok az ős-Anyaistennőt a Tejúttal azonosítva, épen ellenkezőleg fehérnek képzelték és őt fehér szarvasünővel jelképezték. Vagyis láthatjuk ezekből is, hogy őseink jelképes regéiket teljesen szabadon és tetszésük szerint költötték, habár ezekkel mindig természeti valóságokat igyekeztek költőileg kifejezni. A vallási türelmetlenség, felekezeti gyűlölködés és vakhit, amely egymás ellen uszítja a különböző felfogású embereket, csak igen későn, más népek elszaporodásával vette kezdetét, különösen pedig a mai prófétai vallások elterjedésével.  
 
 MA egyéb adatait lásd még [[P/Part\|part]].  
-Bakos Attila A Duna Evangéliuma című könyvének ide illő, igencsak MA-kaptafára készült sorait lásd [[F/Fény és anyag\|fény és anyag]]. (BA könyvének 215-216. oldaláról beszélek.)  
+Bakos Attila A Duna Evangéliuma című könyvének ide illő, igencsak MA-kaptafára készült sorait lásd [[F/Fény és anyag\|fény és anyag]]. (Bakos könyvének 215-216. oldaláról beszélek.)  
 
 [[B/Birth\|Birth]] címnél is volt arról szó, hogy a [[P/Párta\|párta]] szavunk kell legyen a kiinduló.  
 Az alábbi NatGeo cikkben szó esik a kígyók és más fajok azon képességeről, hogy szűzen nemzenek.  
