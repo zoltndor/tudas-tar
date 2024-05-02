@@ -248,7 +248,7 @@ Az [alábbi](https://youtu.be/jUXY3njr1MM) A mindenséggel mérd magad 16/2. cí
 [[T/TIR\|TIR]] címnél szóltunk az íj és a nyíl értelmek keveredéséről. ([[K/KUS\|KUS]] címnél szintén volt szó a Nyilas és az Íj fogalmak keveredéséről.)  
 A [[T/Tirana\|Tirana]] címnél is taglalt sumér-akkád `Tir-An-Na` = szivárvány az égbolt ívére és így íjra utal.  
 [[U/Uruk\|Uruk]] neve a szelukida időkben Tiranna volt, melyet Szivárvány Város jelentéssel adnak meg. `Tir-An-Na` = szivárvány jelentésű a sumér-akkádban ugyanis.  
-A szivárvány megint az éganyára/Tündér Ilonára vonatkozik (lásd [[B/Bukra\|bukra]]).  
+A szivárvány megint az éganyára/Tündér Ilonára vonatkozik (lásd [[B/Bukor\|bukor]]).  
 
 Ezért lehet An-Tir-Anna a sumér zodiákus neve. Viszont az akkádban az Tir-An-Na elnevezés a [[S/Sárkány csillagkép\|Sárkány csillagkép]] alfájára utalt, nyilván mert abban az időben (I. Szargon idejében; az Astronomy Encyclopedia i.e. 2800-ra teszi Sarkcsillag státuszát) volt a Sarkcsillag, mely a Jankovics Marcell adata szerint a Tejútanya köldöke is egyben.  
 Az íj és a nyíl értelmek keveredését látjuk viszont megint csak, hiszen a pártus eredetűnek vélt perzsában már [[T/Tír\|Tír]] = nyíl és Orion-Szíriuszra utal inkább.  
@@ -447,7 +447,7 @@ A japán `kyūdō` = íjászat és `kyūjutsu` = íjászat művészete jelentés
 ## Szkíta-hun-magyar nyilas témák
 
 [[J/Jézus#Jézus és a Biblia íjfeszítő népektől való származásának bizonyítékai\|Jézus és a Biblia íjfeszítő népektől való származásának bizonyítékai]] cím/alcímnél volt szó róluk.  
-Az [alábbi](https://youtu.be/ObQpn8Hbe60) ÁKTV műsorban 1:56:03-nál KT kifejti, hogy Jézus szkíta fajúságára vagy inkább úgy mondanám, hogy a [[K/Kereszténység\|kereszténység]] szkíta eredetére utal Tamás evangéliuma 47-je, ahol Jézussal azt mondatja: "Lehetetlen, hogy egy ember egyszerre két lovat üljön meg és hogy egyszerre két íjat feszítsen."  
+Az [alábbi](https://youtu.be/ObQpn8Hbe60) ÁKTV műsorban 1:56:03-nál Kubínyi Tamás kifejti, hogy Jézus szkíta fajúságára vagy inkább úgy mondanám, hogy a [[K/Kereszténység\|kereszténység]] szkíta eredetére utal Tamás evangéliuma 47-je, ahol Jézussal azt mondatja: "Lehetetlen, hogy egy ember egyszerre két lovat üljön meg és hogy egyszerre két íjat feszítsen."  
 Lásd még Rómaikhoz 3.23 részt például [[M/Miss#Miss 2)\|miss]] és [[H/Hamartia\|hamartia]] címnél, ismét íjász-nyilas téma kapcsán.  
 
 [[E/EB#Eb mint Év és Ív\|Eb mint Év és Ív]] és [[E/EB#Eb mint Ív/Íj\|Eb mint Ív/Íj]] cím/alcímnél (is) volt szó arról, hogy ami egy helyütt Kutya/Eb(csillag/zat), az másutt Ív/Íj csillagzat. És lám, amikor a joruba `ìfẹ́`/`ife` = szerelem szóra ráleltem, biztos voltam benne, hogy itt is ugyanaz a kiinduló idea, mint [[L/Love\|love]] (valamint [[A/Ámor\|Ámor]] és a többi) esetében: íjlövés = szerelem (a nemzés aktusához szükséges előfeltétel).  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sikér/","title":"Sikér","created":"2024-04-22T12:26","updated":"2024-04-27T00:27"}
+{"dg-publish":true,"permalink":"/S/Sikér/","title":"Sikér","created":"2024-04-22T12:26","updated":"2024-05-02T19:29"}
 ---
 
 
@@ -12,7 +12,7 @@ Ugyanakkor sikamlós, nyulós, ragadós, lágy anyag (például enyv, lép, méz
 Így Sik-Ér olyanféle alkotásúnak tűnik, mint [[K/Kenyér\|kenyér]] (Keny-Úr).  
 Molnár V. József az [alábbi](https://youtu.be/7gMQuvM4Dm0) videóban 19:30-nál sikért [[S/Sugar\|sugár]] szóval rokonítja (a búzában benne aluszik a Nap) és épp rokonítás kapcsán jön is elő a szó.  
 
-Az [alábbi](https://piszkeioko.hu/index.php/tudastar/100-amit-a-glutenrol-erdemes-tudni.html) oldal adata szerint a sikér nem más, mint a [[G/Glutén\|glutén]]. Nos, valóban, a [[G/Glue\|glue]] = enyv, ragasztó jelentése is erről tanúskodik.  
+Az [alábbi](https://piszkeioko.hu/index.php/tudastar/100-amit-a-glutenrol-erdemes-tudni.html) oldal adata szerint a sikér nem más, mint a glutén. Nos, valóban, a [[G/Glue\|glue]] = enyv, ragasztó jelentése is erről tanúskodik.  
 Az [alábbi](https://youtu.be/vUSCneLdOx8) ÁKTV-s műsorban erdélyi hozzászóló a gluténnal azonosítva írja:  
 > Üzenném Gizi néninek, hogy a sikér az maga a glutén. A glutén lebontása a kovászolással történik, azaz fermentáció által, ezért ajánlott a kovászos kenyér, ugyanis ma már mindenféle adalékok hozzáadásával sütik a pille könnyű, de "glutén-gazdag" kenyeret, és ez nagyon hozzájárul a glutén-érzékenység és a lyukas bél kialakulásához. A régi búzafajták sokkal magasabb glutén-tartalmúak voltak, viszont a kovász segítségével egészséges kenyeret sütöttek. Ugyanúgy ajánlott a zöldségeket is fermentálni fogyasztás előtt, mert sokkal egészségesebb. A nyers zöldségek feldolgozása a szervezetben, nagyon sok ásványt és értékes nyomelemet von el, sokkal többet mint amit a friss zöldséggel bejuttatunk.  
 

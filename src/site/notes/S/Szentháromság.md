@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"]}
+{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2024-05-02T19:30"}
 ---
 
 
@@ -287,14 +287,14 @@ Bálint Sándor szerint e napsugaras háromszög szentháromság-jelkép volt, s
 
 Az [alábbi](https://youtu.be/9Uif7ioQ4T4) Ne Legyen Áldozatos műsorban 7:00 körül Pap Gábor is szól arról, hogy **a mai tudomány anyag, energia és információ hármassággal képezi le a mindenséget**, de PG-ék idejében még csak anyag és energia volt, melyek viszont (lábjegyzetben kimondva) valójában egymásnak megfelelnek, hiszen az anyag nem más, mint bizonyos mértékhatárok alá fékeződött energia. Tehát hiába bontja háromra, ha kettő egymással azonos, míg az információról ugyanúgy semmit sem tud mondani, ahogy a lelket sem tudja definiálni. Pap Gábor ugyebár itt is azt bizonyítja, hogy a három komponensű világ-leképezéshez képest hiányosság van.  
 9:44-nél az az energiát a szellemiséggel, az anyagot a testiséggel felelteti meg, és akkor nyilván az információ felelne meg a [[L/Lélek\|lélek]]nek (a tudomány egyiket sem tudja ugye definiálni: határok közé foglalni).  
-Lásd még GA hasonló tudományos háromságát lentebb.  
+Lásd még Grandpierre Atilla hasonló tudományos háromságát lentebb.  
 Bakos Attila A Duna Evangéliuma című könyvének 491. oldalán ír az energiáról és az anyagról.  
 
 Szentháromságot alkot a [[S/Szakrális geometria\|szakrális geometria]] címnél taglalt felvilág, föld és alvilág. Ezek további, szintén hárommal osztható szférákra (lásd [[S/Sphere\|sphere]]) bonthatók. Az angol *cloud nine* is nyilván a kilences felosztásra utal.  
 [[A/Anu útja\|Anu útja]] címnél is háromságról volt szó.  
 Szentháromságnak mondja egy internetes cikk szerzője az Anya, Gyermek és a [[M/Méhlepény\|méhlepény]] hármasságát.  
 
-A már a címében is mutatólagos L. Kecskés András Háromkirályok – Szentháromság című az Ősi Gyökér 2013/1-2. sz. megjelent cikkében a [[G/Gáspár\|Gáspár]], [[M/Menyhért\|Menyhért]], [[B/Boldizsár\|Boldizsár]], és az általuk ajándékként hozott [[A/Arany\|arany]], [[T/Tömjén\|tömjén]] és [[M/Mirha\|mirha]] kapcsán szól a témáról.  
+A már a címében is mutatólagos L. Kecskés András Háromkirályok – Szentháromság című az Ősi Gyökér 2013/1-2. sz. megjelent cikkében Gáspár, Menyhért, Boldizsár, és az általuk ajándékként hozott [[A/Arany\|arany]], [[T/Tömjén\|tömjén]] és [[M/Mirha\|mirha]] kapcsán szól a témáról.  
 
 ![assets/Szentháromság_image10.jpeg|invert_dark](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image10.jpeg)  
 Bakk István Miért apostoli királyság Magyarország? című az Ősi Gyökér 2013/3. sz. megjelent cikkében van egy rész, amely a [[P/Pálos\|pálos]] rend alapításáról szól. Ami a legérdekesebb benne, hogy benne Özsébet, mint a nagykutya nemzetségből valót említi; ugyanott (lásd témát [[K/Kutya\|kutya]] címnél) Gyárfás Ágnes Szentháromságra utaló kijelentést is tesz: Mária országának mennyei királysága az égi térképen látható, és ennek a földi mása a szentháromság megjelölése: a (Holló, Bak és a Nagykutya) csillagképek által határolt terület. \[Lényegében a [[T/Tejútanya\|Tejútanya]] csillagteste.\]  

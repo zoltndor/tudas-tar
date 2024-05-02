@@ -1,0 +1,1 @@
+`= óriás szót a svéd `

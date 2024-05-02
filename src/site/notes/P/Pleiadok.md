@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2024-02-28T21:40"}
+{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2024-05-02T19:28"}
 ---
 
 
@@ -228,7 +228,7 @@ A könyv első kötetének 271. oldala alján még azt írja, hogy a [[S/Szümpl
 > —  
 > A Plejádok, a Nyitott Ajtó csillagai kb. i.e. 2250 körül hirdették a tavaszt.  
 
-Maradjunk a fenti szürkével kiemelt megoldásnál, hogy [[F/Fajd\|fajd]] szavunkból ered. Viszont mivel a [[F/Faj\|faj]] és [[F/Fajta\|fajta]] szavak is rokonok, kijelenthető lenne, hogy ez emberi faj eredete a Pleiadok, ahogy egyesek mondják (még Péterfai János is említi, a Vega és más csillagok mellett)?  
+Maradjunk a fenti szürkével kiemelt megoldásnál, hogy [[F/Fajd\|fajd]] szavunkból ered. Viszont mivel a [[F/Faj\|faj]] és `fajta` szavak is rokonok, kijelenthető lenne, hogy ez emberi faj eredete a Pleiadok, ahogy egyesek mondják (még Péterfai János is említi, a Vega és más csillagok mellett)?  
 
 ## Lábjegyzetek
 

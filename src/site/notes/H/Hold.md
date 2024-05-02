@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2024-04-27T00:06"}
+{"dg-publish":true,"permalink":"/H/Hold/"}
 ---
 
 
@@ -236,15 +236,23 @@ Ha már a kényszerítés és BAR etimon szóba került, az olyan szavak, mint a
 > A fehér rózsa mindenkor magyarok Nagyboldogasszonyára emlékezik. Későbbi, hun befolyás hatására a vándor hunok az égi vándort választották jelképül, s egyúttal színeit is: a hold ezüst-fehér ragyogását és az ég kékjét.  
 > Kisasszonyuk s leányaik pártáján holdvilágos éjszakák harmatcsöppei rezegnek, melyek a legkisebb érintésre is lehullanak, megsemmisülnek, ezzel jelképezve szüzességüket. Az örök szüzesség viszont terméketlenséget is jelent, s közösségi szinten a halállal egyenlő. Jól tudták, hogy a Hold maga is terméketlen, holt égi test, s egyúttal a Halál jelképe is volt. Virágja a szűzi fehér liliom. A liliom gyakran már nem fény jelkép. Érintése hideg, mint a halál. A V.1:139 ima Jézus halálát a következőképpen fejezi ki: "Liliommá tették..."  
 
+## Dagadó és fogyó hold D és C betűkre hasonlító alakja
+
+#### Baktay Ervin A csillagfejtés könyve...  
+
+...című művében írja:  
+> Innen ered a régi mondás, hogy "a Hold hazudik". Amikor növekedőben van, D-alakot mutat, holott Decrescit latinul annyit jelent, hogy "fogyatkozik"; amikor fogyóban van, C-alakot mutat, pedig Crescit latinul annyi, mint "növekszik". De még könnyebb felismerni a Hold növekvő vagy fogyó állapotát a régi magyar hagyomány alapján: ha D-alakot mutat, akkor Dagad, növekszik, ha C-alaku, akkor Csökken, fogy.  
+- De miért is lenne a [[L/Latin nyelv\|latin nyelv]] bármi szempontból hiteles...?
+
 ## Égitestadatok
 
 #### Tibold Makk Szabina Hattyú úszik a mennyek vizén – A baljóslatú 13 titka...
 
 ...című az Ősi Gyökér 2019-20/1-4. sz. megjelent cikkében idézett Bara Mihály féle adatokkal kezdünk:  
 > "...a Hold irányítja milyen gyorsan forog a Föld, mely kulcs ahhoz, hogy mi élhessünk rajta. A Hold nyugtató hatása nélkül, a Föld olyan gyorsan forogna, hogy a szél, melyet a centrifugális erők keltenének, ellapítanának minket, mint egy palacsintát. A nap pár órába telne, igy fotószintézis erősen megkérdőjelezetté válna. A Hold rendszerezi és mozgatja a Föld védő magnetikus mezőjét, mely válságosan fontos védelem számunkra a magasfokú napkitörések és egyéb halálos űrközi sugárzások ellen. A Hold véletlenül pontosan olyan messze van a Földtől, hogy tökéletes Nap és Holdfogyatkozásokat tud eredményezni. A Hold átmérője 2160 mérföld az egyenlítőnél. Nem 2161, vagy 2159 mérföld, hanem pontosan 2160 mérföld. Ez a 2160 mérföld 'véletlenül' megegyezik a 2160 éves Asztrológiai Korok precesszióinak (hónapjainak) időhosszával."  
-- Más adatai [[T/Tizenhármas szám rejtélye\|tizenhármas szám rejtélye]] címhez kerültek.  
+- Más adatai [[T/Tizenhármas szám rejtélye\|tizenhármas szám rejtélye]] címhez kerültek.
 
-![assets/Hold_image6.png](/img/user/H/assets/Hold_image6.png)  
+![assets/Hold_image6.png|invert_dark](/img/user/H/assets/Hold_image6.png)  
 A Hold bolygónk egyetlen nagyméretű, természetes kísérője. Átmérője közel negyede a Földének, így a Naprendszer hatodik legnagyobb holdja. Tömege 1,2%-a bolygónkénak. Átlagosan 27 földátmérőnyire kering bolygónk körül, 1 km/s-os sebességgel direkt irányban. 27,3 nap alatt tesz meg egy fordulatot, ezt nevezik sziderikus keringési időnek. Tengelyforgási periódusa ugyancsak 27,3 nap, aminek következtében mindig ugyanazt az oldalát fordítja bolygónk felé – ezt nevezik kötött tengelyforgásnak. A valóságban felületének valamivel több mint felét tudjuk megfigyelni. Ennek egyik oka, hogy a Hold pályasíkja 5 fokos szöget zár be az ekliptikával, a Föld pályasíkjával, így időnként északi, időnként pedig déli pólusára látunk rá jobban – ez a szélességi libráció. A Hold tengelyforgása egyenletes, de földközelben gyorsabban, földtávolban pedig lassabban halad pályáján. Így néha előresiet, máskor pedig kicsit lemarad, ezért néha keleti, néha nyugati oldalára látunk rá jobban – ez a hosszúsági libráció. A Hold librációs mozgásának következtében felszínének mintegy 59%-a figyelhető meg a Földről.  
 
 Kötött tengelyforgása csak a Földre vonatkoztatva áll fenn, a nappalok és éjszakák természetesen a Holdon is váltakoznak. Egy holdi nap a 27,3 napos tengelyforgási időnél valamivel hosszabb, mivel a Hold a Földdel együtt a Nap körüli pályán halad – azaz a Nap elmozdulni látszik a háttércsillagokhoz képest. Így ahhoz, hogy a Nap ismét deleljen a Hold egy adott helyéről nézve, még 2,2 napnak kell eltelnie – ez a Hold szinodikus keringési ideje. A Holdnak nincs saját fénye, a bolygókhoz hasonlóan a róla visszaverődő napfény teszi láthatóvá. A felszínét borító anyag fényvisszaverő képessége meglehetősen rossz, a ráeső fénynek átlagosan 7%-át veri vissza, hasonlóan például a hamuhoz. Ennek ellenére, mivel elég közel van hozzánk, a második legfényesebb objektum a Nap után. Újhold környékén – első negyed előtt és utolsó negyed után – az ún. hamuszürke fényt figyelhetjük meg rajta. Ez az árnyékos oldal enyhe derengése, amit a Földről a Holdra, onnan pedig ismét a bolygónkra visszavert napfény hoz létre.  

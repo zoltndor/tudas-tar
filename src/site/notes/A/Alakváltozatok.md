@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Alakváltozatok/","title":"Alakváltozatok","tags":["dg_uploaded"],"created":"2023-11-06T01:56","updated":"2023-11-06T01:56"}
+{"dg-publish":true,"permalink":"/A/Alakváltozatok/","title":"Alakváltozatok","tags":["unpublishit"],"created":"2023-11-06T01:56","updated":"2024-05-02T18:55"}
 ---
 
 
