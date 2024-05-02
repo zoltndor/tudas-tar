@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/F/Frank/","title":"Frank","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-29T01:40","updated":"2024-02-15T02:01"}
+{"dg-publish":true,"permalink":"/F/Frank/","title":"Frank","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-29T01:40","updated":"2024-05-02T19:09"}
 ---
 
 
 # Frank 1)
 
-A hivatalos nézet szerint a frank germán név (a [[G/Gall\|gall]] név pedig latin, mert kakast jelent). Nagyon nem ismerik sem a franciák, sem a németek, sem az angolok eredetüket.   
+A hivatalos nézet szerint a frank germán név (a [[G/Gall\|gall]] név pedig latin, mert (`gallus`) kakast jelent). Nagyon nem ismerik sem a franciák, sem a németek, sem az angolok eredetüket.   
 
 #### Péterfai János írja:
 
