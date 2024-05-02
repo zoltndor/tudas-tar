@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Emberevő/","title":"Emberevő","created":"2023-10-21T03:45","updated":"2024-02-28T17:40"}
+{"dg-publish":true,"permalink":"/E/Emberevő/","title":"Emberevő","created":"2023-10-21T03:45","updated":"2024-05-02T19:01"}
 ---
 
 
@@ -15,4 +15,4 @@ Lásd [[E/Emberevés\|emberevés]]. [[I/Isszédonok\|Isszédonok]] címnél is v
 ## Hérodotosz közlései alapján készült térkép
 
 A [[H/Hérodotosz\|Hérodotosz]] közlései alapján készült hyperboreaiakra is kitérő térképen többek közt ők is szerepelnek:  
-![assets/Emberevo_image1.png|invert_dark](/img/user/E/assets/Emberevo_image1.png)  
+![assets/Emberevo_image1.png](/img/user/E/assets/Emberevo_image1.png)  
