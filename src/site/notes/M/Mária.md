@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2024-04-27T00:19"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2024-05-02T19:26"}
 ---
 
 
@@ -72,7 +72,7 @@ A könyv 191. oldalán lábjegyzetben:
 - De [[A/Anahita\|Anahita]] nevét és ezernyi más nevet sem oldanak meg helyesen.
 
 > A "Keresztneveink védőszentjeink" című könyv szerint "jelentését évezredek erőfeszítései és kísérletei sem tudták tisztázni. Vitatottak: például ezek a szófejtések: a sátánnal ellenszegülő, a szép, az Istent szerető, vagy akit Isten szeret; tudománytalan magyarázatok: a tenger csillaga, keserű tenger, úrnő stb. - de megoldást egyáltalán nem ad a helyes értelmezésre. Azt sem magyarázza, miért vitatott, vagy miért tudománytalan." Más szerző tesz még egy megjegyzést Mária névvel kapcsolatban: "Már a kereszténység előtti korban is népszerű név volt az ószövetségi zsidóság körében.  
-- Ezzel ellentétesen ez [alábbi](https://youtu.be/bdzCafV_biY) ÁKTV műsorában 36:20-nál KT elmondja, hogy Mária nevet nem volt szokás adni a zsidóknál és ez is bizonyítaná Jézus nem-zsidóságát.  
+- Ezzel ellentétesen ez [alábbi](https://youtu.be/bdzCafV_biY) ÁKTV műsorában 36:20-nál Kubínyi Tamás elmondja, hogy Mária nevet nem volt szokás adni a zsidóknál és ez is bizonyítaná Jézus nem-zsidóságát.  
 
 Mózes és Áron nénje is ezt a nevet viselte, így a népszerűségét ebből gondolják. Folytatásként említi, hogy a név különben héber, eredetileg Mirjam volt, ami Úrnő, Szépséges, Reménység, Isten kedveltje, Tenger csillaga jelentésű.  
 Nagyné dr. Fülöp Krisztina cikkében azt is írja, hogy a kor dokumentumai és az Újszövetségben szereplő sok Mária arról tanúskodnak, hogy neve, igen gyakori volt Jézus korában. Az akkori arámban valószínűleg "hercegnőt", "hölgyet", jelentett. Ami azt is jelentheti persze, hogy nem tudták, csak célszerű jelentést kellett hozzá kapcsolni.  
