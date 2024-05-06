@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/Y/Yew/","title":"Yew","created":"2023-10-29T02:36","updated":"2024-02-02T02:48"}
+{"dg-publish":true,"permalink":"/Y/Yew/","title":"Yew","created":"2023-10-29T02:36","updated":"2024-05-07T01:08"}
 ---
 
 
 # Yew
 
 [[T/Tiszafa\|Tiszafa]], mely a fenyőhöz hasonló tűlevelű faféle neve, fájának neve és a belőle készült [[I/Íj\|íj]]. Mind a hunokra utal. Az óangol szó is ív/íj szavunkat árulja el:  
-ORIGIN: OE `īw` or `ēow`; Ger `Eibe`  
+> ORIGIN: OE `īw` or `ēow`; Ger `Eibe`  
+- Ahogy [[T/Tiszafa\|tiszafa]] címnél szerepelt, a francia `if` = tiszafa (és belőle készült íj) és a lett `īve` is erre utal.
 
 Előjött Jankovics Marcell A fa mitológiája című könyvében, a Robert Graves által rekonstruált kelta-brit [[O/Ogham\|Ogham]] faábécé/naptár utólagosan említett I betűjénél, mely december 23-át jelzi és a kelta `idho`[^1] = tiszafa név kezdőbetűje.  
 Éppúgy az ív, azaz íj értelmét kell látni benne, mint a tiszafa [[T/Toxic\|toxic]] szónál előjött latin nevénél, `taxus baccata`-nál: azzal kapcsolatosan is az szerepelt, hogy íjakat készítettek belőle.  
