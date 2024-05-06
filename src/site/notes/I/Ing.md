@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Ing/","title":"Ing","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded"],"created":"2023-11-06T04:27","updated":"2023-11-06T04:27"}
+{"dg-publish":true,"permalink":"/I/Ing/","title":"Ing","tags":["titleandheadingonedontmatch","multipleentries"],"created":"2023-11-06T04:27","updated":"2024-05-06T03:12"}
 ---
 
 
@@ -20,16 +20,16 @@ Ugyanakkor mint védőöltözet és egyáltalán mint ruhanemű, a szkíta magya
 Még Supka amit ír a hatalmi szimbolika kapcsán:  
 > Éppen manapság nem kell azonban külön hangsúlyoznunk, hogy maga az egyszerű férfiing is a politika, tehát a hatalomszomj készlettárába vonult be abból a véletlenből kifolyóan, hogy Garibaldi az olasz risorgimento idején katonái számára nem talált más szövetet, mint az egyik elfoglalt katonai ruhatár vörös nadrágszövetét, s ebből a vörös szövetből csináltatott a hadserege számára formaruhául szolgáló vörös ingeket. Ezt a garibaldista formaruhát utánozta aztán a fasizmus, amikor a fekete inget tette követői számára kötelezővé. Ezt követték utóbb a különböző másfajta színű pártingek, amelyek sorra mind a hatalom egy-egy célkitűzésének kifejezőivé lettek.  
 
-### Ing, inog
 
-Lásd külön [[I/Inog\|inog]].  
 
 # Ing 2)
 
-Az angolban a folyamatos igeidő kifejezésére használt, magyarban is fellelhető végződés, például -ing kereng, kering, őrjöng, dühöng, dülöng, hajlong.  
+Az angolban a folyamatos igeidő kifejezésére használt, magyarban is fellelhető végződés, például -ing kereng, kering, őrjöng, dühöng, dülöng, hajlong szavakban.  
 A másik elképzelés, hogy az [[I/Ik\|ik]]es igék orrhangos változata ing.  
 
-KD a két elméletet szintén említi:  
+#### Kiss Dénes...
+
+...a két elméletet szintén említi:  
 > A "folyik" szavunk ikes ige, "k"-s ige, tehát mintha a többes szám jele itt is törvényszerűen jelölné a sokasodást, azaz a folyamat sokságát, folyását.  
 > Azaz az -ing folyamatos rag lehet pusztán k-ból g-re lágyult, orrhangos hang. Ettől persze még olyan szavaink mint kering, kacskaringó, úgy tűnik, fontosabb szerepet játszanak. Tehát nem is feltétlenül a (lineáris) folyás, sokasodás ideáját, hanem a Nap Földhöz képesti (cirkuláris) keringését kell figyelembe vennünk.  
 
