@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2024-05-02T19:26"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2024-05-07T00:38"}
 ---
 
 
@@ -28,7 +28,7 @@ A hivatalos bibilia fáma (a formai-irodalmi és közérthetőséget lebutított
 > [[J/Július 26\|Július 26]]-a Szent [[A/Anna\|Anna]], a magyar néphagyományban [[K/Kedd\|kedd]] [[A/Asszony\|asszony]]a[^1] napja. A katolikusok Szűz Mária édesanyját tisztelik benne.  
 > \[...\]  
 > Mária szüleiről, Annáról és Joakimról az újszövetségi könyvek egy szót sem szólnak. Legendájuknak és tiszteletüknek forrásai az apokrif írások, elsősorban Jakab elő-evangéliuma. A kiteljesedett középkori legenda szerint Anna első férje volt Joakim. Sokáig nem volt gyerekük, végül is angyali jövendölést követően Anna teherbe esett és megszülte az "első" Máriát, a majdani "Istenszülő" Szűzanyát. Joakim hamarosan meghalt, s Anna újból férjhez ment. Új férjétől, Kleofástól fogant a "második" Mária, Alfeus jövendő felesége, kinek négy fia lett Jézus unokatestvére, és – egy kivételével – apostola; a kisebbik Jakab, Júdás Tádé, zelóta Simon és József. Anna Kleofást is eltemette, és újból férjhez ment egy Salamon nevű emberhez. Neki szülte a "harmadik" Máriát[^2], akit apja után Szaloménak hívtak. Ő lett Zebedeus felesége és szült Jézus számára újabb unokafivéreket és apostolokat: a nagyobbik Jakabot és Jánost. Anna és leányai, **a három Mária, csak egy pogány képzetektől zsongó agyban alkothattak családot** (a kopt keresztény felfogás odáig ment, hogy a három Máriából egyet csinált, s fiaikat Jézus fivéreinek tette meg). Együttesükben a zsidó-keresztényektől idegen archaikus istennőháromság képe kísért, amelyet a hellenisztikus korban egy-egy jelentősebb istennő és háromtagú kísérete jelenít meg (lásd [[H/Héra\|Héra]] és a heszperiszek, [[A/Aphrodité\|Aphrodité]] és a gráciák).  
-- Lásd még inkább [[H/Három istennő\|három istennő]].  
+- Lásd még inkább [[H/Három istennő\|három istennő]].
 
 Fontos itt kiemelni, hogy a Jankovics Marcell által említett három Mária itt mostohatestvérek. Egy másik Mária-hármasság is létezik. Tehát **két Mária-hármasság létezik**.  
 Lewis Freemantle a The Thirteenth Stone című könyvében írja:  
@@ -213,8 +213,8 @@ Carla Ionescu, a torontói egyetem hallgatójának The Enduring Goddess: Artemis
 > —  
 > Így azt lehet állítani, hogy Artemisz Epheszia nemcsak az Istennő Királynő vagy az Állatok Királynője címet viselte, hanem könnyen lehetett volna a Méhek Királynője cím birtokosa is. Ha ez a helyzet, különösen Efezusban, akkor lehetséges, hogy a korai keresztény Mária-tiszteletet szándékosan úgy alakították ki, hogy ennek a nagyon ősi istennőnek a formáját vegye fel.  
 
-Falvay Károly Nagyboldogasszony című könyvének Mária-ünnepekkel kapcsolatos adatai itt-ott és dátummal a helyükön már megvoltak. (Apokrif nézet szerint anyja,) Szent [[A/Anna\|Anna]], [[B/Boldogasszony\|Boldogasszony]], [[K/Kisasszony\|Kisasszony]], [[S/Szűz csillagkép\|Szűz csillagkép]] és [[K/Kereszténység\|kereszténység]] címnél már szerepeltek adatok (utóbbinál kifejezésre került, hogy az egyházak feladata az volt, hogy a magyar ősi nézeteket és istennőket és a szintén magyar kereszténység istennőit úgy hozza közös nevezőre – ami nem is igazán sikerült, derül ki FK könyvéből – mintha a kereszténység a saját produktumuk lenne, de nem az).  
-FK könyvének 389. oldalán a római és ortodox Mária ünnepeket hasonlítja. A 390. oldalon Oroszország Mária-tiszteletéről szól.  
+Falvay Károly Nagyboldogasszony című könyvének Mária-ünnepekkel kapcsolatos adatai itt-ott és dátummal a helyükön már megvoltak. (Apokrif nézet szerint anyja,) Szent [[A/Anna\|Anna]], [[B/Boldogasszony\|Boldogasszony]], [[K/Kisasszony\|Kisasszony]], [[S/Szűz csillagkép\|Szűz csillagkép]] és [[K/Kereszténység\|kereszténység]] címnél már szerepeltek adatok (utóbbinál kifejezésre került, hogy az egyházak feladata az volt, hogy a magyar ősi nézeteket és istennőket és a szintén magyar kereszténység istennőit úgy hozza közös nevezőre – ami nem is igazán sikerült, derül ki Falvay könyvéből – mintha a kereszténység a saját produktumuk lenne, de nem az).  
+Falvay könyvének 389. oldalán a római és ortodox Mária ünnepeket hasonlítja. A 390. oldalon Oroszország Mária-tiszteletéről szól.  
 
 #### Schmidt Irén A magyarok és elődeik istenképe, találkozásuk a kereszténységgel a római térítés előtt 1-2....
 
