@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2024-04-05T19:25"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2024-05-07T01:11"}
 ---
 
 
 # Lélek
 
-Kezdjük a szóalakkal. Lélek Magyar Adorján adata szerint korábban \[értsd: alakváltozataként\] `lilek` volt. Igen ám, de a [[L/LIL\|LIL]] = lélek jelentést viszi. [[A/Átok\|Átok]] címnél volt arról szó, hogy miféle többes alakos főnévrag ez az -ek, -ok.  
+Kezdjük a szóalakkal. Lélek Magyar Adorján adata szerint korábban \[értsd: alakváltozataként\] `lilek` volt. Igen ám, de a [[L/LIL\|lil]] = lélek jelentést viszi. [[A/Átok\|Átok]] címnél taglaltuk, miféle többes alakos főnévrag ez az -ek, -ok.  
 
 Lélek szavunk (gyöke) kapcsán, más nyelvek, például sumér szavaival lásd (Magyar Adorján adatával) [[L/Lily\|lilom]] és [[L/Leek\|leek]].  
 
 #### Péterfai János megközelítése:  
 
-> A [[L/LIL\|lil]] is, a [[L/Lél\|Lél]] is magyar szó. A Lile madár Lil Házából való. Ismert a Nagy Lilik és Kis Lilik, amely madarak fehérek, tehát isteni színt viselnek. A Lél Lehel neve a Levegőhöz kapcsolódik, [[E/Enlil\|Enlil]] pedig a levegő istene. Lél Éke a Lélek.  
+> A [[L/LIL\|Lil]] is, a [[L/Lél\|Lél]] is magyar szó. A Lile madár Lil Házából való. Ismert a Nagy Lilik és Kis Lilik, amely madarak fehérek, tehát isteni színt viselnek. A Lél Lehel neve a Levegőhöz kapcsolódik, [[E/Enlil\|Enlil]] pedig a levegő istene. Lél Éke a Lélek.  
 
 
 
@@ -33,7 +33,7 @@ A kérdés, amit [[S/Szellem\|szellem]] címnél feltettünk, itt is feltehető:
 
 ...is írja:  
 > Nyelvünkben a lélek és lélekzés szavunk egy tőről fakad. A Biblia szerint Isten lelket lehelt az emberbe. A lélekzet és a lég Isten lehelete, s nélküle nem tudunk élni.  
-- Rőczei György és mások itt szereplő adatai alapján látjuk, hogy ez a Tomory Zsuzsa által is említett isteni lehelet lesz [[I/Isa\|isa]]/[[I/Íz\|íz]] néven használva.  
+- Rőczei György és mások itt szereplő adatai alapján látjuk, hogy ez a Tomory Zsuzsa által is említett isteni lehelet lesz [[I/Isa\|isa]]/[[I/Íz\|íz]] néven használva.
 
 > A lélek szorosan tartozik a személyhez, mint életének és személyiségének testtől független hordozója, az ember belső valósága, az emlékezés, értelem és képzelet hordozója. Miután az élet szorosan kötődik a lélekhez, minden rítus, mágia és hitrendszer alapja a lélekre vonatkoztatott elképzelések rendszere is. A vallás- és hitvilág, mely a valóság és a szellemi világ összekapcsolását hozza létre, szinte minden megnyilvánulásában az azt létrehozó népesség, törzs vagy nemzet lélekfogalmát tükrözi.  
 > Különböző korok különböző népei más és más lélekfogalommal rendelkeztek. A zsidók például egyistenhitüknek megfelelően egyetlen lelket képzeltek el, mint isteni szikrát az élő emberben, de a görögök és rómaiak sok istenben való hite is csupán egyetlen lelket tételezett fel. A keresztény lélekfogalom is eme "haladó európai" hagyomány folytatója. Ez a lélekfogalom vált általánossá Európában, így a mi nyelvünk is csak(?) ezt ismeri a magyar néprajzi irodalomban. Ez a lélekfogalom az Én-lélek (élet-lélek, lehelet-lélek, Breath-soul), és néprajzi irodalmunk kellőképpen körüljárta, mi történik vele születésünkkor, életünkben és halálunk után. (Például: "Egy lelkem van, azt is odaadnám érted.") A finnugor nyelvészek is bőségesen alátámasztják az ÉN-lélek ősiségét (vogul: lel, lili; osztják: lil; zürjén: lol, lov; votják: lul; finn: löyly; észt: leil; lapp: lievl) , de érthetetlen módon ennél többet a magyar lélekfogalomról ők sem állítanak. Pedig tehetnék! A finn-ugornak nevezett ősi népesség feltételezett rokonsága bőven megengedné, hogy a legközelebbi rokonainknak hirdetett vogulok és osztjákok nyelvét is jól ismerő kutatók az ő lélekfogalmukhoz hasonlót keressenek nyelvünkben.  
