@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated"],"created":"2023-10-05T06:45","updated":"2024-05-02T19:31"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated"],"created":"2023-10-05T06:45","updated":"2024-05-06T03:14"}
 ---
 
 
@@ -65,7 +65,7 @@ Azzal zárja, hogy az igazság kikerül a tárgyalásmenetből. Ilyen például 
 
 ### Tudomány a nem tudó (és hamisító szándékú) szemszögéből nézve  
 
-Ki autentikus? (Ki ellenőrzi a tényellenőröket?)  
+Ki autentikus, azaz hiteles? (Ki ellenőrzi a tényellenőröket?)  
 
 [[J/Judeo-kereszténység#Judeo-keresztény univerzalitás\|Judeo-keresztény univerzalitás]] cím/alcímnél is volt róla szó.  
 A mai nézet szerint a [[P/Pogány\|pogány]] annyi, mint hitetlen vagy nem-keresztény (és ezért hitetlen). A **hit ügyeit kezébe vevő katolikus egyház szempontjá**ból nézve nem találjuk az igazságot.  
@@ -85,7 +85,7 @@ Ha [[C/Columbus\|Columbus]] nem tudta (dehogynem) vagy Nyugat-Európa nem tudta,
 
 **Finnugrista kommunista buta felfogás** a sehonnan származtatható [[M/Magyar nyelv ismeretlen eredetű szavai\|magyar szavakat ismeretlen eredetűnek]] besorolni. Számára ismeretlen, mert nem ér fel arra a szintre, hogy pl. egy [[T/Tölgy\|tölgy]] szót értelmezni tudjon.  
 
-**Zsidó-centrista felfogás**, hogy [[N/Nimrud\|Nimrud]]/Nimród "Isten" ellen harcolt; nem Isten volt az, hanem [[J/Jahve\|Jahve]], a zsidó isten, keresztény/szkíta-keresztény szempontból a [[S/Sátán\|Sátán]].  
+**Zsidó-centrista felfogás**, és ezzel a zsidó-keresztények számára érvényessé tett felfogás, hogy [[B/Bál\|Baal]] mellett [[N/Nimrud\|Nimród]] is ellenséges, utóbbi "Isten" ellen harcolt; csakhogy nem az egyetemes Isten volt az, hanem [[J/Jahve\|Jahve]], a zsidó "isten", keresztény/szkíta-keresztény szempontból a [[S/Sátán\|Sátán]].  
 Egy másik idevehető zsidó téma, hogy pont a zsidó isten hozza a(z egyébként is egyiptomi eredetre visszavezetett) [[T/Tízparancsolat\|Tízparancsolat]]ot (ráadásul a legmocskosabb korban, helyen és negációkban). (Azaz amíg a "Szentírás"-ban nem jelenik meg a "Ne ölj" és más, ún. [[T/Tízparancsolat\|Tízparancsolat]]ban is leközölt "isteni" utasítás, parancs, addig ezek szerint mindenki mindenhol olyan barbár módra élt volna, mint az isteni teremtést követő ember által végzett munkát megunva, a sátáni lebontó erőt követendő példának tartva, rablásra és uzsorára berendezkedett ószövetségi népek (közüli szemiták).  
 
 **Az afro-centrista felfogás**, azaz a Darwin-féle vagy az ő kutatási eredményeivel visszaélők felfogása szerint Afrikából származunk (kapóra jön, hogy ott sok a majom), sőt, egyes elméletek szerint az [[E/Etióp\|etióp]]oknak kellene minden kultúrát megköszönni, akikre egyesek-mások azt mondják, hogy ők voltak az igazi zsidók. Értjük mi.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv és őstörténet kutatóknak adott Péterfai-tanácsok/","title":"Magyar nyelv és őstörténet kutatóknak adott Péterfai-tanácsok","created":"2023-12-28T09:02","updated":"2023-12-28T09:02"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv és őstörténet kutatóknak adott Péterfai-tanácsok/","title":"Magyar nyelv és őstörténet kutatóknak adott Péterfai-tanácsok","created":"2023-12-28T09:02","updated":"2024-05-06T03:12"}
 ---
 
 
