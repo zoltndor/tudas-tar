@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2024-04-05T19:32"}
+{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2024-05-06T16:16"}
 ---
 
 
@@ -10,14 +10,15 @@ Jankovics Marcell A Nap könyve című könyvének ([[H/Háromszögletű Nap\|h�
 Beszámol ugyanis Bosnyák Sándor arról, hogy a szegedi házhomlokzatok, tetők mintázatában "a szegedi parasztok a napfelkeltét, a delelést, a napnyugtát, alul a zárt rekeszekben az éjszakát látják."  
 
 Elterjedt hiedelem szerint a [[G/Göncöl\|Göncöl]]szekér szállítja a túlvilágra a halott napisten tetemét.  
-Jankovics Marcell Jelkép-kalendárium című könyvében [[M/Medve\|medve]] címnél halottvivő járművet, halottaskocsit említ ([[B/Bier\|bier]] címnél is szerepelt):  
+
+#### Jankovics Marcell Jelkép-kalendárium...  
+
+...című könyvében [[M/Medve\|medve]] címnél halottvivő járművet halottaskocsit említ ([[B/Bier\|bier]] címnél is szerepelt):  
 > Egyiptomtól Észak-Európáig ismert ősi elképzelés szerint a holtak lelkei a Göncölszekérben várják visszatérésük idejét. A Nagy Medve "gyomra és hátsó fertálya" ez! A szekércsillagzat neve számos népnél **halottaskocsi** értelmű, és erről a magyar néphagyomány is tud.  
 > A medveistenséget nemcsak a görög-római műveltség azonosította a Nagy Medve csillagképpel. Finnugor rokonaink hitvilágában több jelkép szál fut össze: a hantik a csillagzatot – többek között – a halott **medveistent hordozó halottas szán**nak képzelték. Artemisz medveistennő csillagképpé válásának regéjére gondolva pedig érdemes eszünkbe idézni, hogy a szomszédos Kis Medvét eleink Nagyasszony társzekerének, Nagyboldogasszony csillagának is nevezték.  
 - [[B/Bárka\|Bárka]] címnél hasonlóról volt szó: a halott/éjjeli Nap járműve (a Hold, Jankovics Marcell szerint).
 
-#### Jankovics Marcell...
-
-...alábbi, legutóbb [[S/Sarkcsillag\|Sarkcsillag]]nál és [[A/Arthur\|Arthur]] (valamint [[B/Bier\|bier]]) címnél is szereplő passzusa egyértelműsíti – miután az éjjeli/halott/fekete Nap a Sarkcsillaggal azonosul, és Arthur is kötődik a Göncölszekérhez (és a Szaturnuszhoz is) –, hogy ez a képzet egyetemes:  
+Jankovics Marcell alábbi, legutóbb [[S/Sarkcsillag\|Sarkcsillag]]nál és [[A/Arthur\|Arthur]] (valamint [[B/Bier\|bier]]) címnél is szereplő passzusa egyértelműsíti – miután az éjjeli/halott/fekete Nap a Sarkcsillaggal azonosul, és Arthur is kötődik a Göncölszekérhez (és a Szaturnuszhoz is) –, hogy ez a képzet egyetemes:  
 > A kínai császárt nemcsak a Nappal, hanem az ég közepével, a Sarkcsillaggal is azonosították, ezért alattvalóinak, miközben ő délnek néző trónusán ült, észak felé fordulva kellett leborulniuk előtte. Nap- és sarkcsillagmás lett volna egyszerre? Úgy tűnik, igen.  
 > Egy elterjedt hiedelem szerint a Nap éjjel, amikor nem látjuk, az "ég közepén", a Sarkcsillag mögött tartózkodik. [[T/Teszkatlipoka\|Teszkatlipoka]] volt az aztékok első napistene (Várkonyi Nándornál istennője?!), de ő volt a Göncöl (és a Sarkcsillag?) megszemélyesítője is, az **éjszakai Nap**.  
 > Az első azték napisten, [[T/Teszkatlipoka\|Teszkatlipoka]] neve azt jelenti "Füstölgő [[T/Tükör\|tükör]]". A név az obszidiánra, a tükörnek is használható természetes fekete üvegre és az éjszakai égre utal (obszidiánból pattintották az áldozati kőkést is, amit szintén ő személyesített meg). Az isten bőrszíne fekete volt, hiszen az éj urának tekintették, birodalmának a központja, az "ég köldöke" a circumpoláris csillagok északi övezetében található, az ég legsötétebb részén, ott, ahol nem jár a Nap, örök sötétség uralkodik. Az égnek ez a része valóban felfogható a délen ragyogó nap sötét tükörképének. Az isten csillagos alakját mintha a [[S/Sarkcsillag\|Sarkcsillag]]gal (a [[S/Szaturnusz\|Szaturnusz]] csillaglelkével) és a Nagy [[G/Göncöl\|Göncöl]]lel azonosították volna.  
@@ -101,7 +102,7 @@ Amikor [[A/Arthur\|Arthur]] címnél az [[A/Áld\|áld]]oz fogalma és szava sz�
 Ezt az égtájirányokkal kapcsolatos káoszt helyre kellene tenni. Falvay Károlynál a mag(zati lét) helye dél, viszont Jankovics Marcellnél ott a magzat, ahol a foganás, ahol a halál. Ennek magyarázata, hogy a téli napfordulónál van a legkevesebb fény, ezzel szemben a fenti észak éjszak(a) területe.  
 Egyébként másutt is szó volt arról, hogy csillagászati értelemben hogy lehet az, hogy Orion nemzi a Tejútanyát és rá hat hónapra (a másik [[S/Száj\|száj]]ban/Nyilas-Nyílásban) születik meg a Napgyermek, a téli napfordulókor, továbbá a [[S/Szűz\|szűz]] és [[S/Szíriusz\|Szíriusz]] fogalmak összehozásását is meg kell oldani.  
 Az tény, hogy [[K/Kutyanemzés\|kutyanemzés]], [[N/Nimrud\|Nimrud]] és sok más címnél írottak alapján, hogyha a déli égtáj a télre vonatkozik, amikor a Napgyermek is születik, akkor a foganás nem történhet ugyanott.  
-Az égtáj-irányokkal itt még az is a bajom, hogy a 2D kontra 3D felfogás nincs tisztázva ([[D/Dzsed\|dzsed]] címnél álló felállításra gondolok). Észak ugye a [[S/Sarkcsillag\|Sarkcsillag]] helye is, mely [[S/Szíriusz és a Sarkcsillag\|Szíriusz és a Sarkcsillag]] címnél írottak szerint is összefügg. Ez mutatna rá arra, hogy Észak = Szíriusz, ahol a foganás valóban történik is. Viszont mivel egyrészt abszolút kelet nem létezik, másrészt mivel az FK által megadott kelet, mint születés csak a napi időciklusban értelmezhető, itt egy újabb keveredés van, hisz a 3 időciklus közül a két nagyobbik az, ami inkább hasonlít egymáshoz és a hármat nem lehet egy kalap alá venni.  
+Az égtáj-irányokkal itt még az is a bajom, hogy a 2D kontra 3D felfogás nincs tisztázva ([[D/Dzsed\|dzsed]] címnél álló felállításra gondolok). Észak ugye a [[S/Sarkcsillag\|Sarkcsillag]] helye is, mely [[S/Szíriusz és a Sarkcsillag\|Szíriusz és a Sarkcsillag]] címnél írottak szerint is összefügg. Ez mutatna rá arra, hogy Észak = Szíriusz, ahol a foganás valóban történik is. Viszont mivel egyrészt abszolút kelet nem létezik, másrészt mivel az Falvay által megadott kelet, mint születés csak a napi időciklusban értelmezhető, itt egy újabb keveredés van, hisz a 3 időciklus közül a két nagyobbik az, ami inkább hasonlít egymáshoz és a hármat nem lehet egy kalap alá venni.  
 
 ## A Nap halála
 
@@ -158,7 +159,7 @@ Még a mérgezés is stimmelni látszik, ahogy Jankovics Marcell soraiból kider
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Hasonló RG-től:  
+Hasonló Robert Graves-től:  
 According to Macrobius, the oracle of Colophon, one of the twelve Ionian cities of Asia Minor, gave the nature of the transcendent God Iao as fourfold. In the Winter he was Hades, or Cronos; in the Spring, Zeus; in the Summer, Helios (the Sun); in the Autumn Iao, or Dionysus.  
 —  
 Macrobius szerint Kolophón, Kis-Ázsia tizenkét ión városa közül az egyik, jósa négyszeresnek adta a transzcendens Iao Isten természetét. Télen Hádész vagy Kronosz volt; tavasszal Zeusz; nyáron Helios (a Nap); ősszel Iao vagy Dionüszosz.  
