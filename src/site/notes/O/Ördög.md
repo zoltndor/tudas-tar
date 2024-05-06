@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated"],"created":"2024-05-03T12:19","updated":"2024-05-06T03:13"}
+{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated"],"created":"2024-05-03T12:19","updated":"2024-05-06T16:17"}
 ---
 
 
 # Ördög
 
-[[D/Dualisztikus eredetmagyarázó mondák\|Dualisztikus eredetmagyarázó mondák]] címnél szerepelt (feltehetően) a MNL adata:  
+[[D/Dualisztikus eredetmagyarázó mondák\|Dualisztikus eredetmagyarázó mondák]] címnél szerepelt (feltehetően)...
+
+#### A Magyar Néprajzi Lexikon adatsora:
+
 > Epikus néphagyomány, amely azt a gondolatot fejezi ki, hogy a teremtés két ellentétes erő együttműködésének az eredménye. Ezt a két teremtő erőt az Isten és az ördög személyesíti meg. Kettőjük közül az ördög áll közelebb a formálandó anyaghoz, Isten csak az utasítást, a szellemi irányítást adja (→ világ teremtéséről szóló monda). Az ördög hatásköre nem is terjed túl az anyagon, életet nem tud adni (→ ember teremtése). Jelentős számú mondában utánozni kívánja Isten teremtő tevékenységét, de működése vagy sikertelen lesz, vagy pedig valamilyen kártékony lényt teremt hasznos helyett (→ légy teremtése, a), más alkalommal pedig csupán a formai imitáció sikerül, de az sem tökéletesen (Isten lovat és tehenet teremtett, az ördög utánozni akarta, de az ő teremtménye se ló nem lett, se tehén, hanem bivaly). Az ördög szerepe a dualisztikus eredetmagyarázó mondákban mindig negatív Isten teremtésével szemben, még a közös tevékenység alkalmával is. Az ördögtől származtatják a mondák a világon létező valamennyi rosszat: a betegséget, a dohányt, a kártyázást, puskát, verekedést, a szeszes italokat, kártékony állatokat stb.  
 
 Ipolyi Arnold Magyar mythologia című könyvének 102. oldalától taglalja a nevet, míg Kandra Kabos Magyar Mythologia c. könyvének (a PDF) 121. oldalától van szó róla.  
