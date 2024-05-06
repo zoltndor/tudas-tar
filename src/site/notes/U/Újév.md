@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2024-04-05T19:58"}
+{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2024-05-07T00:39"}
 ---
 
 
@@ -25,7 +25,7 @@ Még Rómára visszatérve...,
 
 #### Gyárfás Ágnes az Ősi Gyökér 2012/1. sz. megjelent Szíriusz Boldogasszonyként való ábrázolása...
 
-...című cikkében az alant Oldenkamp által is taglalt témához hasonló adatokat oszt meg a Boldogasszonnyal kapcsolatos ünnepek megjelenítésekor, melyek közül öt fontosnak ítélt téridő-pontot jelöl meg:  
+...című [cikkében](https://mega.nz/file/d2kDSQ5Y#TD82UBacN9XBO-qVHReDn5kLYpytcs3ub5w1qgf7PD8) az alant Oldenkamp által is taglalt témához hasonló adatokat oszt meg a Boldogasszonnyal kapcsolatos ünnepek megjelenítésekor, melyek közül öt fontosnak ítélt téridő-pontot jelöl meg:  
 > December 21. Téli napforduló. Szülés, istenszületés.  
 > Július 01. A Szíriusz alászáll. Sarlós Boldogasszony ünnepe. Az év közepe.  
 > Január 01. Szíriusz delelése, **boldog** állapota[^2]. Az év eleje.  
@@ -223,7 +223,7 @@ Az kétségtelen viszont, hogy január 1-4 környékén a Föld perihelion pontj
 Másutt írja Magyar Adorján:  
 > Sebestyén Gyula "A regösök" című könyvében bemutatja a mongolok `cam` nevű táncában \[[[Come\|come]] címhez is betéve\] előforduló szarvasálarcos alakot, amellyel együtt még egy bikaálarcos is ábrázolva, amely pedig a mi egykori "Bözön Biká"-nkkal azonos. Megemlíti Sebestyén, hogy ilyenek a tibetiek újévi ünnepségein szintén szerepelnek. Azon körülmény, hogy a szarvasálarcos ember táncol is, azt sejtteti, hogy itt már nem őseredeti szertartással van dolgunk, mert tudván hogy ez valamikor magát a főistent jelképezte, a táncolást ennek méltóságán alulinak érezzük, bár ellenvethető, hogy a tánc ősidőkben époly szent valaminek tarthatott mint ma a vallásos éneklés. A Sebestyén által bemutatott szarvasjelmez ruháját már igen szép, művészi [[P/Palást\|palást]] képezi, amely állatbőrre már egyáltalán nem emlékeztet, de teljes, az ember arcát és fejét is befödő szarvasfeje is van, agancsokkal. Azt már tudjuk, hogy az egykori újév egyúttal Karácsony is volt, vagyis a Napisten évvégi halála és újévi újjászületése napja, illetve éjszakája, egyaránt.  
 
-FK könyvének 385. oldalán szereplő passzusa [[B/Boldogasszony\|Boldogasszony]] és [[B/Boldogasszony hava\|Boldogasszony hava]] címnél is szerepelt:  
+Falvay könyvének 385. oldalán szereplő passzusa [[B/Boldogasszony\|Boldogasszony]] és [[B/Boldogasszony hava\|Boldogasszony hava]] címnél is szerepelt:  
 > A magyar gondolkozás bizonyos mértékig eltér a keresztény Szűz Mária fogalom értelmezésétől. A Boldogasszony képzet, mint fiúgyermeket foganó asszony képviseli az időszakban a fényszimbólumot, ami nem azonos a Szűz Mária képzettel. Az Új év első holdhónapjának első napja a magyar hagyományok gondolkodása szerint a fényt foganó, és a napgyermeket szülő Boldogasszonyt ünnepelte. Szűz Mária viszont Jézust, mint a "Világ világossága" szimbólumát szüli meg a napfordulót követő első napon, december 25-én, ami régen Nagy Karácsony napja volt. Ezt követi december 26. Az év első napja, ami az első keresztény vértanú István napja. A Nagy Karácsony napja idő pont ősi asztrálmitológiai kapcsolatú. Ezen a napon indul útjára [[H/Három nap\|három nap]]os pihenő után a napkorong a horizonton. Az ortodox kereszténység december 26-i Istenanya-ünnepének tartalma is a rómaihoz hasonló Újév első napja lehet. (A jelenlegi január 1. \[a nyugati egyház Istenanya-ünnepnapja\], mint az Újév első napja a Gergely naptár 1588-as korszerűsítésének a következménye. Az egyházi rendelkezés időpontja 1582., magyar törvénybe iktatása 1588-i törvény szerint.)  
 
 Ami ezen passzus alapján (is) kimondható lehet, hogy Boldogasszony Bol-Dog nevében ezen Szent Tűz értelem konkrétan a téli napfordulós/[[K/Karácsony\|Karácsony]]i szerepköre nyomán alakulhatott ki, de persze a karácsony szorosan kapcsolódik Szíriuszhoz is.  
