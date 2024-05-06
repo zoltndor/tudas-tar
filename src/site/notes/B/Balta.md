@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/B/Balta/","title":"Balta","created":"2023-11-09T04:42","updated":"2024-02-02T12:49"}
+{"dg-publish":true,"permalink":"/B/Balta/","title":"Balta","created":"2023-11-09T04:42","updated":"2024-05-07T00:33"}
 ---
 
 
 # Balta
 
-Mint hímség/fegyver, nem lepődünk meg, hogy a Bál-Ta felbontásban előtagja Nap(Isten)név. Az ilyen szóösszetételekben az utótag általában "földreleképező." Bál-Ta a Nap Tája. Hasonlóan képeztük le [[P/Plate\|plate]] szót is (ott a Nap kereksége veendő számításba).  
+Mint hímség/fegyver, Bál-Ta felbontásban előtagja Nap(Isten)név. Az ilyen szóösszetételekben az utótag általában "földreleképező." Bál-Ta a Nap Tája. Hasonlóan képeztük le [[P/Plate\|plate]] szót is (ott a Nap kereksége veendő számításba).  
 
-Ugyanakkor sokkal több értelme lenne a Bal-Ata formában gondolkodni, annál is inkább, mert a Nap-Atya értelmű összetétel másutt is előfordul: lásd (avar-hun változatát) Bar-Ata > [[B/Bárd\|bárd]] (szintén balta féle eszköz/fegyver), továbbá a Nap-Ata a [[N/Nabateus\|nabateus]] és [[N/Napoca\|Napoca]] névben is megtalálható (továbbá [[A/Apam Napat\|Apam Napat]] nevében is).  
+Ugyanakkor sokkal több értelme lenne a Bal-Ata formában gondolkodni, annál is inkább, mert a Nap-Atya értelmű összetétel másutt is előfordul: lásd (avar-hun változatát) Bar-Ata > [[B/Bárd\|bárd]] (szintén balta féle eszköz/fegyver), továbbá Nap-Ata a [[N/Nabateus\|nabateus]] és [[N/Napoca\|Napoca]] névben is megtalálható (továbbá [[A/Apam Napat\|Apam Napat]] nevében is). Lásd még a [[P/Palóc#Palóc -óc végződése\|palóc -óc végződése]] cím/alcímnél szereplő adatsort.  
 
 #### Götz László Keleten kél a Nap...
 

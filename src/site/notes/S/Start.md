@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/S/Start/","title":"Start","created":"2023-11-01T05:30","updated":"2024-02-12T18:33"}
+{"dg-publish":true,"permalink":"/S/Start/","title":"Start","created":"2023-11-01T05:30","updated":"2024-05-07T00:48"}
 ---
 
 
 # Start
 
-Óangolban még `styrtan` még ugrik, szökken. A hirtelen irányváltoztatás (tart, előre-tör-tet) jelentése bővült ki indul, indít, stb. jelentésekké.  
+Az óangolban még `styrtan` még ugrik, szökken jelentésű. A hirtelen irányváltoztatás (tart, előre-tör-tet) jelentése bővült ki indul, indít, stb. jelentésekké.  
 Az st kezdőhang másutt is magyar cs hangot jelölt, így gyaníthatjuk csörtet, csertet szavainkat mögötte.  
 Valószínűbben állatok hajtására, irányítása, indulni ösztökélésére kell gondolni és csertet mellett [[C/Cserdít\|cserdít]] is idevehető. Az égi állat/[[V/Vad\|vad]] a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]].  
 

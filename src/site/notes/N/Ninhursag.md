@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Ninhursag/","title":"Ninhursag","tags":["Englishtexttranslated"],"created":"2023-11-05T01:07","updated":"2024-02-10T04:15"}
+{"dg-publish":true,"permalink":"/N/Ninhursag/","title":"Ninhursag","tags":["Englishtexttranslated"],"created":"2023-11-05T01:07","updated":"2024-05-07T00:38"}
 ---
 
 
@@ -26,7 +26,7 @@ Másutt is írja:
 
 A mellékelt kép is a könyvéből való.  
 ![assets/Ninhursag_image1.png](/img/user/N/assets/Ninhursag_image1.png)  
-Egyébként FK könyvének adatait olvasva a nála (is) nőiségi mennyről, nem tűnik butaságnak Ninhursag nevét Mennyországgal azonosítani, bár a Hursag = [[H/Herceg\|herceg]] azonosítás alapján lehet Herceg Nő(je) értelmű is, ahol akkor a Herceg lehetne Orion (vagy ezek szerint Enki).  
+Egyébként Falvay könyvének adatait olvasva a nála (is) nőiségi mennyről, nem tűnik butaságnak Ninhursag nevét Mennyországgal azonosítani, bár a Hursag = [[H/Herceg\|herceg]] azonosítás alapján lehet Herceg Nő(je) értelmű is, ahol akkor a Herceg lehetne Orion (vagy ezek szerint Enki).  
 
 #### Jeremy Black és Anthony Green Gods, Demons and Symbols in Ancient Mesopotamia...
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Augusztus 15/","title":"Augusztus 15","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-06T01:03","updated":"2024-04-12T16:57"}
+{"dg-publish":true,"permalink":"/A/Augusztus 15/","title":"Augusztus 15","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-06T01:03","updated":"2024-05-07T00:31"}
 ---
 
 
@@ -33,7 +33,7 @@ Micsoda misztikus sorsszerűség, hogy Szent [[I/István\|István]] koronázási
 
 Falvay Károly és MNL sem emeli ki igazán, hogy **ez az év nyolcadik teliholdja**[^3] és az [alábbi](https://greekerthanthegreeks.com/2016/08/greece-in-all-her-glory-under-mystical.html) oldal adata szerint is a legvilágosabb, legszebb teliholdja az évnek. Sokatmondó, hogy ilyenkor a Hold igen közel van a horizonthoz, azaz a Föld(anyá)hoz is (pongyolán fogalmaz a cikkíró; értsd: az ekliptika ilyenkor közel van a horizonthoz; és nyilván nem mindegy hány órakor nézzük a Holdat).  
 Állítólag majdnem olyan módon világít ilyenkor, mint a Nap! Márpedig a Nap a (Nap)király és a Hold pedig anyjának, a Tejútanyának aspektusa. Az éves körforgásban az augusztusi (lásd idevágó infókat is [[A/August\|August]]) holdhónap az Oroszlán jegyhez tartozik, mely alfájának neve is [[R/Regulus\|Regulus]] = királyka/kiskirály, és nem mellékesen a [[V/Világ négy oszlopa\|Világ négy oszlopá]]nak egyike (legfőbbje). Jankovics Marcell [[R/Regulus\|Regulus]] címnél álló adata szerint Ptolemaiosz görög csillagász a Regulust tekintette a zodiákus 1. fokának (a héraklészi "munkaév" is az Oroszlánnal kezdődik). Nyilván a Szűzzel való kezdés (melyről [[S/Szűz-Halak tengely\|Szűz-Halak tengely]] és [[S/Szűz csillagkép\|Szűz csillagkép]] címnél is szó esett és Lewis Freemantle The Thirteenth Stone című könyvében is ezt hajtogatta) is ugyanez lehet eltolva.  
-FK könyvének 250-251. oldalán írja (de nem mondja ki, melyik ünnepre gondol):  
+Falvay könyvének 250-251. oldalán írja (de nem mondja ki, melyik ünnepre gondol):  
 > Az eredeti ünnep minden bizonnyal a [[T/Telihold\|telihold]]é, a Nagy Istennőé[^4] volt, ami a patriarchálissá változott korban a király ünnepévé lett. A nap fényét hordozó és az erőt, hatalmat birtokló király együtt örökölte meg az istennő telihold emlékét és az istennő hatalmát.  
 
 Nos, véleményem szerint ez a különleges nyolcadik telihold olyan nagy formában, sárgásan, erőteljesen fénylik, mintha a Nap lenne és ez a nap nyilvánvalóan a latinok és a zsidó-patriarchális kor előtti korban is jelentős volt. Ezért is tarthatta Szent István szent napnak. Ha nekiállnánk kutakodni, biztosan találnánk olyan adatot, mely papi misztérium-játékot köt ezen naphoz (amikor a király és a papnő egyesülnek, vagy efféle). Akár a [[H/Hierogamy\|szent nász]]hoz is köze lehet, de mindenképp a [[S/Szűz\|szűz]] és [[S/Szűz-Halak tengely\|Szűz-Halak tengely]] címnél említett kezdethez.  

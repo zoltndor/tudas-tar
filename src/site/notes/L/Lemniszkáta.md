@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated"],"created":"2024-04-22T01:48","updated":"2024-04-22T02:45"}
+{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated"],"created":"2024-04-22T01:48","updated":"2024-05-07T00:35"}
 ---
 
 
@@ -35,8 +35,10 @@ Az mondjuk a képből jól/úgy látszik, hogy a hetedik (a felső két levágot
 
 Az a kutya, melyről közben [[C/Chain\|chain]] és [[L/Lánc\|lánc]] címnél is volt szó. (A magyar [[R/Rózsa vitéz mese\|Rózsa vitéz mesé]]ben is találkozunk két leláncolt kutyával. A [[Z/Zöld király mese\|Zöld király mesé]]ben az alant még taglalt hegy gyomrában is megkötözve várja a Nap, hogy kiszabadítsák, de ott nem kutya, hanem királyfi képében látjuk a Napot.)  
 
-Amikor a Magyar Nyelvőr, 1894. XXIII. kötet (a PDF) 103. oldalán a csokor jelentéssel megadott [[K/Katucs\|katucs]] szó mellett a francia `chaine` szót megláttam, bizonyítékot kaptam arra, hogy a lánc francia-angol szava mögött a (kan)kutyát kell keresni.  
+Amikor a Magyar Nyelvőr, 1894. XXIII. kötet (a PDF) 103. oldalán a csokor jelentéssel megadott katucs szó mellett a francia `chaine` szót megláttam, ötletet kaptam arra, hogy a lánc francia-angol szava mögött a (kan)kutyát kell keresni.  
 Lásd még futó kutya témát lentebb.  
+- Igen ám, de már másutt is feltűnt (lásd kanat/[[K/Kanóc#Kanat és koton\|kanóc]], hogy köt jelentéssel K-N vázú szó is használható.  
+Egyúttal hadd utaljak vissza azon korábban pedzegetett témára, miszerint kör értelem kereshető mind K-T, mind K-N vázú szavakban.
 
 Még a lánc és kutya kapcsán: "Lánc, lánc, Eszterlánc..." gyermekdalunkban [[E/Eszter\|Eszter]] felel meg a Kutyának lényegében.  
 
