@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2024-02-28T17:44"}
+{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2024-05-07T00:34"}
 ---
 
 
 # Galactic anticentre
 
-A Wiki adata szerint a Tejútközponttal szemben az [[A/Auriga\|Auriga]] van:  
+A Wikipédia adata szerint a Tejútközponttal szemben az [[A/Auriga\|Auriga]] van:  
 > The galactic anticenter is a direction in space directly opposite to the Galactic Center, as viewed from Earth. This direction corresponds to a point on the celestial sphere. From the perspective of an observer on Earth, the galactic anticenter is located in the constellation Auriga, and Beta Tauri is the bright star that appears nearest this point.  
 > In terms of the galactic coordinate system, the Galactic Center (in Sagittarius) corresponds to a longitude of 0°, while the anticenter is located exactly at 180°. In the equatorial coordinate system, the anticenter is found at roughly RA 05h 46m, dec +28° 56'.  
 > —  
@@ -31,7 +31,7 @@ Ami igen érdekes, hogy a galaktikus észak az a [[C/Coma Berenice csillagkép\|
 
 A [[P/Pleiadok\|Pleiadok]] címnél már vizsgált, John M. Jenkins könyvének 27. oldalán taglalt, mezo-amerikaiak számára fontos Pleiadok[^1] (generális irányában lévő Tejútvég) és a Tejútközpont ([[G/Galactic centre\|Galactic centre]]) kapcsolatát a hivatalos tudomány is ismeri, de mérései szerint, vagy elvi megfontolásból, másképpen, azaz nem a Pleiadokba (és nem is a Szíriuszba) helyezi az anticentert.  
 
-De először még, hogy térben el tudjuk képzelni, álljon egy JMJ-től származó sor, mely [[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]] és más címnél is szerepelt (hiszen a Tejútanyára, kinek koronája illetve feje és így akkor [[S/Száj\|száj]]a Szíriusz (is lehet) rávetíthető a kép):  
+De először még, hogy térben el tudjuk képzelni, álljon egy John M. Jenkins-től származó sor, mely [[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]] és más címnél is szerepelt (hiszen a Tejútanyára, kinek koronája illetve feje és így akkor [[S/Száj\|száj]]a Szíriusz (is lehet) rávetíthető a kép):  
 > The doctrine of the celestial gateways involves the shifting solstice axis in relation to a background axis fixed to two important points along the zodiac. We might already suspect that the Pleiades and the Galactic Center serve as the crown and root of this sidereal framework.  
 > The Galactic Anticenter is the topmost point in this new framework, because it is the direction out of our galaxy, into transgalactic domains. The Pleiades, like the Great Bear, are a short distance from the highest point of the system, but nevertheless they serve as a mythic and symbolic indicator.  
 > —  
