@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tégla/","title":"Tégla","created":"2024-04-18T15:36","updated":"2024-04-27T00:16"}
+{"dg-publish":true,"permalink":"/T/Tégla/","title":"Tégla","created":"2024-04-18T15:36","updated":"2024-05-06T03:16"}
 ---
 
 
@@ -13,5 +13,5 @@ Tég-La felbontásban ez is a Nap Helye. Három elem alkotja: víz és föld ele
 ...máshogy magyarázza:  
 > A Tégla két szava a Tég Kerek, a La Hely. Valóban ismert olyan tégla, ami kerek volt, mielőtt négyszögesedett volna a fogalma.  
 
-Az angol [[B/Brick\|brick]] = tégla is Napnevet tartalmazhat, illetőleg [[B/Burok\|burok]], burkol szavunkban [[B/BUR\|BUR]] Nap is lehet.  
+  
 Lásd még [[T/Tégely\|tégely]].  
