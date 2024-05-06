@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kutyaellenesség/","title":"Kutyaellenesség","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-27T10:32","updated":"2023-10-27T10:32"}
+{"dg-publish":true,"permalink":"/K/Kutyaellenesség/","title":"Kutyaellenesség","tags":["Englishtexttranslated"],"created":"2023-10-27T10:32","updated":"2024-05-07T00:34"}
 ---
 
 
 # Kutyaellenesség
 
-Fentebb már volt arról szó, hogy a zsidóknál nem volt jellemző a kutyák szeretete olyan mértékben, mint a görögöknél és a rómaiaknál (Egyiptomban és főleg Iránban igen nagy tiszteletnek örvendtek). A Bibliában 32-szer említik a kutyát, többnyire negatív hangvétellel[^1].  
+A zsidóknál nem volt jellemző a kutyák szeretete olyan mértékben, mint a görögöknél és a rómaiaknál (Egyiptomban és főleg Iránban igen nagy tiszteletnek örvendtek). A Bibliában 32-szer említik a kutyát, többnyire negatív hangvétellel[^1].  
 
 #### Sophia Menache Dogs: God's Worst Enemies?...
 
