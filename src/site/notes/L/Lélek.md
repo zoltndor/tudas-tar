@@ -435,7 +435,7 @@ Biz. Gozaimasu nevű ausztrál kutatótól (aki a 2016-ban elhalálozott, [[M/Ma
 
 Fentebb már volt szó Istenről. De mi lenne, ha Istent Istennőnek neveznénk?  
 Kezdjünk neki, és bontsuk ki a témát.  
-A lélektan fontos része a [[T/Tudatalatti\|tudatalatti]], mely az istennőhöz tartozó terület, ahogy FK könyvében is volt erről szó. [[O/Ösztön\|Ösztön]] címnél (ahol az alábbi passzus is szerepelt) pedig arról, hogy az [[I/Isten\|Isten]] és főleg az istennő tartozik hozzá.  
+A lélektan fontos része a [[T/Tudatalatti\|tudatalatti]], mely az istennőhöz tartozó terület, ahogy Falvay könyvében is volt erről szó. [[O/Ösztön\|Ösztön]] címnél (ahol az alábbi passzus is szerepelt) pedig arról, hogy az [[I/Isten\|Isten]] és főleg az istennő tartozik hozzá.  
 [[B/Babona\|Babona]] és [[V/Vallás\|vallás]] címnél is szerepelt Jankovics Marcell Ahol a madár se jár című könyvének Kényszercselekvés és szabad akarat című fejezetében álló passzusa:  
 > A vallás(osság) – ez már az én előfeltevésem –, legalább a szimbolizáció és a ritualizálás tekintetében ösztöni eredetű. Nem tudom, merte-e már valaki rajtam kívül [[C/Carl Jung\|Carl Jung]] **archetípus és kollektív tudattalan fogalmát egyszerűen ösztönnek nevezni**?  
 - Ösztön = Isten.
