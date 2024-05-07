@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szőke/","title":"Szőke","created":"2024-04-27T02:39","updated":"2024-05-02T21:10"}
+{"dg-publish":true,"permalink":"/S/Szőke/","title":"Szőke","created":"2024-04-27T02:39","updated":"2024-05-08T01:26"}
 ---
 
 
@@ -19,12 +19,12 @@ Lásd még [[B/Blond\|blond]] és [[F/Fair\|fair]]. [[B/Blond\|Blond]] címnél 
 
 A szőkére vonatkozó adatok [[K/Kék\|kék]] címhez kerültek. Ott is említettem Magyar Adorján hyperboreai szőkéit és Zajti/Kingsmill adatát is.  
 
-## Szőke <> sötétbarna/fekete rasszok ősi megkülönböztetése
+## Szőke és sötétbarna/fekete rasszok ősi megkülönböztetése
 
 Sumérok kapcsán [ezen](https://youtu.be/OiO_sdWc3mM) ÁKTV műsorban 1:42:25-nél Kubínyi Tamás szót ejt az [[E/Enuma Elish\|Enuma Elish]]ben is szereplő feketefejűek térfoglalásáról (a sumérok európai karakterűek, szőkék-barnák voltak). A hódítók a fekete göndör hajúak, akiket már messziről meg lehetett ismerni, ahogy mondja.  
 
 Később a [[P/Palóc\|palóc]]-[[K/Kumán\|kumán]] jellegű népek megkülönböztetése (hunok-magyarok) történt meg a görög-rómaiakhoz képest. Ahogy [[O/Oláh\|oláh]] címnél is írtuk:  
-Nyilván régen is megkülönböztetett jelentőségű volt a szőke [[S/Szkíta\|szkíta]] <> sötét hajú, olajos [[S/Szemita\|szemita]] (az ellentét máig tart, csak most már fehér és fekete bőrűekre van inkább kihegyezve a dolog).  
+Nyilván régen is megkülönböztetett jelentőségű volt a szőke [[S/Szkíta\|szkíta]] és sötét hajú, olajos [[S/Szemita\|szemita]] (az ellentét máig tart, csak most már fehér és fekete bőrűekre van inkább kihegyezve a dolog).  
 
 ### Világos és sötét jelentésű szavak etimológiai vizsgálata és nehézségei
 
