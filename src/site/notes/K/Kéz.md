@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kéz/","title":"Kéz","created":"2023-10-13T02:12","updated":"2024-03-03T23:43"}
+{"dg-publish":true,"permalink":"/K/Kéz/","title":"Kéz","created":"2023-10-13T02:12","updated":"2024-05-07T18:25"}
 ---
 
 
@@ -10,7 +10,7 @@
 > A magyar Kéz, régiesen `Kete`, az egyiptomiban és sumérben `Ket`, ugyanez a szó a vogulban `Kat`, osztjákban `Ket`, cseremiszben `Ked`, votjákban `Ki`, lappban `Ket`, észtben `Keszi`, finnben `Kete`. Ezek a tanúszavak azt mondják, hogy a balti és urali nyelvek nagyszerűen beilleszkednek a magyar ősnyelv családjába, azok is a Régi Kelet gyermekei.  
 
 Kéz szavunk éppúgy levezethető [[K/Két\|két]] szavunkból (kéz kezünk van[^1]), mint [[K/Köz\|köz]] a [[K/Köt\|köt]]ből.  
-A kéz, kész, továbbá [[K/Kezdet\|kezdet]] szavakról Péterfai János írt. Fentebb a **kacs** szóról is volt szó, mely, mint látjuk, a kéz szó változata:  
+A kéz, kész, továbbá [[K/Kezdet\|kezdet]] szavakról Péterfai János írt. [[K/Kacs\|Kacs]] szavunk, mint látjuk, a kéz szó változata:  
 > Egyik kéz szavunk a Ka, amely a Kacs, Kacsó nevek alapszava. Van egy Ke formájú kezet jelentő szavunk is, amely a Kettő alapszava, a minoszi Krétán Ke-to volt a formája Kettő jelentéssel. Mindkét szó, a Ka és Ke is, a Kő szócsoporttal kapcsolatos. A Ka a hattiban Kéz, fontos alapszónak látszik. Eszerint a Kéz, Kész és sok rokona a Két, Kettő fogalmat is tartalmazza, a kőeszközök készítését két kézzel végeztük. Ellenben [[S/Suta\|sutá]]cska a kezünk, legtöbbször, ha csak egy kézzel dolgozunk. A félkéz, félkar eszmeisége nagyon ősi.
 
 Amiről közvetlenül kéz kapcsán nem írt ([[S/SU\|SU]] és sugár kapcsán igen), hogy a kéz a Napisten keze (mit alátámasztani látszik, hogy a [[N/Nap\|Nap]] címnél is szereplő adat szerint a dakota/lakota [[N/Nape\|nape]] = kéz).  
@@ -43,14 +43,15 @@ Magyar Adorján Ősműveltség PDF-ének 718. oldaláról származó sorait lás
 > Ha a római úr fel akarta szabadítani a rabszolgáját, akkor előrenyújtotta kiterjesztett kezét, s a rabszolga utoljára elvonult e védő kéz alatt. Ezt a szertartást úgy hívták, hogy manumissio, a kéz alól való elbocsátás. Ebből eredt egyáltalán a búcsúzás, a megáldás gesztusa is. S az elbocsátott rabszolga aztán megcsókolta a kezet, amely őt eddig védelmezte (protegálta), s ez a modern kézcsók egyik eredő forrása.  
 > A kéz körül aztán külön hatalmaskodási játék fejlődött ki. Az egyik ember találkozik a másikkal, kihúzza kezét a bőrruhája vagy tógája alól, hogy megmutassa, nincs nála veszedelmes, orgyilkos tőr. Hogy a másik jobban higgyen neki, odanyújtja neki a kezét, amit a másik hasonló gesztussal viszonoz. Ebből fejlődik a kézfogás: a barátság szimbóluma, egyenrangúak köszöntése. Mert ez a gesztus egyúttal azt is jelenti, hogy "felmutatom a kezem, lásd, nincs megkötözve, tehát szabad ember vagyok". Igen ám, de a perzsa s az ebből fejlődött bizánci udvari etikett szerint a fejedelmen kívül nincs szabad ember, a többi mind csak rabszolga. Minélfogva nem illik a kezet az uralkodójelenlétében mutogatni. Ezért van az, hogy a ravennai Justinianus és Theodora mozaikon az összes udvari urak és dámák a ruharedőik közé rejtik a kezüket. Viszont az újabb korban, amikor a zsebbe rejtett tőr veszedelmessé válhatott volna a magasabb rangúakra nézve, úgy illett, hogy a kéz ne rejtőzzék a zsebbe. Minélfogva ma sem illik – legalább Európában nem – a nálunk magasabb rangúak előtt zsebre vagy pláne nadrágzsebbe tett kézzel állani. Sőt a háborúban ez a gesztus ("lásd, nincs fegyver nálam!") már odáig ment, hogy a feltartott fegyvertelen kéz egyáltalán a megadás, a rabságba vonulás jele volt.  
 
-Érdekes, hogy [[K/Kezel\|kezel]] (orvosilag is) szavunk rámutat, hogy a kéznek gyógyító ereje van. A magyar szavak beszédesek, csak nem vesszük észre.  
+Érdekes, hogy `kezel` (orvosilag is) szavunk rámutat, hogy a kéznek gyógyító ereje van. A magyar szavak beszédesek, csak nem vesszük észre.  
 
 #### Kiss Dénes is írja:
 
 > Aligha titok, hogy a "kezel" szavunk azt az ősi, kézrátételes-gyógyítási módot őrzi, amit manapság újra kez-denek divatba hozni. Azaz, akit az orvos gyógyít, aki orvosi kezelésre jár, azt az orvos "kezeli". Ha rosszul gyógyítják: azt is mondják: "elkezelték".  
 
-#### Jankovics Marcell (kissé szkeptikusan) írja:  
+#### Jankovics Marcell...
 
+...kissé szkeptikusan írja:  
 > A megnyugtató [[K/Kéztartás\|kéztartás]] (abhaja mudra), amellyel a Buddha naprozettás tenyerét mutatja, szintén [[N/Napjelkép\|Napjelkép]]. A nagy tanító brahmanista napistenektől, például Szúrjától örökölte. A kézrátételnek tulajdonított gyógyító hatás, aminek önszuggesztióból származó eredményességét nem akarom lekicsinyelni, a kéz = napsugár szimbolikus megfeleléséből eredhet. Ezzel magyarázhatók Illés és Jézus csodálatos gyógyításai. (A régiek csak a "Nap véréből valók": sámánok, főpapok, királyok kezének gyógyító erejében hittek. Az európai uralkodók a XVIII. században még "gyógyítottak" így.)  
 
 [[T/Tenyér\|Tenyér]] szóban szintén a (Nap)isten [[T/TEN\|TEN]] neve van meg.  
