@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-04-23T20:48"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-05-07T18:40"}
 ---
 
 
@@ -253,13 +253,14 @@ C) Magyar nyelvben ma már/sohasem(?) használt, de magyar nyelvű etimonokból 
 Péterfai János István etimonjaiból a szavak rekonstruálhatók. Ebből a csoportból gyűjt Péterfai.  
 
 D₁) Mondatrész-osztályokon áthatoló, azonos fogalmi körön belüli szavak például külalak, minőség, eszköz, cél, stb. kifejezésére (természeti megfigyelések útján) válhatnak főnévből igévé, főnévből melléknévvé, határozóból igévé, stb. A legtöbb, legérdekesebb előfordulásokat produkáló szavak csoportja.  
-Például [[D/Derű\|derű]] → [[T/True\|true]] (igaz), (sír)domb → [[D/Dumb\|dumb]] (süket), bont → [[B/Bone\|bone]] (csont). Ebből az önkényesen felállított(?) csoportból ritkán gyűjt VCs, TZs és PJI.  
+Például [[D/Derű\|derű]] → [[T/True\|true]] (igaz), (sír)domb → [[D/Dumb\|dumb]] (süket), bont → [[B/Bone\|bone]] (csont). Ebből az önkényesen felállított(?) csoportból ritkán gyűjt Varga Csaba, Tomory Zsuzsa és Péterfai János István.  
+
 D₂) Összetartozó kifejezések, szószerkezetek, ún. idiómák szintjén: nem a megfelelő szót/értelmet viszi tovább. Ebből a csoportból nem gyűjt szinte senki. Például (persze ezek korántsem biztos, hogy így is jöttek létre, de [[N/Nyelvészet mint tudomány#Nyelvek keveredéséből létrejött nyelvek – pidginizáció\|pidginizációs]] folyamatok feltárásában segíthet):  
 • [[M/Magyar\|Magyar]] istenanya (Tejútanya) → arab Al Madzsarrah Tejút és IE [[M/Mater\|mater]] = anya.  
 • [[L/Láng\|Láng]] → lángnyelv → fr. `langue`, ang. [[L/Language\|language]] = nyelv.  
 • "Vastag derék" → Derék helyett vastag szavunk került volna használatba, a jelző maga, nem a jelzett szó, így [[W/Waist\|waist]] = derék.  
 • "Tésztát dagaszt" → Tészta helyett dagad(ó)/dagaszt szavunkat viszi az angol [[D/Dough\|dough]] = tészta, azaz inkább "dagadó".  
-• "Én kér-ek" → Add/hozd ide (kér > angol [[H/Here\|here]], japán `kure`). (Az egyszerű logikai kapcsolat feltárása nélkül germán és japán nyelvi/idiomatikus sajátosság maradna. Arról már ne is szóljunk, hogy a [[Q/Query\|query]] és más szavakban is megvan a mi őseredeti szavunk.)  
+• "Én kér-ek" → Add/hozd ide (kér > angol [[H/Here\|here]], japán `kure`). (Az egyszerű logikai kapcsolat feltárása nélkül germán és japán nyelvi/idiomatikus sajátosság maradna. Arról már ne is szóljunk, hogy `query` és más szavakban is megvan a mi őseredeti szavunk.)  
   
 • "A fény (mindig) győzedelmeskedik (a sötétség felett)." → Fény szavunkból ered az angol [[W/Win\|win]] és elődei.  
 • "Négy sarka a világnak" → [[N/Négy\|Négy]] szavunk vitetik át sarok, ék és hasonló jelentésekkel (lásd [[N/Nock\|nock]], [[N/Nog\|nog]] és [[N/Nook\|nook]]). Az is lehet, hogy a nyugati sarokról van szó, persze.  
@@ -342,7 +343,7 @@ Olyan modern nyelvek esetében is, mint az angol, előfordul, hogy pontatlanul v
 A magyar nyelv olyan széles szósklálával rendelkezik (szóbokrok olyan zárt ill. összefüggő, kohéziós egységet alkotnak), hogy egyes szavak levezetésénél több megoldás is létezhet. Ilyen szó az angol `wash`, mely [[M/MOS\|mos]] jelentésű, de alakilag is egyező, hiszen az m ajakhang és v fog-ajakhang azonos helyen képzettek, az ezredévek során könnyen változik át egyik a másikká. Más kutató viszont ezen angol szóra [[V/Víz\|víz]] szavunkból (és német megfelelőjéből) indul ki, megint más pedig ázik szavunkat hozza fel megoldásnak ill. összevetési alapnak. A helyes ill. egyértelműen helyes levezetést nehézzé az is teszi, hogy maguk a magyar szavaink is több, párhuzamosan használt (egyúttal a magyar nyelv [[F/Flexió\|flektáló]] képességét megmutató) szóalakkal léteztek különböző nyelvjárásokban. Így csak a wash példáját követve elképzelhető, hogy v-sen ejtette az ősmagyar valamely csoportja is, a víz szavunk analógiájára és az m-es kezdőhang később keletkezett (mondom ezt mindannak ellenére, hogy tudjuk, hogy az m hang az első ösztönösen kiejtett hang a csecsemő szájából is, és ezért majd minden nyelven mama az anya(föld) neve – szótagkettőzötten).  
 
 Sok esetben előfordul, hogy az eredetként meghatározott szó a nyelv aljas rétegeiből látszik kikerülni. Ilyenkor mindig tovább kell vizsgálni a magyar szó vonatkozásait (a szóbokrot), hogy az alapszó legyen kiválasztva, esetleg csupán gyökkel, etimonnal való beazonosításra korlátozva.  
-Ezek az etimonok mindig hímségi (és az ebből levezethető nőiségi) alapértelműek lesznek. Minden szó eredete ez, (nap)fény (es annak hiánya: sötétség). ha pl. a [[P/Push\|push]] szónak [[B/Basz\|basz]] nem felelne meg, elég megfeleltetni egy buz- gyökkel (CzF úgy mondaná, buzgó, buzog buz- gyökével).  
+Ezek az etimonok mindig hímségi (és az ebből levezethető nőiségi) alapértelműek lesznek. Minden szó eredete ez, (nap)fény (es annak hiánya: sötétség). ha pl. a [[P/Push\|push]] szónak eredetéül közvetlenül [[B/Basz\|basz]] nem felelne meg (pedig az eufemizálással távol kerülnénk az igazságtól), elég megfeleltetni egy buz- gyökkel (CzF úgy mondaná, buzgó, buzog buz- gyökével).  
 A nap értelmű előtag es föld(re leképező) utótag alkotta szótag-szavak száma a magyarban igen nagy lehet; pl. [[B/Bunda\|bunda]] (bun-da), [[T/Tukma\|tukma]] (tuk-ma), [[T/Torma\|torma]] (tor-ma), [[R/Ráma\|ráma]] (rá-ma), [[S/Sólyom\|sólyom]] (szól-om), [[Z/Zsemle\|zsemle]] (zsem/szem-le), stb.  
 Lásd a feltárásokat [[M/Magyar ősnyelv szótagnyelv#A magyar nyelv szavainak logikája\|a magyar nyelv szavainak logikája]] cím/alcímnél.  
 

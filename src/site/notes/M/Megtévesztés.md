@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2024-04-27T00:12"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2024-05-07T18:27"}
 ---
 
 
@@ -157,7 +157,7 @@ A legnagyobb "cover-up" az elmúlt 2000 évben a szkíta pogány kereszténység
 
 ### Fedőterv
 
-[Ezen](https://youtu.be/GlqDV7MM-7s) saját csatornára feltett videóban (pár perc az egész) KT elmondja, hogy [[D/Democracy\|demokrácia]] sohasem volt.  
+[Ezen](https://youtu.be/GlqDV7MM-7s) saját csatornára feltett videóban (pár perc az egész) Kubínyi Tamás elmondja, hogy [[D/Democracy\|demokrácia]] sohasem volt.  
 Ugyanezt mondja Drábik János: demokrácia nincs és nem is volt; a demokrácia káosz (a háttér illetve meghatározó uralkodási forma a despotizmus, az önkényuralom).  
 A demokrácia olyan fogalom, mint a (szkíta-)[[K/Kereszténység\|kereszténység]]: mögé lehet bújni a diktatúra képviselőinek és a zsidóknak.  
 [Ezen](https://www.bitchute.com/video/K6HkO8QanR5g/) ÁKTV műsorban Kubínyi Tamás is említi, hogy a [[D/Democracy\|demokrácia]] egy fedőterv a globális pénzdiktatúrának.  
