@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2024-04-05T19:41"}
+{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2024-05-07T18:28"}
 ---
 
 
@@ -156,7 +156,7 @@ Bizonyító erejű lehet az is, hogy a sumér [[D/Dingir\|dingir]] a magyar [[T/
 
 ### 16.
 
-Nem konkrétan a nyelv, hanem a kultúra kárpáti elsőségére vonatkozó közvetett bizonyíték szerepel az [alábbi](https://youtu.be/CZwvyvBjM3o) karácsonyról szóló GA előadásban 1:00:00 táján: ha a karácsony mezopotámiai eredetű lenne, akkor a fenyőfát honnan szerezték? Nyilvánvaló, hogy északról délre költözött népek hagyománya ez. Ahogy a [[S/Szarvas\|szarvas]] tisztelete is.  
+Nem konkrétan a nyelv, hanem a kultúra kárpáti elsőségére vonatkozó közvetett bizonyíték szerepel az [alábbi](https://youtu.be/CZwvyvBjM3o) karácsonyról szóló Grandpierre Atilla féle előadásban 1:00:00 táján: ha a karácsony mezopotámiai eredetű lenne, akkor a fenyőfát honnan szerezték? Nyilvánvaló, hogy északról délre költözött népek hagyománya ez. Ahogy a [[S/Szarvas\|szarvas]] tisztelete is.  
 
 Utóbbit az egyik legnyomósabb érvnek hoztam fel másutt is, ahogy azt is, hogy [[A/AN, ÁN\|AN, ÁN]]/[[A/Anu\|Anu]] már hímnemű istenség a sumér időktől kezdve, és eredetileg nőnemű, ahogy a [[C/Csudaszarvas\|Csudaszarvas]]unk is.  
 
@@ -177,7 +177,7 @@ A [[T/Tatárlakai napvárta-korong\|tatárlakai korongon]] talált írás régis
 Ha már a sumér és magyar nyelvek egyáltalán hasonlíthatók egymással! Honnan máshonnan kapnánk bagatellizáló véleményeket, mint héber oldalról.  
 Az [alábbi](http://www.hebraisztika.hu/attachments/00000353.pdf) oldalon még a nevetséges szó is elhangzik:  
 > A sumer nyelv a ma ismert nyelvek közül egyetlennel sem áll rokonságban, egy ún. szigetnyelv. Az ismert rokon nyelvek hiánya is magyarázza, hogy számtalan más nyelvvel próbálták rokonítani, köztük a magyarral is. Ezek a próbálkozások azonban kivétel nélkül nyelvészetileg megalapozatlanok; a sumer-magyar állítólagos rokonságához lásd [[K/Komoróczy Géza\|Komoróczy Géza]] igen szórakoztató munkáját (1976), és legutóbb \[a főleg [[T/Turanizmus\|turanizmus]] címnél ömlengést bemutató Hegedűs József mellett itt-ott idézett finnugrász\] Rédei Károly könyvének vonatkozó fejezetét (1998, 85-105).  
-- Lásd még Halevy fentebbi, Bakostól származó véleményét is. Vérlázító.  
+- Lásd még Halevy fentebbi, Bakostól származó véleményét is. Vérlázító.
 
 #### Bakos Attila A Duna Evangéliuma...  
 
