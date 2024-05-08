@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kép/","title":"Kép","tags":["Englishtexttranslated"],"created":"2023-10-31T10:43","updated":"2024-04-27T00:28"}
+{"dg-publish":true,"permalink":"/K/Kép/","title":"Kép","tags":["Englishtexttranslated"],"created":"2023-10-31T10:43","updated":"2024-05-08T13:51"}
 ---
 
 
@@ -8,9 +8,8 @@
 A kép, úgy tűnik a [[K/Kő\|kő]]ből készült bálványkép, mely az istenség képe/arca (feje) is lehet, illetve ezek konflációjáról is lehet szó.  
 Ahogy [[B/Build\|build]] címnél is szerepelt, kép megfelel a \*köv szónak.  
 
-#### Magyar Adorjánnál...
+#### Magyar Adorján írja:
 
-...találjuk az alábbiakat:  
 > A régi magyarban a kép szó tulajdonképpen alak, szobor értelmű volt, aminek megfelel, hogy a törökben is `kep`, `ket`, a jakut-törökben pedig `kieb` = szobor. Amely szavakból származott tehát a szerb-horvát `kip` = szobor. De a német `bild` = kép szó is bálvány szavunkra mutat rá.  
 - Az ujgurban is `kep`.  
 CzF [[P/Példa\|példa]] szavunkkal rokonítja a német szót.  
