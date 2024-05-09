@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","created":"2024-05-09T22:32","updated":"2024-05-09T22:32"}
+{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated"],"created":"2024-05-09T22:32","updated":"2024-05-09T23:44"}
 ---
 
 
@@ -32,13 +32,16 @@ A németek `deutsch` (ófelnémet `teutsch`, hol az sch leválasztásával a Teu
 Ír nyelven `féin` = ön, maga, saját jelentésű, míg `fionn` = fehér szintén [[F/Fény\|fény]] szavunkkal azonosul. A fény szavunkkal azonos [[H/Hun\|hun]] címnél is szereplő mongol `hun` = ember és szántáli `hon` = gyermek is rámutatnak, hogy magát az ember fénytermészetűnek, fényből születettnek tartotta.  
 A kelta nyelvhez visszatérve, ahogy [[T/TÜN\|TÜN]] címnél is szerepelt, tün-nek tűz, Nap Háza értelme is van, Tü-Ne felbontásban. Az ír `duine` \[melyet éppen keményen, t-sen tüné-nek ejtenek\] = ember(i lény), személy (tündér) is ezen Tün, Tüne alakokra vihető vissza. (Úgy tűnik, [[F/Feridun\|Feridun]] nevében is kétszeresen szerepel a [[T/Tündér\|tündér]] jelentés.)  
 A szanszkritban `sva-pati` - szó szerint a maga ura – [[S/Szabad\|szabad]] szavunkból látszik eredni. De ezen `szva` = maga, övé jelentést összekapcsoltuk a [[S/SZA\|SZA]] = fény alapjelentésű szóval[^3] egyező szanszkrit `sva` = kutya (a nyelvészet szerint [[S/Śvan\|śvan]] a teljes alak, śva pedig szóösszetételekben használt) jelentéssel is, ahogy a perzsa `khod`- önható vagy visszaható gyök...  
-
-> [!|callout_noicon]
-> - [Ezen](https://www.youtube.com/watch? v=VEwAuVTSIUo) Bahador Alast féle videóba kommentként írtam is (teljesebb passzust lásd [[B/Barát és ellenség\|barát és ellenség]] címnél):  
-> > The German `ich` is not 'ish'. It is a h/k, as in Latin [[E/Ego\|ego]]. Both come from Hungarian [[E/Ég\|ég]] = sky, that is abode of God (ancient people identified themselves with their Godly spirit/soul, not with their bodies and money; compare also Scytho-Iranic [[K/Khuda\|Khuda]] = God and reflexive use of Persian `khod`).  
-> > This God has its counterpart Devil/Satan. Compare Persian words for friend and enemy. They have the Hungarian `tűz` = fire word in them. Proving that the Zoroastrian dualistic worldview is pre-Iranic and that the words are actually based on European words from a pre-Indo-European stratum would take more than just a few lines.  
-> > A piece of friendly advice to Iranians: don't accept the Western expert opinions, because 1) they don't care about pre-Indo-Europeans and pre-Semites 2) they are *hired with the money of those who identify themselves with their bodies and their (dirty, usury-gained) money*.  
-> > A friend (enemy?) from Hungary  
+- [Ezen](https://www.youtube.com/watch? v=VEwAuVTSIUo) Bahador Alast féle videóba kommentként írtam is (teljesebb passzust lásd [[B/Barát és ellenség\|barát és ellenség]] címnél):  
+> The German `ich` is not 'ish'. It is a h/k, as in Latin [[E/Ego\|ego]]. Both come from Hungarian [[E/Ég\|ég]] = sky, that is abode of God (ancient people identified themselves with their Godly spirit/soul, not with their bodies and money; compare also Scytho-Iranic [[K/Khuda\|Khuda]] = God and reflexive use of Persian `khod`).  
+> This God has its counterpart Devil/Satan. Compare Persian words for friend and enemy. They have the Hungarian `tűz` = fire word in them. Proving that the Zoroastrian dualistic worldview is pre-Iranic and that the words are actually based on European words from a pre-Indo-European stratum would take more than just a few lines.  
+> A piece of friendly advice to Iranians: don't accept the Western expert opinions, because 1) they don't care about pre-Indo-Europeans and pre-Semites 2) they are *hired with the money of those who identify themselves with their bodies and their (dirty, usury-gained) money*.  
+> A friend (enemy?) from Hungary    
+> —  
+> A német `ich` nem 'ish'. Ez egy h/k, mint a latin [[E/Ego\|ego]]-ban. Mindkettő a magyar [[E/Ég\|ég]], azaz Isten lakhelye szóból származik (az ősi emberek isteni szellemükkel/lelkükkel azonosították magukat, nem pedig testükkel és pénzükkel; vö. még a szkíta-iráni [[K/Khuda\|Khuda]] = Isten és a perzsa `khod` reflexív használata).  
+> Ennek az Istennek megvan a megfelelője, az Ördög/Sátán. **Vö. a barát és ellenség jelentésű perzsa szavakkal**. Ezekben a magyar `tűz` szó is benne van. Annak bizonyítására, hogy a zoroasztriánus [[D/Dualisztikus világkép\|dualisztikus világkép]] Irán előtti, és hogy a szavak valójában egy indoeurópai előtti rétegből származó európai szavakra épülnek, többre lenne szükség, mint néhány sor.  
+> Egy baráti tanács az irániaknak: ne fogadják el a nyugati szakértői véleményeket, mert 1) nem érdeklik őket az pre-indoeurópaiak és a pre-szemiták 2) *azok pénzén fizetik őket, akik a testükkel és a (piszkos, haszonszerzéssel szerzett) pénzükkel azonosítják magukat*.  
+> Egy barát (ellenség?) Magyarországról
 
 ...és az Isten jelentésű khoda ([[K/Khuda\|Khuda]]) is [[K/Kut\|kut]] és [[K/Kutya\|kutya]] szavunkkal látszik párhuzamot alkotni, ahogy [[G/God\|God]] címnél írottak alapján láttuk. A kutyáról ([[D/DUG\|DUG]] és [[D/DOG#Dog 2)\|dog]] szónál írottak alapján) tudjuk, hogy szent (hurri `kuta` = szent) állat, valamint [[K/Kutyahit\|kutyahit]] címnél körüljártuk, hogy az [[E/Ember\|ember]] lelke kutyalélek (innen válik érthetővé a khod- visszaható névmás önvaló, lélek (ókínai, hun nyelvben [[K/Kut\|kut]] = életerő, lélek) értelemre való visszavezethetősége).  
 Hasonló a törökök `kişi` (baskír, csuvas, stb. `kese`) = egyén, ember, önmaga szava, mely inkább a kicsiségből (talán abból az ideából, hogy a makrokozmosz leképezése a mikrokozmosz) látszik kiindulni, de ugyanilyen elven elemezhető `kendi` és a már ismert `öz` szava is van önmaga jelentéssel ([[C/Candle\|candle]] és [[O/Ős\|ős]] címhez is betéve).  
