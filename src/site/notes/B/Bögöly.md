@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bögöly/","title":"Bögöly","created":"2024-04-21T12:29","updated":"2024-04-26T23:58"}
+{"dg-publish":true,"permalink":"/B/Bögöly/","title":"Bögöly","created":"2024-04-21T12:29","updated":"2024-05-09T02:13"}
 ---
 
 
 # Bögöly
 
-[[B/BÖG\|BÖG]] Napnevet tartalmazza, ahogy abban a bogár szóban is megvan [[B/BOG\|BOG]], mely azonos angol [[B/BUG#Bug 2)\|bug]] szóval.  
+[[B/BÖG\|Bög]] Napnevet tartalmazza, ahogy abban a [[B/Bogár\|bogár]] szóban is megvan [[B/BOG\|Bog]], mely azonos angol [[B/BUG#Bug 2)\|bug]] szóval.  
 
 #### A Czuczor-Fogarasi szótár adata:
 
