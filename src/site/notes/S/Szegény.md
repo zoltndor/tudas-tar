@@ -1,24 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szegény/","title":"Szegény","created":"2024-04-25T13:43","updated":"2024-04-27T00:24"}
+{"dg-publish":true,"permalink":"/S/Szegény/","title":"Szegény","created":"2024-04-25T13:43","updated":"2024-05-10T17:09"}
 ---
 
 
 # Szegény
 
-Szegény többféleképpen értelmezhető szó, de a lényeg itt is, mint másutt is, a fény és árnyék rendszer. [[A/AN, ÁN\|AN, ÁN]] címnél, külön alcímnél írtuk, hogy az An, En, stb. végződésű szavak alapértelmezés szerint mindig évköri értelmezésűek. A szegény tehát első körben fényben szegényt jelent, másodsorban erkölcsiekben és harmadsorban anyagiakban szegényt. Talán az egyik legszemléletesebb magyar szó, mely a magyar ember szemléletét és a magyar nyelv működését bemutatja.  
+Szegény többféleképpen értelmezhető szó, de a lényeg itt is, mint másutt is, a fény-árnyék rendszer. [[A/AN, ÁN\|AN, ÁN]] címnél, külön alcímnél írtuk, hogy az An, En, stb. végződésű szavak alapértelmezés szerint mindig évköri értelmezésűek. A szegény tehát első körben fényben szegényt jelent, másodsorban erkölcsiekben és csak harmadsorban anyagiakban szegényt. Talán az egyik legszemléletesebb magyar szó, mely a magyar ember szemléletét és a magyar nyelv működését bemutatja.  
 
 #### Péterfai János írja:
 
 > Szegény szavunk helyesen a Szeg Enje. Ebben a szóban a Szeg (Szög) nem Kiszögellés, Magaslat, a Nap magas helyzetéhez kapcsolható fogalom, hanem éppen ellenkezőleg, a magasnak az ellenkezője van benne a szó jelentésében. **Egy szó kettős jelentése nyelvi törvényszerűség**. A Szeg, Szék, vagyis a Nap, este alászáll az Égboltról az Alvilágba, lehanyatlik az égboltról. A Szeg-Ény ezért Szegett Enség.  
-- [[D/Dialektikus ellentét\|Dialektikus ellentét]] címhez is betéve.
+- [[D/Dialektikus ellentét\|Dialektikus ellentét]] címhez is bekerült.
 
-Az [alábbi](https://youtu.be/zWDcsCmCJ6k) Tamana videó előadója, Paposi-Jobb Andor szerint a [[C/Cigány\|cigány]] a szegény szó rossz kiejtése nyomán jött létre. Valóban hasonlóak a szavak, de Péterfai János etimonjainak ismerete híján alkotott vélemény. Péterfai ötlete épp fordítva állná meg a helyét. Cigány inkább lehetne a szegény eredeteként szolgáló.  
+Az [alábbi](https://youtu.be/zWDcsCmCJ6k) Tamana videó előadója, Paposi-Jobb Andor szerint a [[C/Cigány\|cigány]] a `szegény` szó rossz kiejtése nyomán jött létre. Valóban hasonlóak a szavak, de ez így egy Péterfai János etimonjainak ismerete híján alkotott vélemény. Péterfai ötlete épp fordítva állná meg a helyét. Cigány inkább lehetne a szegény eredeteként szolgáló.  
 
-Egyébiránt a cigány-szegény párba állítása adja meg a módot, hogy szegény szónak egy Péterfai Jánostól kissé eltérő meghatározást adjunk. Már legutóbb több helyen, [[K/Kenyér\|kenyér]] és [[I/Illír\|illír]] címnél is volt arról szó, hogy a magánhangzó harmónia szabály (szavakon belüli hasonulási rend) miatt nem Keny-Úr, hanem Kenyér lesz a szavunk végződése (kivétel a kényúr, mely egyébként sem hétköznapi szó). Felvetődik tehát a kérdés, hogy ha az Úr szavunknak lehet Ár/Ér változata a szavak végén, akkor lehet-e az [[A/AN, ÁN\|AN, ÁN]] = Ég jelentésű szónak [[E/ÉN\|ÉN]], [[I/IN\|in]], stb. formában álló változata? Véleményem szerint lehet és éppen erről is lehet szó szegény esetében is, de Péterfai János megoldása ettől frappáns marad.  
+Egyébiránt a cigány-szegény párba állítása adja meg a módot, hogy szegény szónak egy Péterfaitól kissé eltérő meghatározást adjunk. Már több helyen, legutóbb [[K/Kenyér\|kenyér]] és [[I/Illír\|illír]] címnél is volt arról szó, hogy a magánhangzó harmónia szabály (szavakon belüli hasonulási rend) miatt nem Keny-Úr, hanem Kenyér lesz a szavunk végződése (kivétel a kényúr, mely egyébként sem hétköznapi szó). Felvetődik tehát a kérdés, hogy ha az Úr szavunknak lehet Ár/Ér változata a szavak végén, akkor lehet-e az [[A/AN, ÁN\|AN, ÁN]] = Ég jelentésű szónak [[E/ÉN\|ÉN]], [[I/IN\|in]], stb. formában álló változata? Véleményem szerint lehet és éppen erről is lehet szó szegény esetében is, de Péterfai János megoldása ettől frappáns marad.  
 
 ## Szegény évköri értelmezése
 
-Már azzal indítható a téma, hogy a [[C/Cigány\|cigány]] eredetét képező [[S/Szikan\|szikan]] vélhetően a Nap nyári napfordulós állására utaló név.  
+Azzal indítható a téma, hogy már a [[C/Cigány\|cigány]] eredetét képező [[S/Szikan\|szikan]] vélhetően a Nap nyári napfordulós állására utaló név.  
 
 [[G/Gazdag\|Gazdag]] címnél arról szóltunk legutóbb, hogy évkörben is értelmezhetők lehetnek a szavak:  
 Mondhatjuk tehát az is, hogy a gazdag – szegény és boldog – szomorú szópárok is évköri értelmezésűek. Itt az a kérdés, hogy melyik felel meg a nyári és téli napfordulónak, hiszen mindkettő megfelelhet ide-oda; a téli napfordulón szegényesen, [[K/Koldus\|koldus]] módjára működő Nap majd feltámad.  
@@ -52,3 +52,4 @@ A Nap gyengeségére utal.
 
 [^1]: Lábjegyzet:  
 Könnyen lehet, hogy a sovány és szikár voltára utal a magas hunoknak, [[A/Agarénus\|agarénus]]oknak és a [[H/Haggard\|haggard]] szóval való rokonítás is helytálló (lásd ott írottakat). Igen, az itt és [[M/Meagre\|meagre]] címnél írottak alapján írottakat ki kell egészíteni azzal, hogy az [[A/Ascetic\|ascetic]] is a [[S/Szkíta\|szkíta]] névvel látszik összefüggésben állni. Itt tehát a magyarok, hunok és szkíták soványsága mögött vélhetően azt kell látni, hogy kevés táplálékkal is beérték, egészségesen éltek és böjtöléssel tartották távol a betegségeket.  
+Ugyanakkor [[G/Grey#Izlandi grey\|izlandi grey]] cím/alcímnél írottak alapján is inkább évköri és kutyás/lemniszkáta összefüggés keresendő.  
