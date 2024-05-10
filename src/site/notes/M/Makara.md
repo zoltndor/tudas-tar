@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2024-04-27T00:27"}
+{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2024-05-10T17:17"}
 ---
 
 
@@ -70,7 +70,7 @@ Ha ez érdekes lehet. Hogy szerepelt [[K/Kazár\|kazár]] címnél?
 
 Ág itt nyilván az agancson keresztül a szarvasra ([[M/Magor\|Magor]] a [[S/Szarvas csillagkép\|Szarvas csillagkép]]ben születik, ami Bak ma) utal, illetve lásd még [[P/Perennial\|perennial]] és [[Z/Zodiac\|zodiac]] címnél írottakat.  
 
-De CzK más adata kapcsán...  
+De Czeglédi Katalin más adata kapcsán...  
 > Csuvas `măjraka` 'szarv', ujg. `müngüs`, üzb. `muguz`, kirg. `mujuz`, kazah, k.kalp., nog. `müjiz`, alt.V., hakasz, sor `müüs`, tuv. `myjys`, jak. `muos`, bask. `mögöz`, tat. `mögez`.  
 > (Az orosz `rog` 'szarv' a második elem (magya + -r) r-jével tartozik össze. A szó a szarv jelentés kapcsán arra is utal, hogy a magyarok, szkíták, hunok stb. szent állata nem véletlenül a szarvas. Mint ahogy az sem véletlen, a sezserékből is kiolvasható az a gondolkodásmód, hogy aki szarvatlan, az nem lehet teljes jogú ős. S a magyarok szarvval ellátottak voltak, a szarvas népének nevezték, s teljes jogúaknak tartották őket.)  
 
@@ -87,7 +87,7 @@ Az orosz szó viszont hasonlítható a komi `megyr` 'ív, hajlított forma', `my
 > MAKAR, a rjazáni emberek, különösen Kadomcev beceneve, mintha I. Péter szerint, aki ott három makárral találkozott egymás után, és tréfásan azt mondta: ha mind makárok vagytok! Ezek a legjobb halászok és csókolók, miért hívják az adózó földműveseket és általában a gazembereket Makaraminak. | Szibériában: együgyű. | Tréfásan: szúnyog. Engedd el a makarkát, csaló. Makariga, makarijevszkij koldus, psz. kemény, szemtelen, összefüggéstelen koldus. Tegnap Makar árkot ásott, most Makar került a kormányzóba, egy csipetnyi boradó gazdák. Elviszlek oda, ahol Makár nem hajtott borjút! Szúnyog és szúnyog, Makár és egy macska. Makar nem házasodott meg kétszer. Szegény Makárt az ág is húzza.  { #nlv1sz}
 
 
-A [[H/Hát#Hátra, vissza téridőbeli értelmezése – Magor újjászületése\|Hátra, vissza téridőbeli értelmezése – Magor újjászületése]] cím/alcímnél írottak is támogatják a fentieket:  
+[[H/Hát#Hátra, vissza téridőbeli értelmezése – Magor újjászületése\|Hátra, vissza téridőbeli értelmezése – Magor újjászületése]] cím/alcímnél írottak is támogatják a fentieket:  
 A hát, vissza fogalmainak idegen nyelvekbeni megjelenését tekintve érdekes, hogy Magor neveit, annak változatát és lecsapott formáját találjuk meg.  
 1\. [[B/Back\|back]] szóban; Magor > Begar > Back.  
 2\. a [[M/Makara\|Makara]] és [[M/Magyar\|magyar]] címnél is említett, [ezen](https://www.wisdomlib.org/maghara) oldalon talált marathi `māghāra` = vissza; csökken, visszahúzódik, visszatér; visszatérés (például lázé) jelentésű szóban is a [[L/Lemniszkáta\|lemniszkáta]] féléveinek görbéiről van szó, csak éppen nem a nyári, hanem a téli váltásra ([[T/Turul\|Turul]]) utalva.  
@@ -98,7 +98,7 @@ A [[T/Turul#Turul és Csudaszarvas\|Turul és Csudaszarvas]] cím/alcímnél el�
 
 Eszembe jutott közben az is, hogy az akkád Magur/Makar nevek a Bak-Úr formának is megfelelnek (M>B) és Bak-nak [[B/BOK\|Bok]]/[[B/BOG\|Bog]]-ként és [[M/MAG\|Mag]]-nak is azért is lehet Fiú jelentése, mert valóban ekkor születik a Nap (Magor), de az M-K-R és B-K-R vázú szavak (ahogy [[K/Khamor\|Khamor]] címnél, külön alcímnél erről volt szó) is ezért kapcsolhatók az ív, íj és görbe ember/figura jelentésekhez.  
 
-A Bullinger adatokkal dolgozó Huszárik László Denderai csillagképek, hónapok és mítoszok című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXIII./10. sz. megjelent cikkében is említi a denderai zodiákusbeli, de kopt nyelvűként közölt Pimacre nevet Nyilas csillagképre elegancia jelentéssel, de a Macre elem lehet megint Makar (mert a Pi- előrésznek meghatározott jelentése van).  
+A Bullinger féle adatokkal dolgozó(?) Huszárik László Denderai csillagképek, hónapok és mítoszok című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXIII./10. sz. megjelent cikkében is említi a denderai zodiákusbeli, de kopt nyelvűként közölt Pimacre nevet Nyilas csillagképre elegancia jelentéssel, de a Macre elem lehet megint Makar (mert a Pi- előrésznek meghatározott jelentése van).  
 
 Fentebb mondám, hogy de jó lenne egy ind csillagtérkép. Nos, a sumér-akkád csillagképek kapcsán Gavin White azt mondja ([[S/Szarvas\|szarvas]] és [[S/Suhurmasku\|Suhurmasku]] címnél), hogy a Kecskebakhal *felett* volt egy Szarvas csillagzat...  
 
