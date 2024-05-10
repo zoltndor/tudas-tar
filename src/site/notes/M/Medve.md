@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/M/Medve/","title":"Medve","tags":["Englishtexttranslated"],"created":"2023-10-14T05:41","updated":"2024-04-05T19:27"}
+{"dg-publish":true,"permalink":"/M/Medve/","title":"Medve","tags":["Englishtexttranslated"],"created":"2023-10-14T05:41","updated":"2024-05-11T01:41"}
 ---
 
 
 # Medve
 
-Dr. Lónay Gyula az általa sajátosan értelmezett [[M/Megy\|megy]] szó értelméből kiindulva azt mondja, hogy a medve a nehézkes mozgásáról (med- = moz- nála lényegében) kapta nevét (míg a [[M/Meddig\|meddig]] a mozgás méretére vonatkozna).  
+Dr. Lónay Gyula az általa sajátosan értelmezett [[M/Megy\|megy]] szó értelméből kiindulva azt mondja, hogy a medve a nehézkes mozgásáról (med- = moz- nála lényegében) kapta nevét (míg a `meddig` a mozgás méretére vonatkozna).  
 
 #### Péterfai János írja:
 
@@ -15,17 +15,17 @@ Dr. Lónay Gyula az általa sajátosan értelmezett [[M/Megy\|megy]] szó értel
 > A kínai népi hagyományban Ti-Sa, a névben a Ti – Föld, a Sa – Szellemek ártalmas hatása –, 72 csillag ártó szelleme. A Ti-Sa szemben áll a Nagy Medve csillagainak 36 szellemével, őket Tien-Kannak nevezik, Tien – Ég, Kan – a Nagy Medve. Ti-Sa ugyan csillagok szelleme, de mégis a Föld gonosz erőinek a megtestesülése. Egy ifjú mágus parancsol a Ti-Sa szellemeinek. A két erő, a 72 és 36 a 108 összetevője. A Nagy Medve a Föld forgatásához is kell, Úr Sus az Úr Keze, továbbá a latinban Medve. A mágus a [[P/Precesszió\|precesszió]] ismerője lehet.  
 
 Magam [[B/Bier\|bier]], [[G/Göncöl\|Göncöl]] és a [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címnél írottak alapján szintén úgy gondolom, hogy a medve "mézevő" jelentése szintén nem a fő, alapjelentés, csak másodlagos vagy belemagyarázható. Azt kell látni (ahogy [[M/Magyar tabu szavak\|magyar tabu szavak]] címnél is írtuk), hogy ez az állat is jelképállat: a medve (mint asztrális fogalom, mint csillagkép) kétszeresen kötődik a Tejúthoz, Tejútfához: egyrészt a mézet/[[M/MISZ\|MISZ]]-t, másrészt a fákban/életfában a kéregben megbúvó lárvákat keresi, eszi meg (maga a lárva is kötődik a Tejút fogalmához, hisz latinul szellemet, lelket is jelent). A csillagkép pedig nyilván azért került északra, mert a medve téli álmot alszik (éj – éjszak; lásd [[E/Észak\|észak]]) (lásd még [[H/Hibernate\|hibernate]]).  
-Úgy tűnik, a(z inkább kínai-hun, mintsem ainu eredetű?) japán `kuma` = medve név alapján, hogy a kún-hun nyelvnek efféle elnevezése lehetett a medvére és a medve magyar elnevezés. (A baekje/pekcse `koma` = medve és a taos nyelvű `kə́ona` = medve is idevehetők. Mivel **a medve is kutyához hasonlított állat lehetett** – kimondottan a medvebocs kutyaszerű – nagyon is elképzelhető a K-N váz okos megtartása, ugyanakkor ne feledjük, hogy K-M vázú a japán szellem/isten neve is \[`kami`; lásd [[K/KAN\|KAN]]\], és a medve is isten).  
+Úgy tűnik, a(z inkább kínai-hun, mintsem ainu eredetű?) japán `kuma` = medve név alapján, hogy a kún-hun nyelvnek efféle elnevezése lehetett a medvére és a medve magyar elnevezés. (A pekcse `koma` = medve és a taos nyelvű `kə́ona` = medve is idevehetők. Mivel **a medve is kutyához hasonlított állat lehetett** – kimondottan a medvebocs kutyaszerű – nagyon is elképzelhető a K-N váz okos megtartása, ugyanakkor ne feledjük, hogy K-M vázú a japán szellem/isten neve is \[`kami`; lásd [[K/KAN\|KAN]]\], és a medve is isten).  
 Egyébiránt [[I/Íj és a nyíl#Ainu témák\|ainu témák]] cím/alcímnél volt szó medveáldozásról. Lásd még [ezen](https://en.m.wikipedia.org/wiki/Kamuy) oldalt is.  
 [[C/Comet\|Comet]] címnél a japán szót szőrös ember oldaláról közelítettük még meg.  
 A magyar medve med- törzse látszik meg a kelta `mathghambhuin` = medve névben, melyet Alex MacBain próbál elemezni és oda jut, hogy a `math` viheti a medve jelentést. (Mac-kó is lehet.)  
 
 #### Greg Rigby The God Secret...
 
-...című könyvében J A MacCulloch The Religion of the Ancient Celts című könyvéből idézi a gall Matu, ír Math neveket és ilyen összefüggésben tárja elénk:  
-> Another Celtic name for bear was the Gaulish Matu, Irish `Math`, found in Matugenos, "son of bear" and in MacMahon, which is the corrupt form of Mac-Mathghamhain "son the of bear's son" or "of the bear."  
+...című könyvében J A MacCulloch The Religion of the Ancient Celts című könyvéből idézi a gall `Matu`, ír `Math` neveket és ilyen összefüggésben tárja elénk:  
+> Another Celtic name for bear was the Gaulish `Matu`, Irish `Math`, found in Matugenos, "son of bear" and in MacMahon, which is the corrupt form of Mac-Mathghamhain "son the of bear's son" or "of the bear."  
 > —  
-> A medve másik kelta neve a gall Matu, ír `Math` volt, amely megtalálható a Matugenosban, "medve fia" és a MacMahonban, amely a Mac-Mathghamhain "a medve fia" vagy "a medve fia" korrupt formája.  
+> A medve másik kelta neve a gall `Matu`, ír `Math` volt, amely megtalálható a Matugenosban, "medve fia" és a MacMahonban, amely a Mac-Mathghamhain "a medve fia" vagy "a medve fia" korrupt formája.  
 
 A kelta `math`[^2] = jó jelentésű is, ahogy a [[M/MISZ\|MISZ]] címnél levő diagramon is szerepelt. A jó = tej összefüggését korábban ismertük, továbbá tej = méz.  
 
@@ -37,7 +37,7 @@ A leplet [[M/MISZ\|MISZ]] címnél (az ott szereplő diagramok alapján is) rán
 > A vadásztársaságnak tagja még Favtna, más néven **Tiermesz, a medve** alakban járó lapp ég/viharisten \[az ég illetve menny neve is lapp nyelven Kandra Kabos adata szerint\]. A finn szerzők az Ökörhajcsár (Bootes) csillagképpel azonosítják. A csillagisten megfeszített és nyilakat lövöldöző íja a [[J/Jávor\|jávor]]szarvas csillagzatra "mutató" Nagy Medve (Ursa Maior) csillagkép.  
 > Bár ideillő lapp nevét a szerzők nem közlik, az égi mondában \[a Joseph Fontenrose Orionjában is taglalt görög mítoszokhoz hasonlóan\] a Tejút mentén folyik a vadászat.  
 > A Jávorszarvas csillagzat, az Orion és az Ikrek egyaránt a Tejút csillagképei. Bizonyos értelemben a Kis Medve (Ursa Minor) is beleillik a képbe. Egy följegyzés szerint ui., amikor Favtna (Tiermesz) nem vadászik, íját szögre, a Sarkcsillagra (Polaris) akasztja; ez a Kis Medve csillagkép legfényesebb csillaga. (A két Medve csillagzat ilyetén együvé kapcsolása általános; lásd a Kis Medve – Nagy Medve, Kis Göncöl – Nagy Göncöl neveket.) Alapos okunk van arra is, hogy a Bika csillagképet (Taurus) – ennek vállán kotlik a Fiastyúk – szintén a menekülő szarvasok csapatába soroljuk, ám ennek bizonyítása már szétfeszítené írásunk kereteit.  
-- Ahogy [[C/Csudaszarvas\|Csudaszarvas]] címnél is írtuk, Jankovics Marcell Cirlot Dictionary of Symbols című könyvéből is vette gondolatait.  
+- Ahogy [[C/Csudaszarvas\|Csudaszarvas]] címnél is írtuk, Jankovics Marcell Cirlot Dictionary of Symbols című könyvéből is vette gondolatait.
 
 #### Jankovics Marcell Jelkép-kalendárium...
 
@@ -49,7 +49,7 @@ A leplet [[M/MISZ\|MISZ]] címnél (az ott szereplő diagramok alapján is) rán
 > A keresztény ikonográfiában a [[D/Disznó\|disznó]] mellett ő testesíti meg a Falánkság bűnét. Rabelais nagyétkű óriásainak, Gargantuának és Pantagruelnek, a farsang e két jellegzetes hiedelmi figurájának is a mítoszok medvehőse volt az előképe. A medve harmadik neve, az "Erdei Pásztor" a februárban ünnepelt [[Q/Quirinus\|Quirinus]] pásztoristenhez, Varuna itáliai megfelelőjéhez vezet bennünket. Arisztotelész még úgy tudta, hogy a medve, amikor felébred téli álmából, purgáló hatású füveket eszik, hogy a benne rekedt salaktól megtisztuljon. Ilyen az erős hashajtó "medvehagyma" (Allium ursinum). Ez azt a dugót is kilöki a hátuljából, amivel a tél elején dugaszolta be magát. A medvét a falánkságáról és önpurgálásáról szóló hiedelmek a farsangi evés-ivás és a rákövetkező böjti megtisztulás négy lábon járó példaképévé tették. Öntisztításának azonban több jelentése is van. Utal az időszakra jellemző böjti szelekre, melyeknek a hagyomány szerint az égisten (Odin, Varuna) a kibocsátója. Ehhez társul az a képzet, mely szerint a holtak lelkeit a medveisten a "Torkos" nyeli el, és ő is bocsájtja ki őket ismét, hogy új testbe költözhessenek. A szeles idő a néphit szerint (gonosz) szellemjárás ideje! (Ld. szél > szellem.)  
 > Egyiptomtól Észak-Európáig ismert ősi elképzelés szerint a holtak lelkei a Göncölszekérben várják visszatérésük idejét. A Nagy Medve "gyomra és hátsó fertálya" ez! A szekércsillagzat neve számos népnél halottaskocsi (lásd [[B/Bier\|bier]], mely [[B/Bear\|bear]] szóval rokon[^4]) értelmű, és erről a magyar néphagyomány is tud. A legenda szerint Szent László holttestét egy szekér magától vitte végső nyugvóhelyére, Váradra, vagyis sem ökör, sem ló nem volt elébe fogva. Hogy milyen szekér lehetett, azt a Göncöl Szent László szekere elnevezése árulja el. A britek egyenesen Artúr király szekerének neveztek, s a kelta eredetű Artúr név (lásd [[A/Arthur\|Arthur]]) szintén "medvét" jelent! (Emlékezzünk az Uranusról és Artemiszről írtakra; a morgó nevű kelta uralkodó éppúgy nem hal meg, mint Uránosz, hanem hozzá hasonlóan egy "Almás hely \[[[Avalon\|[Avalon]]\]" nevű szigeten, a kelta paradicsomban szendereg örök félálomban.)  
 > A medveistenséget nemcsak a görög-római műveltség azonosította a Nagy Medve csillagképpel. Finnugor rokonaink hitvilágában több jelkép szál fut össze: a hantik a csillagzatot – többek között – a halott medveistent hordozó halottas szánnak képzelték. Artemisz medveistennő[^5] csillagképpé válásának regéjére gondolva pedig érdemes eszünkbe idézni, hogy a szomszédos Kis Medvét eleink Nagyasszony társzekerének, Nagyboldogasszony csillagának is nevezték.  
-- A Nagyboldogasszony csillaga azért érdekes, mert a Tejútanya feje eredetileg Szíriusz kellene legyen, de mivel Nagyboldogasszony maga a Tejútanya, ezért annak mely testrésze a Kis Medve?  
+- A Nagyboldogasszony csillaga azért érdekes, mert a Tejútanya feje eredetileg Szíriusz kellene legyen, de mivel Nagyboldogasszony maga a Tejútanya, ezért annak mely testrésze a Kis Medve?
 
 A medve-kultuszról, arról, hogy egyes népek totemőse a medve...
 
