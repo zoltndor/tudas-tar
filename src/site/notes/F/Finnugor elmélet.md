@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Finnugor elmélet/","title":"Finnugor elmélet","tags":["nyelvészet","Götz"],"created":"2024-05-09T22:31","updated":"2024-05-09T22:31"}
+{"dg-publish":true,"permalink":"/F/Finnugor elmélet/","title":"Finnugor elmélet","tags":["nyelvészet","Götz"],"created":"2024-05-09T22:31","updated":"2024-05-10T03:46"}
 ---
 
 
@@ -100,8 +100,8 @@ Tulajdonképpen akkor két fő támpont alapján soroltak be minket a mansik/vog
 1\. Párszáz szó és némi nyelvtani hasonlóság (ami a – komoly elnyomásban élő – vogul és más népek magyar ősi nyelvünket megtartó képességét jelezhetné leginkább);  
 2\. Yugriai tartózkodás (holott a magyarok Eurázsiában mindenhol nyomot hagytak.  
 Reguly Antal és Hunfalvy Pál: A vogul föld és nép című könyvük III. Szakasz: A vogulok viszonyai a magyarokhoz című részben egy szuszra sikerül mindent "helyre tenniük":  
-> Következnék azután történelmi oldala, melly tekintetből épen a vogulok látszanak legérdekesebbeknek. Ők szirjän határosaiknál a' jögra nevet viselik, mi nagyon emlékeztet a' régi ugor vagy jugor névre; legalább az orosz, kinek ö hangja nincsen, ezt csak így ejtheti . A' jögra népről nevezték hajdan az egész tájékot Jugriának. De nevezetes ez is: Az oroszok a' magyart is jugrinak nevezik; ' s minthogy a' vogul magát manšinak nevezi : talán így a' magyar név eredetére is juthatunk." Ezt írá Reguly 1841-ben a' magyar Akademiának. Reguly megtette az utazást; a' mit a' voguloktul és róluk hozott, az olvasó előtt van immár, a' mennyiben sikerült azt értelmeznem; 's látjuk , hogy az se nem kevés, se nem becstelen, söt inkább több és becsesebb, mintsem várni mertük volna.  
-> Értelmezője lévén a' Reguly hozományának, szükségesnek tartom arra is megfelelni, a' mi végett ő az éjszaki Uralrà s a' vogulok és osztjákok közzé utazott. Mert látók a' Bevezetésben , hogy a' XVI. század elejétül fogva híre vala Európában annak, hogy a' magyarok Jugriábul jöttek ki, a' melly jelenben is a' vogulok hazája; ennél fogva, úgy gondolják vala az írók, hogy a' magyaroknak szorosabb viszonyban kell állaniok a' vogulokkal, mintsem bármellyik más rokon nyelvü néppel.  
+> Következnék azután történelmi oldala, melly tekintetből épen a vogulok látszanak legérdekesebbeknek. Ők szirjän határosaiknál a' jögra nevet viselik, mi nagyon emlékeztet a' régi ugor vagy jugor névre; legalább az orosz, kinek ö hangja nincsen, ezt csak így ejtheti . A' jögra népről nevezték hajdan az egész tájékot Jugriának. De nevezetes ez is: Az oroszok a' magyart is jugrinak nevezik; ' s minthogy a' vogul magát manšinak nevezi : talán így a' magyar név eredetére is juthatunk." Ezt írá Reguly 1841-ben a' magyar Akademiának. Reguly megtette az utazást; a' mit a' voguloktul és róluk hozott, az olvasó előtt van immár, a' mennyiben sikerült azt értelmeznem; 's látjuk, hogy az se nem kevés, se nem becstelen, söt inkább több és becsesebb, mintsem várni mertük volna.  
+> Értelmezője lévén a' Reguly hozományának, szükségesnek tartom arra is megfelelni, a' mi végett ő az éjszaki Uralrà s a' vogulok és osztjákok közzé utazott. Mert látók a' Bevezetésben, hogy a' XVI. század elejétül fogva híre vala Európában annak, hogy a' magyarok Jugriábul jöttek ki, a' melly jelenben is a' vogulok hazája; ennél fogva, úgy gondolják vala az írók, hogy a' magyaroknak szorosabb viszonyban kell állaniok a' vogulokkal, mintsem bármellyik más rokon nyelvü néppel.  
 - Lásd még a témát [[U/Ugor\|ugor]] címnél Götz László tollából.  
 
 [[M/Magyar nyelv hamisítása\|Magyar nyelv hamisítása]] címnél (több) is szerepelt Péterfai Jánostól:
