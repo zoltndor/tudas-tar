@@ -1,7 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vándor/","title":"Vándor","tags":["Englishtexttranslated"],"created":"2023-10-20T10:10","updated":"2024-04-05T20:01"}
+title: Vándor
+foreignTitle: false
+aliases:
+  - vándor
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg-created: 2023-10-20T10:10
+dg-updated: 2024-05-13T03:27
+dg_upload: VNC done
+dateCreated: 2023-07-11
+dateModified: 2024-05-13T03:27
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/V/V%C3%A1ndor.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/V/V%C3%A1ndor.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/V/V%C3%A1ndor.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/V/V%C3%A1ndor.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/V/V%C3%A1ndor.md
 ---
-
 
 # Vándor
 
@@ -9,7 +27,7 @@
 Össze is köthetnénk a dolgot: a régi, békés időkben azért is vándoroltak az emberek, mert az égi Vándort (az összetartozó Orion-Szíriuszt) látni akarták.  
 
 Egyébiránt (az Orion-kapcsolatú) [[I/Indra\|Indra]] címnél volt szó a vándor fogalmáról David Gordon White könyvében:  
-> Among the Vedic gods, it is Indra (together with [[R/Rudra\|Rudra]]) who is most closely and frequently associated with various groups of wandering ascetics: one of these is known as the yatis, from `yâ`, "to go," or from `yat` , "to strive."  
+> Among the Vedic gods, it is Indra (together with [[R/Rudra\|Rudra]]) who is most closely and frequently associated with various groups of wandering ascetics: one of these is known as the yatis, from `yâ`, "to go," or from `yat`, "to strive."  
 > —  
 > A védikus istenek közül Indra ([[R/Rudra\|Rudrá]]val együtt) az, aki a legszorosabban és leggyakrabban a vándorló aszkéták különböző csoportjaival áll kapcsolatban: ezek egyike a yati-k, a `yâ`, "menni", vagy a `yat`, "törekedni" szóból.  
 
