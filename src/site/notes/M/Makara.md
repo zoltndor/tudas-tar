@@ -1,7 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2024-05-10T17:17"}
+title: Makara
+foreignTitle: false
+aliases:
+  - Makará
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg-created: 2023-10-29T08:34
+dg-updated: 2024-05-13T03:16
+dg_upload: VNC done
+dateCreated: 2022-12-14
+dateModified: 2024-05-13T03:16
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/M/Makara.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/M/Makara.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/M/Makara.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/M/Makara.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/M/Makara.md
 ---
-
 
 # Makara
 
@@ -17,8 +35,8 @@ Ennek megfelelően a csillagképről kapta a Makara szoláris hónap (a szintén
 > —  
 > A *simsumara* krokodil (vagy makara) feje nagyon is lehet a magdudor kidudorodó területe a sötét hasadék szájával.  
 > ...  
-> A közvetlen asszociáció tehát egy szülőhelyre vonatkozik. Guénon és Coomaraswamy egyaránt a *kalamukhát* azonosítja a szülő- és felemésztővel, és a Bakba (valójában a Nyilasba) helyezi. Korábban említettem, hogy a makara vagy mukha csillagászati utalása valószínűleg a Tejútrendszerben lévő sötét hasadékra vonatkozik, amelyet a maják szintén szörnyszájként azonosítanak. A védikus *simsumara* krokodil rokon szörnyszája felfelé néz, és felfal minden gyanútlan keresőt, megakadályozva őket abban, hogy átlépjenek az általa őrzött Nyilas-kapun.  { #6panc5}
-
+> A közvetlen asszociáció tehát egy szülőhelyre vonatkozik. Guénon és Coomaraswamy egyaránt a *kalamukhát* azonosítja a szülő- és felemésztővel, és a Bakba (valójában a Nyilasba) helyezi. Korábban említettem, hogy a makara vagy mukha csillagászati utalása valószínűleg a Tejútrendszerben lévő sötét hasadékra vonatkozik, amelyet a maják szintén szörnyszájként azonosítanak. A védikus *simsumara* krokodil rokon szörnyszája felfelé néz, és felfal minden gyanútlan keresőt, megakadályozva őket abban, hogy átlépjenek az általa őrzött Nyilas-kapun.  
+^6panc5
 
 A leírása alapján ez a Jankovics Marcell Jelkép-kalendárium című könyvében is előjövő, ott [[V/Varuna\|Varuna]] cethal-szerű szörnyével, másutt, Mély a múltnak kútja című könyvében pedig magával a [[C/Cet csillagkép\|Cet csillagkép]]pel azonosított csillagkép:  
 > A [[H/Halak csillagkép\|Halak csillagkép]] két jelentéktelen, halformájúnak alig nevezhető kis csillagzatból áll. A Halak égi tengerében úszik viszont az óriás Cet, a mítoszok hősöket, hősnőket elnyeléssel fenyegető tengeri szörnyének égi képmása (a görög kétosz nemcsak "cet", hanem mindenféle "tengeri szörny" neve, beleértve a nevezett csillagzatot is). A görög mitológiában hím- és nőnemű alakban egyaránt szerepel (Kéteusz és Kétó). A róla szóló legismertebb történet arról szól, hogyan szabadította meg tőle Perszeusz Androméda királylányt. A rege minden szereplője ott ragyog a tavaszi égnegyedben. A csillagkép jelentésköre azonban tágabb a görög mitológiánál. Éppúgy tekinthetjük a Jónást elnyelő nagy hal képmásának, mint Varuna Makaráját ábrázoló csillagképnek.  
@@ -84,15 +102,15 @@ Az orosz szó viszont hasonlítható a komi `megyr` 'ív, hajlított forma', `my
 > GT ford.:  
 > MAKAR, the nickname of the Ryazan[^3] people, esp. Kadomtsev, as if, according to Peter I, who met three Makars in a row there, and said jokingly: if you are all Makars! These are the best fishermen and kissers, why tax farmers, and rogues in general, are called Makarami. | Sib. simpleton. | Comic. mosquito. Let the macarka go, cheat. Makaryga, Makaryevsky beggar, Psk. hard. an impudent, incoherent beggar. Yesterday Makar dug ridges, now Makar got into the governor, a hint of wine tax farmers. I'll take you there, where Makar didn't drive calves! Mosquito and midge, Makar and a cat. Makar is not married twice. Bumps are falling on poor Makar.  
 > —  
-> MAKAR, a rjazáni emberek, különösen Kadomcev beceneve, mintha I. Péter szerint, aki ott három makárral találkozott egymás után, és tréfásan azt mondta: ha mind makárok vagytok! Ezek a legjobb halászok és csókolók, miért hívják az adózó földműveseket és általában a gazembereket Makaraminak. | Szibériában: együgyű. | Tréfásan: szúnyog. Engedd el a makarkát, csaló. Makariga, makarijevszkij koldus, psz. kemény, szemtelen, összefüggéstelen koldus. Tegnap Makar árkot ásott, most Makar került a kormányzóba, egy csipetnyi boradó gazdák. Elviszlek oda, ahol Makár nem hajtott borjút! Szúnyog és szúnyog, Makár és egy macska. Makar nem házasodott meg kétszer. Szegény Makárt az ág is húzza.  { #nlv1sz}
-
+> MAKAR, a rjazáni emberek, különösen Kadomcev beceneve, mintha I. Péter szerint, aki ott három makárral találkozott egymás után, és tréfásan azt mondta: ha mind makárok vagytok! Ezek a legjobb halászok és csókolók, miért hívják az adózó földműveseket és általában a gazembereket Makaraminak. | Szibériában: együgyű. | Tréfásan: szúnyog. Engedd el a makarkát, csaló. Makariga, makarijevszkij koldus, psz. kemény, szemtelen, összefüggéstelen koldus. Tegnap Makar árkot ásott, most Makar került a kormányzóba, egy csipetnyi boradó gazdák. Elviszlek oda, ahol Makár nem hajtott borjút! Szúnyog és szúnyog, Makár és egy macska. Makar nem házasodott meg kétszer. Szegény Makárt az ág is húzza.  
+^nlv1sz
 
 [[H/Hát#Hátra, vissza téridőbeli értelmezése – Magor újjászületése\|Hátra, vissza téridőbeli értelmezése – Magor újjászületése]] cím/alcímnél írottak is támogatják a fentieket:  
 A hát, vissza fogalmainak idegen nyelvekbeni megjelenését tekintve érdekes, hogy Magor neveit, annak változatát és lecsapott formáját találjuk meg.  
 1\. [[B/Back\|back]] szóban; Magor > Begar > Back.  
 2\. a [[M/Makara\|Makara]] és [[M/Magyar\|magyar]] címnél is említett, [ezen](https://www.wisdomlib.org/maghara) oldalon talált marathi `māghāra` = vissza; csökken, visszahúzódik, visszatér; visszatérés (például lázé) jelentésű szóban is a [[L/Lemniszkáta\|lemniszkáta]] féléveinek görbéiről van szó, csak éppen nem a nyári, hanem a téli váltásra ([[T/Turul\|Turul]]) utalva.  
 A magara forma vissza(tér) jelentését tehát az életkörben, a fentebb írottak alapján, valamint a [[H/Hunor és Magor\|Hunor és Magor]] címnél (lásd Blavatsky téma környékén) írottak alapján kell értelmezni.  
-Hasonló szavakat [[M/Magyar\|magyar]] címnél láttunk, melyek ugyanide tartoznak: japán `meguru` = körbejár and `magaru` = fordul, komi `megyr` 'ív, hajlított forma', `mygör` 'figura, alak, forma ....', és mari `mykyr` 'görbeség.' Másutt CzK hozza a mari `kagyr-mugyr` 'hajlítani ide-oda' és csuv. `kukăr-măkăr` 'ferde' szavakat.  
+Hasonló szavakat [[M/Magyar\|magyar]] címnél láttunk, melyek ugyanide tartoznak: japán `meguru` = körbejár and `magaru` = fordul, komi `megyr` 'ív, hajlított forma', `mygör` 'figura, alak, forma ....', és mari `mykyr` 'görbeség.' Másutt Czeglédi K. hozza a mari `kagyr-mugyr` 'hajlítani ide-oda' és csuv. `kukăr-măkăr` 'ferde' szavakat.  
 
 A [[T/Turul#Turul és Csudaszarvas\|Turul és Csudaszarvas]] cím/alcímnél előjövő szanszkrit `mayūra` = páva jelentésű szó pedig megint a téli napfordulós Nap-visszatérésre/újjászületésre utal, [[M/Magyar\|Magyar]] istenanya Magort megszülésére.  
 
@@ -118,8 +136,8 @@ De maradjunk a krokodilnál. Ugyanis Edward P. Butler, aki igen profin összeál
 > Indiában és Egyiptomban ezek a Dhyanisok a Krokodilhoz kapcsolódtak, és lakóhelyük a Bakban van. Ezek **csereszabatos kifejezések** az indiai asztrológiában, mivel az állatöv ezen (tizedik) jegyét Makarának hívják, ami szabad fordításban "Krokodil". Magát a szót okkult módon többféleképpen is értelmezik ...\[2, V.1, S.219\]  
 > Ennek az egyiptomi vallási jelképnek a valódi, bár rejtett jelentésére az egyik magyarázat egyszerű. A krokodil az első, aki várja a hajnali nap emésztő tüzét, és találkozik vele, és nagyon hamar a napmeleg megszemélyesítőjévé vált. Amikor a nap felkelt, az olyan volt, mint "az isteni lélek megérkezése a földre és az emberek közé, amely tájékoztatja az isteneket". Innen a különös szimbolika. A múmia egy krokodil fejét öltötte magára, hogy jelezze, hogy a földről érkező lélekről van szó.  
 > A krokodil az egyiptomi sárkány. Ez volt az ÉG és a FÖLD KETTŐS SZIMBÓLUMA; ... az egyiptomiak a Napot egy hajóban, mint annak kormányosát ábrázolták, ezt a hajót egy krokodil vitte magával, "hogy a NAP MOZGÁSÁT mutassa a moystban (a TÉRBEN)". Ezenkívül ez volt Egyiptom jelképe is \[2, V.1, S.409\].  
-> S1.7. megjegyzés. Figyelemre méltó, hogy a maják a Tejútrendszerben lévő sötét hasadékot, amelyhez a 2012-es téli napforduló Napja igazodik, a "Krokodil szájának" vagy a "Jaguár varangynak" nevezték. Ez tehát nem lehet véletlen! A védikus és a maja kozmológia is ugyanarra az eseményre utalhat, ugyanazt a krokodil szimbólumot használva az [[G/Galactic centre\|Tejútközpont]] meghatározására. Jenkins szerint a maják ezt a pontot úgy határozták meg, mint azt a pillanatot, amikor a Nap belép a Krokodil szájába (sötét hasadék a Tejútrendszerben), míg a védikus asztrológiában ez a pillanat a MAKARA (Bak) jegy és a téli napforduló összehangolásához kapcsolódik.  { #hzurgv}
-
+> S1.7. megjegyzés. Figyelemre méltó, hogy a maják a Tejútrendszerben lévő sötét hasadékot, amelyhez a 2012-es téli napforduló Napja igazodik, a "Krokodil szájának" vagy a "Jaguár varangynak" nevezték. Ez tehát nem lehet véletlen! A védikus és a maja kozmológia is ugyanarra az eseményre utalhat, ugyanazt a krokodil szimbólumot használva az [[G/Galactic centre\|Tejútközpont]] meghatározására. Jenkins szerint a maják ezt a pontot úgy határozták meg, mint azt a pillanatot, amikor a Nap belép a Krokodil szájába (sötét hasadék a Tejútrendszerben), míg a védikus asztrológiában ez a pillanat a MAKARA (Bak) jegy és a téli napforduló összehangolásához kapcsolódik.  
+^hzurgv
 
 Clarias **Magur** (lásd [itt](https://www.fishbase.se/summary/Clarias-magur.html)) viszont egy harcsaféle neve.  
 PNL adataként egy [[M/Makár\|makár]] nevű halat is találtam.  
