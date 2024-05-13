@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Balta/","title":"Balta","created":"2023-11-09T04:42","updated":"2024-05-07T00:33"}
+{"dg-publish":true,"permalink":"/B/Balta/","title":"Balta","created":"2023-11-09T04:42","updated":"2024-05-13T03:05"}
 ---
 
 
@@ -27,4 +27,4 @@ Lett nyelven `baltā` (nőnem), `baltais` (hímnem) fehér embert (kaukázusit) 
 
 Lényegében a palóc Napisten **Balota** (Bál-Atya) nevét kell felfedezni a balta, az alaki változatának tekinthető [[P/Pálca\|pálca]] és [[P/Plate\|plate]], valamint a baszk/spanyol `pelota` nevekben. [[P/Palóc\|Palóc]] maga is lehet Pal-Ata, de ilyen hasonló nevek még [[P/Palace\|palota]] és akár a [[P/Pilot\|pilóta]] is.  
 
-[[B/Boldizsár\|Boldizsár]] Balthazár eredeti formájában is szerepel Bal(o)ta.  
+Boldizsár Balthazár eredeti formájában is szerepel Bal(o)ta.  
