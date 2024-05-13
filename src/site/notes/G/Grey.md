@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Grey/","title":"Grey","tags":["Englishtexttranslated","kutya"],"created":"2024-05-10T17:13","updated":"2024-05-10T17:13"}
+{"dg-publish":true,"permalink":"/G/Grey/","title":"Grey","tags":["Englishtexttranslated","kutya"],"created":"2024-05-10T17:13","updated":"2024-05-13T03:08"}
 ---
 
 
@@ -31,7 +31,7 @@ A Wiktionary oldalon az alábbi magyarázat szerepel:
 > —  
 > Eredeti jelentése: sovány kutya (agár), míg az angolban a szemantika egyszerűen sovány kutyává fejlődött, majd ez a kutyáról vitetett át a szegény kis dolog – szegény ember jelentésbe. A szemantikai változás valami szegényesre már a régi nyelvben is megtörtént.  
 
-Ez a magyarázat azért érdekes, mert a [[M/Meagre\|meager]] = sovány egyszer a CzK által megadott komi, cseremisz görbét jelentő szavait[^2] idézi és a görbe = kurva = szuka fogalmi azonosságot feltártuk, ahogy ismert a hajlat/görbe = ív (íj) = eb (kutya) fogalmi kapcsolatrendszer is.  
+Ez a magyarázat azért érdekes, mert a [[M/Meagre\|meager]] = sovány egyszer a Czeglédi K. által megadott komi, cseremisz görbét jelentő szavait[^2] idézi és a görbe = kurva = szuka fogalmi azonosságot feltártuk, ahogy ismert a hajlat/görbe = ív (íj) = eb (kutya) fogalmi kapcsolatrendszer is.  
 A meager pedig nemcsak a magyar/Magor nevekkel, hanem a [[M/Makara\|Makara]] címnél előjövő orosz szegény embert jelentő `makár` szóval is azonos. Azaz a szuka, agár, sovány, szegény fogalmak mind évköri értelmüek és a [[L/Lemniszkáta\|lemniszkátá]]ra utalnak.  
 
 Hogy a szürkét jelentő IE szavak akkor kurva/görbe kiindulásúak lennének, ezt így nehéz megmondani. Nyilván nem magyar nevünk gyar eleme lesz eredetük, még a fentiek ellenére sem.  
@@ -42,4 +42,4 @@ Hogy a szürkét jelentő IE szavak akkor kurva/görbe kiindulásúak lennének,
 Furcsamód az olasz szó elé sincs g-előhangos latin előd.  
 
 [^2]: Lábjegyzet:  
-A komi `megyr` 'ív, hajlított forma', `mygör` 'figura, alak, forma ....' és mari `mykyr` 'görbeség' szavak és társai sok helyen szerepeltek. Lásd pl. [[M/Makara\|Makara]] címnél.  
+A komi `megyr` = ív, hajlított forma, `mygör` = figura, alak, forma és mari `mykyr` = görbeség szavak és társai sok helyen szerepeltek. Lásd pl. [[M/Makara\|Makara]] címnél.  
