@@ -1,7 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","created":"2023-10-13T12:33","updated":"2024-04-05T19:37"}
+title: Sarkcsillag
+foreignTitle: false
+aliases: []
+status: dg_uploaded
+tags: 
+share: true
+dg-publish: true
+dg-created: 2023-10-13T12:33
+dg-updated: 2024-05-13T20:18
+dg_upload: VNC done
+dateCreated: 2023-04-17
+dateModified: 2024-05-13T20:18
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/S/Sarkcsillag.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/S/Sarkcsillag.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/S/Sarkcsillag.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/S/Sarkcsillag.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/S/Sarkcsillag.md
 ---
-
 
 # Sarkcsillag
 
@@ -14,12 +30,12 @@ A mellékelt képen a Sarkcsillag [[P/Precesszió\|precesszió]] következtében
 ...című cikkében amit ír:  
 > A precesszió miatt a Sarkcsillag kizökken a helyéről, néhány ezer évenként más "tengelycsillagot" kell választani.  
 > A legstabilabb, legállandóbb égi pont az ekliptika pólusa. Gyakori neve volt a Lyuk az Égen, mert azon a tájékon nincsen csillag, ami jelölhetné. Az északi égi pólus e körül 25 920 év alatt egy 23,5 fok sugarú kört ír le.  
-- Lásd még más adatokat [[F/FU\|FU]] és [[F/Fúrócsillag\|Fúrócsillag]].  
+- Lásd még más adatokat [[F/FU\|FU]] és [[F/Fúrócsillag\|Fúrócsillag]].
 
-William F. Warren könyvében számtalanszor említi a sarkcsillagot, mint a hyperboreai emberiség istenének lakóhelyét. Jankovics Marcell anyagában mint a [[N/Nap – halott Nap\|Nap – halott Nap]] lakhelye szerepel; [[S/Széth\|Széth]] is északra űzött (szaturnikus \[egykori\] (Nap)isten.  
+William F. Warren könyvében számtalanszor említi a sarkcsillagot a hyperboreai emberiség istenének lakóhelyével kapcsolatban. Jankovics Marcell anyagában mint a [[N/Nap – halott Nap\|Nap – halott Nap]] lakhelye szerepel; [[S/Széth\|Széth]] is északra űzött (szaturnikus) \[egykori\] (Nap)isten.  
 A látszólagos ellentétet feloldani látszik, hogy a Napistenként kezdő szaturnikus istenek a Sarkcsillaggal is kapcsolatba hozattak. Lásd erről alant.  
 
-Az alábbi, általam [[A/Apam Napat\|Apam Napat]] és [[K/Korona\|korona]] címnél vizsgálat alá vett és kifogásolt, legutóbb [[N/Négy#Négy és az ötödik irány\|négy és az ötödik irány]] cím/alcímnél is szereplő Molnár V. József adathalmaznak itt most csak azon részére hívnám fel a figyelmet, mely arra utal, mi lehet a világfa tetején:
+Az alábbi, általam [[A/Apam Napat\|Apam Napat]] és [[K/Korona\|korona]] címnél vizsgálat alá vett és kifogásolt, legutóbb [[N/Négy#Négy és az ötödik irány\|négy és az ötödik irány]] cím/alcímnél is szereplő Molnár V. József féle adathalmaznak itt most csak azon részére hívnám fel a figyelmet, mely arra utal, mi lehet a világfa tetején:
 
 #### Molnár V. József Világ-Virág...
 
@@ -48,16 +64,16 @@ Néhány példa a Hamlet Malma című könyvből:
 > Mások szerint a Nagy Göncöl egy fölszerszámozott lófogatból áll; minden éjjel egy fekete kutya rágja a lószerszámot azért, hogy elpusztítsa a világot, de nem érheti el célját; hajnalban, amikor egy forráshoz fut inni, a lószerszám magától megújul.  
 
 [[T/Thuban\|Thuban]] szócikknél is írtuk, hogy Richard H. Allen írja róla könyvében, hogy a mai kettes magnitúdónál fényesebb volt régen és Sir John Herschel adatára támaszkodva azt is írja, hogy a [[K/Kufu\|Kufu]] piramisból ez a csillag megfigyelhető volt nappal és éjszaka is. Azt le kell szögezni, hogy a régi (és mai!) hivatalos egyiptológia tudomány is Kheopsz fáraónak tulajdonítja a nagy piramis építését, így a központi kamrából figyelve gyakorlatilag minden mindenkori Sarkcsillag ugyanúgy látható. Azaz a Thuban szerepe nem bizonyíték a piramis építésének idejére. Ergo a piramis geo-koordinátáihoz van mérve az akna, nem egy bizonyos (időben uralkodó) (sark)csillaghoz. Herschel téved. A nagy piramissal kapcsolatban lásd még [[K/Kufu\|Kufu]], [[G/Gnomon\|gnomon]], [[O/Orion övcsillagai\|Orion övcsillagai]], [[S/Sphinx\|Sphinx]] és [[Z/Zep Tepi\|Zep Tepi]].  
-A Sarkcsillag nevei egyes nyelveken [[T/TÁT\|TÁT]], és, ahogy [[P/Pole\|pole]] szónál szerepelt, eufráteszi nyelven Pūl, Bīl volt.  
+A Sarkcsillag nevei egyes nyelveken [[T/TÁT\|TÁT]], és, ahogy [[P/Pole\|pole]] szónál szerepelt, eufráteszi nyelven **Pūl**, **Bīl** volt.  
 
 #### Varga Zsigmond Az ősmagyar mitológia...
 
 ...című könyvének 294-295. oldalán lévő adata szerint a világköldökből/világhegyből kinőtt világoszlopról kapja egyes nyelveken a Sarkcsillag is a nevét (szép egyezés ez azzal, hogy ami Egyiptomban TAT illetve [[D/Dzsed\|dzsed]] oszlop, az másutt a Sarkcsillag neve; lásd [[T/TÁT\|TÁT]]):  
 > A [[V/Világoszlop\|világoszlop]] mesterségesen előállított világfa. A szent liget nyír-, esetleg nyárfájából készítették. A török-tatár törzseken kívül feltalálható Észak-Szibéria népeinél, az obi-ugoroknál, roncsaiban magyar népünknél is, a szamojédoknál, s végül a lappoknál. Az volt a rendeltetése, hogy a föld köldökén emelkedve, az eget alulról támassza alá, nehogy összedüljön. Különböző nevekkel illetik, de a szumirban és az ugor népeknél [[T/TIR\|tir]] nevet visel.  
-- Tir össze lett kapcsolva [[T/Tree\|tree]]-vel.  
+- Tir össze lett kapcsolva [[T/Tree\|tree]]-vel.
 
 >  Egy jakut kozmogonikus mesében így dicsekszik a világoszlop: "mikor ég és föld együtt nőttek, velük együtt nőttem én is." A világoszlop a föld köldökén, tehát az északi sarkcsillag alatt áll és úgy támasztja alá az égboltozatot. Mert az ég legmagasabb pontja, az északi sarkcsillag körüli égrész. Tehát maga az északi sarkcsillag is égösszetartó faktornak, mintegy a földi világoszlop folytatásának bizonyul.  
-> Ezt bizonyítják az északi sarkcsillag altáji elnevezései is. A mongolok, a burjátok, kalmükök, az altáji tatárok, és az új-ugorok "arany pillér"-nek, a kirgizek, baskirok, és némely tatár törzsek "vas pillérnek'', a teleutok "magányos cöveknek, karónak, oszlopnak" nevezték. A tunguzok pedig "aranyos'' jelzővel látják el. A világoszlopról nincs ugyan ábrázolatunk, de az a tény, hogy korcshajtásaiban némely északszibériai törzsek használják még ma is, csattanós bizonyság elképzelése, ősi jelenléte, és célja felől. Az osztjákok "városi pilléreknek", vagy "városközépi erős pillérek"-nek hívják. Híres a csingalai "város pillér", melyet az osztják törzsek istennőnek képzelnek és ekként imádnak. Két öl magas, négyszögű, nyúlánk oszlop, nem nagyon régi. Az a hit róla, hogy "az isten plántálta élőfa". Északszibériának népei fából készült madarai helyeznek a világoszlopra, amely néha kétfejű. A dolgánok e madarat "a madarak urának" nevezik, de közelebbi rendeltetését nem ismerik.  
+> Ezt bizonyítják az északi sarkcsillag altáji elnevezései is. A mongolok, a burjátok, kalmükök, az altáji tatárok, és az új-ugorok "arany pillér"-nek, a kirgizek, baskirok, és némely tatár törzsek "vas pillérnek", a teleutok "magányos cöveknek, karónak, oszlopnak" nevezték. A tunguzok pedig "aranyos'' jelzővel látják el. A világoszlopról nincs ugyan ábrázolatunk, de az a tény, hogy korcshajtásaiban némely északszibériai törzsek használják még ma is, csattanós bizonyság elképzelése, ősi jelenléte, és célja felől. Az osztjákok "városi pilléreknek", vagy "városközépi erős pillérek"-nek hívják. Híres a csingalai "város pillér", melyet az osztják törzsek istennőnek képzelnek és ekként imádnak. Két öl magas, négyszögű, nyúlánk oszlop, nem nagyon régi. Az a hit róla, hogy "az isten plántálta élőfa". Északszibériának népei fából készült madarai helyeznek a világoszlopra, amely néha kétfejű. A dolgánok e madarat "a madarak urának" nevezik, de közelebbi rendeltetését nem ismerik.  
 
 [[N/Négy#Négy és az ötödik irány\|Négy és az ötödik irány]] cím/alcímnél és más ottani, Molnár V. József infókkal álló alcímnél írottak szerint valóban lehet a [[V/Világhegy\|Világhegy]] felülnézeti modelljének, a [[N/Négyzet\|négyzet]] átlói metszésével nyert középpont a Sarkcsillag és így egyben a [[K/Köldök\|köldök]] is, Molnár V. József Világ-Virág című könyvének 18. oldalán álló anyaga szerint is.  
 
@@ -74,14 +90,14 @@ A Sarkcsillag nevei egyes nyelveken [[T/TÁT\|TÁT]], és, ahogy [[P/Pole\|pole]
 Ahogy [[S/Sarok\|sarok]] és [[S/Sárkány\|sárkány]] címnél is szerepelt, sárkány felbontható lehetne még Sark-Án alakban. A sárkány név ugyanis – más fontos szavainkhoz hasonlóan – több információt kell magában eltároljon. Az kevéssé valószínű, hogy a sárkány (közvetlenül/csak) a [[S/Sárkány csillagkép\|Sárkány csillagkép]]et jelentené (eredetileg). Bár kétségtelen, hogy [[E/Észak\|észak]]on található és a Sárkány csillagkép egyes csillagai voltak már/lesznek még sarkcsillagok.  
 Közben megoldottuk a kérdést [[S/Sárkány csillagkép\|Sárkány csillagkép]] címnél és [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címnél:  
 Richard H. Allen könyvének 208-209. oldalán a Sárkány csillagkép gammájáról szól: Lockyer adatából kiindulva mondja, hogy több más istennőben, [[S/Sekhet\|Sekhet]]-tel egyetemben a Nílust tisztelték, mely szimbolikusan a Sárkány gammájához volt kötött.  
-Amint [[S/Sárkány csillagkép\|Sárkány csillagkép]]nél szó volt róla, istenanya (sumér [[A/AN, ÁN\|AN]], [[A/Anu\|Anu]] esetében is) égi hona az északi terület, melynek kivételes helye a [[S/Sarkcsillag\|Sarkcsillag]], mely előtagja éppen szerepel is a Sárkány névben, mely így lehet Sark-Án, az Ég Sarka értelmű is! Azaz Sárkány egyszerre utal a Szíriuszra és a Sárkány csillagképre is, éppúgy, ahogy az Richard H. Allen könyvének 204. oldalán említett asszír-babiloni `sir` = kígyó (sárkány is lehet) egyszerre utalhat a Sárkány csillagképre/vagy a Tejútra és Szíriuszra is! Zseniális névalkotás magyarjainktól. Szár-Kan a Szíriusz, Sark-Án a Sárkány csillagkép, mely ugye a Sarkcsillagot hordozta a sumér időkben ([[T/Thuban\|Thuban]] volt a Sarkcsillag, melyből a [[T/Typhon\|Typhon]] név is származott).  
+Amint [[S/Sárkány csillagkép\|Sárkány csillagkép]]nél szó volt róla, istenanya (sumér [[A/AN, ÁN\|AN]], [[A/Anu\|Anu]] esetében is) égi hona az északi terület, melynek kivételes helye a Sarkcsillag, mely előtagja éppen szerepel is a Sárkány névben, mely így lehet Sark-Án, az Ég Sarka értelmű is! Azaz Sárkány egyszerre utalhat a Szíriuszra és a Sárkány csillagképre is, éppúgy, ahogy az Richard H. Allen könyvének 204. oldalán említett asszír-babiloni `sir` = kígyó (sárkány is lehet) egyszerre utalhat a Sárkány csillagképre/vagy a Tejútra és Szíriuszra is! Szár-Kan a Szíriusz, Sark-Án a Sárkány csillagkép, mely ugye a Sarkcsillagot hordozta a sumér időkben ([[T/Thuban\|Thuban]] volt a Sarkcsillag, melyből a [[T/Typhon\|Typhon]] név is származott).  
 
 ## Nap – Sarkcsillag szimbolika
 
 #### Jankovics Marcell írja:
 
 > A kínai császárt nemcsak a Nappal, hanem az ég közepével, a Sarkcsillaggal is azonosították, ezért alattvalóinak, miközben ő délnek néző trónusán ült, észak felé fordulva kellett leborulniuk előtte. Nap- és Sarkcsillagmás lett volna egyszerre? Úgy tűnik, igen. Egy elterjedt hiedelem szerint a Nap éjjel, amikor nem látjuk, az "ég közepén", a Sarkcsillag mögött tartózkodik. [[T/Teszkatlipoka\|Teszkatlipoka]] volt az aztékok első napistene (Várkonyi Nándornál istennője?!), de ő volt a Göncöl (és a Sarkcsillag?) megszemélyesítője is, az éjszakai Nap. És Jahvét, akinek számtalan napisteni tulajdonsága van, a próféták és más bibliai szerzők észak felől rettegik: "Észak felől aranyszínű világosság támad, Isten körül félelmetes dicsőség." (Jób 37, 21. L. még Jer 1,13.)  
-- [[A/Arthur\|Arthur]] ugyanilyen halott Napisten – Sarkcsillagbéli alak. (És szaturnikus is – folyt. alant.)  
+- [[A/Arthur\|Arthur]] ugyanilyen halott Napisten – Sarkcsillagbéli alak. (És szaturnikus is – folytatást alant.)
 
 ## Szaturnusz – Sarkcsillag szimbolika
 
@@ -104,7 +120,7 @@ A Szaturnusz-analógiáknak itt nincs vége. Úgy tűnik, miután – ahogy mond
 A Hamlet Malmában írják:  
 > A\[z Orion csillagképhez köthető bolygó-istenség\] Szaturnusz, a kozmosz mértékeinek adója, Babilonban a "Törvény és Igazságosság Csillaga", a "Nemezis Csillaga" Egyiptomban, de a Szükségszerűség és Megtorlás Uralkodója, röviden a Császár. Kínában Szaturnusznak a címe "Génie du pivot", mint a **Középpont felett ügyelő isten, s ugyanezt a címet kapja a Sarkcsillag**.  
 
-Fontosabb, hogy...
+
 
 #### Jankovics Marcell Ahol a madár se jár...
 
@@ -121,18 +137,18 @@ Ugyanakkor itt azt le kell szögezni, hogy a forgástengelyek tekintetében a Va
 
 [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címnél szerepelt legutóbb:  
 Van más kapcsolat is a Szíriusz és a Sarkcsillag között, elnevezések (és mögöttük álló fogalmak) szintjén (talán már megvolt valahol hasonló okfejtés).  
-[[K/Kontár\|Kontár]] címnél legutóbb írottak alapján tudjuk, hogy ami egyszer Hun-Ter = Vadász, máskor Kantár, Kontár, mely mutatja, hogy ellen-Napról van szó (Orion-Hunor csillagkép [[M/Magor\|Magor]] születési helyével szemben áll). Az [[A/Andra\|Andra]] és [[O/Other\|other]] (valamint [[A/Anta\|anta]] és [[A/Anti-\|anti-]]) címnél írottak alapján is látjuk, hogy a másik Nap, az [[N/Nap#Nap – Ellen-Nap\|ellen-Nap]] az, amiről itt szó van. Igen ám, de igen hasonló alakú szavak a [[C/Centre\|centre]] = központ és a [[K/Kampó\|kampó]] és [[K/Kantár\|kantár]] címnél is előjövő török [[K/Kuntar\|kuntar]] = kampó is. Ezen szavak már inkább a Sarkcsillagra látszanak utalni. [[C/Centre\|Centre]] lehet még persze a [[G/Galactic centre\|Galactic centre]], a Tejútközpont is. Az egész rendszer működését a szavak alapján le kellene már fixálni ([[D/Dzsed\|dzsed]] és más címnél már volt erről szó, ki tudja mennyire helyesen megrajzolt diagramos adatokkal is).  
+[[K/Kontár\|Kontár]] címnél legutóbb írottak alapján tudjuk, hogy ami egyszer Hun-Ter = Vadász, máskor Kantár, Kontár, mely mutatja, hogy ellen-Napról van szó (Orion-Hunor csillagkép [[M/Magor\|Magor]] születési helyével szemben áll). Az [[A/Andra\|Andra]] és [[O/Other\|other]] (valamint [[A/Anta\|anta]] és [[A/Anti-\|anti-]]) címnél írottak alapján is látjuk, hogy a másik Nap, az [[N/Nap#Nap – Ellen-Nap\|ellen-Nap]] az, amiről itt szó van. Igen ám, de igen hasonló alakú szavak a [[C/Centre\|centre]] = központ és a [[K/Kampó\|kampó]] és [[K/Kantár\|kantár]] címnél is előjövő török [[K/Kuntar\|kuntar]] = kampó is. Ezen szavak már inkább a Sarkcsillagra látszanak utalni. [[C/Centre\|Centre]] lehet még persze a [[G/Galactic centre\|Galactic centre]], a Tejútközpont is.).  
 Továbbmenve, a (japán `kuma` névvel is [[C/Comet\|comet]] címnél hasonlított) kínai `Kan` = medve elnevezése is annak (Kutya Kan-hoz hasonló) északisága viszonylatában látandó (Péterfai János írja):  
 > A kínai népi hagyományban Ti-Sa, a névben a Ti – Föld, a Sa – Szellemek ártalmas hatása –, 72 csillag ártó szelleme. A Ti-Sa szemben áll a Nagy Medve csillagainak 36 szellemével, őket Tien-Kannak nevezik, Tien – Ég, Kan – a Nagy Medve.  
 
-Érdekes a Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (második kötetének) 185. oldalán hozott akkád **Dugga** Sarkcsillag elnevezés, mert a Dug a Kutyának ([[D/DOG#Dog 2)\|dog]]) is alkalmas neve, ugyanakkor [[D/Dög\|dög]] = halál és a [[N/Nap – halott Nap\|Nap – halott Nap]] helye a Sarkcsillag.  
+Érdekes a Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (második kötetének) 185. oldalán hozott akkád **Dugga** Sarkcsillag elnevezés, mert a Dug a Kutyának ([[D/DOG#Dog 2)\|Dog]]) is alkalmas neve, ugyanakkor [[D/Dög\|dög]] = halál és a [[N/Nap – halott Nap\|Nap – halott Nap]] helye a Sarkcsillag.  
 
 [[T/Tündér Ilona\|Tündér Ilona]], [[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]], [[N/Nut\|Nut]], [[C/Csudaszarvas\|Csudaszarvas]] és [[V/Vénusz\|Vénusz]] címnél volt szó arról, hogy Tündér Ilona feje/koronája/homloka Szíriusz. Viszont a Sarkcsillag is vele analóg.  
 
 #### Magyar Adorján írja:  
 
-> Ilona égi forgó vára magyarázatát azonban népmeséinken kívül még a magyar nép csillagképeiben is megtaláljuk. Toroczkai-Wigand Ede "Öreg Csillagok" című könyvében látjuk, hogy a Kisgöncöl neveztetik még "Tündérasszony Palotájá"-nak is, amelynek egyik Csillaga pedig maga az északi Sarkcsillag, vagyis az égbolt forgási tengelyében van, amiszerint tehát e palota nem más mint Tündér Ilona Változó Vára, amelynek üvegkupolája maga az égbolt, azaz Ilona vára, amely azonos a görögök Ilion, az egyiptomiak Iluna nevű mondai várával is, azaz Trójával, amelyet a görögök sohasem ostromoltak, hanem ők csak örökölték az Ilona vára ostromáról szóló ős-palóc (pelazg) és avar regét, amelyet ők azonban soha igazán meg nem értettek, amiértis azt költőik átdolgozván, el is rontottak. Népmeséinkből azonban napjainkig is kivehető még, hogy e regében tulajdonképen a szüzesség ostromlásáról és bevételéről van szó. Hogy ez igaz, emellett tanúskodik ma is több Leányvár, Leánykavár, Németországban Magdeburg, vár- és városnév, mert a magyar leány szónak régen szűz értelme is volt. Leány értelme volt az ónémet nyelvben a `magd`, [[M/Magda\|Magda]] szónak is, csakhogy itten már árja félreértéssel van dolgunk, mert mi tudjuk hogy Ilona Istennőnk épen ellenkezőleg a [[M/Magyar\|Magyar]] vagy Magar nevet násza után veszi föl, vagyis amikor már többé nem leány hanem "[[B/Boldogasszony\|Boldogasszony]]."  
-- A női névnek gy-betűsnek kellene lennie.  
+> Ilona égi forgó vára magyarázatát azonban népmeséinken kívül még a magyar nép csillagképeiben is megtaláljuk. Toroczkai-Wigand Ede "Öreg Csillagok" című könyvében látjuk, hogy a Kisgöncöl neveztetik még "Tündérasszony Palotájá"-nak is, amelynek egyik Csillaga pedig maga az északi Sarkcsillag, vagyis az égbolt forgási tengelyében van, amiszerint tehát e palota nem más mint Tündér Ilona Változó Vára, amelynek üvegkupolája maga az égbolt, azaz Ilona vára, amely azonos a görögök Ilion, az egyiptomiak Iluna nevű mondai várával is, azaz Trójával, amelyet a görögök sohasem ostromoltak, hanem ők csak örökölték az Ilona vára ostromáról szóló ős-palóc (pelazg) és avar regét, amelyet ők azonban soha igazán meg nem értettek, amiértis azt költőik átdolgozván, el is rontottak. Népmeséinkből azonban napjainkig is kivehető még, hogy e regében tulajdonképen a szüzesség ostromlásáról és bevételéről van szó. Hogy ez igaz, emellett tanúskodik ma is több Leányvár, Leánykavár, Németországban Magdeburg, vár- és városnév, mert a magyar leány szónak régen szűz értelme is volt. Leány értelme volt az ónémet nyelvben a `Magd`, [[M/Magda\|Magda]] szónak is, csakhogy itten már árja félreértéssel van dolgunk, mert mi tudjuk hogy Ilona Istennőnk épen ellenkezőleg a [[M/Magyar\|Magyar]] vagy Magar nevet násza után veszi föl, vagyis amikor már többé nem leány hanem "[[B/Boldogasszony\|Boldogasszony]]."  
+- A női névnek gy-betűsnek kellene lennie.
 
 Mind a föntiek után nem lesz többé oly érthetetlen előttünk az sem amit némely népmesénk mond, hogy Tündér Ilona vára aranyláncon arany csillaghoz erősítve függ és mindig arra fordul amerre az Áldott Nap. Ez aranycsillag tehát a Sarkcsillag.  
 
@@ -146,7 +162,7 @@ Mindegyik csillagképben közös az északon elfoglalt helyük és a hét szám 
 [[A/Aszklépiosz\|Aszklépiosz]] címnél is említésre került a Sarkcsillag és Szíriusz.  
 
 [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címnél is szerepelt legutóbb:  
-A nyári napfordulós Ég-Úr, Uru-Anna [[O/Orion\|Orion]] nevében is ugyanaz a (sumérben éppen Kutyát is jelentő) Ur szerepel, mint az [[U/Ursa Maior\|Ursa Maior]] címnél említett észak-amerikai indiánok Medve csillagkép elnevezését is mintázó latin `ursus` szóban.  
+A nyári napfordulós Ég-Úr, Uru-Anna [[O/Orion\|Orion]] nevében is ugyanaz a (sumérben éppen Kutyát is jelentő) `Ur` szerepel, mint az [[U/Ursa Maior\|Ursa Maior]] címnél említett észak-amerikai indiánok Medve csillagkép elnevezését is mintázó latin `ursus` szóban.  
 
 ## Lábjegyzetek
 
