@@ -8,10 +8,10 @@ tags:
 share: true
 dg-publish: true
 dg-created: 2024-04-21T12:46
-dg-updated: 2024-04-24T01:08
+dg-updated: 2024-05-13T03:03
 dg_upload: VNC done
 dateCreated: 2022-12-14
-dateModified: 2024-04-24T01:08
+dateModified: 2024-05-13T03:03
 ghrepoURL:
   - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/B/Bor%C3%BA.md
   - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/B/Bor%C3%BA.md
@@ -35,7 +35,7 @@ ghrepoURL:
 #### Magyar Adorján...
 
 ...a [[N/Nibelung-ének\|Nibelung-ének]] magyar eredete című tanulmányában írja:  
-> Láttuk, hogy a "nibelung" szó magyarul "ködfiak"-at jelent és bizonyára valamilyen "homályfiak" , vagy más hasonló értelmű elnevezésnek csak németre fordítása.  
+> Láttuk, hogy a "nibelung" szó magyarul "ködfiak"-at jelent és bizonyára valamilyen "homályfiak", vagy más hasonló értelmű elnevezésnek csak németre fordítása.  
 > A német nyelvben Nebel, a latinban, olaszban [[N/Nebula\|nebula]], nebbia, nebuloso, köd, ködös, homályos, borus, felhős jelentésű, mivel a `nubes` = felhőt jelent. Ez megfejti azt is, hogy a Nibelung-ének fordítója miért mondja, hogy a nibelungok [[B/Burgund\|burgund]] germánok voltak. Azért, mert a magyar boru, borulás, a köd, ködös szavainkkal azonos értelmű, úgyhogy ebből világosan kitünik még az is, hogy az eredeti magyar regében a gonosz gyilkosok nemzetségét, akik a "világosság fiát" meggyilkolták, még boru, vagy buru fiainak is nevezték.  
 > Nem kétséges az sem, hogy a boru, vagy buru szó azonos a borít, beborít, leborít, burkol, beburkol szavainkkal is, tehát boru szavunknak felhő, homály, sötétség jelentése is volt. Az pedig közismert, hogy a finn és vogul rokonaink az [[E/Észak\|észak]]ot tartják mitologiájukban a sötétség és gonoszság hazájának, amit egyébként észak, helyesebben éjszak és éjszaka szavaink azonossága is tanusit. Az észak és a gonoszság eszmei azonositását a legtökéletesebben kifejezve a finn Kalevalában találjuk meg, ahol "Észak urasszonya" vén, csuf, gonosz boszorkányszerű nőalakban \[[[Louhi\|[Louhi]]\] van megszemélyesítve. A görög [[B/Boreasz\|Boreasz]] – Észak, teljesen egyezik "boru" szavunkkal.  
 > Feltünő mindenesetre a boru, buru, burkol szavaink egyezése a [[B/Burgund\|burgund]] névvel, továbbá a poroszok régi magyar burkus és általában használt prusz nevével.  

@@ -1,7 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz és a nyíl/","title":"Szíriusz és a nyíl","tags":["Englishtexttranslated"],"created":"2023-10-30T07:54","updated":"2024-02-29T00:43"}
+title: Szíriusz és a nyíl
+foreignTitle: false
+aliases: []
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg-created: 2023-10-30T07:54
+dg-updated: 2024-05-13T03:22
+dg_upload: VNC done
+dateCreated: 2023-07-19
+dateModified: 2024-05-13T03:22
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/S/Sz%C3%ADriusz%20%C3%A9s%20a%20ny%C3%ADl.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/S/Sz%C3%ADriusz%20%C3%A9s%20a%20ny%C3%ADl.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/S/Sz%C3%ADriusz%20%C3%A9s%20a%20ny%C3%ADl.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/S/Sz%C3%ADriusz%20%C3%A9s%20a%20ny%C3%ADl.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/S/Sz%C3%ADriusz%20%C3%A9s%20a%20ny%C3%ADl.md
 ---
-
 
 # Szíriusz és a nyíl
 
@@ -86,15 +103,15 @@ Egy újdonsült ("fringe" kutatóként[^3] nyilván rengeteg zagyvalékkal elő�
 > A legendák szerint **ha nyilat lőttek a nyílásba, az tüzet okozott**. Így amikor a Szíriusz a mélységet mérte, és beledobta a nyilát, azt mondták, hogy tüzet okozott a mélységben.
 - A nyíl, mint [[V/Villám\|villám]]köteg viszont a teremtést ([[K/Kutyanemzés\|kutyanemzés]]t: lásd Jankovics Marcell írását alant) is szimbolizálja, azaz itt a tűz alatt lényegében olyan sugárzást lehet érteni, melyről [[H/Henry Kroll\|Henry Kroll]] is szólt könyvében.  
 
-> But – and this is the key aspect that got parked outside of the debate – Sirius was not the only star that made this 'arrowʼ , that was part of the 'plumb lineʼ measuring the Abyss. Its colleague in those tasks was [[C/Canopus\|Canopus]], which we have already identified with the plumb line, if only in its concept of 'heavy.' One of the reasons why Sirius and Canopus are deemed to measure the Abyss is because Canopus is situated virtually directly South from Sirius. Visually, a line connecting Sirius and Canopus would thus be considered a 'plumb line,' with Canopus the weight at the bottom of it. As Canopus was the star of the 'opening' we must realise this 'measuring of the Deepʼ was not solely the work of Sirius – for the measuring would obviously take the measurement from Canopus, the 'ceilingʼ to which the waters of the Deep could rise before the cistern overflowed and deluged the fresh waters. To conclude with a final series of quotes from The Canopus Revelation: "So in astronomical mythology, Sirius and Canopus seemed to play with the hole Canopus was blocking. If Canopus, in the form of a tree, was felled, it opened the Abyss and its salt water: a Deluge. If at the same time Sirius dropped into the hole of Canopus, measuring the depth of the Abyss, the result was fire.  
+> But – and this is the key aspect that got parked outside of the debate – Sirius was not the only star that made this 'arrowʼ, that was part of the 'plumb lineʼ measuring the Abyss. Its colleague in those tasks was [[C/Canopus\|Canopus]], which we have already identified with the plumb line, if only in its concept of 'heavy.' One of the reasons why Sirius and Canopus are deemed to measure the Abyss is because Canopus is situated virtually directly South from Sirius. Visually, a line connecting Sirius and Canopus would thus be considered a 'plumb line,' with Canopus the weight at the bottom of it. As Canopus was the star of the 'opening' we must realise this 'measuring of the Deepʼ was not solely the work of Sirius – for the measuring would obviously take the measurement from Canopus, the 'ceilingʼ to which the waters of the Deep could rise before the cistern overflowed and deluged the fresh waters. To conclude with a final series of quotes from The Canopus Revelation: "So in astronomical mythology, Sirius and Canopus seemed to play with the hole Canopus was blocking. If Canopus, in the form of a tree, was felled, it opened the Abyss and its salt water: a Deluge. If at the same time Sirius dropped into the hole of Canopus, measuring the depth of the Abyss, the result was fire.  
 > —  
 > De – és ez az a kulcsfontosságú szempont, ami a vitán kívülre került – a Szíriusz nem az egyetlen csillag volt, amely ezt a "nyilat" alkotta, amely része volt a mélységet mérő "merőleges vonalnak". Kollégája ezekben a feladatokban a [[C/Canopus\|Canopus]] volt, amelyet már azonosítottunk a merőlegessel, ha csak a 'nehéz' fogalmában is. Az egyik ok, amiért a Szíriuszt és a Canopust a mélység mérésének tekintik, az az, hogy a Canopus gyakorlatilag közvetlenül délre helyezkedik el a Szíriusztól. Vizuálisan tehát a Szíriuszt és a Canopust összekötő vonal egy "függőleges vonalnak" tekinthető, amelynek alján a Canopus a súly. Mivel a Canopus volt a "nyílás" csillaga, rá kell jönnünk, hogy a Mélységnek ez a "mérése" nem kizárólag a Szíriusz műve volt - mivel a mérés nyilvánvalóan a Canopustól, a "plafontól" venné a mérést, ahová a Mélység vizei emelkedhettek, mielőtt a ciszterna túlcsordul és elárasztja az édesvizeket. Befejezésül egy utolsó idézetsorozat a Kánopusz Kinyilatkoztatásából: "A csillagászati mitológiában tehát úgy tűnt, hogy a Szíriusz és a Canopus a Canopus által elzárt lyukkal játszik. Ha a Canopust fa alakjában kivágták, megnyílt a Szakadék és annak sós vize: özönvíz. Ha ugyanakkor a Szíriusz belepottyant a Canopus lyukába, megmérve a Szakadék mélységét, az eredmény tűz lett.  
 
 De Coppens mellett mások is foglalkoznak a témával, például a Diagnosys2012 weblapon, melyről szedett infókat egy Thunderbolt fórum-hozzászóló hozza elő:  
 > Murray Hope concluded from her study of Egyptian mythology that Sirius was responsible for a change in the Earth's orbit, resulting in the 5 extra ("epagomenal") days and also, possibly, the axis tilt which causes the four seasons. She also concluded that Sirius would be somehow involved with an imminent "evolutionary quantum leap" for mankind.  
 > —  
-> Murray Hope az egyiptomi mitológia tanulmányozásából arra a következtetésre jutott, hogy a Szíriusz volt felelős a Föld pályájának megváltozásáért, ami az 5 extra ("epagomenális") napot eredményezte, és valószínűleg a tengely dőlését is, ami a négy évszakot okozza. Arra is következtetett, hogy a Szíriusznak valamilyen módon köze van az emberiség közelgő "evolúciós kvantumugrásához".  { #lbseo8}
-
+> Murray Hope az egyiptomi mitológia tanulmányozásából arra a következtetésre jutott, hogy a Szíriusz volt felelős a Föld pályájának megváltozásáért, ami az 5 extra ("epagomenális") napot eredményezte, és valószínűleg a tengely dőlését is, ami a négy évszakot okozza. Arra is következtetett, hogy a Szíriusznak valamilyen módon köze van az emberiség közelgő "evolúciós kvantumugrásához".  
+^lbseo8
 
 A Hamlet Malmát is vizsgáló internetes forumozó, aki nyilván az alábbi, fentebb szerepelt passzus...  
 > A babilóniai [[U/Újév\|újév]] rituális szövege így szólítja meg a Szíriuszt: "mulKAK.SI.DI, aki megméri a tengerek mélyét \[lásd lábjegyzettel fentebb\]". A "mul" egy csillagokat jelölő előképző, KAK.SI.DI jelentése "nyílvessző", s épp ez a nyílvessző áll a legtöbb meghökkentő íjásztörténet hátterében. Az íj, melyből kiröpítik, az Argó és Canis Maior csillagaiból alkotott csillagkép, s jól ismert Mezopotámia, Egyiptom és Kína Övezeteiben. És mivel Istár nevén Vénusz és Szíriusz osztozik, lehet tudni, ki "keveri föl az Apszút Ea előtt".  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gula/","title":"Gula","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions","Englishtexttranslated"],"created":"2023-11-04T11:49","updated":"2024-04-05T19:16"}
+{"dg-publish":true,"permalink":"/G/Gula/","title":"Gula","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions","Englishtexttranslated"],"created":"2023-11-04T11:49","updated":"2024-05-13T03:09"}
 ---
 
 
@@ -10,7 +10,7 @@ A két sumér nevet, Gula 1-t és [[G/Gula#Gula 2)\|Gula]] 2-t úgy lehet közö
 
 #### Jeremy Black és Anthony Green Gods, Demons and Symbols in Ancient Mesopotamia...
 
-...című könyvükből:  
+...című könyvükben írják:  
 ![assets/GulaOne_image1.png|invert_dark](/img/user/G/assets/GulaOne_image1.png)  
 > The goddess Gula ~~(whose name means 'great')~~ was a healing goddess, who 'understands disease,' and a patroness of doctors. She was also worshipped under the names Nintinuga, Ninkarrak and Meme, originally the names of other goddesses; and as Ninisina, 'Lady of Isin'. Her principal shrine was the E-gal-mah at Isin, but she also had temples at Nippur, Borsippa and Aššur. She was regarded as the wife of [[N/Ninurta\|Ninurta]] or [[P/Pabilsag\|Pabilsag]][^1], or else of the minor vegetation god [[A/Abu\|Abu]]. Gula was the mother of the healing god **Damu**, and of the god Ninazu (also associated with healing). **Her sacred animal was the dog**, and small model dogs were dedicated to her by worshippers.  
 > —  
@@ -20,7 +20,7 @@ A [[D/Dumu\|Dumu]] névvel azonos Damu-hoz hasonló [[D/Danu\|Danu]] neve.
 
 Huszárik László Enkidu a Kentaur – a csillagképek nevének eredete című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXVIII./2. sz. megjelent cikkében Gula neve mellé zárójelben UZ nevet ír, és ezt a cikk végén a táblázatban megismétli; ezek szerint csillagképpel való azonosításról van szó és mivel fordításban `UZ` = Kecske szerepel (a mai Lant csillagképre vagy annak helyére vonatkoztatva), nyilván kiinduló az [[O/Őz\|őz]] szavunk (tehát nem a sumér [[U/Us#US 2)\|us]] = halál fogalmát kell keresni).  
 
-JB és AG szerzők szintén az említett könyvükben 'dog' címnél többször említik:  
+Jeremy Black és Anthony Green szerzők szintén az említett könyvükben 'dog' címnél többször említik:  
 > The sitting dog first occurs as a divine symbol in the Old Babylonian Period and continues through to the Neo-Babylonian. Inscriptions on [[K/Kudurru\|kudurru]]s identify it as the symbol of Gula, goddess of healing.  
 > An Old Babylonian dog figurine from Girsu (modern Tello) is dedicated (see dedication) to Ninisina (Gula) and many dog figurines were discovered in the temple of Gula at Isin, confirming that the association dates back to that time. That it continued down to the Neo-Babylonian Period is shown by another figurine from Sippar dedicated to Meme (another name for Gula), while King Nebuchadnezzar II (reigned 604-562BC) records the placing of statuettes of gold, silver and bronze dogs as deposits in the gates of Gula's temple at Babylon. A dog is commonly seen on seal designs of this period, sometimes sitting by an enthroned goddess, presumably Gula, but also sometimes without the goddess, sitting and supporting the symbol of the crook.  
 > —  
@@ -63,7 +63,7 @@ Korábban még itt szereplő kiegészítő infók:
 
 > [[G/Gulya\|Gulya]] szavunk a szarvasmarha csordáját jelenti. A Csorda a csordogáló, sorban járó (sorda) tehenek csapata, reggel sorban, folyamatosan, folydogálva mennek a mezőre, este pontosan így térnek haza az istállóba. A Csorda jelentésének megértése segít a Gu-Lya megértésében. A Gu szarvasmarha, a Lya (Ja) Folyó, folydogáló szarvasmarha csapat.  
 > Gólya szavunk szintén a Gu-Lya fogalmával lehet rokon, de a Gu Gó alakra módosult, jelentése pedig Nyak. A gólyának hosszú nyaka van, hosszú lábával a vízben ácsorog, amikor vadászik. Így a Nyak a Vízben fogalom adhatja vissza a legjobban gólya szavunk jelentését. Gó Nyak, Lya Víz.
-- Péterfai Jánosnál is Gu-La, Gyula nevek a Főség Helye értelemmel állnak.  
+- Péterfai Jánosnál is Gu-La, Gyula nevek a Főség Helye értelemmel állnak.
 
 Mivel kutyával ábrázolt, [[K/Kutya\|kutya]] címnél is szerepeltek ezen infók.  
 
@@ -143,7 +143,6 @@ Nos, [[T/Tejút#Nagy Éves szempontból a Tejút (Világfa) melyik asztrológiai
 #### Gavin White Babylonian Star Lore...
 
 ...című könyvében ír róla:  
-
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/s/suhurmasku/#d1gisc" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
