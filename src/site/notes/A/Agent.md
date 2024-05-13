@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Agent/","title":"Agent","tags":["containstransclusions"],"created":"2024-04-20T11:43","updated":"2024-04-22T18:32:00"}
+{"dg-publish":true,"permalink":"/A/Agent/","title":"Agent","tags":["containstransclusions"],"created":"2024-04-20T11:43","updated":"2024-05-13T18:06"}
 ---
 
 
@@ -12,7 +12,7 @@ Ott a szintén kún szócsoportbeli [[E/Ék\|ék]] (eke) és [[E/Ég\|ég]] szav
 A kiinduló szavunk lehet – konkrétan, ebben a formában – az [[A/Agancs\|agancs]] és a vele azonos [[A/Ág\|ág]], [[A/Aga\|aga]] (Tomory Zsuzsa adata szerint a földművelő magyar első kapája, mely szarvasagancsból, vagy faágból készült, de itt az [[A/Aga#Aga 2)\|aga]] értelem lényeges).  
 Az ág a Csodaszarvas agancsa, azé a csillagos eget szimbolizáló állaté, mely ágensként (ágasként) vezette [[H/Hunor és Magor\|Hunor és Magor]]t, vagy, megfordítva, Hunort és Magort ágensként kezelve azok hajtották, űzték amazt.  
 Így alakult ki a görög és a latin ige, a magyar eredetmonda nyomán? Ezt kell gondolni ebben az esetben és másutt is: számos helyen láttuk már, hogy ősvallásunk egyes képzetei, nevei új szavakat képeztek az utódnyelvekben, ahogy például akár [[A/Ardent\|ardent]] ([[A/Árgyilus\|Árgyilus]]) szó esetében is.  
-A [[D/Demagogue\|demagogue]] és [[P/Pedagogue\|pedagogue]] görög eredetű szavak `agōgos` = vezető szava így Ág-Óg-Osz formára bontva azt jelenti, Ág(as)/Ák(os)-Csillaga. Péterfai János adata szerint az Og = Óriás, így utalhat az [[O/Orion csillagkép\|Orion csillagkép]]re is, amelyet valóban Richard Hinckley Allen Star Names című művének adata alapján a csillagképek vezetőjének is tartottak.  
+A [[D/Demagogue\|demagogue]] és [[P/Pedagogue\|pedagogue]] görög eredetű szavak `agōgos` = vezető szava így Ág-Óg-Osz formára bontva azt jelenti, Ág(as)/Ák(os)-Csillaga. Péterfai János adata szerint az Og = Óriás, így utalhat az [[O/Orion\|Orion csillagkép]]re is, amelyet valóban Richard Hinckley Allen Star Names című művének adata alapján a csillagképek vezetőjének is tartottak.  
 Hogy a valódi ágens kozmikus értelemben lehet a [[K/Kinetic\|kinetic]] szónál felvetett sárkan Szíriusz vagy Nimród/Vadász/Orion (esetleg egy ott lévő fekete lyuk?), erről lásd bővebben [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]].  
 És ha már kutyákról van szó, tudjuk, hogy a kutyák [[P/Psychopomp\|lélekvezető]]k voltak; ezek alapján a keresett szó az [[A/Agár\|agár]] ag- gyöke lehet.  
 Egyébiránt a finn nyelvben is megvan a szóalak (sőt, szarvas kontextusban is használt): finn `aja-` 'hajt, vezet' (> fi. `ajokas` 'igavonó, szánhúzó rén').  
