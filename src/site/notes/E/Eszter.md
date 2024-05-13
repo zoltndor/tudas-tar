@@ -1,7 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/E/Eszter/","title":"Eszter","tags":["Englishtexttranslated"],"created":"2023-10-22T02:45","updated":"2024-04-10T02:39"}
+title: Eszter
+foreignTitle: false
+aliases: []
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg-created: 2023-10-22T02:45
+dg-updated: 2024-05-13T03:04
+dg_upload: VNC done
+dateCreated: 2022-12-14
+dateModified: 2024-05-13T03:04
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/E/Eszter.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/E/Eszter.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/E/Eszter.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/E/Eszter.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/E/Eszter.md
+danglinglink_commentedout: true
 ---
-
 
 # Eszter
 
@@ -25,7 +43,7 @@ Eszter [[I/Istár\|Istár]]ral való azonosításáról volt szó Zajti Ferenc Z
 Kezdjük azzal, hogy eszterga (ómagyar \*esztergar?) (mellyel CzF adata szerint rokonnak látszik a hellen `astragaloV` is, mely a többek közt nyakgerincz jelentéssel bír; egyébiránt megegyezik vele a szláv `sztrug`) forog, ahogy az angol `turner` = esztergályos névben is a [[T/Turn\|turn]] = forog szó szerepel (az eszterga neve `lathe`).  
 A (néggyel és csavarással is kapcsolatba hozott, [[S/Star\|star]]-ral is szinte azonos [[C/CSÁR\|CSÁR]] címnél is taglalt görög `sztaurósz` = áldozati karó, kereszt szóval azonosítható) [[O/Ösztörű\|ösztörű]] szónál szerepelt biz. Szabó D. adata, miszerint eredeti értelme szerint (többek közt) **ágas-bogas fa**, mely ha Tejútfa és ha [[E/Esztergom\|Esztergom]] nevének előrésze, az [[I/Iszter\|Iszter]] folyó a Tejúttal azonosíttatik és mivel a Tejútról tudjuk, hogy csűrődik-csavaródik, tekeredik, forog (napi, kis éves és Nagy Éves viszonylatban is), akkor okszerű kell legyen a kisbetűs esztert is az égre helyezni, továbbá az [[E/Eszterha\|eszterhaj]] (a házfödélnek azon alsó része, mely a falon kivül kinyúlik, s a lefolyó vizet a faltól elveti) szót is ide sorolni, tudni illik minden építmény és szerszám nevének eredete [[S/Szakrális geometria\|szakrális geometrikus]] és a leleményes első néphez kötendő, mintsem az átvevő szláv és latin nyelvekből szabadna magyarázható.  
 
-CzK írja alant említett cikkében az Eszter név kapcsán, hogy a 'csillag' jelentés úgy rokonítható vele, hogy a csillagot sokágú fényes [[K/Kereszt\|kereszt]]nek fogjuk fel. Lejjebb ismét: 'csillag' jelentése a fényelágazásokon alapul. A csillag úgy néz ki, mintha sok keresztet tennénk egymásra.  
+Czeglédi K. írja alant említett cikkében az Eszter név kapcsán, hogy a 'csillag' jelentés úgy rokonítható vele, hogy a csillagot sokágú fényes [[K/Kereszt\|kereszt]]nek fogjuk fel. Lejjebb ismét: 'csillag' jelentése a fényelágazásokon alapul. A csillag úgy néz ki, mintha sok keresztet tennénk egymásra.  
 Ez [[O/Ösztörű\|ösztörű]] és `sztaurósz` témája kapcsán is érdekes, [[A/Anu\|Anu]] jele is ilyen, de a [[C/Csillag\|csillag]] címnél említett `cselovek` = ember sem más, mint Krisztus: keresztes, akinek a megváltását a judeo-keresztény teológia szerint Jézus végzi, de valójában mindenkinek Istennel saját kapcsolata lévén magának kell intéznie.  
 
 Az Eszter és [[E/Eszterha\|eszterhaj]] tehát asztrális elnevezések: minden építmény, kivált az ember háza (ház = világ = föld, ahogy a [[S/Szakrális geometria\|szakrális geometria]] címnél levő képen lásd ábrázolva).  
@@ -53,7 +71,7 @@ Egyéb adatok CzK-tól:
 > Szlovák `štúr` = (kárpáti) skorpió, `št'úrec` = fülbemászó, `štúrec` = szigony, valamint a [[S/Striga\|striga]] szóval hasonlítható szlovák `struga` = vízfolyás, patak, meder. [[S/Strike\|Strike]] is ilyen szó.  
 > Lásd még esztrangás kb. 'számadó juhász', sztrongás vö. 'bizonyos fajta pásztoradó', eszkotár 'számadó juhász, juhászgazda'.  
 
-CzK [[E/Eszterha\|eszterha]] címnél szereplő, az angol [[S/Straw\|straw]] szó (alakjának és) jelentésének megfelelő szóalak szlávból való, szalma jelentéssel meghatározott adatát (a [[M/Magyar mondókák\|magyar mondókák]] címnél más anyaggal jelentkező) ...
+Czeglédi K. [[E/Eszterha\|eszterha]] címnél szereplő, az angol [[S/Straw\|straw]] szó (alakjának és) jelentésének megfelelő szóalak szlávból való, szalma jelentéssel meghatározott adatát (a [[M/Magyar mondókák\|magyar mondókák]] címnél más anyaggal jelentkező) ...
 
 #### Antal Csaba Lánc, lánc, eszterlánc...
 
