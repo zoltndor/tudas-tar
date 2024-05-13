@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Varkocs/","title":"Varkocs","created":"2024-05-08T15:40","updated":"2024-05-08T15:40"}
+{"dg-publish":true,"permalink":"/V/Varkocs/","title":"Varkocs","created":"2024-05-08T15:40","updated":"2024-05-13T03:26"}
 ---
 
 
@@ -41,7 +41,7 @@ Legutóbb [[C/Cue\|cue]] szónál jött elő, hogy a 18. század közepén `cue`
 Mármost tudjuk, hogy a varkocs a [[K/Kutyafejű\|kutyafejű]] hunok hajviselete volt, ahogy a – neve is mutatja – konty is.  
 - Az kétségtelen, hogy felbontása Var-Kocs, Var-Kucs, azaz előtagja kell utaljon vagy [[V/Varr\|Varr]] szavunkra, arra, hogy a haj varrva, fonva van, illetve magára a hajra (var > angol [[H/Hair\|hair]], német `Haar` átmenet nem elképzelhetetlen, még akkor is, ha haj azonos hair-ral);  
 - A Várkunok nevére ([[A/Avar\|avar]]-hunok a [[V/Várhun\|várkun]]ok);  
-- [[V/Varázsló\|Varázsló]] szavunk előtagjára, mely, mint láttuk, sok minden lehet; [[B/BAR\|BAR]] etimonra, ragyogásra, mint [[V/Varnish\|varnish]] szóban.  
+- [[V/Varázsló\|Varázsló]] szavunk előtagjára, mely, mint láttuk, sok minden lehet; [[B/BAR\|BAR]] etimonra, ragyogásra, mint `varnish` szóban.  
 
 Utótagja Kocs, Kucs kell utaljon ezek szerint a farokszerű formájára. A kutyák farkáról [[C/Coda\|coda]] és [[Q/Queue\|queue]] szavaknál volt szó (utóbbi szóhoz köti a nyelvészet [[C/Cue\|cue]] szót is). [[C/Csóva\|Csóva]] szavunk is utal a kutya farkára, de ide nem felel meg.  
 Kocs, Kucs tehát nyilvánvalóan egyértelmű utalás a kutyára. [[K/Kutya és farka\|Kutya és farka]] címnél volt szó a kutyák farka kurtításának ősi gyakorlatáról. Mintha a levágott kutya farka került volna az ember fejére.  
@@ -77,5 +77,5 @@ Tóth Gyula Maghreb blogján is taglalja a témát Hosszú hajú Merovingok feje
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-A vogul eredetmonda [[N/Numi Tórem\|Numi Tórem]]jének fiára gondol, akinek szintén hét hajfonatos isteni alak volt? Lásd Kandra Kabos Magyar Mythologia című könyvéből készült PDF 24. oldalát (GoodReader számozást kövesd mindig).  
+A vogul eredetmonda [[N/Numi Tórem\|Numi Tórem]]jének fiára gondol, akinek szintén hét hajfonatos isteni alak volt? Lásd Kandra Kabos Magyar Mythologia című könyvében.  
 [[S/Sárkány#Hétfejű sárkány\|Hétfejű sárkány]] cím/alcímhez is betettük az adatokat.  
