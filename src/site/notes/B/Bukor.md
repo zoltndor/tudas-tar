@@ -1,7 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bukor/","title":"Bukor","created":"2024-04-21T13:26","updated":"2024-04-26T23:55"}
+title: Bukor
+foreignTitle: false
+aliases:
+  - bukor
+status: dg_uploaded
+tags: 
+share: true
+dg-publish: true
+dg-created: 2024-04-21T13:26
+dg-updated: 2024-05-13T03:04
+dg_upload: VNC done
+dateCreated: 2022-12-14
+dateModified: 2024-05-13T03:04
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/B/Bukor.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/B/Bukor.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/B/Bukor.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/B/Bukor.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/B/Bukor.md
+danglinglink_commentedout: true
 ---
-
 
 # Bukor
 
@@ -38,11 +56,11 @@ Lásd még [[C/Csokor\|csokor]]. [[U/Ugor\|Ugor]], [[A/Akar\|akar]], [[A/Agár\|
 > `mogyr` 'törzs (testé)'.
 
 (Ezen utóbbi cseremisz-mari `mogyr` = törzs szó látszik eredetéül szolgálni a [[M/Magor\|Magor]] és [[F/Fa\|fa]] címnél említett japán `moku` = fa szónak[^1] is. (Betéve oda is.))  
-A csuvas és más nyelvekben b-előhangosan vannak meg hasonló jelentésben a szavak, ezért gyanakodni kell, hogy a bukor vagy akár a [[B/Bow\|bow]] szó eredetét adó Bog-Úr lenne itt a kiinduló, nem a Magyar fogalom (úgy mint istenanya) (CzK [[M/Magyar\|magyar]] címnél álló adatait adom):  
+A csuvas és más nyelvekben b-előhangosan vannak meg hasonló jelentésben a szavak, ezért gyanakodni kell, hogy a bukor vagy akár a [[B/Bow\|bow]] szó eredetét adó Bog-Úr lenne itt a kiinduló, nem a Magyar fogalom (úgy mint istenanya) (Czeglédi K. [[M/Magyar\|magyar]] címnél álló adatait adom):  
 > Csagataj nyelven `bukri`, `mukri keše` 'görbe ember'; üzb. `bukur`, kirg. `bükür`, türkm., kazak `bükir`, ... tat. `bökere` 'dudor, bütyök, gumó, mag, toboz, ág' .  
 - Ez utóbbi [[B/BOG\|BOG]] címhez is tehető lenne; [[B/Bow\|bow]] címnél pedig a török `bükmek` szó szerepelt.
 
-Ahogy [[K/Khamor\|Khamor]] és [[H/Hungár\|hungár]] címnél is megjegyeztem, ezen CzK által bemutatott komi, mari és csagatáj szavak a "görbe emberre/(ember)alakra" utalóak, melyek tkp. Íjas Emberre (csillagképre) érthetők is lehetnek. Azaz megint csak csillagképekről van szó. Azaz a [[S/Sacchar-\|sacchar-]] címnél a Szag-Úr/Szek-Ér/stb. Nap-Úr értelmű kifejezésekhez hasonlóan a Bog-Úr/Buk-Or is olyan napnevek, melyek leginkább a Nap egyes fordulópontjaihoz (téli és nyári napforduló) és az azon helyeken található Íjazó/Nyilazó (Nyilas) csillagképek neveire utaló elnevezések lehetnek. Röviden: Bukor és Magor a téli, Khamor és társai a nyári napfordulós csillagképek nevei lennének, de Hunor és Magor arkadash-os íjazóira (és Osiris és Set-re és más ikeristenségekre) gondolva a nyilazó nevek Orionra is utalhatnak úgy, hogy Magor/Bogur/Bukor az egyik oldali, Hunor-Khamor a másik.  
+Ahogy [[K/Khamor\|Khamor]] és [[H/Hungár\|hungár]] címnél is megjegyeztem, ezen Czeglédi K. által bemutatott komi, mari és csagatáj szavak a "görbe emberre/(ember)alakra" utalóak, melyek tkp. Íjas Emberre (csillagképre) érthetők is lehetnek. Azaz megint csak csillagképekről van szó. Azaz a [[S/Sacchar-\|sacchar-]] címnél a Szag-Úr/Szek-Ér/stb. Nap-Úr értelmű kifejezésekhez hasonlóan a Bog-Úr/Buk-Or is olyan napnevek, melyek leginkább a Nap egyes fordulópontjaihoz (téli és nyári napforduló) és az azon helyeken található Íjazó/Nyilazó (Nyilas) csillagképek neveire utaló elnevezések lehetnek. Röviden: Bukor és Magor a téli, Khamor és társai a nyári napfordulós csillagképek nevei lennének, de Hunor és Magor arkadash-os íjazóira (és Osiris és Set-re és más ikeristenségekre) gondolva a nyilazó nevek Orionra is utalhatnak úgy, hogy Magor/Bogur/Bukor az egyik oldali, Hunor-Khamor a másik.  
 Úgy is lehetne gondolkodni, hogy a [[L/Lemniszkáta\|lemniszkáta]] domború bal oldala Magor/Bukor/Bog-Úr, jobb oldala [[K/Khamor\|Khamor]], homorú.  
 
 ## Lábjegyzetek
