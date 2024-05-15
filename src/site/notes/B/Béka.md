@@ -1,26 +1,7 @@
 ---
-title: Béka
-foreignTitle: false
-aliases:
-  - béka
-  - béká
-status: dg_uploaded
-tags: 
-share: true
-dg-publish: true
-dg-created: 2024-04-21T14:29
-dg-updated: 2024-04-24T01:18
-dg_upload: VNC done
-dateCreated: 2022-12-14
-dateModified: 2024-04-24T01:18
-ghrepoURL:
-  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/B/B%C3%A9ka.md
-  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/B/B%C3%A9ka.md
-  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/B/B%C3%A9ka.md
-  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/B/B%C3%A9ka.md
-  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/B/B%C3%A9ka.md
-danglinglink_commentedout: true
+{"dg-publish":true,"permalink":"/B/Béka/","title":"Béka","created":"2024-04-21T14:29","updated":"2024-05-16T01:57"}
 ---
+
 
 # Béka
 
@@ -50,7 +31,7 @@ A béka jelképiségéről írja Jankovics Marcell:
 ![assets/Béka_image1.png|invert_dark](/img/user/B/assets/B%C3%A9ka_image1.png)  
 A béka jelképről lásd még Magyar Adorján írását [[F/Frog\|frog]]. Ott arról volt szó, hogy a béka ősidők óta méh- és vulva-jelkép is. A béka méhhel való hasonlóságáról [[H/Hysteria\|hysteria]] címnél is volt szó, ahol e kép szintén szerepelt.  
 [[M/Mádra\|Mádra]] címnél is arról volt szó, hogy a népi elképzelés szerint pókhoz, békához hasonló statikai-energetikai központ van a hasban.  
-A négylábú Tejútanya-állatalak ([[P/Párduc\|párduc]], [[G/Gepárd\|gepárd]]) pettyeiről lásd Magyar Adorján írását [[G/Gepárd\|gepárd]]. Ott is szóba került az anyaméh-jelképállat béka, melynek szintén van pettyes faja ([[R/Rana\|rana]] béka). De ha már a pettyekről, cseppekről van szó, a [[K/Kutya\|kutya]] kapcsán is taglalt latin `gutta` = csepp is érdekes (egy óörmény `kat'n` = tej szó lett megjelölve a latin `gutta` = csepp eredetére megjelölve). De mi van, ha csepp ott is, a latinban petty, folt, azaz csillag értelmű? (Amelyből hitték az eső esését is, mely ugye megtermékenyítő hatású (és az időjós békák is hogy izgalomba jönnek előtte).) (A [[K/Kutya\|kutya]] is csillag, Kutyacsillag értelmű, egy csepp a Tejút-Tejtengerből/folyamból, épp mellette. Ezen ideákról legutóbb [[F/Folt\|folt]] címnél is volt szó.)  
+A négylábú Tejútanya-állatalak ([[P/Párduc\|párduc]], [[G/Gepárd\|gepárd]]) pettyeiről lásd Magyar Adorján írását [[G/Gepárd\|gepárd]]. Ott is szóba került az anyaméh-jelképállat béka, melynek szintén van pettyes faja (rana béka). De ha már a pettyekről, cseppekről van szó, a [[K/Kutya\|kutya]] kapcsán is taglalt latin `gutta` = csepp is érdekes (egy óörmény `kat'n` = tej szó lett megjelölve a latin `gutta` = csepp eredetére megjelölve). De mi van, ha csepp ott is, a latinban petty, folt, azaz csillag értelmű? (Amelyből hitték az eső esését is, mely ugye megtermékenyítő hatású (és az időjós békák is hogy izgalomba jönnek előtte).) (A [[K/Kutya\|kutya]] is csillag, Kutyacsillag értelmű, egy csepp a Tejút-Tejtengerből/folyamból, épp mellette. Ezen ideákról legutóbb [[F/Folt\|folt]] címnél is volt szó.)  
 ![assets/Béka_image2.png|invert_dark](/img/user/B/assets/B%C3%A9ka_image2.png)  
 
 #### Magyar Adorján...
