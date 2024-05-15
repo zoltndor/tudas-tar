@@ -1,7 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2024-04-05T19:45"}
+title: Széth
+foreignTitle: false
+aliases:
+  - Szeth
+  - Set
+  - Seth
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg-created: 2023-10-16T01:30
+dg-updated: 2024-05-16T00:47
+dg_upload: VNC done
+dateCreated: 2023-04-17
+dateModified: 2024-05-16T00:47
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/S/Sz%C3%A9th.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/S/Sz%C3%A9th.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/S/Sz%C3%A9th.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/S/Sz%C3%A9th.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/S/Sz%C3%A9th.md
 ---
-
 
 # Széth
 
@@ -230,14 +250,14 @@ Legutóbb [[T/Typhon\|Typhon]] címnél is szerepelt...
 ...című könyvének Ursa Maior-nál szereplő adata (hasonlókról szó esett [[C/Cynosure\|Cynosure]] címnél is és betehető [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címhez is):  
 > Hewitt writes of Set in his earliest form as [[H/Hapi\|Kapi]], the Ape-God, stars of our [[C/Cepheus\|Cepheus]] marking his head; while at one time on the Nile the [[W/Wain\|Wain]] stars seem to have been **the Dog of Set or of Typhon**. This may have given rise to the title Canis Venatica that La Lande cited, if this be not more correctly considered as the classic Kallisto's hound; and the same idea appears in the **Catuli**, Lap-dogs, and Canes Laconicae, the Spartan Dogs, that Caesius cited for both of the Wains.  
 > —  
-> Hewitt azt írja, hogy Set a legkorábbi formájában [[H/Hapi\|Kapi]] (helyesen [[H/Hapi\|Hapi]]), a Majomisten, a mi [[C/Cepheus\|Cepheus]]-unk csillagai jelölik a fejét; míg egykor a Níluson a [[W/Wain\|Wain]] \[Göncöl\] csillagok úgy tűnik, hogy **Set vagy Typhon Kutyája** voltak. Ebből adódhatott a La Lande által idézett Canis Venatica elnevezés, ha ezt nem tekintjük helyesebben a klasszikus Kallisto kutyájának; és ugyanez a gondolat jelenik meg a Catuli, ölbeli kutyák és a Canes Laconicae, a spártai kutyák elnevezésében, amelyet Caesius mindkét Wain (Szekér csillagzat) esetében idézett.  { #qz3nuv}
-
+> Hewitt azt írja, hogy Set a legkorábbi formájában [[H/Hapi\|Kapi]] (helyesen [[H/Hapi\|Hapi]]), a Majomisten, a mi [[C/Cepheus\|Cepheus]]-unk csillagai jelölik a fejét; míg egykor a Níluson a [[W/Wain\|Wain]] \[Göncöl\] csillagok úgy tűnik, hogy **Set vagy Typhon Kutyája** voltak. Ebből adódhatott a La Lande által idézett Canis Venatica elnevezés, ha ezt nem tekintjük helyesebben a klasszikus Kallisto kutyájának; és ugyanez a gondolat jelenik meg a Catuli, ölbeli kutyák és a Canes Laconicae, a spártai kutyák elnevezésében, amelyet Caesius mindkét Wain (Szekér csillagzat) esetében idézett.  
+^qz3nuv
 
 Majd lábjegyzetben:  
 > Set, also Anubis, Apap, Apepi, Bes, Tebha, Temha, and Typhoeus according to Plutarch, was one of Egypt's greatest gods, who subsequently became the Greek giant Typhon, father of the fierce winds, but slain by Zeus with a thunderbolt and buried under Mount Aetna.  
 > —  
-> Set, Plutarkhosz szerint Anubisz, Apap, Apepi, Bes, Tebha, Temha és Typhoeus is, Egyiptom egyik legnagyobb istene volt, aki később a görög óriás Typhon, a heves szelek atyja lett, de Zeusz villámcsapással megölte és eltemette az Etna hegy alatt.  { #itc5r4}
-
+> Set, Plutarkhosz szerint Anubisz, Apap, Apepi, Bes, Tebha, Temha és Typhoeus is, Egyiptom egyik legnagyobb istene volt, aki később a görög óriás Typhon, a heves szelek atyja lett, de Zeusz villámcsapással megölte és eltemette az Etna hegy alatt.  
+^itc5r4
 
 Tüphon is tehát arra a sorsra jutott, mint minden régen tisztelt nagy Isten. A fény-árnyék változások során a korábbi istenek befeketülnek a papság és a nép szemében: démonizálva lesznek. Lásd mi történt Bál-lal és a [[D/Dévák és Aszúrák\|dévák és aszúrák]] is megérnek egy misét. Minderről szóltunk [[M/Magyarellenesség\|magyarellenesség]] címnél is: hogy feledte el a világ Szíriusz és a hun-magyarság jótéteményeit.  
 
@@ -316,7 +336,7 @@ A babiloni és egyiptomi mítoszaikban észrevehetők hasonlóságok, Istár sir
 [^3]: Lábjegyzet:  
 Egyptologist Ken Moss has suggested the Set animal is in fact the Saluki, as it is one of the oldest breeds of domesticated dog, has a curved snout and nearly identical body, and is native to the region. Further, when the Saluki runs, its ears and tail become vertical, and cropped ears are a common and historic practice performed on hunting dogs throughout the Levant. The Saluki is further depicted in hieroglyphs without a connection to Set, suggesting its commonplace nature among ancient Egyptian people.  
 —  
-Ken Moss egyiptológus szerint a Set állat valójában a szaluki, mivel ez az egyik legrégebbi háziasított kutyafajta, görbe orrú és közel azonos testű, és a régióban őshonos. Továbbá, amikor a szaluki fut, a füle és a farka függőlegesen áll, és a fül levágása gyakori és történelmi gyakorlat volt a vadászkutyáknál az egész Levantban. A szaluki továbbá a hieroglifákon Set-tel való kapcsolat nélkül szerepel, ami arra utal, hogy az ókori egyiptomiak körében mindennapos volt.  
+Ken Moss egyiptológus szerint a Set állat valójában a szaluki, mivel ez az egyik legrégebbi háziasított kutyafajta, görbe orral és közel azonos testalkattal rendelkezik, és a régióban őshonos. Továbbá, amikor a szaluki fut, a füle és a farka függőlegesen áll, és a fül levágása gyakori és történelmi gyakorlat volt a vadászkutyáknál az egész Levant területén. A szalukit a hieroglifák is ábrázolják Set-tel való kapcsolat nélkül, ami arra utal, hogy az ókori egyiptomiak körében mindennapos volt.  
 
 [^4]: Lábjegyzet:  
 Márpedig minden, ami felfelé irányuló, törő, ék- és hegy(es) alakú, az a kúnok/hunok leszármazási helyére utalhat. Ér szavunk igeként magasságra, távolságra, célba érésre utal, de még fontosabb, hogy ered szavunk törzsöke er-. Márpedig a származás/eredet az egyik legfontosabb az emberi nemmel kapcsolatosan.  
@@ -335,7 +355,7 @@ A Wikipédiáról hasonló info (sokatmondó az onager név, mert kulan rokona):
 The god Set was usually depicted as a man with a head resembling that of the **sha**, usually with a long, slightly curved nose, and erect ears, squared at the tops. Occasionally he was represented in animal form as the sha itself, although he was also depicted in the form of an onager or as a black pig.  
 —  
 Set istent általában férfiként ábrázolták, akinek a feje a **sha** fejére hasonlított, általában hosszú, enyhén ívelt orral és felálló, a tetején szögletes fülekkel. Alkalmanként állati alakban ábrázolták, mint magát a sha-t, bár ábrázolták onager vagy fekete disznó alakjában is.  
-—  
+——  
 Huszárik László Denderai csillagképek, hónapok és mítoszok című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXIII./10. sz. megjelent cikkében némileg váratlanul közli, hogy az antilop Széth egyik állati megtestesülése:  
 Hóruszt az ábrázolások gyakran mutatják a kártékony állatok legyőzőjeként, skorpió is megmarta, Thot mentette meg. A legyőzött állatok gyakran Széth megjelenések, ostobának \[mint a szamár\] tartott állatok, mint a krokodil, víziló és antilop.  
 Később írja, hogy a disznó szintén "Széth állat," amelytől az istenek undorodtak.  

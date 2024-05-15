@@ -1,7 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/D/Dialektikus ellentét/","title":"Dialektikus ellentét","created":"2023-10-06T12:03","updated":"2024-02-28T17:38"}
+title: Dialektikus ellentét
+foreignTitle: false
+aliases:
+  - dialektikus ellentét
+status: dg_uploaded
+tags: []
+share: true
+dg-publish: true
+dg-created: 2023-10-06T12:03
+dg-updated: 2024-05-16T00:40
+dg_upload: VNC done
+dateCreated: 2022-12-14T00:00
+dateModified: 2024-05-16T00:40
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/D/Dialektikus%20ellent%C3%A9t.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/D/Dialektikus%20ellent%C3%A9t.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/D/Dialektikus%20ellent%C3%A9t.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/D/Dialektikus%20ellent%C3%A9t.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/D/Dialektikus%20ellent%C3%A9t.md
 ---
-
 
 # Dialektikus ellentét
 
@@ -62,7 +79,7 @@ Bakos Attila A Duna Evangéliuma című könyvének 451. oldala alján a saját 
 
 Az [alábbi](https://youtu.be/cprybNjaxnQ) VNTV beszélgetésben Tóth Zoltán és Jakab István boncolgatja a fenttebb még nem említett másik ellentétpárt: **hős kontra áldozat**.  
 Ezek nem is annyira ellentétek, hiszen a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] címnél is taglalt Gesztesi féle sorok alapján is kiderül, hogy éppen a naphős kerül áldozati szerepkörbe.  
-Amit TZ nem mond ki, hogy – máshonnan nézve – itt is a hím és nő elv ellentétét látjuk. TZ szerint az lenne ideális, hogy ha a két típus egybe lenne olvasztva. A hős erényei: van célja, állhatatos, erős, fókuszált. Az áldozatnak is vannak előnyei: érzelmi intelligencia, azaz tud kommunikálni (meggyőzni érzelmi szinten másokat), hangolódni, kedves lenni, alkalmazkodni, a részleteket meglátni, amelyeken a hős átsiklik.  
+Amit Tóth nem mond ki, hogy – máshonnan nézve – itt is a hím és nő elv ellentétét látjuk. Szerinte az lenne ideális, hogy ha a két típus egybe lenne olvasztva. A hős erényei: van célja, állhatatos, erős, fókuszált. Az áldozatnak is vannak előnyei: érzelmi intelligencia, azaz tud kommunikálni (meggyőzni érzelmi szinten másokat), hangolódni, kedves lenni, alkalmazkodni, a részleteket meglátni, amelyeken a hős átsiklik.  
 Minden visszavezethető ellentétpárokra, ahol a nő elv ellentéte a hím elv. Anima versus animus, lélek szintjén. A szerepek kiosztása szerint, a hős a hím, az áldozat a nő, kimondottan a napvallások térhódítása és félreértelmezése nyomán: a felfogásuk szerint a hím elv a jó, mert az képviseli a fényt, míg a nőiséghez kapcsolt sötétség bizalmatlanságot szül (mondhatjuk úgy is, ha lemegy a Nap, az rossz; de a hős is kicsoda: a Nap, a hős = heves). A modern egyházak erősen a hím elvre építenek, míg korábban istenanya kultusz volt. Az agresszió és a hím elv dominanciája és a ma kialakult világkép mögött valóban a félelem áll. Eredetileg a korszakváltozásoktól féltek, mindent az asztrológia (régen nem különült el az asztronómiától sem) határozott meg, hisz az évkör adta a keretrendszert. Ma nincs megfelelő keretrendszer (az időnket a televízió és a felesleges vagy akár káros termékeket gyártó cégek és az ottani főnökök osztják be), mert a vallás feladata lenne, de azt az uzsorások kisajátították (ők generálják a félelmet is: háborúk, genocídumok). Muszáj lenne minél több helyen kimondani az igazságot, szépen egybe rakva és muszáj lenne minél hamarabb Magyarországon (mely több vallási vezető szerint is a változás elindítója lesz) egy olyan papi rendet létrehozni, olyan vezetővel, aki ismeri áldozat- és megváltó szerepét. Az emberek követnék a jót, de ma nagyon kevés a jó példa/vezető. A népirtásra visszatérve, Magyarországon is zajlik, csak nincs szükségállapot kihirdetve; az uzsorások (más zs-betűs szót is mondhatnék) kezében lévő médiában nem számolnak be erről. A média célja ugyanis nem a tájékoztatás, hanem a félretájékoztatás, más szóval a manipuláció (az oktatás ugyanígy működik). A média idióta potenciális fogyasztó és szavazó, aki mindig rosszul fog dönteni, mindig sarokba lesz szorítva. A sarokba szorított ember nem tud proaktívan élni, döntést hozni, érzelmileg stabil alapon állni. Nem a TV-t, hanem a neten az ÁKTV-t kellene nézni a magyar embernek. A lépcsőházban meg a munkahelyeken pedig nem a felesleges felszínes beszélgetéseket, hanem a nemzetünk és egyéni létünk sorsát érintő kérdéseket kellene lefolytatni illetve boncolgatni.  
 
 Dialektikus ellentétet képez az [[O/Ószövetség\|Ószövetség]] és az Újszövetség eszmerendszere. Mégis sikerült összemosni.  
@@ -85,7 +102,7 @@ Másutt írja:
 #### Péterfai János írja:
 
 > A dialektikus ellentét fogalma nagyon ősi, a magyar nyelvet teljesen áthatja. Úgy tűnik, hogy a magyar nyelvből eredő filozófiai áramlat hozta létre, még abban a korban, amikor indoeurópaiak és afroázsiaiak még nem léteztek. A dialektikus ellentét egy szónak két ellentétes jelentést biztosít. Ennek a kornak meghatározása még várat magára. A Szeg lehet Kiemelkedő, Kiszögellő, de lehet Alászegettség, Szegény is.  
-- Az STN msh-váz lehet [[I/Isten\|Isten]] és [[S/Sátán\|Sátán]] is például.  
+- Az STN msh-váz lehet [[I/Isten\|Isten]] és [[S/Sátán\|Sátán]] is például.
 
 Péterfai János folytatja:  
 > An-U jelentése Égi-Magasságos, lehet válogatni az U jelentései között. Az U önálló szó, a magánhangzók családjába tartozik, változata az Ü és Ő. De Anu isten neve mindentől függetlenül, az Ég, An nevéből képződótt. **Dialektikus ellentéte** az An névnek az Ördög, amit [[H/HAN\|Han]], Hány alakban írunk. An az Ég, de változata az Ördög, sok név alatt. An ugyanis nálunk mindig Ég, ige és főnév, de éjjel fekete, nincs fenn a Napisten, illetve Napkirály. A fekete szín a végzet színe, az ördögök éjjel járnak elsősorban kísérteni. Ha Anu jellegtelen ősisten, aki már a szumerok korában is az idők homályába vész, akkor csakis magyar istenség lehet, mert mi írunk sok tízezer év óta, nem a szumirok. A Han, szinte teljesen biztos, az An szóból keletkezett, hasonlóan a Jan szócsoporthoz. A Han-Ság nagy mocsár, az ördög területe. Hany Istók nem más, mint Ördög Istók. Akit megszállt az ördög, azt Hánytatni kell, hogy kijöjjön belőle a rossz. Matematikában a Hány? kérdőszó az ördöghöz, a Mennyi? kérdőszó a Mennyhez (eredetileg Mén) tartozik. A hánykolódik, hányja-veti magát és egyéb szavaink a rossz állapotot írják le.  

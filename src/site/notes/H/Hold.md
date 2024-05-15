@@ -1,7 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hold/"}
+title: Hold
+foreignTitle: false
+aliases:
+  - hold
+status: dg_uploaded
+tags:
+  - titleandheadingonedontmatch
+  - multipleentries
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg-created: 2023-10-14T05:35
+dg-updated: 2024-05-16T00:41
+dg_upload: VNC done
+dateCreated: 2022-12-14
+dateModified: 2024-05-16T00:41
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/H/Hold.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/H/Hold.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/H/Hold.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/H/Hold.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/H/Hold.md
+danglinglink_commentedout: true
 ---
-
 
 # Hold 1)
 
@@ -24,7 +45,7 @@ Másutt bővebben kifejti Péterfai János a család fogalmát:
 > - Napfelkeltekor a fogyó Hold fel[[O/Old\|old]]ja alsóvilági fogságából a fény hordozóját, miközben feláldozza magát a Nap tüzében;  
 > A hal formájú égitest halálakor elődeink feltehetőleg [[H/Hála\|hálá]]ból (h)-[[A/Áld\|áld]]ozatot mutattak be;
 > - Naplementekor a fogyó Hold ki[[O/Olt\|olt]]ja társa tüzét.  
-- Hódol kimaradt tőle. Legutóbb pedig [[H/Hord\|hord]] szót is összevetettük a Hold névvel.  
+- Hódol kimaradt tőle. Legutóbb pedig [[H/Hord\|hord]] szót is összevetettük a Hold névvel.
 
 Molnár V. József Világ-Virág című könyvének 68-69. oldalán is keres szópárokat és érdekesmód mintha orosz nyelvet beszélő kutató is rájött volna a Hold – holt összefüggésre:  
 ![assets/Hold_image1.png|invert_dark](/img/user/H/assets/Hold_image1.png)  
@@ -46,7 +67,7 @@ Jankovics Marcell Ahol a madár se jár című könyvében ír arról, hogy a Ma
 
 A másik mellette szóló érv lehet a sumér \*kuda = kutya és főképpen a perzsa `khoda` (ejtsd: Khoda/[[K/Khuda\|Khuda]]) = isten szavakkal való egyeztethetősége. Ha nem fogadjuk el, hogy az angol [[G/God\|God]] és a perzsa `khoda` közvetlenül a kutya szavunkból ered, akkor eredhet **a kutya nevet is magába építeni látszó Hold** valamely olyan archaikus nevéből (Hóda), melyre talán épp DR enged rávilágítani. A kutya pedig Hold-állat (is), tehát az egyezőség ismét megvan: gyakorlatilag kimondható, hogy a perzsa istent jelentő szó bármelyik fogalomból eredhet.  
 (De Jankovics Marcell is azt írja, hogy az asztronómiai istenségek közül rendszerint az eget megszemélyesítő isten vagy a napisten a legrangosabb és legfeljebb a Hold (istene) előzi meg. Ahol az Ég az úr, ott a Nap rangban rögtön utána következik. Ezek alapján is lehet [[K/Khuda\|Khuda]] kutya/Holdisten.)  
-Mivel Jankovics Marcell is azt írja, hogy az asztronómiai istenségek közül rendszerint az eget megszemélyesítő isten vagy a Napisten a legrangosabb és legfeljebb a Hold (istene) előzi meg (megjegyzés: ahol az Ég az úr, ott a Nap rangban rögtön utána következik), nos, ezek alapján Khoda-God kutya/Holdisten kell legyen.  
+Mivel Jankovics is azt írja, hogy az asztronómiai istenségek közül rendszerint az eget megszemélyesítő isten vagy a Napisten a legrangosabb és legfeljebb a Hold (istene) előzi meg (megjegyzés: ahol az Ég az úr, ott a Nap rangban rögtön utána következik), nos, ezek alapján Khoda-God kutya/Holdisten kell legyen.  
 Különösen Varga Zsigmond Az ősmagyar mitológia című könyvének 347. oldalán álló adata tűnik mérvadónak, mely tisztázni is látszik a kérdést: a nyilván [[G/GUD\|GUD]] címnél taglalt sumér gyökre visszavezetett sumér `God` = ugyanis Hold jelentésű[^5] (hozza még a törökös **Aja** nevet is Hold jelentéssel, furcsamód sumérként; minden további égitest-elnevezést a sumérben és asszír-babiloniban lásd [[S/Sumér zodiákus\|sumér zodiákus]]).  
 Ami azt illeti, hogy a germán nyelvekben God Holdisten már csak azért is lehetne, mert a szintén hun-eredetű török és az egyéb iszlámot felvevő népeknél szintén [[H/Holdtisztelet\|holdtisztelet]] volt (a szemitáknál viszont naptisztelet). Sőt, a sumér(ban is valóban meglévő?) és régi(?) finn [[K/KUN\|KUN]] = Hold is erre utal (lásd erről [[S/Suomi\|Suomi]] című is írottakat). Apropó, kitől származik, hogy a sumér kun Hold jelentésű? Tóth Alfrédtől nem, mert nála a sumér `húl` = Hold. Akárhogy is, Varga Zsigmond éppen God alakúnak és nem Hud vagy Gud alakúnak írta le[^6], és Jankovics Marcell adatával egyeztetve talán véglegesen(?) kimondható, hogy a germán Gott-God Holdisten, nem Teremtő Isten, vagy viharisten/égisten. Ugyanakkor a hun-magyar [[G/Göd\|Göd]] nem Holdisten(nő), ez szinte bizonyos. Ahogy az is, hogy eredetileg a Holdisten Holdistennő. A Hold kontra Göd kérdés [[G/Göd\|Göd]] címnél is előjött:  
 A szír/arámi nyelvben[^7] `kūdā`, `kudtā` = új, frissen szülő anyuka neve (egyes nyelvekben megkülönböztetik[^8]), mely állítólag a `kūd`, `kūdā` = méhlepény szóból származna, de inkább fordított lehet a dolog.  
@@ -68,10 +89,10 @@ Ki kell azt is jelenteni, hogy a [[K/Kutya\|kutya]] (kuta) és Hold szavaink ugy
 A nagy istennő holdistennő aspektusáról a könyv 179. oldalától szól. [[V/Vénusz\|Vénusz]] címnél is szerepelt:  
 > A lakodalmi szertartás mindig az éjszaka sötétségéhez kötött volt. A szertartás mindig napszálltakor kezdődött és napfelkelte előtt végződött a menny és a föld, azaz az éj sötétségében.  
 > A lakodalmi szertartás egyetlen főszereplője a menyasszony, aki "szó szerint" az "éjszaka sötétségének királynője."  
-- Ezért is kötődik az [[E/Észak\|észak]]hoz.  
+- Ezért is kötődik az [[E/Észak\|észak]]hoz.
 
 > Mindez női szerepkörének és tulajdonságának lényegét fogalmazza meg. **A lakodalom kozmikus rítus, amelyben a leány Vénuszból Holddá, asszonnyá változik**, ami természetesen csak rejtetten és az éj sötétjében történhet.  
-- Folytatást lásd [[N/Nász\|nász]].  
+- Folytatást lásd [[N/Nász\|nász]].
 
 A Hold – Hölgy kontra [[M/Mén\|mén]] = Holdisten összefüggések rámutathatnak ara, hogy a Hold hímséginek való kezelése későbbi (így a germán és arab is későbbi népek mint a magyar).  
 
@@ -95,7 +116,7 @@ A Hold – Hölgy kontra [[M/Mén\|mén]] = Holdisten összefüggések rámutath
 > A Hold "homeopátiás" hatását az ember közérzet- és egészségi állapotváltozásban is megtapasztalja: fokozódó álmatlanság, gyulladásos, daganatos betegségek mintha a a Hold "dagadásához" igazodnának, s a Hold apadását, dagadását követi sok ember belső vízháztartása.  
 > A Hold szent száma a 3, és annak többszörösei. A csillaghitben 6, a mitologikus időszámításban 9, 27, 45. Például 9 hónap a terhesség ideje, 27 nap a sziderikus holdhónap hossza, 45 nap luniszoláris naptári egység; 3 fejű Hekaté, 9 Apollón holdpapnőinek, a múzsáknak a száma, Csandrának, a holdistennek 27 felesége, "holdháza" van ([[N/Nakshatra\|nakshatra]]).  
 > A Hold féme az [[E/Ezüst\|ezüst]], szent fája a boszorkányok és a temetők fája, a szomorúfűz. Napja már Mezopotámiában is a hétfő volt (latin **dies Lunae**, francia **lundi**, német **Montag**), Mivel a bibliai teremtéstörténet a babiloni naptárt követi, Isten a második napon (hétfőn) a Hold természetéhez illően a vizek szétválasztásával foglalatoskodott. A Hold a mesékben is megjelenik. Azokban a hősmesékben, amelyek nem a görög-római regék vonalát követik, a Hold a Nap ikerfivére, bajtársa (Hold vitéz) vagy táltosparipája (Holdrőt paripa). Szerepköre szerint a hős segítője. Útjában vezeti (a hátán hordozza), együtt harcol vele. Az ő feladata a visszanyert hősnőt ártó bűbájától, a "rossz vértől" megtisztítani, lányságától megfosztani (a szűzhártyával és a mensesszel kapcsolatos kasztrációs félelmek és tabuk az őstársadalmak szerelmi életének fontos szabályzói voltak). A Nap-Hold, arany-ezüst, naphérosz-holdtáltos párosítás a mitologikus kultúrák meghatározója, melyek világképe még a társadalmi berendezkedést is e "kettősnek" rendelte alá. Így volt ez eleinknél is. (Az asztrológia évkörén ugyanis a Nap és a Hold végig fej-fej mellett halad. Egymás mellett "uralkodnak", "erő", "romlás" és "száműzetés" is szomszédos jegyekben jut osztályrészül nekik.) E párosítás fő oka szintén naptári vonatkozású. A pontos időszámítás igénye a nap- és a holdjárás egyeztetésére késztette az embert. Úgy is mondhatnánk, a napos-holdas jelegyüttes egy kultúrában a luniszoláris naptár legalábbis elemi szintű alkalmazásának csalhatatlan jele.  
-- Holddal kapcsolatos egyéb Várkonyi Nándor által taglalt hiedelmeket, mítoszokat lásd alant illetve [[N/Nyúl\|nyúl]].  
+- Holddal kapcsolatos egyéb Várkonyi Nándor által taglalt hiedelmeket, mítoszokat lásd alant illetve [[N/Nyúl\|nyúl]].
 
 #### Jankovics Marcell írja:
 
@@ -111,7 +132,7 @@ Holdtiszteletről és a Holddal kapcsolatos babonákról szól Kandra Kabos Magy
 > **The Moon travels from left to right, the same way as the Sun, but as she grows older and weaker rises every night a little farther to the left**; then, since **the rate of plant growth under a waxing moon is greater than under a waning moon**, the right hand has always been associated with growth and strength but the left with weakness and decay. Thus the word `left` itself means, in Old Germanic, 'weak, old, palsied'. Lucky dances by devotees of the Moon were therefore made right-handed or clockwise, to induce prosperity; unlucky ones to cause damage or death were made left-handed, or 'widdershins'. Similarly, the right-handed fire-wheel, or swastika, was lucky; the left-handed (adopted by the Nazis) unlucky. There are two sides to the worship of the Indian Goddess Kali: her right side as benefactress and universal mother, her left side as fury and ogress. The word `sinister` has come to mean more than left-handed because in Classical augury birds seen on the left hand portended ill-luck.  
 > —  
 > **A Hold balról jobbra halad, ugyanúgy, mint a Nap, de ahogy öregszik és gyengül, minden éjjel egy kicsit balra emelkedik**; és mivel **a növények növekedési üteme növekvő Hold alatt nagyobb, mint fogyó Hold alatt**, a jobb kéz mindig is a növekedéssel és az erővel, a bal kéz pedig a gyengeséggel és a pusztulással volt kapcsolatban. Így maga a `left` szó ógermánul "gyenge, öreg, béna". A Hold hívei ezért a szerencsés táncokat jobb kézzel vagy az óramutató járásával megegyező irányban táncolták, hogy jólétet idézzenek elő; a szerencsétlen, kárt vagy halált okozó táncokat bal kézzel, vagy "özvegy kézzel" táncolták. Hasonlóképpen, a jobbkezes tűzkerék vagy horogkereszt szerencsét hozott; a balkezes (amelyet a nácik átvettek) szerencsétlen. Az indiai Kali istennő imádatának két oldala van: a jobb oldala jótevő és egyetemes anya, a bal oldala pedig düh és ogresszivitás. A [[S/Sinister\|sinister]] szó nem csak balkezes, mert a klasszikus jóslásban a bal kezén látott madarak balszerencsét jelentettek.  
-- Több helyen is megvolt.  
+- Több helyen is megvolt.
 
 Däniken írja:  
 > A nbonga-ambo törzs rejtélyes történetet mesélt "Missis Sunshine and Mister Moon"-ról, azaz Napsugár asszonyról és Hold férfiről. A Nap és a Hold együtt készítették ételüket, ám egy ízben a Hold odaégette a májat. A Nap dühös lett: Vétkeztél! – rivallt rá a Holdra és sebeket égetett az arcára. Azóta láthatók foltok a Holdon. Ez csak egy apró sztori, de vajon honnan tudták a négerek, hogy a Hold képén "sebek" (kráterek) vannak?  
@@ -128,8 +149,9 @@ Däniken írja:
 > A nyúl sokban rokona, földi párja: szapora, gyorsan nő, gyorsan fut, nyitott szemmel alszik, valóban Hold-állat, így fölöttébb természetes, hogy a népek a Hold foltjaiban fölfedezték a nyúl alakját, s hogy a toltékok és aztékok a Hold írásjelébe, a kerek vizeskorsóba beleültetik a nyulat, vagy pedig a hátára akasztják a korsót; illetve a korsó és a nyúl együtt a Hold jele náluk. Ámde a kínai császár palástján is van egy kép: a Holdkorong, benne fa, előtte a nyúl, mozsárban magokat tör. A hozzáfűződő "naiv" mese pedig így szól:  
 > A Tang-ház egyik császára egy őszi éjszakán bor mellett üldögélt varázslójával. Kedve támadt felszállni a Holdba. A varázsló bambuszrudat dobott a levegőbe, híddá változtatta, és ők felmentek rajta. A Holdban "a tiszta hidegek" (felhőtlen, harmatos éjjelek) palotájára találtak, vízkristályokból épült, és a Holdistennő lakott benne szolgálóival. A szivárványszínekbe öltözött leányok körtáncot lejtettek a vendégek előtt (a Hold keringését mutatták be: kultikus tánc volt). A palota előtt kasszia-fa állt, oly bőven termő, hogy időnként le kellett botolni. (A Hold növését-fogyását s a növények föld feletti és föld alatti részeire gyakorolt hatását jelzi.) Mellette pedig ott állt a nyúl, és fehér márványmozsárban (a víz jelképében) az életitalt készítette. (Henseling egyébként csupán a kínai-azték megegyezésekre figyelmeztet, a zárójelbe tett megjegyzéseket mi fűzzük a kínai meséhez.) Ezek után világossá válik a **húsvéti nyúl** európai meséje is: a tavaszi évkezdet, az életújulás ünnepén a szapora, termékeny nyúl hozza a csírát, a fogantatást jelző s az élet vörös színére festett tojást, minél nagyobb számban.  
 
-#### Jankovics Marcell Jelkép-kalendáriumában írja:
+#### Jankovics Marcell Jelkép-kalendárium...  
 
+...című könyvében írja:  
 > A Hold apasztó-dagasztó erejét, ami legszembetűnőbben az árapály-jelenségben nyilvánul meg, a régiek kivetítették az élőlényekre is. Ezért lett égi kísérőnk az anyaméh, a női ciklus, a terhesség, a szülés meg a férfi potenciájának planetáris ura. Mindennek nagyon is illő jelképe a [[N/Nyúl\|nyúl]]. Eleinket igazolja, hogy **az emlősök vemhességének időtartama a holdhónapok egész számú többszöröse**. Ez alól épp a mezei nyúl a "kivétel", az övé a mitikus időszámításban oly jelentős másfél holdhónapig tart (42 napig).  
 
 Diodórosz Szikulusz szerint a hyperboreai magyarok ismerték a [[M/Metón-ciklus\|Metón-ciklus]]t:  
@@ -158,7 +180,7 @@ Hasonló (nem tudom mire vélhető) adatot találunk ...
 > Az ausztráliai Sydneiben működő Dr. Alphons Tchetchin asztrofizikus és asszisztense Dr. Jokenak sikerült egy modern elektronmikroszkóp segítségével a "Kos" csillagképben levő "Lirpa" ködben – mely ködkép tudvalevőleg higany gőzökből áll –, a "Föld" tükörképét megtalálniuk. Ezekről több fényképfelvételt készítettek és azokat pontosan kiértékelték 1940-1950 között. Mivel a Lipra köd a Földtől 80 millió fényévnyire van, így a Tchetchin által felvett képek a Föld 160 millió év előtti képét mutatták. Ezen fényképekről, bennünket érdeklő két adat olvasható le:  
 > a.) A képen pontosan megtalálható a Föld, rajta a kontinensek és szigetek körvonalai, különösen pedig Atlantis két nagy szigete.  
 > b.) De pontosan megállapítható az is, hogy a Földnek ekkor még két Holdja volt.  
-- Amit ezután írnak, hogy annak a másik Holdnak lett volna a [[L/Luna\|Luna]] a neve, stb. ide már nem tehető be. Ha vicces akarok lenni, Tchetchin az alant említett Sitchin alteregója lehet...  
+- Amit ezután írnak, hogy annak a másik Holdnak lett volna a [[L/Luna\|Luna]] a neve, stb. ide már nem tehető be. Ha vicces akarok lenni, Tchetchin az alant említett Sitchin alteregója lehet..
 
 ### Valamikor fénylő, mára kihűlt Hold
 
@@ -194,9 +216,13 @@ Orosz Zsolt [[S/Sitchin, Zecharia\|Sitchin, Zecharia]] adataira alapozott intern
 
 Több klasszikus szerző megegyezik abban, hogy sok ezer évvel ezelőtt az Indiai-óceánban nagy szárazföld feküdt Afrika, Arábia és Hindusztán között: [[G/Gondwana\|Gondwana]]. Akkoriban, teszik hozzá, a **Hold még nem volt az Égen**, s ezért a görög írók e földrész lakóit proszeléneknek, hold előtti embereknek nevezték (Szeléné = hold), mint [[A/Árkádia\|Árkádia]] lakói magukat[^17]\:  
 > All ages have had a great esteem and veneration for antiquity; and not only of men, but of families, cities, and countries, the most ancient have always been accounted the most honourable. Hence arose one of the first and most universal disputes that ever troubled mankind; almost every nation, whose origin was not very manifest, pretending to have been of an equal duration with the earth itself. Thus the Egyptians, Scythians, and Phrygians, fancied themselves to be the first race of mankind; and the Arcadians boasted that they were προσελενοι, or before the moon.  
+> —  
+> Minden korban nagyra becsülték és tisztelték az ókort; és nemcsak az emberek, hanem a családok, városok és országok közül is mindig a legősibbeket tartották a legbecsesebbnek. Innen eredt az egyik első és legáltalánosabb vita, amely valaha is foglalkoztatta az emberiséget; szinte minden nemzet, amelynek eredete nem volt túl nyilvánvaló, úgy tett, mintha a földdel egyidős lenne. Így az egyiptomiak, a szkíták és a frígiaiak azt képzelték magukról, hogy ők az emberiség első nemzetsége; az árkádiaiak pedig azzal dicsekedtek, hogy ők προσελενοι, vagyis a Hold előttiek.  
 
 Az árkádiai mondáról Richard H. Allen is tesz említést könyvében:  
 > Cox identified the word with Λυκόσονρα, which he renders Tail, or Train, of Light. Yet this does not seem appropriate to a comparatively faint constellation, and would rather recall the city of that title in Arcadia, the country so intimately connected with the Bears. But the stellar name probably long antedated the geographical, old as this was; Pausanias considering Lycosura the most ancient city in the world, having been founded by Lycaon some time before the Deluge of Deucalion. Indeed the Arcadians asserted that they and their country antedated the creation of the moon, an assertion which gave occasion to Aristotle's term for them, προσελενοι and the Latins' Proselenes.  
+> —  
+> Cox azonosította a szót a Λυκόσονρα szóval, amit ő a Fény farkának vagy vonatának fordít. Ez azonban nem tűnik megfelelőnek egy viszonylag halvány csillagképhez, és inkább a Medvékhez oly szorosan kapcsolódó árkádiai városra emlékeztetne. A csillagnév azonban valószínűleg jóval megelőzte a földrajzi nevet, amely bármennyire is régi volt; Pauszaniasz szerint Lykosura a világ legősibb városa, amelyet Lykaión alapított valamivel Deukalion vízözöne előtt. Az árkádiaiak valóban azt állították, hogy ők és országuk a Hold teremtése előtt éltek, és ez az állítás adott alkalmat Arisztotelésznek arra, hogy προσελενοι néven nevezze őket, a latinok pedig Proselenes-nek.  
 
 Hasonló, de rejtélyes módon körülírt esetet ír le Várkonyi Nándor Az elveszett Paradicsom című művében:  
 > Mindez pedig abba a korba[^18] nyúlik vissza, amikor a földi élet forma-rendje óriási változásokon ment át, s e változást a [[V/Vízözön\|vízözön]] gyűjtőneve alá foglalt katasztrófa-sorozat okozta és kísérte, vagyis a harmadkor és negyedkor fordulójára. A szörnyeteg hüllők idejét a jégkorok ínsége, a **Hold-pusztulás** borzalmai, emezt pedig a szelíd **Holdtalan** kor[^19] és az emlősök uralma váltja föl. És e válság idejébe, úgy látszik, a földi élet dekadenciáját, egyetemes elfajulását kell képzelnünk.  
@@ -224,9 +250,8 @@ Ez a kormeghatározás azért (lett volna) érdekes, mert épp 13000 éve voltun
 
 Arról, hogy a [[F/Föld tengelyferdülése\|Föld tengelyferdülésé]]t a Hold belépése okozta, Joscelyn Godwin Arktos The Polar Myth című könyvének 190. oldalától kezdve volt szó.  
 
-[[H/Hunor és Magor\|Hunor és Magor]] címnél is felvetődött, Magyar Adorján írása alapján, hogy a kúnok/hunok égitestje a Hold volt. Viszont más információk szerint a kúnok/hunok [[I/Iker\|iker]]sége a magyarokkal abban áll, hogy [[N/Nimrud\|Nimrud]]tól két Nap, vagy – talán helyesebben – két Naprendszer keletkezett \[ez a korábbi Nagy Éves felfogásom; Hunor inkább évköri értelmű, Napminőséget jelent, azaz nincs külön égitest\], így a Hold – az a Hold, amiről az járja, "nem a miénk," – csak felvehette a Kin/Kún [[M/Mozgó név\|mozgó név]]et (finn nyelvben **kún** is Holdat jelentett[^20]), talán arra utalva, hogy "onnan, a kinnső, künnső Naprendszerünk származéka," és mivel mindig látható, átveszi a nem mindig látható, de fontosabb égitest/Nap kultikus szerepét.  
-[[K/Kinetic\|Kinetic]] címnél arról is volt szó, hogy a kényszerít igénk is tartalmazza ezen [[K/KIN\|KIN]]/[[K/KEN\|KEN]]/stb. neveket: azaz a [[K/KIN\|KIN]], [[K/KIN#Kin 2)\|kin]] szavak a rokonságot elsődlegesen – itt is – csillagászati értelemben fejezik ki; sőt, a latin [[C/Con- prefixum\|con- prefixum]] és a görög eredetű [[S/Syn-\|syn-]] előtag is ezen mellérendelő viszont írják le, míg az avar-hun nyelvben a mellérendelés a Kin [[B/BAR\|BAR]] nevű variánsához tartozó para-val (vagy [[P/Prae-\|prae-]] és [[P/Pro-\|pro-]] prefixum) fejezi ki a kötöttséget, mellérendeltséget.  
-Ha már a kényszerítés és BAR etimon szóba került, az olyan szavak, mint a [[P/Parittya\|parittya]] is kövek, égitestek mozgására, mozgatottságára utalhatnak.  
+[[H/Hunor és Magor\|Hunor és Magor]] címnél is felvetődött, Magyar Adorján írása alapján, hogy a kúnok/hunok égitestje a Hold volt. Viszont más információk szerint a kúnok/hunok [[I/Iker\|iker]]sége a magyarokkal abban áll, hogy [[N/Nimrud\|Nimrud]]tól két Napminőséget kapunk, így a Hold – az a Hold, amiről az járja, "nem a miénk," – csak felvehette a Kin/Kún [[M/Mozgó név\|mozgó név]]et (a régi finn nyelvben **kún** is Holdat jelentett[^20]).  
+
 
 ## Hold virágai
 
