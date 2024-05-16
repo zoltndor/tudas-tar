@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2024-02-28T17:25"}
+{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2024-05-16T01:57"}
 ---
 
 
@@ -20,7 +20,7 @@ Az összefüggések itt nem érnek véget, ugyanis...
 
 [[A/Api\|Api]] szkíta istennőt lásd helyén. Az egyiptomi Apap, [[A/Apep\|Apep]] (lásd még őt [[S/Széth\|Széth]]) inkább kígyó, mintsem majom.  
 A [[B/Baboon\|baboon]] címnél is előjövő [[H/Hapi\|Hapi]] (Péterfai János írja, hogy Hapi a Nílus \[istenének\] neve is, páviánfejjel is ábrázolták) viszont egy a pávián-istennevek közül és éppen az ape név eredetét adhatná, vagy, ami valószínűbb, közös ősre vihetők vissza. Hapi helyett ide teszem még a Götz László Keleten kél a Nap című könyvében szereplő indo-európai párokat: német `affe`, ófelnémet `affo`, óskandináv és óangol `api`, ószláv `opica`, görög `kepos` és óind `kapi`.  
-![assets/Ape_image1.png](/img/user/A/assets/Ape_image1.png)  
+![assets/Ape_image1.png|invert_dark](/img/user/A/assets/Ape_image1.png)  
 
 A majom gyakori jelképállat az egyiptomi és hindu mitológiában/ábrázolásokon. Thomas Inman Ancient Pagan and Modern Christian Symbolism című könyvében az alábbi magyarázó szöveget teszi a melléklet kép mellé:  
 > This small Hindoo statuette (from the Mayer Collection in the Free Museum, Liverpool) probably represents Parvati, the Hindu virgin, and her child. The right hand of the figure makes the symbol of the yoni with the forefinger and thumb, the rest of the fingers typifying the triad. In the palm and on the navel is a lozenge, emblematic of woman. The child, perhaps [[K/Krishna\|Krishna]], equivalent to the Egyptian Horus and the Christian Jesus, bears in its hand one of the many emblems of the linga, and stands upon a lotus. The monkey introduced into the group plays the same part as the cat, cow, lioness, and ape in the Egyptian mythology, being emblematic of that desire which eventuates in the production of offspring.  
@@ -57,7 +57,7 @@ Egy Helena Lehman nevű írónő Bullinger (feledésbe merült?) könyvét dolgo
 > A Dendera Zodiákusban a Canis Majorhoz ábrázolt sólyom külön "Naz Seir" felirattal van ellátva, és a Sirius csillagot jelképezi a Canis Majorban. Egyiptomiul a "Naz" azt jelenti, hogy "Elindult" vagy "Elküldve", míg a "Seir" azt jelenti, hogy "Herceg" vagy "Főnök". Ezért a "Naz Seir" cím azt jelentheti, hogy "küldött herceg". Mivel a "Naz" és a "Zar" egyaránt "Herceget" jelent héberül, a Naz Seir azt is jelentheti, hogy "Hercegek Hercege", ami a királyok Királyának, Jahsuának megfelelő jelzője!  
 > ...
 > A "Szíriusz" csillagnév az egyiptomi "Seir" és a héber "Zar" szóból származik, és mind a "Seir", mind a "Zar" jelentése "fejedelem".  
-- Persze mivel a [[D/Dendera\|dendera]]i zodiákus már lehet görög hatású, ezért az egyiptominak tartott szó lehet görög.  
+- Persze mivel a [[D/Dendera\|dendera]]i zodiákus már lehet görög hatású, ezért az egyiptominak tartott szó lehet görög.
 
 Az Ápisz-bika anyja ugye [[H/Hathor\|Hathor]] istennő, az Ég Tehene, akit az egész égbolt megtestesüléseként tiszteltek, ahogy Jankovics Marcell írja. A fenti méh, a majom-kutya és bika összefüggéseket még taglalni kell.  
 
@@ -79,7 +79,7 @@ Elgondolkodtató ezek után, hogy vajon [[M/Majom\|majom]] szavunknak mi a jelen
 A fentebb frissen írottak alapján a majom inkább a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] közül lehet egy újabb. Így nem a majszolásból kell kiindulni. Maj-Om valójában Maja-Om, [[M/Maja\|Maia]]/[[M/Maja\|Maja]] istennő a Földön, ha igaz.  
 
 Az [interneten](http://www.macroevolution.net/dog-monkey-hybrids.html) szó esik még a majom és a kutya hibridizációjáról. Az alábbi animált képen egy majommal közösülő kutyát látunk (a kutya rámegy mondjuk akármire, madárra, csirkére is). Egy Taif-ban, Szaúd-Arábiában készült videón hím páviánok rabolnak el kutyakölyköket és nevelik őket/együtt élnek. Ezek alapján nem meglepő, hogy a sárga páviánok hivatalos neve **Papio cynocephalus**.  
-![assets/Ape_image3.png](/img/user/A/assets/Ape_image3.png)  
+![assets/Ape_image3.png|invert_dark](/img/user/A/assets/Ape_image3.png)  
 A pávián nevét lásd [[B/Baboon\|baboon]] címnél elemezve, ahol ismét egyiptomi téma jön elő.  
 A cikk írója folytatja és bár először nem volt túl meggyőző (a képek ugye hamisítványok is lehetnek illetve a kutyák testtartása és alakisága nem bizonyíték hibrid lényekre), a folytatásban kifejti, hogy tudósok már régen megfigyelték a jelenséget:  
 > Various older (pre-1800) accounts of dog-monkey hybrids exist. In his De generis humani varietate nativa (Blumenbach 1776, p. 11. Vol. 2, Tiguri, apud Orell, Gessner, Fuessli, et Socc., p. 707), Johann Friedrich Blumenbach (1752-1840), the German physician, naturalist and physiologist, mentions two instances of a **dog mating with a primate, and he claims that progeny resulted**.  
