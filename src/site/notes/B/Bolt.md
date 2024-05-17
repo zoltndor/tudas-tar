@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bolt/","title":"Bolt","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-10T10:45","updated":"2024-02-12T18:09"}
+{"dg-publish":true,"permalink":"/B/Bolt/","title":"Bolt","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-10T10:45","updated":"2024-05-17T04:22"}
 ---
 
 
@@ -9,7 +9,7 @@ A magyar kétjelentésű szót Péterfai János említi alant. Valóban igaza va
 
 Pap Gábor Icai fekete kövek rejtélye című három részes [előadássorozata 1. részében](https://www.youtube.com/watch?v=EkK4R1UaIEY) 1:52:17-nél az éppen ott elemzett [[B/Balta\|balta]] szóval rokonít, etimonok ismerete hiányában.  
 
-Az angol [[B/BAR#Bar 2)\|bar]] hasonlóan fényes hely, de a [[S/Shop\|shop]] is lehet szép hely.  
+Az angol `bar` hasonlóan fényes hely, de a `shop` is lehet szép dolgokat áruló hely. Lásd még lejjebb.  
 
 A ([[B/Bodega\|bodega]] és) [[B/Boutique\|boutique]] szónak megfelelő dán `butik` = bolt szó láttán ötlött fel, hogy bolt szavunk bót formája az, amit [[B/BOT\|BOT]], [[B/BAT\|BAT]] = ház, kis ház (bódé) jelentéssel ismertünk.  
 
