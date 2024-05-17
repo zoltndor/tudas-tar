@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Patala/","title":"Patala","tags":["Englishtexttranslated"],"created":"2023-10-13T01:18","updated":"2024-02-08T07:14"}
+{"dg-publish":true,"permalink":"/P/Patala/","title":"Patala","tags":["Englishtexttranslated"],"created":"2023-10-13T01:18","updated":"2024-05-17T04:22"}
 ---
 
 
@@ -31,13 +31,13 @@ Várkonyi Nándor Az elveszett Paradicsomában Pátála-Amerika benépesítésé
 #### Péterfai János tud ilyenről:  
 
 > A Puránák azt is bizonyítják, hogy ismertük Amerikát, sok évezreddel ezelőtt is. Igaz, csak a keleti ismereteket bizonyítják, de mi tudjuk, hogy nyugaton is elértük Amerika hatalmas térségeit. Keleten \[értsd: a Puranákat és Védákat írók nyelvén\] tehát Patala volt Amerika neve. Ez a név Pata-La formában a Halál-Földje értelemmel bírt. A nevet csak a nyugati értelmezéssel lehetne megmagyarázni, ezért Patala földjének a nevét inkább nem szabad értelmezni.  
-- Péterfai János a halál értelmet Ipolyi Arnold Magyar mythologia című könyve útján [[H/Hérodotosz\|Hérodotosz]]tól vehette, aki szerint Oiorpata egy szkíta-amazon nép neve és jelentése annyit tenne, mint férjölő (`oior` = úr; `pata` = (ahogy IA írja: "csatapaténál fogva") ölő).  
+- Péterfai a halál értelmet Ipolyi Arnold Magyar mythologia című könyve útján [[H/Hérodotosz\|Hérodotosz]]tól vehette, aki szerint Oiorpata egy szkíta-amazon nép neve és jelentése annyit tenne, mint férjölő (`oior` = úr; `pata` = (ahogy IA írja: "csatapaténál fogva") ölő).
 
 #### Bakos Attila A Duna Evangéliuma...
 
 ...című könyvének 193. oldalán írja:  
 > Az autentikus Puránák némelyike szerint Pátala az elsüllyedt világ ([[M/MU\|Mu]]), más írások szerint Közép-Amerika. Ezek szerint a [[R/Ramayana\|Rámájaná]]ban említett háború India és az azóta elsüllyedt Mu-Birodalom között zajlott.  
-- Már ha nem égi területekről van ott is szó.  
+- Már ha nem égi területekről van ott is szó.
 
 > Ivala Praszada, hindu régész és szankszritológus, megkísérelte, hogy kifejtse a Puránákban lappangó történeti eseményeket, s ezek közt tisztázza a Pátála-Amerika kérdést (1926). Minket érdeklő fejtegetése röviden: A vízözön előtt három ázsiai nép, a déva, a daitja és a nága, összefogott egy tengerentúli hadműveletre. Sikerrel jártak, s a zsákmány elosztásánál a dévák megrövidítették a daitjákat, s ebből megint háború kerekedett, melyet az utóbbiak elvesztettek. Ekkor a daitják Bali nevű fejedelmének három elégedetlen vezére: Szumali, Maja és Maliavan, a nép egy részével kivándorolt a tengerentúli Pátálába. A vízözön után Szumali utódai visszatértek Szingalába (Ceylon), s ott egyesültek az afrikai eredetű jak-sákkal. (Közbeszúrva: ezek a madagaszkári hovák; de valószínűbb, hogy a két rokonnép a közös őshazából, Gondvánából származik.) Minthogy azonban a vízözön a szárazföldi kapcsolatot Afrikával megszüntette (elsüllyesztette Gondvanát), Északnak fordultak, és meghódították Dél-India keleti és nyugati partvidékét. (Dravidák?) Így mondja Praszada.  
 > A [[M/Meru\|Meru]]-mítosz, mint minden mítosz, sűrített történelem is, kiviláglik belőle, hogy India ősnépeinek konkrét fogalmaik és történeti hagyományaik voltak az ellenlábas féltekéről. Pátálának nevezték; tudomásunk szerint a legutolsó vízözön előtt három földrész terült el itt: Atlantisz, Amerika és Mú. - Atlantiszt a hindu mítosz Atalájávál vagy Sanka-dvipájával azonosíthatjuk, Amerikát Puskarával; Mú identifikálására a hagyomány nem ad módot. Minthogy a rege általában csak Pátáláról beszél, feltehetjük, hogy az ázsiai népek tengerentúli akciója a közelebb eső Mú-szigete ellen irányult.  
@@ -47,6 +47,6 @@ A Pátála elnevezéssel azért is csínján kell bánni, mert William F. Warren
 1\. az égtájakat sokszor Észak-Délről Kelet-Nyugat irányúvá változtatták;  
 2\. az elnevezéseket nem szabad geográfiai névértékben venni, hisz elsősorban mitikus-csillagászati területeket jelöl (ha Patala a [[P/Pokol\|pokol]], akkor az az [[A/Alvilág\|alvilág]]) (és ha hihetünk Magyar Adorján elméletének vagy a [[H/Hyperborea\|Hyperborea]] c. alatt [[C/Charles Hapgood\|Charles Hapgood]] földkéreg-elcsúszás elméletének, az az észak már amúgy sem is ott van, ahol ma keresik).  
 
-Ami Patala Amerikára vonatkozó jelentése mellett szól, az az, hogy Amerikát rengeteg természeti katasztrófa sújtja (vesd össze a kietlen **Patagonia** nevével; az is azon a kontinensen van). Summa summárum, a hunok sokfelé eljutottak, maguk adtak nevet a helyeknek, és csak bízni tudunk abban, hogy az átvevő és feljegyzést készítő népek hitelesen őrizték meg őket.  
+Ami Patala Amerikára vonatkozó jelentése mellett szól, az az, hogy Amerikát rengeteg természeti katasztrófa sújtja (vesd össze **Patagonia** nevével; az is azon a kontinensen van). Summa summárum, a hunok sokfelé eljutottak, maguk adtak nevet a helyeknek, és csak bízni tudunk abban, hogy az átvevő és feljegyzést készítő népek hitelesen őrizték meg őket.  
 
-Feltűnni látszik pata az aveszta `spâda`, `spâtha` = hadsereg szóban (ugyan [[S/Spárta\|Spárta]] katonaállam neve r-hangbetoldással ezen szóból is kifejlődhetett, azt Péterfai János máshogy (Szapár-Ta) vezeti le). Felbontása lehet Ász-Pata. Spatha-paiti (Ász-Pata-Pátyolgató) pedig hadsereg védnök/parancsnok.  
+Feltűnni látszik pata az aveszta `spâda`, `spâtha` = hadsereg szóban. Felbontása lehet Ász-Pata. Spatha-paiti (Ász-Pata-Pátyolgató) pedig hadsereg védnök/parancsnok.  
