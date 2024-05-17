@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-05-07T18:40"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-05-17T04:20"}
 ---
 
 
@@ -202,7 +202,7 @@ Ezt az ötletet Fáy Elektől vehette:
 
 Itt is azt látjuk, mint másutt: hanyatlott világképből indulnak ki. A Napvallások korában a hanyatlás jeleit látjuk. Nem szabad az időt lineárisnak venni. Hasonló (a magyarság sorsát megpecsételő) hiba magyar [[H/Honfoglalás\|Honfoglalás]]ról beszélni, amikor a [[K/Kárpát-medence\|Kárpát-medence]] volt az a hely, az a [[M/Magyar őshaza\|magyar őshaza]], ahonnan eleve kiáramlottak a népek. A mai kutatók csak lineárisan képesek gondolkodni, és aki cirkulárisan is tud, az is mindig vissza-visszaesik a fals linearitásba.  
 
-Hasonlóan hibás gondolkodásnak tartom a (fény)kereszténység eredetét a [[S/Szkítizmus\|szkítizmus]]ban keresni. Magyar eredetű a kereszténység, csak régen nem voltak írásban rögzített tanai: minden [[S/Szájhagyomány\|szájhagyomány]] nyomán, dalban került közvetítésre. A magyar őskereszténység szervesen bírta – a később alapkiindulónak vett és primitívnek tartott – [[T/Totem\|totemizmus]]t és [[A/Animizmus\|animizmus]]t is és táltosai voltak a papjai, ahogy [[J/Jézus\|Jézus]] a szkíta-kereszténységnek.  
+Hasonlóan hibás gondolkodásnak tartom a (fény)kereszténység eredetét a [[S/Szkítizmus\|szkítizmus]]ban keresni. Magyar eredetű a kereszténység, csak régen nem voltak írásban rögzített tanai: minden szájhagyomány nyomán, dalban került közvetítésre. A magyar őskereszténység szervesen bírta – a később alapkiindulónak vett és primitívnek tartott – [[T/Totem\|totemizmus]]t és [[A/Animizmus\|animizmus]]t is és táltosai voltak a papjai, ahogy [[J/Jézus\|Jézus]] a szkíta-kereszténységnek.  
 
   
 A leglátványosabban a magyar nyelvbe ágyazott poláris, dualisztikus világunkról a [[F/Fény és sötétség\|fény és sötétség]], [[F/Fény és anyag\|fény és anyag]], valamint a [[F/Feltámadás\|feltámadás]] címnél írottak szólnak.  
@@ -255,16 +255,17 @@ Péterfai János István etimonjaiból a szavak rekonstruálhatók. Ebből a cso
 D₁) Mondatrész-osztályokon áthatoló, azonos fogalmi körön belüli szavak például külalak, minőség, eszköz, cél, stb. kifejezésére (természeti megfigyelések útján) válhatnak főnévből igévé, főnévből melléknévvé, határozóból igévé, stb. A legtöbb, legérdekesebb előfordulásokat produkáló szavak csoportja.  
 Például [[D/Derű\|derű]] → [[T/True\|true]] (igaz), (sír)domb → [[D/Dumb\|dumb]] (süket), bont → [[B/Bone\|bone]] (csont). Ebből az önkényesen felállított(?) csoportból ritkán gyűjt Varga Csaba, Tomory Zsuzsa és Péterfai János István.  
 
-D₂) Összetartozó kifejezések, szószerkezetek, ún. idiómák szintjén: nem a megfelelő szót/értelmet viszi tovább. Ebből a csoportból nem gyűjt szinte senki. Például (persze ezek korántsem biztos, hogy így is jöttek létre, de [[N/Nyelvészet mint tudomány#Nyelvek keveredéséből létrejött nyelvek – pidginizáció\|pidginizációs]] folyamatok feltárásában segíthet):  
+D₂) Összetartozó kifejezések, szószerkezetek, ún. idiómák szintjén: nem a megfelelő szót/értelmet viszi tovább. Ebből a csoportból nem gyűjt szinte senki. Persze ezek korántsem biztos, hogy így is jöttek létre, de [[N/Nyelvészet mint tudomány#Nyelvek keveredéséből létrejött nyelvek – pidginizáció\|pidginizációs]] folyamatok feltárásában segíthetnek. Például:  
 • [[M/Magyar\|Magyar]] istenanya (Tejútanya) → arab Al Madzsarrah Tejút és IE [[M/Mater\|mater]] = anya.  
 • [[L/Láng\|Láng]] → lángnyelv → fr. `langue`, ang. [[L/Language\|language]] = nyelv.  
+- "Vörös hús" → A vörös mint a hús (és halál) színe jelenik meg hús jelentéssel. Lásd [[V/Vörös#Vörös vér, vörös hús\|vörös vér, vörös hús]] cím/alcímnél írottakat.  
 • "Vastag derék" → Derék helyett vastag szavunk került volna használatba, a jelző maga, nem a jelzett szó, így [[W/Waist\|waist]] = derék.  
 • "Tésztát dagaszt" → Tészta helyett dagad(ó)/dagaszt szavunkat viszi az angol [[D/Dough\|dough]] = tészta, azaz inkább "dagadó".  
 • "Én kér-ek" → Add/hozd ide (kér > angol [[H/Here\|here]], japán `kure`). (Az egyszerű logikai kapcsolat feltárása nélkül germán és japán nyelvi/idiomatikus sajátosság maradna. Arról már ne is szóljunk, hogy `query` és más szavakban is megvan a mi őseredeti szavunk.)  
   
 • "A fény (mindig) győzedelmeskedik (a sötétség felett)." → Fény szavunkból ered az angol [[W/Win\|win]] és elődei.  
-• "Négy sarka a világnak" → [[N/Négy\|Négy]] szavunk vitetik át sarok, ék és hasonló jelentésekkel (lásd [[N/Nock\|nock]], [[N/Nog\|nog]] és [[N/Nook\|nook]]). Az is lehet, hogy a nyugati sarokról van szó, persze.  
-Ezeket metonimikus összefüggésnek mondja Zaicz Gábor; lásd például a [[G/Grabanc\|grabanc]] szónál írottakat.  
+• "Négy sarka a világnak" → [[N/Négy\|Négy]] szavunk vitetik át sarok, ék és hasonló jelentésekkel (lásd [[N/Nock\|nock]], [[N/Nog\|nog]] és [[N/Nook\|nook]]). Persze az is lehet, hogy a nyugati sarokról, [[N/Nyug\|nyug]] gyökről van szó.  
+Ezeket metonimikus összefüggésnek mondja Zaicz Gábor; lásd például [[G/Grabanc\|grabanc]] szónál írottakat.  
 
 #### Az indo-európai népekről, nyelvekről, ősökről, hősökről, ideológiáról
 
@@ -336,7 +337,7 @@ Még a görögről annyit, hogy a jegyzetekben következetlen a görög szavak �
 
 #### A szótárírók és etimológusok adatainak megbízhatóságáról
 
-Olyan modern nyelvek esetében is, mint az angol, előfordul, hogy pontatlanul van megadva a magyar jelentés: újabb kiadásokkal, vagy más szerkesztők révén pontosíthatják az adatot. Olyan régebbi nyelvek, mint a szumer, szanszkrit, aveszta vagy akár a modernebb, gazdagabb írásos emlékkel rendelkező, kompletten kidolgozott nyelvtannal felvértezett latin nyelv szintén hordozhat buktatókat. Számtalanszor előfordul, hogy a magyar nyelv szerint mást várnánk, de nem kapjuk. Nem elég, hogy utódnyelveink kitekerten használták szavainkat, még tovább tekerik a nyelvészek is, hiszen az indo-európai gyökrendszerre építkező anticipációs készségük letérítik őket a helyes útról. A latint és görögöt például olyan szentnek és tökéletes alapnak veszik, hogy készek tűzbe tenni kezüket, "mert erre biztos támaszkodhatok." Milyen alapon? Jóérzésű magyar nyelvészek is mellélőttek, mert nem ismerték a magyarok lelkületét, igaz történelmét. Mit művelhetnek az akár megélhetési, akár lelkiismeretes angol nyelvészek, etimológusok?  
+Olyan modern nyelvek esetében is, mint az angol, előfordul, hogy pontatlanul van megadva a magyar jelentés: újabb kiadásokkal, vagy más szerkesztők révén pontosíthatják az adatot. Olyan régebbi nyelvek, mint a szumer, szanszkrit, aveszta vagy akár a modernebb, gazdagabb írásos emlékkel rendelkező, kompletten kidolgozott nyelvtannal felvértezett latin nyelv szintén hordozhat buktatókat. Számtalanszor előfordul, hogy a magyar nyelv szerint mást várnánk, de nem kapjuk. Nem elég, hogy utódnyelveink kitekerten használták szavainkat, még tovább tekerik a nyelvészek is, hiszen az indo-európai gyökrendszerre építkező anticipációs készségük letérítik őket a helyes útról. A latint és görögöt például olyan szentnek és tökéletes alapnak veszik, hogy készek tűzbe tenni kezüket, "mert erre biztos támaszkodhatok." Milyen alapon? Jóérzésű magyar nyelvészek is mellé lőttek, mert nem ismerték a magyarok lelkületét, igaz történelmét. Mit művelhetnek az akár megélhetési, akár lelkiismeretes angol nyelvészek, etimológusok?  
 
 #### Több magyar megoldás létezése a levezetéseknél – a szakrális alap megtalálásának szükségessége
 
